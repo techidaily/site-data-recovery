@@ -1,7 +1,7 @@
 ---
 title: Windows互換緊急リカバリープログラムStellar Data Recovery 無料版使用法講座
-date: 2024-07-10T11:07:59.248Z
-updated: 2024-07-11T11:07:59.248Z
+date: 2024-07-28T08:58:51.448Z
+updated: 2024-07-29T08:58:51.448Z
 categories:
   - repair-tools
 description: This Article Describes Windows互換緊急リカバリープログラムStellar Data Recovery 無料版使用法講座
@@ -28,6 +28,10 @@ STELLAR DATA RECOVERY FREE
 
 \* Recover up to 1GB lost or deleted data for free
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Available for Mac](https://www.stellarinfo.com/image/icm.png) [Macで利用可能](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
 ## 無料のファイル復元ツール
@@ -56,6 +60,9 @@ STELLAR DATA RECOVERY FREE
 
 ゼロコストでの普遍的なデータ復元
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## すべてのタイプのストレージメディアで無料で利用可能
 
  すべてのタイプのWindowsデバイス＆ストレージメディアから失われたデータを取得
@@ -123,6 +130,9 @@ STELLAR DATA RECOVERY FREE
 
  ステラデータ復元は、デュアルモニターに対応しており、画面の最小化や切り替えをすることなく、デュアルモニター上でマルチタスクを行うことができます。この機能により、データ復元作業に集中し、デュアルスクリーンで結果を確認することができます。
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ### ソフトウェアチュートリアル
 
 [](#register-modalv) [どのように機能するのか？](#register-modalv)
@@ -198,6 +208,9 @@ Click the “Add File” icon to add all the corrupt JPEG files.
 | 料金                                                                         | 0                                                                                                                                                                                                                                              | [¥10,299](https://store.stellarinfo.com/order/checkout.php?PRODS=30318139&QTY=1&CART=1&CARD=2&SHORT_FORM=1&ORDERSTYLE=nLWsnZXPhHE%3D&SRC=techidaily.com&AFFILIATE=108875)                                                                 | [¥10,299](https://store.stellarinfo.com/order/checkout.php?PRODS=30334886&QTY=1&CART=1&CARD=2&SHORT_FORM=1&ORDERSTYLE=nLWsnZXPhHE%3D&SRC=techidaily.com&AFFILIATE=108875)                                                                                 | [¥11,249](https://store.stellarinfo.com/order/checkout.php?PRODS=30335200&QTY=1&CART=1&CARD=2&SHORT_FORM=1&ORDERSTYLE=nLWsnZXPhHE%3D&SRC=techidaily.com&AFFILIATE=108875)                                                                | [¥22,619](https://store.stellarinfo.com/order/checkout.php?PRODS=30335787&QTY=1&CART=1&CARD=2&SHORT_FORM=1&ORDERSTYLE=nLWsnZXPhHE%3D&SRC=techidaily.com&AFFILIATE=108875)                                                                | [¥33,999](https://store.stellarinfo.com/order/checkout.php?PRODS=30336303&QTY=1&CART=1&CARD=2&SHORT_FORM=1&ORDERSTYLE=nLWsnZXPhHE%3D&SRC=techidaily.com&AFFILIATE=108875) |
 | [無料ダウンロード](https://cloud.stellarinfo.com/jp/StellarDataRecoveryFree.exe) | [詳細を確認](https://store.stellarinfo.com/order/checkout.php?PRODS=30318139&QTY=1&CART=1&CARD=2&SHORT_FORM=1&ORDERSTYLE=nLWsnZXPhHE%3D&SRC=techidaily.com&AFFILIATE=108875) [詳細を確認](https://tools.techidaily.com/stellardata-recovery/buy-now/) | [今すぐ購入](https://store.stellarinfo.com/order/checkout.php?PRODS=30334886&QTY=1&CART=1&CARD=2&SHORT_FORM=1&ORDERSTYLE=nLWsnZXPhHE%3D&SRC=techidaily.com&AFFILIATE=108875) [詳細を確認](https://www.stellarinfo.com/jp/partition-recovery.php) | [今すぐ購入](https://store.stellarinfo.com/order/checkout.php?PRODS=30335200&QTY=1&CART=1&CARD=2&SHORT_FORM=1&ORDERSTYLE=nLWsnZXPhHE%3D&SRC=techidaily.com&AFFILIATE=108875) [詳細を確認](https://tools.techidaily.com/stellardata-recovery/buy-now/) | [今すぐ購入](https://store.stellarinfo.com/order/checkout.php?PRODS=30335787&QTY=1&CART=1&CARD=2&SHORT_FORM=1&ORDERSTYLE=nLWsnZXPhHE%3D&SRC=techidaily.com&AFFILIATE=108875) [詳細を確認](https://tools.techidaily.com/stellardata-recovery/buy-now/) | [今すぐ購入](https://store.stellarinfo.com/order/checkout.php?PRODS=30336303&QTY=1&CART=1&CARD=2&SHORT_FORM=1&ORDERSTYLE=nLWsnZXPhHE%3D&SRC=techidaily.com&AFFILIATE=108875) [詳細を確認](https://tools.techidaily.com/stellardata-recovery/buy-now/) |                                                                                                                                                                     |
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 受賞アワードおよびレビュー
 
 #### テスト済み。多くの賞を受賞。25年以上にわたり、当社は専門家として認められてきました 受賞アワードを確認
@@ -228,6 +241,9 @@ Click the “Add File” icon to add all the corrupt JPEG files.
 
 [TrustScore**4.7** |**1,909** reviews](https://www.trustpilot.com/review/www.stellarinfo.com?utm%5Fmedium=trustbox&utm%5Fsource=Mini)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 技術仕様
 
 #### 製品について
@@ -274,6 +290,9 @@ Windows 10、 8.1、 8、 7、
 
 空き容量250MB
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 今すぐ無料トライアルをお試しください
 
 ### 完全無料で1GBのデータを復元
@@ -290,6 +309,9 @@ Windows 10、 8.1、 8、 7、
 
 ### データベースとガイド
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 製品ガイド
 
 ヘルプファイル
@@ -300,6 +322,9 @@ Windows 10、 8.1、 8、 7、
 
 [データベース](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 製品関連記事
 
 [ドライブ内のパーティション/ボリュームにアクセスできません。どうすればデータを復元することができますか？](#collapseOnef1)
@@ -387,6 +412,9 @@ A.
 
 #### また、こちらからもご確認いただけます
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ALSO AVAILABLE AT](https://www.stellarinfo.com/images/v7/Partners_logo_new.png)
 
 #### お問い合わせ
@@ -435,6 +463,9 @@ A.
 
 Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.facebook.com/stellardata) [Twitter](https://www.stellarinfo.com/Images/tw.png) ](https://twitter.com/stellarinfo) [Linkedin](https://www.stellarinfo.com/Images/in.png) ](https://www.linkedin.com/company/stellardatarecovery/) [Youtube](https://www.stellarinfo.com/newblacktheme/images/yt.png) ](https://www.youtube.com/c/stellardatarecovery)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * ![Notron](https://www.stellarinfo.com/images/v7/notron.png)
 * ![DMCA](https://www.stellarinfo.com/images/v7/dmca.png)
 
@@ -456,3 +487,67 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-acceleratedecelerate-your-youtube-videos-a-step-by-step-guide/"><u>[New] 2024 Approved  Accelerate/Decelerate Your YouTube Videos  A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-empower-yourself-top-10-inspirational-movie-selections/"><u>[New] 2024 Approved  Empower Yourself  Top 10 Inspirational Movie Selections</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-enhance-watch-list-with-film-selections-for-2024/"><u>[New] Enhance Watch List with Film Selections for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-visualize-better-incorporating-borders-in-insta-videos/"><u>[New] In 2024, Visualize Better  Incorporating Borders in Insta-Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-free-guide-to-conducting-flawless-google-meet-sessions-for-2024/"><u>[New] The Free Guide to Conducting Flawless Google Meet Sessions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-understanding-fair-use-and-infringement-on-youtube/"><u>[New] Understanding Fair Use and Infringement on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-everything-you-need-to-know-about-youtube-shorts-templates/"><u>[Updated] 2024 Approved  Everything You Need To Know About YouTube Shorts Templates</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windows-stellar-free-version/"><u>「Windows環境に最適化! Stellarデータ救出ソフトの使い方 - Free Version」</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inshot-soundsmith-adding-audio-to-videos/"><u>2024 Approved  InShot Soundsmith  Adding Audio to Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-navigating-lenovo-screen-capture-tools-effortlessly/"><u>2024 Approved  Navigating Lenovo Screen Capture Tools Effortlessly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-premium-podcast-partners-in-academia/"><u>2024 Approved  Premium Podcast Partners in Academia</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-8-enhanced-peripherals-for-a-richer-metaverse-experience/"><u>2024 Approved  Top 8 Enhanced Peripherals for a Richer Metaverse Experience</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-unleash-the-power-of-messaging-mastering-pinning-on-discord/"><u>2024 Approved  Unleash the Power of Messaging  Mastering Pinning on Discord</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/advanced-data-restoration-program-professional-software-solutions-for-every-kind-of-file/"><u>Advanced Data Restoration Program: Professional Software Solutions for Every Kind of File</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/arrayally-master-raid-reconstruction-tool/"><u>ArrayAlly: Master RAID Reconstruction Tool</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/astro-data-depot-space-archive-assistance/"><u>Astro Data Depot - Space Archive Assistance</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/buy-now-stellar-data-recovery/"><u>Buy Now - Stellar Data Recovery</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/celestial-data-refresh/"><u>Celestial Data Refresh</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-restoration-suite-universal-recovery-solutions-for-every-file-type/"><u>Comprehensive Data Restoration Suite: Universal Recovery Solutions for Every File Type</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/cosmic-backup-depot-starlight-restore-service/"><u>Cosmic Backup Depot - Starlight Restore Service</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craft-captivating-content-with-30-video-ideas/"><u>Craft Captivating Content with 30 Video Ideas</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-rescue-efficient-software-solutions-for-reconstructing-lost-or-corrupt-disk-partitions/"><u>Data Rescue: Efficient Software Solutions for Reconstructing Lost or Corrupt Disk Partitions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskdynamo-swiftly-retrieving-raid-data/"><u>DiskDynamo: Swiftly Retrieving RAID Data</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/efficient-and-effective-your-key-to-instant-file-restoration/"><u>Efficient & Effective - Your Key to Instant File Restoration</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/elite-data-reconstruction-application-seamless-retrieval-of-diverse-file-formats/"><u>Elite Data Reconstruction Application: Seamless Retrieval of Diverse File Formats</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600547194-ensure-peace-of-mind-secure-data-reinstatement-today/"><u>Ensure Peace of Mind - Secure Data Reinstatement Today</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-guide-to-data-resurrection-fixing-deleted-and-corrupted-disk-partitions/"><u>Expert Guide to Data Resurrection: Fixing Deleted and Corrupted Disk Partitions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-partition-data-revival-solutions-for-unrecoverable-drives/"><u>Expert Partition Data Revival Solutions for Unrecoverable Drives</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/file-reclamation-software-for-windows-users/"><u>File Reclamation Software for Windows Users</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/galactic-data-retrieval/"><u>Galactic Data Retrieval</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-x-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone X After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-build-high-impact-facebook-ad-videos-free-creation-kit-provides-tools/"><u>In 2024, Build High-Impact Facebook Ad Videos - FREE Creation Kit Provides Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-efficient-movie-file-management-in-windows-11-six-approaches/"><u>In 2024, Efficient Movie File Management in Windows 11  Six Approaches</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-lava-yuva-3-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Lava Yuva 3 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-xiaomi-14-ultra-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Xiaomi 14 Ultra FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-7-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/iphone-restoration-mastermind-unlock-data-peacefully/"><u>IPhone Restoration Mastermind: Unlock Data Peacefully</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/luminarydata-restoration/"><u>LuminaryData Restoration</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/meteorite-mentorium-cosmic-backup-hub/"><u>Meteorite Mentorium - Cosmic Backup Hub</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/no-more-lost-files-rapid-stellar-data-recovery-now/"><u>No More Lost Files! Rapid, Stellar Data Recovery Now</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reclaim-your-digital-world-with-lightning-fast-restoration/"><u>Reclaim Your Digital World with Lightning-Fast Restoration</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reliable-phone-data-resurrection-program/"><u>Reliable Phone Data Resurrection Program</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/restore-files-using-windows-data-resurrector/"><u>Restore Files Using Windows Data Resurrector</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/retrieving-shadows-your-mac-data-restoration-companion/"><u>Retrieving Shadows: Your Mac Data Restoration Companion</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/save-whats-lost-with-windatamender/"><u>Save What's Lost with WinDataMender</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/starrybackup-solutions/"><u>StarryBackup Solutions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600598923-stellar-data-recovery-windows/"><u>Stellar Data Recovery: Windows版で失われたデータのみ魔法のように回復可能(無料)</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-solve-no-device-camera-error-in-win11/"><u>Steps to Solve No Device: Camera Error in Win11</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/top-software-solutions-to-restore-unallocated-or-formatted-storage-areas/"><u>Top Software Solutions to Restore Unallocated or Formatted Storage Areas</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-data-rescue-application-efficient-solution-for-retrieving-lost-or-corrupted-information-across-various-formats/"><u>Universal Data Rescue Application: Efficient Solution for Retrieving Lost or Corrupted Information Across Various Formats</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-data-revival-set-for-windowsmaclinux-users/"><u>Universal Data Revival Set - For Windows/Mac/Linux Users</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unlock-files-no-cost-data-revival-tool/"><u>Unlock Files - No-Cost Data Revival Tool</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-youtubes-srt-a-three-step-process/"><u>Unlocking YouTube’s SRT  A Three-Step Process</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unseen-records-rediscovered-mac-data-rescue-pro/"><u>Unseen Records Rediscovered: Mac Data Rescue Pro</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600578736-windows/"><u>ステラ・データレコヴァリー: Windowsで使用可能な無料のデータ回復ツール</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600422234-windows/"><u>ステラデータリカバリー・Windows版 - 安心できる無料データ救出ツール</u></a></li>
+</ul></div>
