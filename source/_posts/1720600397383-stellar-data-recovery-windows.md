@@ -1,7 +1,7 @@
 ---
 title: 失われたファイルを安全に取り戻せる - Stellar Data Recovery (ステラ・データリカバリ) Windows版無料ソフトウェア
-date: 2024-07-10T11:09:53.634Z
-updated: 2024-07-11T11:09:53.634Z
+date: 2024-08-07T09:10:55.491Z
+updated: 2024-08-08T09:10:55.491Z
 categories:
   - repair-tools
 description: This Article Describes 失われたファイルを安全に取り戻せる - Stellar Data Recovery (ステラ・データリカバリ) Windows版無料ソフトウェア
@@ -28,8 +28,14 @@ STELLAR DATA RECOVERY FREE
 
 \* Recover up to 1GB lost or deleted data for free
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Available for Mac](https://www.stellarinfo.com/image/icm.png) [Macで利用可能](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 無料のファイル復元ツール
 
  PCまたはUSBドライブから貴重なファイルを失い、インスタントソリューションが必要な場合、当社の無料のデータ復元ソフトを試してみてください。
@@ -46,6 +52,9 @@ STELLAR DATA RECOVERY FREE
 
 包括的なファイル形式のサポート
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## すべてのファイル形式を無料で復元するための単一のツール
 
  すべての主要なファイルタイプとフォーマットを復元し、次のような主な利点を提供
@@ -56,6 +65,9 @@ STELLAR DATA RECOVERY FREE
 
 ゼロコストでの普遍的なデータ復元
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## すべてのタイプのストレージメディアで無料で利用可能
 
  すべてのタイプのWindowsデバイス＆ストレージメディアから失われたデータを取得
@@ -123,6 +135,9 @@ STELLAR DATA RECOVERY FREE
 
  ステラデータ復元は、デュアルモニターに対応しており、画面の最小化や切り替えをすることなく、デュアルモニター上でマルチタスクを行うことができます。この機能により、データ復元作業に集中し、デュアルスクリーンで結果を確認することができます。
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### ソフトウェアチュートリアル
 
 [](#register-modalv) [どのように機能するのか？](#register-modalv)
@@ -163,6 +178,9 @@ Click the “Add File” icon to add all the corrupt JPEG files.
 
 Click the “Add File” icon to add all the corrupt JPEG files.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### クイック比較
   
 * 無料
@@ -282,14 +300,23 @@ Windows 10、 8.1、 8、 7、
 
 \* 最大1GBの紛失または削除されたデータを無料で復元
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Available for Mac](https://www.stellarinfo.com/image/icm.png) [Macで利用可能](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
 [install pdf インストール](https://www.stellarinfo.com/image/install_pdf.png) インストール](https://www.stellarinfo.com/pdf/installation-uninstallation/installation.php?product%5Fid=488) [install pdf アンインストール](https://www.stellarinfo.com/image/install_pdf.png) アンインストール](https://www.stellarinfo.com/pdf/installation-uninstallation/uninstallation.php?product%5Fid=488) [installpdf 使用許諾誓約](https://www.stellarinfo.com/image/install_pdf.png) 使用許諾誓約](
                 https://www.stellarinfo.com/installation-uninstallation/eula%5Feng.pdf
         )
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### データベースとガイド
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 製品ガイド
 
 ヘルプファイル
@@ -436,6 +463,9 @@ A.
 Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.facebook.com/stellardata) [Twitter](https://www.stellarinfo.com/Images/tw.png) ](https://twitter.com/stellarinfo) [Linkedin](https://www.stellarinfo.com/Images/in.png) ](https://www.linkedin.com/company/stellardatarecovery/) [Youtube](https://www.stellarinfo.com/newblacktheme/images/yt.png) ](https://www.youtube.com/c/stellardatarecovery)
 
 * ![Notron](https://www.stellarinfo.com/images/v7/notron.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 * ![DMCA](https://www.stellarinfo.com/images/v7/dmca.png)
 
 <ins class="adsbygoogle"
@@ -456,3 +486,83 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/the-display-settings-could-not-be-saved-solved/"><u>“The Display Settings Could Not Be Saved” [Solved]</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-best-5-apple-podcast-services-for-ios-users/"><u>[New] 2024 Approved  Best 5 Apple Podcast Services for iOS Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-precision-in-screen-recording-a-comprehensively-reviewed-list/"><u>[New] 2024 Approved  Precision in Screen Recording  A Comprehensively Reviewed List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-uncover-agencies-with-superior-cinematic-crews/"><u>[New] How to Uncover Agencies with Superior Cinematic Crews</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-scene-stealer-snapshot-study/"><u>[New] In 2024, Scene-Stealer Snapshot Study</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-steps-to-ensure-peaceful-gmeet-sessions-silence-techniques/"><u>[New] In 2024, Steps to Ensure Peaceful GMeet Sessions  Silence Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-visionary-vittles-steps-to-craft-food-films/"><u>[New] In 2024, Visionary Vittles  Steps to Craft Food Films</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smiles-and-laughs-app-download/"><u>[New] Smiles & Laughs App Download</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-transform-your-live-broadcasting-skills-using-dslr-on-personal-computers/"><u>[Updated] 2024 Approved  Transform Your Live Broadcasting Skills Using DSLR on Personal Computers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-top-10-websites-for-no-fee-images/"><u>[Updated] Explore the Top 10 Websites for No-Fee Images</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-steps-to-ensure-obs-captures-sound-effectively/"><u>[Updated] In 2024, Steps to Ensure OBS Captures Sound Effectively</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leveraging-googles-platform-for-podcast-distribution/"><u>[Updated] Leveraging Google's Platform for Podcast Distribution</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600546174-windows/"><u>「ステラデータリカバリー - Windows用の軽量無料データ復旧ツール」</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-10plus-preferred-no-pay-webm-player-options/"><u>2024 Approved  10+ Preferred No-Pay WebM Player Options</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-fixing-obscured-content-on-youtube-platform/"><u>2024 Approved  Fixing Obscured Content on YouTube Platform</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600637293-stellar-data-recovery-windows/"><u>無料のStellar Data Recovery: Windows用データを完全に復元できる</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/ace-your-youtube-finances-secrets-for-profits-at-the-500-subscriber-milestone/"><u>Ace Your Youtube Finances  Secrets for Profits at the 500-Subscriber Milestone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/android-memory-mender-lossless-recovery/"><u>Android Memory Mender - Lossless Recovery</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-asus-rog-phone-7-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Asus ROG Phone 7? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-qpr-index-for-sluggish-video-content/"><u>Best QPR Index for Sluggish Video Content</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/boost-engagement-with-custom-images-for-your-videos/"><u>Boost Engagement with Custom Images for Your Videos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/calibrate-compatibility-settings/"><u>Calibrate Compatibility Settings</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/complete-partition-restoration-toolset-reclaim-your-deleted-segments-with-cutting-edge-software/"><u>Complete Partition Restoration Toolset - Reclaim Your Deleted Segments with Cutting-Edge Software</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/cosmicdatarestore-hub/"><u>CosmicDataRestore Hub</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/cosmicfile-recovery/"><u>CosmicFile Recovery</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-recovery-technician-software-recovers-all-types-of-data/"><u>Data Recovery Technician Software – Recovers All Types of Data</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-revival-suite-by-windows-experts/"><u>Data Revival Suite by Windows Experts</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/digital-photo-restorer-android-edition/"><u>Digital Photo Restorer: Android Edition</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskdefender-guarding-against-raid-failures/"><u>DiskDefender: Guarding Against RAID Failures</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskhaven-pro-advanced-raid-restoration/"><u>DiskHaven Pro: Advanced RAID Restoration</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-firmware-get-your-hp-laserjet-p1007-printer-up-to-date/"><u>Download the Latest Firmware: Get Your HP LaserJet P1007 Printer Up-to-Date</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/effortless-file-restoration-toolkit-complimentary/"><u>Effortless File Restoration Toolkit – Complimentary</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719362383486-enhance-full-screen-screenshot-success-in-windows-snip-and-sketch-tool/"><u>Enhance Full-Screen Screenshot Success in Windows' Snip & Sketch Tool.</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-data-retrieval-suite-securely-rewind-lost-information-across-formats/"><u>Expert Data Retrieval Suite - Securely Rewind Lost Information Across Formats</u></a></li>
+<li><a href="https://extra-information.techidaily.com/first-step-to-aerial-adventure-best-beginner-drones/"><u>First Step to Aerial Adventure  Best Beginner Drones</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/free-file-salvage-suite-optimal-repair/"><u>Free File Salvage Suite – Optimal Repair</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/how-to-reconstruct-erased-drive-sections-with-advanced-partition-restoration-apps/"><u>How to Reconstruct Erased Drive Sections with Advanced Partition Restoration Apps</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-defy-2-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Defy 2 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-x-fold-2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo X Fold 2 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-avoid-social-stress-how-to-unfollow-people/"><u>In 2024, Avoid Social Stress  How to Unfollow People</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-huawei-p60-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Huawei P60 Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-realme-12-proplus-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Realme 12 Pro+ 5G Device</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-realme-narzo-60-pro-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Realme Narzo 60 Pro 5G Device</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/isolating-visual-snapshots-from-videos-using-the-windows-10-photos-tool/"><u>Isolating Visual Snapshots From Videos Using the Windows 10 Photos Tool</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/lost-partitions-rescued-top-tools-for-retrieving-accidentally-deleted-disk-sections/"><u>Lost Partitions Rescued: Top Tools for Retrieving Accidentally Deleted Disk Sections</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/lostdata-finder-androids-savior/"><u>LostData Finder: Android's Savior</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/masterdatarecovery-pro-seamless-recovery-software-for-all-formats-and-devices/"><u>MasterDataRecovery Pro: Seamless Recovery Software for All Formats and Devices</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/memorymender-pro-contacts-videos-photos/"><u>MemoryMender Pro: Contacts, Videos, Photos</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/mobilemediamender-regaining-lost-files/"><u>MobileMediaMender: Regaining Lost Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/one-os-family-data-retrieval-device/"><u>One OS Family Data Retrieval Device</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/partition-revival-services-bring-back-your-data-from-inaccessible-areas/"><u>Partition Revival Services - Bring Back Your Data From Inaccessible Areas</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reconstruct-lost-files-on-your-mac-proactively/"><u>Reconstruct Lost Files on Your Mac Proactively</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/recover-missing-drives-advanced-tech-to-bring-back-accidentally-erased-computer-sectors/"><u>Recover Missing Drives: Advanced Tech to Bring Back Accidentally Erased Computer Sectors</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/rescue-lost-files-at-no-monetary-cost/"><u>Rescue Lost Files at No Monetary Cost</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/restore-and-revive-every-bit-of-mac-data/"><u>Restore and Revive Every Bit of Mac Data</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reviving-unreachable-sections-of-hard-drive-top-recovery-programs-reviewed/"><u>Reviving Unreachable Sections of Hard Drive: Top Recovery Programs Reviewed</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/secure-and-recover-without-spending-a-penny/"><u>Secure & Recover Without Spending a Penny</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/securesync-experts-analysis-for-2024/"><u>SecureSync Experts Analysis for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/software-solutions-for-retrieving-lost-or-corrupted-disk-partitions/"><u>Software Solutions for Retrieving Lost or Corrupted Disk Partitions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/stellardata-salvage-hub/"><u>StellarData Salvage Hub</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oneplus-ace-2-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with OnePlus Ace 2 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/swift-and-steady-iphone-data-rescue-solution/"><u>Swift and Steady iPhone Data Rescue Solution</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-best-value-in-cloud-pricing-a-comprehensive-list-for-2024/"><u>The Best Value in Cloud Pricing  A Comprehensive List for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-overcoming-voice-communication-problems-in-destiny-2/"><u>Troubleshooting Guide: Overcoming Voice Communication Problems in Destiny 2</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-strategies-for-webinar-capture-with-minimal-effort-windows-mac-for-2024/"><u>Ultimate Strategies for Webinar Capture with Minimal Effort (Windows, Mac) for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unhindered-access-to-lost-data-free-of-cost/"><u>Unhindered Access to Lost Data Free-of-Cost</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-paid-content-in-product-analysis-for-2024/"><u>Unveiling Paid Content in Product Analysis for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/win-datarescue-helper-bring-back-forgotten-files/"><u>WIN-DataRescue Helper - Bring Back Forgotten Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600732140-windowsstellar-data-recovery/"><u>Windows用で最新の無料ダウンロード復旧プログラム「Stellar Data Recovery」</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600344854-windows/"><u>Windows用の無料データ回復ツール - ステラデータリカバリ</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/your-passport-to-recovered-files-free/"><u>Your Passport to Recovered Files, Free!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600450383-windows/"><u>ステラ・データ・リカバリ: Windowsに最適化された無料データ回復ツール</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600601140-windows/"><u>ステラデータリカバリー・無料版 - Windows互換データ再生成プログラム</u></a></li>
+</ul></div>

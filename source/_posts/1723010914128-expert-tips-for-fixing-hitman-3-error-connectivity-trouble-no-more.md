@@ -1,0 +1,209 @@
+---
+title: "Expert Tips for Fixing Hitman 3 Error: Connectivity Trouble No More!"
+date: 2024-08-07T09:11:12.447Z
+updated: 2024-08-08T09:11:12.447Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Expert Tips for Fixing Hitman 3 Error: Connectivity Trouble No More!"
+excerpt: "This Article Describes Expert Tips for Fixing Hitman 3 Error: Connectivity Trouble No More!"
+thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4ccec0f85070f5a5f457c917.jpg
+---
+
+## Fixing the Launch Problems of Hitman 3 for PC Gamers - Solutions Found
+
+After a long wait, the[new Hitman installment](https://www.epicgames.com/store/en-US/p/hitman-3?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=ed55aa5edc5941de92fd7f64de415793) is finally here. While being the first AAA title released in 2021, Hitman 3 is not immune from issues. Upon its arrival, many gamers start reporting a**game not launching** error. But don’t worry if you happen to be on the same boat. Down below we’ve put together some working fixes to help restore your assassin identity. Try them and get your game working right away.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Try these fixes
+
+ You might not need to try them all. Simply work down the list until you find the one that does the trick.
+
+1. **[Verify the integrity of your game files](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Run Epic Games launcher as administrator](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Launch Hitman 3 from game folder](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Check if it’s a server issue](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 1: Verify the integrity of your game files
+
+ The game not launching problem could mean that some game files are missing or corrupted. In either cases, you can simply run an integrity check to get your game working:
+
+1. Open your Epic Games launcher.
+2. Navigate to the**LIBRARY** tab. Find**Hitman 3** and click the**three dots** icon.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/hitman-3-verify-1.jpg)
+3. Select**Verify** from the drop-down list. Then wait for the checking to complete.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/hitman-3-verify-2.jpg)
+
+Now you can try to launch Hitman 3 using the Epic Games launcher.
+
+ If verifying game files doesn’t help, you can take a look at the next fix.
+
+### Fix 2: Run Epic Games as administrator
+
+ If there’s nothing wrong with your game files, the next thing you should do is check for permission issues. Granting the Epic Games launcher the administrator access could be a potential fix in this regard.
+
+Here’s how:
+
+1. On your keyboard, press Win (the Windows logo key) and type Epic Games. In the search results, select**Run as administrator** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin.jpg)
+2. Now try to launch Hitman 3\. If this trick works for you, continue to the next step to**always run Epic Games launcher as administrator** . Otherwise you can jump to the next fix.
+3. On your desktop, right-click**Epic Game launcher** and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-2.jpg)
+4. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Click**OK** to save the changes.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
+
+### Fix 3: Launch Hitman 3 from game folder
+
+ The game not launching error might come from the game launcher. Some gamers reported on[reddit](https://www.reddit.com/r/HiTMAN/comments/l1qlc7/cant%5Flaunch%5Fthe%5Fgame%5Fat%5Fall%5Fon%5Fepic/) that when they failed to start Hitman 3 from Epic Games launcher, one possible workaround is to launch it using the**hitman3.exe** file in the game folder. So you can try this trick and see how things go.
+
+ If you can’t launch Hitman 3 directly from the game folder, take a look at the next fix.
+
+### Fix 4: Update your graphics driver
+
+ It’s also very likely that the issue is driver-related, which means**a faulty or outdated GPU driver crashes your game** the second you start it. If you haven’t checked for graphics driver updates, definitely do it now as it could save you tons of trouble.
+
+ There’re mainly 2 ways you can update your graphics driver: manually or automatically.
+
+#### Option 1: Update your graphics driver manually
+
+ If you’re a tech-savvy gamer, you can spend some time updating your GPU driver manually.
+
+To do so, first visit the website of your GPU manufacturer:
+
+* **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**
+* **[AMD](https://www.amd.com/en/support)**
+* **[Intel](https://downloadcenter.intel.com/product/80939/Graphics)**
+
+ Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
+
+#### Option 2: Update your graphics driver automatically (Recommended)
+
+ If you don’t have the time, patience or computer skills to update your video drivers manually, you can, instead, do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system and find the correct drivers for your exact graphics card, and your Windows version, and it will download and install them correctly:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+After updating your GPU driver, you can check if Hitman 3 is working now.
+
+ If the latest graphics driver doesn’t solve the problem, you can take a look at the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 5: Install all Windows updates
+
+ Aside from drivers, it’s also important to keep your system up to date, which means you should make sure all the system updates are installed, as they usually provide more than just some minor bug fixes.
+
+Here’s how you can check for updates manually:
+
+1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
+2. Scroll down and select**Update & Security** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
+3. Click**Windows Update** .  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
+4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
+ To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
+
+ After getting all the system updates, restart your gaming rig and check if Hitman 3 works now.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 6: Check if it’s a server issue
+
+ If you’ve tried all the methods above and none seem to work, then maybe it’s your fault at all. After the game was launched, there’re lots of complaints that the carry over server is down and the game is not connecting. So you might need to be patient before a hotfix is released. And to learn more about the Hitman 3 updates, you can check out the IOI[Twitter](https://twitter.com/iointeractive?lang=en) .
+
+---
+
+ So these are the fixes for your Hitman 3 not launching issue. Hopefully this tutorial helps you avoid losing $60 dollars. If you have any questions or ideas, talk to us in the comments below.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-explore-virtual-worlds-pcs-1-list-of-vr-360-game-streamers/"><u>[New] 2024 Approved  Explore Virtual Worlds  PC's #1 List of VR 360 Game Streamers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-transition-from-mobile-screen-to-big-tv-with-fb-videos/"><u>[New] In 2024, Transition From Mobile Screen to Big TV with FB Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pros-best-top-8-tripods-excelling-at-4k-video-capture/"><u>[New] Pro's Best  Top 8 Tripods Excelling at 4K Video Capture</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-premium-visual-enhancer-cutting-edge-conversion-for-2024/"><u>[Updated] Premium Visual Enhancer  Cutting-Edge Conversion for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-simple-strategies-for-capturing-games-on-consoles-for-2024/"><u>[Updated] Simple Strategies for Capturing Games on Consoles for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600584289-windows-stellar-data-recovery/"><u>「無料で使える、高性能なWindows Stellar Data Recoveryデータ回復ツール」</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-soundscapes-how-to-use-auditions-fade-in-effect/"><u>2024 Approved  Crafting Soundscapes  How to Use Audition's Fade In Effect</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-review-for-hero4-black/"><u>2024 Approved  Full Review for Hero4 Black</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-navigating-instagram-blocking-basics/"><u>2024 Approved  Navigating Instagram Blocking Basics</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600637293-stellar-data-recovery-windows/"><u>無料のStellar Data Recovery: Windows用データを完全に復元できる</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/all-encompassing-data-rescue-application-regain-access-to-all-your-files/"><u>All-Encompassing Data Rescue Application – Regain Access to All Your Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/android-memory-mender-lossless-recovery/"><u>Android Memory Mender - Lossless Recovery</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/complete-guide-to-restoring-unreachable-hard-drive-sections-using-cutting-edge-software-solutions/"><u>Complete Guide to Restoring Unreachable Hard Drive Sections Using Cutting-Edge Software Solutions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-guide-to-fixing-and-accessing-deleted-data-segments-with-specialized-applications/"><u>Comprehensive Guide to Fixing and Accessing Deleted Data Segments with Specialized Applications</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/contact-and-video-rescue-toolkit-android-edition/"><u>Contact & Video Rescue Toolkit, Android Edition</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/contact-reclaim-androids-helper/"><u>Contact Reclaim: Android's Helper</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskdefender-guarding-against-raid-failures/"><u>DiskDefender: Guarding Against RAID Failures</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskhaven-pro-advanced-raid-restoration/"><u>DiskHaven Pro: Advanced RAID Restoration</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/dont-panic-over-lost-partitions-reliable-software-to-retrieve-deleted-disk-segments/"><u>Don't Panic Over Lost Partitions: Reliable Software to Retrieve Deleted Disk Segments</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974925461-download-amd-radeon-hd-graphics-driver-for-windows-7-latest-version-available/"><u>Download AMD Radeon HD Graphics Driver for Windows 7 - Latest Version Available</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/effortless-file-restoration-toolkit-complimentary/"><u>Effortless File Restoration Toolkit – Complimentary</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-galaxy-z-flip-5-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Galaxy Z Flip 5</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/how-to-reconstruct-erased-drive-sections-with-advanced-partition-restoration-apps/"><u>How to Reconstruct Erased Drive Sections with Advanced Partition Restoration Apps</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/lostdata-finder-androids-savior/"><u>LostData Finder: Android's Savior</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/multios-file-finder-toolkit-quick-data-restoration/"><u>MultiOS File Finder Toolkit – Quick Data Restoration</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/rescue-lost-files-at-no-monetary-cost/"><u>Rescue Lost Files at No Monetary Cost</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-12-pro-max-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 12 Pro Max Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reviving-unreachable-sections-of-hard-drive-top-recovery-programs-reviewed/"><u>Reviving Unreachable Sections of Hard Drive: Top Recovery Programs Reviewed</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/stellardata-salvage-hub/"><u>StellarData Salvage Hub</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/streamline-recorder-quality-test-for-2024/"><u>StreamLine Recorder Quality Test for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-8-best-chatgpt-prompts-to-eliminate-digital-distractions/"><u>The 8 Best ChatGPT Prompts to Eliminate Digital Distractions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-ios-slideshow-creation-tools-xs-max-a9-for-2024/"><u>Top iOS Slideshow Creation Tools (XS Max - A9) for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unified-data-salvage-suite-windowsmaclinux-compatible/"><u>Unified Data Salvage Suite – Windows/Mac/Linux Compatible</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universedata-revival-center/"><u>UniverseData Revival Center</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unleashing-creativity-in-stories-adding-personalized-graphics/"><u>Unleashing Creativity in Stories  Adding Personalized Graphics</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unrivaled-file-resurrection-platform-expertly-engineered-for-retrieving-any-type-of-digital-information/"><u>Unrivaled File Resurrection Platform: Expertly Engineered for Retrieving Any Type of Digital Information</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/win-data-rediscovery-program/"><u>WIN Data Rediscovery Program</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600202279-stellar-data-recovery-windows/"><u>スペシャルオファー！Stellar Data Recovery - 万が一Windowsで失われたデータを安全に取り戻せる無料プログラム</u></a></li>
+</ul></div>
