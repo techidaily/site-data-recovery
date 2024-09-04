@@ -1,7 +1,7 @@
 ---
 title: "Rescue Inaccessible Hard Drive Areas: Next-Gen Programs for Retrieving Lost Data From Faulty Partitions"
-date: 2024-07-28T08:59:03.382Z
-updated: 2024-07-29T08:59:03.382Z
+date: 2024-09-03T22:52:21.328Z
+updated: 2024-09-04T22:52:21.328Z
 categories:
   - repair-tools
 description: "This Article Describes Rescue Inaccessible Hard Drive Areas: Next-Gen Programs for Retrieving Lost Data From Faulty Partitions"
@@ -32,23 +32,14 @@ Get back your lost, deleted, hidden or inaccessible Windows Partition with our p
 
 \*Download the free trial version on your Desktop or Laptop to scan & preview your recoverable items.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mac](https://www.stellarinfo.com/image/icm.png) **[Also available for Mac](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
 ![Video Wrapper](https://www.stellarinfo.com/public/image/catalog/banner/Justin-Starr.jpg) Testimonial
 
 "I Recovered 3TB Data from a Corrupt Hard Drive."
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Justin Starr ![play](https://www.stellarinfo.com/public/image/catalog/v6/play.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Generic placeholder image](https://www.stellarinfo.com/public/image/catalog/v7/techreadr.png)
 
 Techradar
@@ -56,25 +47,13 @@ Techradar
 "Stellar Data Recovery A fast, highly customizable file recovery tool."
 
 * ![stellar logo](https://www.stellarinfo.com/images/v7/stellar_logo.svg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [![features](https://www.stellarinfo.com/public/image/catalog/v6/features.svg) Features](#features)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 * [![testimonial](https://www.stellarinfo.com/public/image/catalog/v6/testimonial.svg) Testimonials](#customers%5Ftestimonials)
 * [![how it work](https://www.stellarinfo.com/public/image/catalog/v6/how-it-work.svg) How it Works?](#howitwork)
 * [price dollar Price](https://www.stellarinfo.com/public/image/catalog/currency/price-dollar.svg) Price](#price)
 * [![reviews](https://www.stellarinfo.com/public/image/catalog/v6/reviews.svg) Reviews](#customers%5Freview)
 * [![specification](https://www.stellarinfo.com/public/image/catalog/v6/specification.svg) Specs](#specifications)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [![help](https://www.stellarinfo.com/public/image/catalog/v6/help.svg) Help](#Articles)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 * [![faq](https://www.stellarinfo.com/public/image/catalog/v6/faq.svg) FAQ](#faq)
 * [_Free Download100% Secure_](https://cloud.stellarinfo.com/StellarDataRecoveryProfessional.exe)
 
@@ -84,11 +63,6 @@ Stellar Data Recovery for Windows v11.0.0.5 Launched
 
 Enhanced RAW recovery feature along with all-new file formats support for deeper & better recovery results. [See What’s New](https://secure.2checkout.com/order/checkout.php?PRODS=4605220&QTY=1&AFFILIATE=108875&CART=1)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/v7/top_gradient_bg-icon.png)
 
 Stellar Data Recovery Professional for Windows
@@ -100,16 +74,10 @@ Stellar Partition Recovery Professional is a robust tool for recovering files fr
 * [Storage Devices](#Devices)
 * [File Types](#Types)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Laptop"](https://www.stellarinfo.com/public/image/catalog/v6/man-with-laptop.png)
 
 ![SSD](https://www.stellarinfo.com/public/image/catalog/v6/ssd.png) ![Hard Drive](https://www.stellarinfo.com/public/image/catalog/v6/hard_drive.png) ![USB](https://www.stellarinfo.com/public/image/catalog/v6/usb.png) ![CD](https://www.stellarinfo.com/public/image/catalog/v6/cd.png) ![Monitor](https://www.stellarinfo.com/public/image/catalog/v6/monitor.png) ![Ract](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png) ![Ract](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png) ![Ract](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Recovers Data from all Media Storage
 
 * Recovers lost volumes that are formatted in NTFS, FAT16, FAT32 and exFAT.
@@ -132,9 +100,6 @@ Stellar Partition Recovery Professional is a robust tool for recovering files fr
 
 \*Free download to scan and preview your lost or deleted data.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mac](https://www.stellarinfo.com/image/icm.png) **[Also available for Mac](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
 KEY FEATURES
@@ -149,22 +114,23 @@ Whether the partition is lost due to accidental deletion or formatting, this par
 
 ![Raw Recovery](https://www.stellarinfo.com/image/catalog/blacktheme/data-recovery-pro/feature_icon/optical-media-recovery.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Raw Recovery
 
 To recover deleted partitions, this partition recovery software offers Raw Recovery feature. With this advanced feature, the partition’s data is recovered by file signature without data loss.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![75% Faster Scan Time & Better Recovery](https://www.stellarinfo.com/public/image/catalog//featureicon/parition-recovery/75-faster-scan-time.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 75% Faster Scan Time & Better Recovery
 
@@ -178,33 +144,42 @@ This software supports data recovery from BitLocker encrypted volume. Enter the 
 
  SUCCESS STORIES
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Customers Testimonials
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Testimonials IT Expert _quote_ "Recovered inaccessible RAID data with ease." **Robert Dijkstra**   Gorredijk, Netherlands](https://www.stellarinfo.com/images/v7/Robert-Dijkstra.jpg) IT Expert _ ![quote](https://www.stellarinfo.com/images/v7/quote.png) _ "Recovered inaccessible RAID data with ease." **Robert Dijkstra**   Gorredijk, Netherlands ](#register-modalv)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [Testimonials Music Enthusiast _quote_ "You can imagine the happiness when you get back your past 10 years of data." **Claudio**, Rome, Italy](https://www.stellarinfo.com/images/v7/Claudio.jpg) Music Enthusiast _ ![quote](https://www.stellarinfo.com/images/v7/quote.png) _ "You can imagine the happiness when you get back your past 10 years of data." **Claudio**, Rome, Italy ](#register-modalv)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Testimonials Dir. Video Production _quote_ "Recovered terabytes of videos from corrupt external SSD." **Jack Albert**  Milwaukee, USA](https://www.stellarinfo.com/images/v7/jack-albert.jpg) Dir. Video Production _ ![quote](https://www.stellarinfo.com/images/v7/quote.png) _ "Recovered terabytes of videos from corrupt external SSD." **Jack Albert**  Milwaukee, USA ](#register-modalv)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Other Features of Partition Recovery Software
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### More is Always Better
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Bootable Drive Recovery](https://www.stellarinfo.com/public/image/catalog//featureicon/parition-recovery/bootable-drive-recovery.png)
 
 #### Bootable Drive Recovery
@@ -213,6 +188,12 @@ Is your Windows PC not booting? Don’t worry! This DIY partition recovery softw
 
 ![Unlimited File Type Recovery](https://www.stellarinfo.com/image/catalog/blacktheme/Free-Data-Recovery-Software/features-icon/recovers-deleted-files-free.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Unlimited File Type Recovery
 
 With over 200 supported file types, the software provides a comprehensive data recovery capability. If a file type is not listed in the supported File List, the software has “Add File Type” feature that allows you to add as many file types as required by using sample files. The software then creates file signatures based on the file types for data recovery.
@@ -223,29 +204,30 @@ With over 200 supported file types, the software provides a comprehensive data r
 
 This advanced partition recovery software facilitates hassle-free recovery of data from optical media devices, such as CDs, DVDs, HD DVDs, Blu-ray discs, etc. It also maintains accuracy of data stored in these devices.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Email Recovery](https://www.stellarinfo.com/public/image/catalog//featureicon/parition-recovery/email-recovery.png)
 
 #### Email Recovery
 
 Email recovery is another beneficial feature that this partition recovery software provides. It can recover emails from various desktop email clients, such as MS Outlook, Outlook Express, and Lotus Notes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![Deleted Office Documents Recovery](https://www.stellarinfo.com/public/image/catalog//featureicon/parition-recovery/deleted-office-documents-recovery.png)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Deleted Office Documents Recovery
 
 The partition recovery software is efficient to recover deleted Microsoft Office documents such as Word, Excel, and PowerPoint. Scan the storage media to recover lost and deleted Office documents.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![Supports Multiple File Systems Recovery](https://www.stellarinfo.com/public/image/catalog//featureicon/parition-recovery/supports-multiple-file-systems-recovery.png)
 
 #### Supports Multiple File Systems Recovery
@@ -255,16 +237,21 @@ This partition recovery software can recover data from FAT, NTFS, and exFAT file
  Software Walkthrough
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Screenshots & Video
 
  **Step 3** : Scan & Recover
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Scan & Recover](https://www.stellarinfo.com/public/image/catalog/screenshot/data-recovery-pro-win/wdr-pro3.jpg)
 
 Select files after the scan and click 'Recover' to save recovered data.
@@ -273,6 +260,12 @@ Select files after the scan and click 'Recover' to save recovered data.
 
 ![Select File Type](https://www.stellarinfo.com/public/image/catalog/screenshot/data-recovery-pro-win/wdr-pro1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Select the type of data that you want to recover and click 'Next.'
 
  **Step 2** : Select Recover From
@@ -283,29 +276,38 @@ Select the folder location or drive volume and click 'Scan.'
 
  **Step 3** : Scan & Recover
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Scan & Recover](https://www.stellarinfo.com/public/image/catalog/screenshot/data-recovery-pro-win/wdr-pro3.jpg)
 
 Select files after the scan and click 'Recover' to save recovered data.
 
  **Step 1** : Select File Type
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select File Type](https://www.stellarinfo.com/public/image/catalog/screenshot/data-recovery-pro-win/wdr-pro1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Select the type of data that you want to recover and click 'Next.'
 
 [video wrapper play Watch Video How to use Stellar Data Recovery Software to Recover Data.](https://www.stellarinfo.com/images/v7/video-wrapper.png) ![play](https://www.stellarinfo.com/public/image/catalog/v6/play.png) Watch Video How to use Stellar Data Recovery Software to Recover Data. ](#register-modalv)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 PRICING
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Making Your Choice Easy
 
 Professional
@@ -373,6 +375,12 @@ AWARDS & REVIEWS
 
 ![q1](https://www.stellarinfo.com/images/v7/q1.png) ![q1](https://www.stellarinfo.com/images/v7/q2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![PC QUEST](https://www.stellarinfo.com/image/catalog/awards/pc-quest.gif) ![star](https://www.stellarinfo.com/images/v7/star.png)
 
 PC QUEST
@@ -381,29 +389,46 @@ Stellar Windows Data Recovery pro has a special feature that allows you to recov
 
 ![Toms Guide](https://www.stellarinfo.com/image/catalog/blacktheme/data-recovery-standard/tomsguide.png) ![star](https://www.stellarinfo.com/images/v7/star.png)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Toms Guide
 
 Stellar is one of your best options for getting your files back.
 
 ![PC World](https://www.stellarinfo.com/image/catalog/blacktheme/data-recovery-standard/pc-world.png) ![star](https://www.stellarinfo.com/images/v7/star.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 PC World
 
 Stellar Windows Data Recovery software did well with the two hard drives I tested it with.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Techradar](https://www.stellarinfo.com/image/catalog/blacktheme/data-recovery-standard/TechRadar.jpg) ![star](https://www.stellarinfo.com/images/v7/star.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Techradar
 
 Stellar Data Recovery is an excellent data recovery software, and we
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Computer Active](https://www.stellarinfo.com/image/catalog/blacktheme/data-recovery-standard/computer-active.gif) ![star](https://www.stellarinfo.com/images/v7/star.png)
 
 Computer Active
@@ -412,6 +437,12 @@ The best way of protecting your data, If your backup has failed.
 
 ![PC QUEST](https://www.stellarinfo.com/image/catalog/awards/pc-quest.gif) ![star](https://www.stellarinfo.com/images/v7/star.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 PC QUEST
 
 Stellar Windows Data Recovery pro has a special feature that allows you to recover data from any previously created disk images or create a disk image of any drive, partition or volume. You can create an image of hard disks, existing logical volumes.
@@ -424,11 +455,14 @@ Stellar is one of your best options for getting your files back.
 
 DATA SHEET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Technical Specifications
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![About Product](https://www.stellarinfo.com/public/image/catalog/v7/wdr-icon-red.svg)
 
 About Product
@@ -455,13 +489,22 @@ Documents
 | [![InstallationGuide](https://www.stellarinfo.com/public/image/catalog/v6/InstallationGuide.svg) Installation ](https://www.stellarinfo.com/pdf/installation-uninstallation/installation.php?product%5Fid=785) [![UserManual](https://www.stellarinfo.com/public/image/catalog/v6/UserManual.svg) Uninstallation ](https://www.stellarinfo.com/pdf/installation-uninstallation/uninstallation.php?product%5Fid=785) [InstallationGuideInstallation](https://www.stellarinfo.com/public/image/catalog/v6/EULA.svg) EULA](https://www.stellarinfo.com/installation-uninstallation/eula%5Feng.pdf) | [![UserManual](https://www.stellarinfo.com/public/image/catalog/v6/UserManual.svg) User Manual ](https://www.stellarinfo.com/help/stellar-data-recovery-11-windows-premium-en-about-stellar-data-recovery.html) [knowledgebase Knowledge Base](https://www.stellarinfo.com/public/image/catalog/v6/knowledgebase.svg) Knowledge Base ](https://www.stellarinfo.com/support/kb/index.php/category/windows-data-recovery) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Stellar Data Recovery Professional](https://www.stellarinfo.com/image/boxshot/Stellar-Data-Recovery-Professional-for-Windows.png)
 
 TRY BEFORE YOU BUY
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Free Trial Download
 
 * It’s Easy as 1-2-3
@@ -477,12 +520,20 @@ TRY BEFORE YOU BUY
 
 ![Mac](https://www.stellarinfo.com/image/icm.png) **[Also available for Mac](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="960" height="540" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 FIND YOUR ANSWERS
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### FAQ
 
 [How to recover lost or deleted partitions?](#collapseOne)
@@ -546,10 +597,22 @@ If you do not find the solution to your query, you can contact our Technical Sup
 
 DATA RECOVERY IN-LAB SERVICES
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Do you have complex data loss problems?
 
 ![Generic placeholder image](https://www.stellarinfo.com/images/v7/labservices.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### **We can help!**
 
 If your device is physically-damaged, or you want an expert to handle your data recovery job; our 'Lab Experts' can help.
@@ -559,7 +622,16 @@ If your device is physically-damaged, or you want an expert to handle your data 
 WHY STELLAR® IS GLOBAL LEADER
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Why Choose Stellar?
 
@@ -580,9 +652,21 @@ Technology You Can Trust A Brand Present Across The Globe
 
 * [![TUV SUD ISO 27001](https://www.stellarinfo.com/images/v7/tuv1.png)](/images/v7/ISO-27001-2013-Certificate.pdf)
 * [TUV SUD ISO 9001](https://www.stellarinfo.com/images/v7/tuv2.png) ](/images/v7/ISO-9001-2008Certificate.pdf)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * ![NIST](https://www.stellarinfo.com/images/v7/nist.png)
 * [![HIPAA Verified](https://www.stellarinfo.com/images/v7/hipa.png)](https://www.stellarinfo.com/company/Stellar-is-HIPAA-Certified.pdf)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Stellar Official Website
 
 Stellar Data Recovery Inc.  
@@ -592,9 +676,6 @@ United States
 
 ALSO AVAILABLE AT
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ALSO AVAILABLE AT](https://www.stellarinfo.com/images/v7/Partners_logo_new.png)
 
  About
@@ -645,10 +726,19 @@ Stellar & Stellar Data Recovery are Registered Trademarks of Stellar Information
 Follow Us [![Facebook](https://www.stellarinfo.com/Images/fb.png)](https://www.facebook.com/stellardata) [![Twitter](https://www.stellarinfo.com/Images/tw.png)](https://twitter.com/stellarinfo) [![Linkedin](https://www.stellarinfo.com/Images/in.png)](https://www.linkedin.com/company/stellardatarecovery/) [![Youtube](https://www.stellarinfo.com/newblacktheme/images/yt.png)](https://www.youtube.com/c/stellardatarecovery)
 
 * ![Notron](https://www.stellarinfo.com/images/v7/notron.png)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![DMCA](https://www.stellarinfo.com/images/v7/dmca.png)
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="120" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
