@@ -1,7 +1,7 @@
 ---
 title: "The Future of Mini Computing Arrives: Meet the MinisForum AtomMan X7 Ti, Boasting an Incredible Intel Core 185H and Intuitive Ti-Touch Screen Technology"
-date: 2024-09-03T22:52:13.879Z
-updated: 2024-09-04T22:52:13.879Z
+date: 2024-09-08T23:45:52.281Z
+updated: 2024-09-09T23:45:52.281Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/1c82bb77bafb99b9b6611b5302d1fb010d446c70d3f6bad7daef0045c02e4cb1.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Full Powered Computing on the Go – Folding Mini Keyboard Houses AMD Ryzen CPU, Touchscreen Controls, and Self-Contained Battery; Just Add a Display
 
 Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldable keyboard. The company shared its live presentation via video sharing site[bilibili](https://emakicms.com/brand/21/articles/view/2009106) , where the presenter pulled out the actual device from his back pocket. The keyboard PC also has a built-in trackpad, so you don't need to bring a mouse to use it. Interestingly, the portable mini PC lacks a built-in display, but the presenters had one interesting reason as to why it didn't include one.
@@ -35,14 +41,32 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 ![Linglong foldable keyboard PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Linglong on Bilibili)
 
 ![Linglong foldable keyboard PC ](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Linglong / bilibili)
 
 ![Linglong foldable keyboard PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Linglong on Bilibili)
 
  The company boasts ten hours of battery life for light office work and up to six hours for watching movies. However, heavy workloads and gaming will cut down its useful life to just four hours or so. We should also consider that this doesn't yet take into account the power use of a display. So, if you plug in a screen that takes juice from the keyboard PC, you can expect the battery life to go down significantly if the screen you're using doesn't have its own power supply.
@@ -53,6 +77,12 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -141,10 +171,3 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 <li><a href="https://data-recovery.techidaily.com/versatile-files-recovery-windows-mac-and-linux-assist/"><u>Versatile Files Recovery - Windows, Mac & Linux Assist</u></a></li>
 <li><a href="https://data-recovery.techidaily.com/1720600720250-your-passport-to-recovered-files-free/"><u>Your Passport to Recovered Files, Free</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
