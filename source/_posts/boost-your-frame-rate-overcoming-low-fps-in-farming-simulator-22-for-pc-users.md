@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Frame Rate: Overcoming Low FPS in Farming Simulator 22 for PC Users"
-date: 2024-09-13T20:07:18.611Z
-updated: 2024-09-14T16:44:25.950Z
+date: 2024-09-16T18:19:47.853Z
+updated: 2024-09-19T02:38:30.775Z
 tags:
   - win11
   - win10
@@ -78,7 +78,22 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch God of War and check if you get a better PFS. If the God of War FPS drops again on your powerful computer, try setting the Windows power plan to Ultimate Performance, a power plan that is not widely known, but is designed to make the most out of high-end setups.
 
@@ -91,13 +106,6 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -144,6 +152,13 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Disable overlays
 
  Overlays may interfere with God of War, and sometimes they may even introduce performance issues and compatibility issues. Try disabling the in-game overlay before playing the game.
@@ -155,37 +170,17 @@ There are mainly two methods for you to update the graphics driver:
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch God of War again after you disabled all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -198,20 +193,15 @@ There are mainly two methods for you to update the graphics driver:
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
-![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 Launch God of War to see if you can play it smoothly.
 
@@ -237,21 +227,13 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-explore-the-top-5-snipping-utilities-for-chrome-os-users/"><u>[New] 2024 Approved Explore The Top 5 Snipping Utilities For Chrome OS Users</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-digital-recording-sounds-and-speech-capture-for-2024/"><u>[New] Digital Recording Sounds & Speech Capture for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-ultimate-guide-to-top-tier-tripods-and-mounts-for-gopro-for-2024/"><u>[New] Ultimate Guide to Top-Tier Tripods & Mounts for GoPro for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-guide-to-swiftly-eliminate-unwanted-youtube-comments/"><u>[Updated] Guide to Swiftly Eliminate Unwanted YouTube Comments</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/battle-of-giants-amds-epyc-cpu-doubles-up-against-nvidias-arm-powered-grace-in-multiple-performance-benchmarks/"><u>Battle of Giants: AMD's EPYC CPU Doubles Up Against NVIDIA’s ARM-Powered Grace in Multiple Performance Benchmarks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-play-mkv-movies-on-motorola-edge-2023-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can I play MKV movies on Motorola Edge 2023?</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/detailed-breakdown-of-newest-technology-innovations-toms-hardware-experts/"><u>Detailed Breakdown of Newest Technology Innovations - Tom's Hardware Experts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/directing-local-groups-policy-a-focused-approach-for-users-in-windows-11-and-11/"><u>Directing Local Groups Policy: A Focused Approach for Users in Windows 11 & 11</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/exclusive-sale-alert-high-end-prebuilt-gaming-desktop-msi-aegis-r2-featuring-rtx-4070-super-plus-intel-i7-at-an-unbeatable-price-below-1600/"><u>Exclusive Sale Alert: High-End Prebuilt Gaming Desktop – MSI Aegis R2 Featuring RTX 4070 Super + Intel I7 at an Unbeatable Price Below $1,600</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/exploring-gadgets-with-tom-in-depth-guides-on-electronics-and-hardware/"><u>Exploring Gadgets with Tom: In-Depth Guides on Electronics and Hardware</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/how-to-add-music-to-vimeo-videos-for-2024/"><u>How to Add Music to Vimeo Videos for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-monster-hunter-worlds-black-out-on-boot-problem/"><u>How to Resolve Monster Hunter: World’s Black Out on Boot Problem</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/navigating-tech-with-toms-hardware-your-comprehensive-guide/"><u>Navigating Tech with Tom's Hardware - Your Comprehensive Guide</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1723262378040-qualcomms-affordable-snapdragon-x-elite-get-your-compact-desktop-development-kit-starting-preorders-today/"><u>Qualcomm's Affordable Snapdragon X Elite: Get Your Compact Desktop Development Kit – Starting Preorders Today</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/toms-tech-review-expert-insights-on-hardware-innovations/"><u>Tom's Tech Review: Expert Insights on Hardware Innovations</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-xiaomi-14-ultra-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Xiaomi 14 Ultra Location | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-innovating-communication-integrate-google-meets-in-daily-life/"><u>[New] 2024 Approved Innovating Communication Integrate Google Meets in Daily Life</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-instagram-stories-polls-your-complete-playbook/"><u>[New] Crafting Instagram Stories Polls - Your Complete Playbook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-tricks-for-faster-instagram-video-views/"><u>In 2024, Tricks for Faster Instagram Video Views</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/iphone-restoration-mastermind-unlock-data-peacefully/"><u>IPhone Restoration Mastermind: Unlock Data Peacefully</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/retrieving-shadows-your-mac-data-restoration-companion/"><u>Retrieving Shadows: Your Mac Data Restoration Companion</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/syncos-files-rescue-windows-mac-linux-version/"><u>SyncOS Files Rescue - Windows, Mac, Linux Version</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-5-ultimate-video-combiners-for-your-computer-a-comparative-review/"><u>Top 5 Ultimate Video Combiners for Your Computer: A Comparative Review</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/why-are-instavids-tilted-upside-down/"><u>Why Are InstaVids Tilted Upside Down?</u></a></li>
 </ul></div>
 

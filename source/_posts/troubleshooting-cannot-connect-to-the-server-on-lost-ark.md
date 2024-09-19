@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'Cannot Connect to the Server' On Lost Ark
-date: 2024-09-12T20:22:02.240Z
-updated: 2024-09-14T19:30:16.515Z
+date: 2024-09-17T03:14:19.855Z
+updated: 2024-09-19T02:23:52.808Z
 tags:
   - win11
   - win10
@@ -54,10 +54,10 @@ Here’s how you can restart your modem & router:
  You can try out other ways to boost your network connection, such as moving your modem& router to a more central place in your home, use a[**WiFi Extender**](https://www.amazon.com/WiFi-6-Range-Extender-Booster/dp/B088H2FCHL/ref=sxin%5F21?asc%5Fcontentid=amzn1.osa.cb67d155-f9ef-4c53-b460-b150a3cccc6d.ATVPDKIKX0DER.en%5FUS&asc%5Fcontenttype=article&ascsubtag=amzn1.osa.cb67d155-f9ef-4c53-b460-b150a3cccc6d.ATVPDKIKX0DER.en%5FUS&creativeASIN=B088H2FCHL&cv%5Fct%5Fcx=wifi+extender&cv%5Fct%5Fid=amzn1.osa.cb67d155-f9ef-4c53-b460-b150a3cccc6d.ATVPDKIKX0DER.en%5FUS&cv%5Fct%5Fpg=search&cv%5Fct%5Fwe=asin&cv%5Fct%5Fwn=osp-single-source-pecos-desktop&dchild=1&keywords=wifi+extender&linkCode=oas&pd%5Frd%5Fi=B088H2FCHL&pd%5Frd%5Fr=8b06fc1b-3845-42cd-9f79-71ba04450fee&pd%5Frd%5Fw=DKebm&pd%5Frd%5Fwg=FUMuR&pf%5Frd%5Fp=9ca0c43d-5b2f-4d08-be2c-4bf20950d3e4&pf%5Frd%5Fr=3VVGWE27XNY8894YZHV6&qid=1620464270&sr=1-1-c26ac7f6-b43f-4741-a772-17cad7536576&tag=tgl0a3-20&tag=drivereasycom-20) , limit the number of devices connected to your network etc. You might also want to double check that the issue doesn’t lie with the router – if it does, you should contact your ISP for further advice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your network adapter driver
@@ -72,6 +72,14 @@ Here’s how you can restart your modem & router:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update network driver with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/03/de-update-network-driver.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -93,13 +101,6 @@ Here’s how you can restart your modem & router:
 3. Type **ipconfig /flushdns** and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/3-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To renew your IP:
 
 1. On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .  
@@ -108,21 +109,28 @@ To renew your IP:
 3. Type **ipconfig /release** and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2-3.png)
 4. Type **ipconfig /renew** and press **Enter**  on your keyboard.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/4-1.png)
 5. Launch Steam, play the game again and see if the connection is smooth and without fail. If the**Steam is having trouble connecting to the Steam servers** error persists, don’t worry. Here are a couple more fixes for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Reset WinSock
@@ -134,19 +142,6 @@ Here’s how to go about it:
 1. On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd.png)
 2. In the Administrator Command Prompt window, enter**netsh winsock reset** , then press**Enter** ; then type**netsh winteep reset proxy** and press**Enter** .  
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/net.png)
 3. Click**Close** to exit the window.
@@ -166,6 +161,13 @@ Here are the steps:
 5. Click the**Shortcut** tab, then in**Target** field,**add a space to the end** and type**\-tcp** . Once finished, click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/tcp.png)
 6. Launch Steam and check if**Steam is having trouble connecting to the Steam servers** warning error has been fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Steam is having trouble connecting to the Steam servers** still happening? Please continue onto**Fix 7** .
 
@@ -212,19 +214,18 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-backupmasters-expert-verdict-for-2024/"><u>[New] BackUpMasters Expert Verdict for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-carving-out-your-place-in-the-design-world-for-2024/"><u>[Updated] Carving Out Your Place in the Design World for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-the-art-of-storytelling-on-ig-for-higher-engagement/"><u>[Updated] Mastering the Art of Storytelling on IG for Higher Engagement</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/battle-of-giants-amds-epyc-cpu-doubles-up-against-nvidias-arm-powered-grace-in-multiple-performance-benchmarks/"><u>Battle of Giants: AMD's EPYC CPU Doubles Up Against NVIDIA’s ARM-Powered Grace in Multiple Performance Benchmarks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comparative-study-dji-quadcopter-standard-edition-for-2024/"><u>Comparative Study DJI Quadcopter Standard Edition for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/detailed-breakdown-of-newest-technology-innovations-toms-hardware-experts/"><u>Detailed Breakdown of Newest Technology Innovations - Tom's Hardware Experts</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/exclusive-sale-alert-high-end-prebuilt-gaming-desktop-msi-aegis-r2-featuring-rtx-4070-super-plus-intel-i7-at-an-unbeatable-price-below-1600/"><u>Exclusive Sale Alert: High-End Prebuilt Gaming Desktop – MSI Aegis R2 Featuring RTX 4070 Super + Intel I7 at an Unbeatable Price Below $1,600</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/exploring-the-samsung-galaxy-tab-s6-in-depth-analysis-of-s-pen-features-and-dex-mode-capabilities/"><u>Exploring the Samsung Galaxy Tab S6: In-Depth Analysis of S Pen Features & Dex Mode Capabilities</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-logitech-camera-software-installation-for-windows-pcs/"><u>Free Logitech Camera Software Installation for Windows PCs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-share-a-private-youtube-video-with-google-account-for-2024/"><u>How to Share a Private YouTube Video with Google Account for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-stop-your-mouse-from-wandering-solo/"><u>Quick Solutions: Stop Your Mouse From Wandering Solo</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/the-future-of-mini-computing-arrives-meet-the-minisforum-atomman-x7-ti-boasting-an-incredible-intel-core-185h-and-intuitive-ti-touch-screen-technology/"><u>The Future of Mini Computing Arrives: Meet the MinisForum AtomMan X7 Ti, Boasting an Incredible Intel Core 185H and Intuitive Ti-Touch Screen Technology</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/toms-tech-review-expert-insights-on-hardware-innovations/"><u>Tom's Tech Review: Expert Insights on Hardware Innovations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fundamental-constructs-in-creating-effective-fb-ad-copy-for-2024/"><u>[New] Fundamental Constructs in Creating Effective FB Ad Copy for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastering-medical-and-wellness-fb-ad-success-for-2024/"><u>[New] Mastering Medical & Wellness FB Ad Success for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/cosmicdatarestore-hub/"><u>CosmicDataRestore Hub</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/cosmicfile-recovery/"><u>CosmicFile Recovery</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-top-15-tools-for-boosting-fb-sales-through-data-analysis/"><u>In 2024, Top 15 Tools for Boosting FB Sales Through Data Analysis</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/recover-missing-drives-advanced-tech-to-bring-back-accidentally-erased-computer-sectors/"><u>Recover Missing Drives: Advanced Tech to Bring Back Accidentally Erased Computer Sectors</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/restore-and-revive-every-bit-of-mac-data/"><u>Restore and Revive Every Bit of Mac Data</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/secure-and-recover-without-spending-a-penny/"><u>Secure & Recover Without Spending a Penny</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-guide-to-hash-tagging-for-brand-success-on-fb/"><u>The Ultimate Guide to Hash Tagging for Brand Success on FB</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/uncover-collective-media-on-messenger-networks/"><u>Uncover Collective Media on Messenger Networks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-se-2022-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone SE (2022) i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600450383-windows/"><u>ステラ・データ・リカバリ: Windowsに最適化された無料データ回復ツール</u></a></li>
 </ul></div>
 

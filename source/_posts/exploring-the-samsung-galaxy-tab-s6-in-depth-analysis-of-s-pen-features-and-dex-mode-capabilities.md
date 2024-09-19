@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Samsung Galaxy Tab S6: In-Depth Analysis of S Pen Features & Dex Mode Capabilities"
-date: 2024-09-09T22:35:26.639Z
-updated: 2024-09-14T17:18:40.482Z
+date: 2024-09-13T01:45:05.282Z
+updated: 2024-09-19T01:41:59.371Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring the Samsung Galaxy Tab S6: In-Depth Analysis of S Pen Features & Dex Mode Capabilities"
@@ -96,6 +96,19 @@ Lifewire / Zach Sweat
 
  Lifewire / Zach Sweat
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Comfort: Hefty, but darn comfy**
 
  The original Elite was perhaps the most comfortable controller I’ve ever used, so with the Series 2, I had high hopes in this department. Thanks to some clever but subtle changes by the Microsoft team, this controller is even better.
@@ -109,6 +122,13 @@ Lifewire / Zach Sweat
  The only real issue some users may see as a downside of this controller is that it’s quite a hefty device. The controller weighs 348 grams with all attachments, so it might take some getting used to compared to the 210 gram S controller. I personally love the bulk, as it feels premium, but it might not be for everyone.
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/cS5fpyPSlqvyETs-nGxTtAB3vXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-4-070b6c59b206457ba1068704bbe7bca9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -134,13 +154,6 @@ Lifewire / Zach Sweat
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Performance/Durability: Enhanced performance and durability**
 
  To test the performance of the new Elite Series 2 controller, I put this device through several hours of gaming on both PC and Xbox One platforms running a number of games and layouts. The results were promising, so let’s take a closer look.
@@ -163,13 +176,6 @@ Lifewire / Zach Sweat
 
  While we didn’t experience any durability issues with our controller, the long-term durability will need to be assessed at a later date, though it seems to have gotten some upgrades to resolve issues of the past.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Like buying a brand new console**
 
  Right now, the Elite Series 2 controller retails at an MSRP of $249.99, about $100 more than its predecessor. This price tag makes it not only the most expensive first-party controller around, but also nearly the cost of a brand new Xbox One S console (or three brand new titles). That can be a tough sell for your average gamer.
@@ -179,6 +185,13 @@ Lifewire / Zach Sweat
  The argument could be made that considering you get a Bluetooth controller capable of working on XB1 and PC, a charging dock and a nice little case to keep it all together, the cost isn’t awful. But if you want all of those things for less, you can grab an S controller, dock and case for far, far less.
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/6VfCJGOyjLkAkE_mjiHr7rz8Gyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-6-0c1d7a2ae4e8443ea5b69f559e52bd12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -195,13 +208,6 @@ Lifewire / Zach Sweat
  **A truly awesome controller with a steep price point.**
 
  Everything we disliked about the original Elite controller has been improved with the second iteration, making it the best first-party controller you can get for XB1 or PC. However, the steep price point might be a hard pill to swallow for users who don’t like to splurge.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -235,21 +241,16 @@ Lifewire / Zach Sweat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-balancing-frequency-and-quality-in-youtube-video-uploads/"><u>[New] 2024 Approved Balancing Frequency & Quality in YouTube Video Uploads</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-your-gateway-to-digital-proficiency-understanding-screen-capture-on-macbook-air/"><u>[Updated] Your Gateway to Digital Proficiency Understanding Screen Capture on MacBook Air</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-crafting-depth-3d-text-designs-in-illustrator/"><u>2024 Approved Crafting Depth 3D Text Designs in Illustrator</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/advanced-technical-assessments-by-toms-electronics-specialist/"><u>Advanced Technical Assessments by Tom's Electronics Specialist</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/detailed-breakdown-of-newest-technology-innovations-toms-hardware-experts/"><u>Detailed Breakdown of Newest Technology Innovations - Tom's Hardware Experts</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/exclusive-sale-alert-high-end-prebuilt-gaming-desktop-msi-aegis-r2-featuring-rtx-4070-super-plus-intel-i7-at-an-unbeatable-price-below-1600/"><u>Exclusive Sale Alert: High-End Prebuilt Gaming Desktop – MSI Aegis R2 Featuring RTX 4070 Super + Intel I7 at an Unbeatable Price Below $1,600</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/hits-at-hyperspeed-the-fast-track-to-100-million-views-on-youtube-in-24/"><u>Hits at Hyperspeed The Fast Track to 100 Million Views on YouTube in '24</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-a-constant-crash-issue-in-genshin-impact-for-windows-users/"><u>How to Fix a Constant Crash Issue in Genshin Impact for Windows Users</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-11-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 11 Pro?</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/introducing-the-gem12-pro-mini-pc-ultra-compact-performance-powerhouse-equipped-with-advanced-ryzen-7-cpu-and-integrated-screen-technology/"><u>Introducing the Gem12 Pro Mini PC - Ultra-Compact Performance Powerhouse, Equipped with Advanced Ryzen 7 CPU and Integrated Screen Technology</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/leading-tech-choices-for-virtual-meetings/"><u>Leading Tech Choices for Virtual Meetings</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/navigating-the-world-of-computer-components-with-toms-hardware-solutions/"><u>Navigating the World of Computer Components with Tom's Hardware Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/orderly-approach-to-experience-the-adventures-of-indiana-jones/"><u>Orderly Approach to Experience the Adventures of Indiana Jones</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/the-future-of-mini-computing-arrives-meet-the-minisforum-atomman-x7-ti-boasting-an-incredible-intel-core-185h-and-intuitive-ti-touch-screen-technology/"><u>The Future of Mini Computing Arrives: Meet the MinisForum AtomMan X7 Ti, Boasting an Incredible Intel Core 185H and Intuitive Ti-Touch Screen Technology</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/toms-tech-review-expert-insights-on-hardware-innovations/"><u>Tom's Tech Review: Expert Insights on Hardware Innovations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-enhancing-your-mac-usage-with-pro-tactics/"><u>Ultimate Guide to Enhancing Your Mac Usage with Pro Tactics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-future-of-virtuality-top-tier-oculus-rift-reviews/"><u>[New] 2024 Approved The Future of Virtuality Top-Tier Oculus Rift Reviews</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-zoom-into-your-workspace-learn-screen-casting-via-ezvide-for-2024/"><u>[New] Zoom Into Your Workspace Learn Screen Casting via EZvide for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-living-virtually-tips-for-an-active-facebook-presence/"><u>[Updated] 2024 Approved Living Virtually Tips for an Active Facebook Presence</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600397383-stellar-data-recovery-windows/"><u>失われたファイルを安全に取り戻せる - Stellar Data Recovery (ステラ・データリカバリ) Windows版無料ソフトウェア</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/advanced-techniques-for-recovering-inaccessible-and-erased-disk-partitions/"><u>Advanced Techniques for Recovering Inaccessible and Erased Disk Partitions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/become-a-veterinarian-on-android-12-great-simulators-for-2024/"><u>Become a Veterinarian on Android 12 Great Simulators for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-revival-made-simple-fast-secure-recovery-available/"><u>Data Revival Made Simple - Fast, Secure Recovery Available!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-use-whiteboard-in-zoom-meeting-for-2024/"><u>How to Use Whiteboard in Zoom Meeting for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-htc-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked HTC Phone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/intelligent-data-extraction-toolkit-cutting-edge-tech-support-for-retrieving-diverse-file-types/"><u>Intelligent Data Extraction Toolkit: Cutting-Edge Tech Support for Retrieving Diverse File Types</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/mac-file-revival-tool-secure-lost-data-recovery/"><u>Mac File Revival Tool: Secure Lost Data Recovery</u></a></li>
 </ul></div>
 

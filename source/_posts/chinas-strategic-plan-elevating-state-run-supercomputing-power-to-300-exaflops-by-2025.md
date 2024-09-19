@@ -1,7 +1,7 @@
 ---
 title: "China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025"
-date: 2024-09-11T23:23:43.321Z
-updated: 2024-09-14T16:58:17.713Z
+date: 2024-09-12T00:32:37.475Z
+updated: 2024-09-18T17:57:28.027Z
 tags:
   - desktop
 categories:
@@ -64,27 +64,26 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-the-unseen-history-of-your-social-media-activity/"><u>2024 Approved Examining the Unseen History of Your Social Media Activity</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/damn-small-linux-installation-for-outdated-desktops-and-netbooks-a-complete-guide/"><u>Damn Small Linux Installation for Outdated Desktops and Netbooks - A Complete Guide</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/discover-the-finest-cell-phone-contracts-for-elders-our-picks-for-202n4/"><u>Discover the Finest Cell Phone Contracts for Elders - Our Picks for 202N4</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/discover-the-future-of-music-programming-musicians-can-now-own-a-micropython-tulip-computer-for-under-60/"><u>Discover the Future of Music Programming: Musicians Can Now Own a MicroPython Tulip Computer for Under $60</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/gopro-videos-not-playing-smoothly-on-your-pc-heres-how-to-fix-uneven-frame-rates-and-buffering-problems/"><u>GoPro Videos Not Playing Smoothly on Your PC? Here's How to Fix Uneven Frame Rates and Buffering Problems!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-8-plus-5-ways-to-get-into-a-locked-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 8 Plus? 5 Ways to get into a Locked Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-screencast-o-matic-review-everything-you-need-to-know/"><u>In 2024, Screencast-O-Matic Review Everything You Need To Know</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/master-the-art-of-tech-with-toms-detailed-gadget-reviews-and-analysis/"><u>Master The Art Of Tech With Tom's Detailed Gadget Reviews and Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-file-system-checks-a-guide-to-using-chkdsk-on-windows/"><u>Mastering File System Checks: A Guide to Using ChkDsk on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fix-strategies-for-overcoming-error-0x887a0006/"><u>Quick-Fix Strategies for Overcoming Error 0X887A0006</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/revolutionary-design-meets-power-maingears-discrete-motherboard-free-computers-start-from-just-1399/"><u>Revolutionary Design Meets Power: Maingear's Discrete Motherboard-Free Computers Start From Just $1,399</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/scoop-the-finest-offers-on-pcs-and-laptops/"><u>Scoop the Finest Offers on PCs & Laptops</u></a></li>
-<li><a href="https://win11.techidaily.com/simplified-steps-to-access-windows-11s-printer-features-max-48-chars/"><u>Simplified Steps to Access Windows 11’S Printer Features (Max 48 Chars)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/techniques-for-accurate-ps3-playback-rendering/"><u>Techniques for Accurate PS3 Playback Rendering</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/ultra-thin-stick-pc-packed-with-power-intel-n100-fanless-design-16gb-memory-and-windows-11-os/"><u>Ultra-Thin Stick PC Packed With Power: Intel N100, Fanless Design, 16GB Memory and Windows 11 OS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/levating-your-style-with-youtubes-best-hauls-for-2024/"><u>[New] Elevating Your Style with YouTube's Best Hauls for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-expert-tips-top-8-verified-video-marketing-strategies/"><u>[Updated] In 2024, Expert Tips Top 8 Verified Video Marketing Strategies</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600614247-windowsstellar-data-recovery/"><u>「Windowsシステムから失われたデータを復元するStellar Data Recoveryフリーソフト」</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/asteroid-arsenal-skys-backup-base/"><u>Asteroid Arsenal - Sky's Backup Base</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-glow-dynamics-enhancing-visual-storytelling-through-lighting/"><u>In 2024, Glow Dynamics Enhancing Visual Storytelling Through Lighting</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nokia-c12-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Nokia C12 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reinstate-lost-data-via-win-recoverer-pro/"><u>Reinstate Lost Data via WIN Recoverer Pro</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600417752-stellar-data-recovery-windows/"><u>Stellar Data Recovery: Windows用の人気無料データ復元ツール</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/supercharge-your-tweet-views-for-flawless-hd/"><u>Supercharge Your Tweet Views for Flawless HD</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-of-ios-tools-for-erasing-intrusive-images-for-2024/"><u>The Ultimate List of iOS Tools for Erasing Intrusive Images for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/triple-os-file-finder-and-restoration-utility/"><u>Triple OS File Finder & Restoration Utility</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721461916180-why-cant-i-get-any-calls-on-my-iphone-heres-what-to-do/"><u>Why Can't I Get Any Calls on My iPhone? Here's What to Do</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windows-data-recovery-software-to-recover-lost-data/"><u>Windows Data Recovery Software to Recover Lost Data</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

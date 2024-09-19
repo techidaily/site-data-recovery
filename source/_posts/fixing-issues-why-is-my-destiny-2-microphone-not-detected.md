@@ -1,7 +1,7 @@
 ---
 title: "Fixing Issues: Why Is My Destiny 2 Microphone Not Detected?"
-date: 2024-09-11T19:55:00.047Z
-updated: 2024-09-14T22:13:43.697Z
+date: 2024-09-16T22:44:21.851Z
+updated: 2024-09-18T21:17:37.590Z
 tags:
   - win11
   - win10
@@ -97,32 +97,33 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 5. Select**iCUE** and then click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 6. Click**Yes** in the confirmation box.
 7. Restart your PC and replug your Corsair headset into your computer.
@@ -133,10 +134,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5 – Use a USB audio card
@@ -172,10 +173,10 @@ Top Pick
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6 – Seek technical support or after-sales service
@@ -201,18 +202,17 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-ultimate-list-of-engaging-moba-titles-on-android/"><u>[New] 2024 Approved The Ultimate List of Engaging MOBA Titles on Android</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-rethinking-streaming-new-platforms-challenge-obs-for-2024/"><u>[New] Rethinking Streaming New Platforms Challenge OBS for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-crafting-a-striking-online-presence-with-perfect-yt-dimensions/"><u>2024 Approved Crafting a Striking Online Presence with Perfect YT Dimensions</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/2024-approved-how-to-burn-photos-to-dvd-with-transitions-and-music/"><u>2024 Approved How to Burn Photos to DVD with Transitions and Music</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-hardware-guides-with-tom-your-go-to-tech-resource/"><u>Comprehensive Hardware Guides with Tom - Your Go-To Tech Resource</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/discover-which-prebuilt-desktop-for-gamers-matches-your-needs-best/"><u>Discover Which Prebuilt Desktop for Gamers Matches Your Needs Best</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/expert-insights-on-halo-bolts-portable-chargerjump-starter-performance-evaluation/"><u>Expert Insights on Halo Bolt's Portable Charger/Jump Starter Performance Evaluation</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How does the stardust trade cost In pokemon go On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/how-the-cyberpowerpc-gamer-xtreme-outperforms-a-review-of-a-cost-effective-yet-powerful-gaming-rig-with-plenty-of-upgrade-space/"><u>How the CyberPowerPC Gamer Xtreme Outperforms: A Review of a Cost-Effective Yet Powerful Gaming Rig with Plenty of Upgrade Space</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/inside-toms-computer-lab-a-journey-through-cutting-edge-hardware-insights/"><u>Inside Tom's Computer Lab: A Journey Through Cutting-Edge Hardware Insights</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-x-fold-2-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo X Fold 2</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-xiaomi-redmi-a2plus-by-drfone-android/"><u>Three Ways to Sim Unlock Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unbeatable-offer-on-the-alienware-aurora-r16-get-a-free-upgrade-to-rtx-4070-super-and-save-200/"><u>Unbeatable Offer on the Alienware Aurora R16 – Get a Free Upgrade to RTX 4070 Super & Save $200!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-obs-upgrade-tips-clearer-footage/"><u>[Updated] In 2024, OBS Upgrade Tips Clearer Footage</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-content-capture-5-must-have-social-apps/"><u>[Updated] Mastering Content Capture 5 Must-Have Social Apps</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/celestial-data-refresh/"><u>Celestial Data Refresh</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/cosmic-backup-depot-starlight-restore-service/"><u>Cosmic Backup Depot - Starlight Restore Service</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/efficient-launch-navigating-video-talks-in-instagram-for-2024/"><u>Efficient Launch Navigating Video Talks in Instagram for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/file-reclamation-software-for-windows-users/"><u>File Reclamation Software for Windows Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-a05s-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel A05s To Phone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-g2-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo G2</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/restore-files-using-windows-data-resurrector/"><u>Restore Files Using Windows Data Resurrector</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/save-whats-lost-with-windatamender/"><u>Save What's Lost with WinDataMender</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-app-breakdowns-and-system-failures/"><u>Step-by-Step Solution for App Breakdowns and System Failures</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Destiny 2'S Centipede Problem: Solutions for a Smooth Gaming Experience"
-date: 2024-09-09T22:57:15.836Z
-updated: 2024-09-14T22:35:20.978Z
+date: 2024-09-14T22:55:43.816Z
+updated: 2024-09-18T20:07:23.648Z
 tags:
   - win11
   - win10
@@ -71,13 +71,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-02-37.png)
 6. You should be able to join your friends’ world.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Disable Windows Firewall
 
  If Minecraft is not allowed in the Firewall, the “Unable to connect to world” issue can happen. You can connect to the internet but can’t join each other’s world. So check the Firewall settings and ensure the Minecraft executable file “javaw.exe” is allowed in the Firewall.
@@ -87,15 +80,16 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 2. Set Control Panel view by**Large icons** then click**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click**Allow an app or feature through Windows Defender Firewall** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
-4. Make sure the “javaw.exe” is checked. If not, click the Change settings button then check the “javaw.exe”. If you see more than one “javaw.exe” entries, check all of them. Ensure the Private box and the Publick box are checked too.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
+4. Make sure the “javaw.exe” is checked. If not, click the Change settings button then check the “javaw.exe”. If you see more than one “javaw.exe” entries, check all of them. Ensure the Private box and the Publick box are checked too.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5c260821a6772.png)
 
@@ -117,13 +111,27 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-714.png)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-715.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Run Minecraft and check whether you can connect to the world.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -132,13 +140,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 If this fix can’t help, you can move to the next.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Change the settings
 
@@ -150,6 +151,13 @@ If this fix can’t help, you can move to the next.
 4. Click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/x.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ### Fix 6: Disable antivirus software
@@ -159,6 +167,13 @@ If this fix can’t help, you can move to the next.
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Use a VPN
 
@@ -172,13 +187,6 @@ If this fix can’t help, you can move to the next.
 2. Run NordVPN and open it.
 3. Connect to a server in a chosen location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Coupon TIP** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
 
@@ -217,20 +225,16 @@ If this fix can’t help, you can move to the next.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-affluent-online-broadcasting-houses/"><u>[New] 2024 Approved Affluent Online Broadcasting Houses</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-in-depth-walkthrough-editing-youtube-videos-in-wmm/"><u>[New] 2024 Approved In-Depth Walkthrough Editing YouTube Videos in WMM</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-influence-unleashed-5-crucial-steps-to-thriving-on-instagram-marketing/"><u>[New] 2024 Approved Influence Unleashed 5 Crucial Steps to Thriving on Instagram Marketing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-comparing-costs-of-global-cloud-data-centers/"><u>[New] Comparing Costs of Global Cloud Data Centers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-revealing-artistic-strategies-in-fb-video-marketing-for-2024/"><u>[New] Revealing Artistic Strategies in FB Video Marketing for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-unmissable-vr-storytelling-masterpieces/"><u>[Updated] 2024 Approved Unmissable VR Storytelling Masterpieces</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/compact-computing-redefined-meet-the-minisforum-atomman-x7-equipped-with-intel-core-i3-1850u-and-responsive-touch-interface/"><u>Compact Computing Redefined: Meet the MinisForum AtomMan X7, Equipped with Intel Core I3-1850U & Responsive Touch Interface</u></a></li>
-<li><a href="https://win-dash.techidaily.com/find-the-best-hp-wifi-driver-version-compatible-with-windows-operating-systems/"><u>Find the Best HP WiFi Driver Version Compatible with Windows Operating Systems</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/from-camera-roll-to-twitter-feed-video-posting-guide-for-2024/"><u>From Camera Roll to Twitter Feed Video Posting Guide for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/inside-toms-computer-lab-a-journey-through-cutting-edge-hardware-insights/"><u>Inside Tom's Computer Lab: A Journey Through Cutting-Edge Hardware Insights</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/navigating-kid-proof-tech-a-thorough-review-of-the-amazon-fire-hd-10-kids-edition-with-exceptional-parental-controls/"><u>Navigating Kid-Proof Tech: A Thorough Review of the Amazon Fire HD 10 Kids Edition with Exceptional Parental Controls</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/the-future-is-beneath-the-waves-microsoft-project-natick-lowers-server-failure-rates-underwater/"><u>The Future Is Beneath the Waves: Microsoft Project Natick Lowers Server Failure Rates Underwater</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/top-rated-health-and-fitness-monitors/"><u>Top-Rated Health and Fitness Monitors</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/ultimate-guide-to-the-xbox-series-x-unleashing-high-definition-gaming/"><u>Ultimate Guide to the Xbox Series X: Unleashing High Definition Gaming</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unbeatable-offer-on-the-alienware-aurora-r16-get-a-free-upgrade-to-rtx-4070-super-and-save-200/"><u>Unbeatable Offer on the Alienware Aurora R16 – Get a Free Upgrade to RTX 4070 Super & Save $200!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-evasion-techniques-for-youtube-bans-for-2024/"><u>[New] Evasion Techniques for YouTube Bans for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-exclusive-deals-and-previews-from-creators-for-2024/"><u>[New] Exclusive Deals & Previews From Creators for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-art-of-surrendering-to-the-spectacle-posting-immersive-videos-on-facebook/"><u>[New] The Art of Surrendering to the Spectacle Posting Immersive Videos on Facebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-compre-cookies-guide-to-marketing-magic-with-20-terms/"><u>[Updated] A Compre Cookie's Guide to Marketing Magic with 20 Terms</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/all-inclusive-data-reconstruction-platform-the-best-in-versatile-data-restoration-solutions/"><u>All-Inclusive Data Reconstruction Platform: The Best in Versatile Data Restoration Solutions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/efficiently-recover-lost-data-with-winrecovery-plus/"><u>Efficiently Recover Lost Data with WinRecovery Plus</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-y100-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo Y100 Pattern Lock Screen</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/free-file-resurrection-software/"><u>Free File Resurrection Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-tecno-phantom-v-fold-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Tecno Phantom V Fold Phone? Unlock It Now</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/precision-driven-phone-data-extractor-kit/"><u>Precision-Driven Phone Data Extractor Kit</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windatarestoration-kit/"><u>WinDataRestoration Kit</u></a></li>
 </ul></div>
 

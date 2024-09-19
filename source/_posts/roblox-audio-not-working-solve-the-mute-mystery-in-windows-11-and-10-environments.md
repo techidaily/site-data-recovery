@@ -1,7 +1,7 @@
 ---
 title: Roblox Audio Not Working? Solve the Mute Mystery in Windows 11 and 10 Environments
-date: 2024-09-07T19:40:34.682Z
-updated: 2024-09-14T17:30:47.826Z
+date: 2024-09-11T19:16:34.350Z
+updated: 2024-09-18T16:00:37.638Z
 tags:
   - win11
   - win10
@@ -81,19 +81,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Run Dota 2 again to see whether the FPS is back to normal. If it didn’t work, or there was no new game patch available, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Turn off the Steam Overlay
 
  If you have the Steam Overlay turned on and FPS drops while playing Dota 2, just try disabling Steam Overlay for Dota 2 to see FPS increases. Here is how to do it:
@@ -102,13 +89,6 @@ There are mainly two methods for you to update the graphics driver:
 ![steam dota2 properties](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-dota2-properties.jpg)
 2. In the GENERAL section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable steam overlay in Dota 2](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-steam-overlay-in-Dota-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Dota 2 to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
@@ -155,19 +135,6 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **Manage 3D Settings** on the left, then navigate to the**Program Settings** tab. In the**Select a program to customize:** part, add Dota 2 from the program list.  
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Dota 2 modify Nvidia control panel](https://images.drivereasy.com/wp-content/uploads/2021/04/Dota-2-modify-Nvidia-control-panel.jpg)
 5. In the**Specify the settings for this program** : part, modify the following settings:  
 
@@ -184,13 +151,6 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
@@ -201,10 +161,32 @@ There are mainly two methods for you to update the graphics driver:
 2. View the Control Panel by **Large icons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
@@ -212,10 +194,10 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: modify Windows OS graphics settings
@@ -238,6 +220,14 @@ To modify Windows OS graphics settings, follow the steps below:
 2. Select**Gaming** , and make sure that the toggle for**Game Mode** is set to**On** . Then click the**Graphics** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-57.png)
 3. Select**Dota 2** from the list of apps, and select**High performance** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-56.png)
 
 ### Step 3: Modify in-game graphics settings
@@ -319,6 +309,14 @@ To set Dota 2 to High priority:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 Launch Dota 2 to see if you resolve the FPS drops issue.
@@ -346,17 +344,18 @@ Launch Dota 2 to see if you resolve the FPS drops issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-apowersoft-screen-recorder-testimony/"><u>[New] 2024 Approved Apowersoft Screen Recorder Testimony</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-use-filters-on-instagram-in-2024/"><u>[Updated] How to Use Filters on Instagram, In 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-capturing-every-angle-top-choice-pro-360cameras-of-2023/"><u>2024 Approved Capturing Every Angle Top Choice Pro 360°Cameras of 2023</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-vdx-quickcapture-evaluation-guide-comprehensive-review/"><u>2024 Approved VDX QuickCapture Evaluation Guide Comprehensive Review</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-xiaomi-civi-3-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi Civi 3? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/driver-rollback-successful/"><u>Driver Rollback Successful</u></a></li>
-<li><a href="https://video-capture.techidaily.com/high-definition-recording-reigns-supreme-top-picks-listed/"><u>High Definition Recording Reigns Supreme Top Picks Listed</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-14-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 14 to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/navigating-kid-proof-tech-a-thorough-review-of-the-amazon-fire-hd-10-kids-edition-with-exceptional-parental-controls/"><u>Navigating Kid-Proof Tech: A Thorough Review of the Amazon Fire HD 10 Kids Edition with Exceptional Parental Controls</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-gionee-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Gionee Phone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/top-rated-health-and-fitness-monitors/"><u>Top-Rated Health and Fitness Monitors</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/ultimate-guide-to-the-xbox-series-x-unleashing-high-definition-gaming/"><u>Ultimate Guide to the Xbox Series X: Unleashing High Definition Gaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elite-screen-recording-the-top-5-android-capturing-apps-for-2024/"><u>[Updated] Elite Screen Recording The Top 5 Android Capturing Apps for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windows-stellar-free-version/"><u>「Windows環境に最適化! Stellarデータ救出ソフトの使い方 - Free Version」</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-10-budget-friendly-platforms-for-youtube-branding-mastery/"><u>2024 Approved 10 Budget-Friendly Platforms for YouTube Branding Mastery</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-restoration-suite-universal-recovery-solutions-for-every-file-type/"><u>Comprehensive Data Restoration Suite: Universal Recovery Solutions for Every File Type</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-guide-to-data-resurrection-fixing-deleted-and-corrupted-disk-partitions/"><u>Expert Guide to Data Resurrection: Fixing Deleted and Corrupted Disk Partitions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-partition-data-revival-solutions-for-unrecoverable-drives/"><u>Expert Partition Data Revival Solutions for Unrecoverable Drives</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-incompatibility-between-premiere-pro-and-amdintel-drivers/"><u>Fixed Incompatibility Between Premiere Pro and AMD/Intel Drivers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-105-classic-by-fonelab-android-recover-messages/"><u>How to recover old messages from your 105 Classic</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-restore-functionality-of-your-logitech-c920-webcam-efficiently/"><u>How to Restore Functionality of Your Logitech C920 Webcam Efficiently</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-realme-c67-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Realme C67 5G</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/meteorite-mentorium-cosmic-backup-hub/"><u>Meteorite Mentorium - Cosmic Backup Hub</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/no-more-lost-files-rapid-stellar-data-recovery-now/"><u>No More Lost Files! Rapid, Stellar Data Recovery Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fixes-how-to-update-and-optimize-your-webcam-on-windows-10/"><u>Quick Fixes: How to Update and Optimize Your Webcam on Windows 10</u></a></li>
 </ul></div>
 

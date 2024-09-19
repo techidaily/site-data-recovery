@@ -1,7 +1,7 @@
 ---
 title: Reviving Your Last Connected USB Device for Windows Compatibility
-date: 2024-09-09T19:32:45.681Z
-updated: 2024-09-14T20:02:05.730Z
+date: 2024-09-16T16:43:06.623Z
+updated: 2024-09-19T00:57:51.912Z
 tags:
   - win11
   - win10
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc
  If your problem stops here, the USB port might be at fault, not your USB flash drive. Try to avoid using the same port next time, in case similar problem happens again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Update all possible device drivers
@@ -90,15 +90,22 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377758f2bdc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Change plan settings** next to the plan option you’re having now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3777c0a811b.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
@@ -109,10 +116,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3778a48905d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Select**Disabled** from the drop-down option. Then click**Apply** and**OK** to save the change.
@@ -150,16 +157,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37895fbce37.png)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3.1.3) When the uninstall finishes, restart your computer. Then repeat the same procedure with the rest of the USB controllers marked by yellow exclamation marks or question marks one by one.
@@ -173,13 +174,6 @@ Or click **Update All**  to automatically download and install the correct versi
  3.2.3) When the disable finishes, restart your PC. Repeat the same procedure as above, and if your USB controller driver is not enabled automatically, right-click it and click**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e29c15b5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Your USB device should be recognized now.
 
@@ -200,16 +194,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-how-to-apply-a-classic-video-transition-with-camtasia-9-for-2024/"><u>[Updated] How to Apply a Classic Video Transition with Camtasia 9 for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unseen-watchers-manual-how-to-stay-anonymous-on-instagram-live/"><u>[Updated] Unseen Watcher’s Manual How to Stay Anonymous on Instagram Live</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-unlocking-high-quality-audio-interpretation-via-google/"><u>2024 Approved Unlocking High-Quality Audio Interpretation via Google</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-hardware-guides-with-tom-your-go-to-tech-resource/"><u>Comprehensive Hardware Guides with Tom - Your Go-To Tech Resource</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/discover-which-prebuilt-desktop-for-gamers-matches-your-needs-best/"><u>Discover Which Prebuilt Desktop for Gamers Matches Your Needs Best</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/e-identity-enhancement-drawing-your-playful-iconography-for-2024/"><u>E-Identity Enhancement Drawing Your Playful Iconography for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/expert-insights-on-halo-bolts-portable-chargerjump-starter-performance-evaluation/"><u>Expert Insights on Halo Bolt's Portable Charger/Jump Starter Performance Evaluation</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/how-the-cyberpowerpc-gamer-xtreme-outperforms-a-review-of-a-cost-effective-yet-powerful-gaming-rig-with-plenty-of-upgrade-space/"><u>How the CyberPowerPC Gamer Xtreme Outperforms: A Review of a Cost-Effective Yet Powerful Gaming Rig with Plenty of Upgrade Space</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-continuous-freezing-issues-with-call-of-duty-black-ops-cold-war-on-your-pc/"><u>How to Fix Continuous Freezing Issues with Call of Duty - Black Ops Cold War on Your PC</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/integrating-twitter-feed-into-your-whatsapp-conversations-for-2024/"><u>Integrating Twitter Feed Into Your WhatsApp Conversations for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/smart-screening-vll-app-judgement/"><u>Smart Screening VLL App Judgement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-praise-in-pixels-the-new-marketing-trend/"><u>[Updated] Praise in Pixels The New Marketing Trend</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600637293-stellar-data-recovery-windows/"><u>無料のStellar Data Recovery: Windows用データを完全に復元できる</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/android-memory-mender-lossless-recovery/"><u>Android Memory Mender - Lossless Recovery</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oppo-f23-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Oppo F23 5G?</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskdefender-guarding-against-raid-failures/"><u>DiskDefender: Guarding Against RAID Failures</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskhaven-pro-advanced-raid-restoration/"><u>DiskHaven Pro: Advanced RAID Restoration</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-ds4-controller-issues-resolving-windows-not-recognizing-problems/"><u>Fixing DS4 Controller Issues: Resolving 'Windows Not Recognizing' Problems</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/how-to-reconstruct-erased-drive-sections-with-advanced-partition-restoration-apps/"><u>How to Reconstruct Erased Drive Sections with Advanced Partition Restoration Apps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/instant-access-get-your-rs232-driver-downloads-from-usb-in-minutes/"><u>Instant Access: Get Your RS232 Driver Downloads From USB in Minutes!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-overcoming-the-challenge-of-non-responsive-voice-chat-in-phasmophobia/"><u>Resolved: Overcoming the Challenge of Non-Responsive Voice Chat in Phasmophobia</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-update-and-download-for-amd-radeon-rx-470-drivers-improve-your-gaming-experience-now/"><u>Seamless Update & Download for AMD Radeon RX 470 Drivers: Improve Your Gaming Experience Now</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/stellardata-salvage-hub/"><u>StellarData Salvage Hub</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-impending-shake-up-meta-vs-european-social-media-giants/"><u>The Impending Shake-Up: Meta Vs. European Social Media Giants</u></a></li>
 </ul></div>
 
