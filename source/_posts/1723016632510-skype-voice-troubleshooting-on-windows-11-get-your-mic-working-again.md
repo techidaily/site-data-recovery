@@ -1,7 +1,7 @@
 ---
 title: Skype Voice Troubleshooting on Windows 11 - Get Your Mic Working Again!
-date: 2024-09-17T18:02:55.008Z
-updated: 2024-09-18T20:16:13.501Z
+date: 2024-09-16T16:42:43.456Z
+updated: 2024-09-23T18:36:04.711Z
 tags:
   - win11
   - win10
@@ -37,8 +37,23 @@ Follow these:
 1. On your keyboard, press the**Windows logo key**  and **I** (at the same time).
 2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###
 
@@ -63,20 +78,13 @@ Follow these:
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer and run Skype to see if your Microphone works.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###
 
@@ -86,6 +94,13 @@ Follow these:
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Log in Skype and check to see if your Microphone works.
 
@@ -106,21 +121,25 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-best-stabilized-gimbals-for-mobile-and-pro-cameras-unveiled/"><u>[New] Best Stabilized Gimbals for Mobile and Pro Cameras Unveiled</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-picturemosaic-maker-blend-videos-and-pics-macos/"><u>[New] PictureMosaic Maker Blend Videos & Pics macOS</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-chuckling-chords-and-clever-cuts-10-parody-classics/"><u>[Updated] In 2024, Chuckling Chords & Clever Cuts 10 Parody Classics</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-honor-v-purse-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Honor V Purse</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-rescue-efficient-software-solutions-for-reconstructing-lost-or-corrupt-disk-partitions/"><u>Data Rescue: Efficient Software Solutions for Reconstructing Lost or Corrupt Disk Partitions</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/galactic-data-retrieval/"><u>Galactic Data Retrieval</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-neo-5-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme GT Neo 5 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-select-12-high-tech-action-cams-with-added-geo-location-features/"><u>In 2024, Select 12 High-Tech Action Cams with Added Geo Location Features</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/luminarydata-restoration/"><u>LuminaryData Restoration</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/quick-and-easy-methods-for-shifting-ipad-footage-to-a-mac/"><u>Quick & Easy Methods for Shifting iPad Footage to a Mac</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-ultimate-ratio-reference-for-youtube-videos-and-ads/"><u>The Ultimate Ratio Reference for YouTube Videos & Ads</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-honor-90-lite-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Honor 90 Lite Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/universal-data-revival-set-for-windowsmaclinux-users/"><u>Universal Data Revival Set - For Windows/Mac/Linux Users</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unlock-files-no-cost-data-revival-tool/"><u>Unlock Files - No-Cost Data Revival Tool</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unseen-records-rediscovered-mac-data-rescue-pro/"><u>Unseen Records Rediscovered: Mac Data Rescue Pro</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600578736-windows/"><u>ステラ・データレコヴァリー: Windowsで使用可能な無料のデータ回復ツール</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-music-livestream-providers/"><u>[New] In 2024, Top Music Livestream Providers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-best-windows-music-managers/"><u>[Updated] Best Windows Music Managers</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/astral-data-redeemers/"><u>Astral Data Redeemers</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/complete-data-revival-solution-reinstate-lost-information-across-formats/"><u>Complete Data Revival Solution - Reinstate Lost Information Across Formats</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-universal-file-retrieval/"><u>Comprehensive Data Rescue Tool - Universal File Retrieval</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/cross-platform-file-restorer-win-mac-linux-edition/"><u>Cross-Platform File Restorer - Win, Mac, Linux Edition</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-level-partition-fixers-recover-inaccessible-or-missing-drives-easily/"><u>Expert-Level Partition Fixers: Recover Inaccessible or Missing Drives Easily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-oppo-a1x-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Oppo A1x 5G Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-30-powerful-freegame-hashtags-for-dominating-youtube/"><u>In 2024, 30 Powerful FreeGame Hashtags for Dominating YouTube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/income-maximizing-techno-gaming-tactics/"><u>Income Maximizing Techno-Gaming Tactics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-mpow-bluetooth-driver-version-available-now-compatible-with-windows-11-8-and-7/"><u>Latest MPOW Bluetooth Driver Version Available Now – Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/moon-mesh-mailroom-lunar-file-saver-hub/"><u>Moon Mesh Mailroom - Lunar File Saver Hub</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/navigating-influencer-growth-on-instagram-top-5-steps-with-real-success-for-2024/"><u>Navigating Influencer Growth on Instagram Top 5 Steps with Real Success for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-14-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on 14, is it possible?</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/rescue-inaccessible-hard-drive-areas-next-gen-programs-for-retrieving-lost-data-from-faulty-partitions/"><u>Rescue Inaccessible Hard Drive Areas: Next-Gen Programs for Retrieving Lost Data From Faulty Partitions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/rescue-your-data-top-software-for-restoring-erased-computer-sections/"><u>Rescue Your Data: Top Software for Restoring Erased Computer Sections</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600338083-stellar-data-recovery-windows/"><u>Stellar Data Recovery ソフトウェア - Windows上での無料使用で大切なデータを保護・復元</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-seamless-blend-of-images-into-majestic-collage-art/"><u>The Seamless Blend of Images Into Majestic Collage Art</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-psp-video-transcoder-apps-perfect-companion-for-reviving-your-vintage-psp/"><u>Top-Rated PSP Video Transcoder Apps: Perfect Companion for Reviving Your Vintage PSP</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/your-backups-guardian-instant-retrieval-solutions/"><u>Your Backup's Guardian: Instant Retrieval Solutions</u></a></li>
 </ul></div>
 

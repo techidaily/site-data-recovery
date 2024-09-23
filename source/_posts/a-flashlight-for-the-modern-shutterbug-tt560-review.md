@@ -1,7 +1,7 @@
 ---
 title: "A Flashlight for the Modern Shutterbug: TT560 Review"
-date: 2024-09-16T18:55:23.827Z
-updated: 2024-09-18T20:21:28.230Z
+date: 2024-09-22T18:51:31.633Z
+updated: 2024-09-23T17:54:18.758Z
 categories:
   - BestProducts
 description: "This Article Describes A Flashlight for the Modern Shutterbug: TT560 Review"
@@ -37,9 +37,23 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 4.9
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZMI PowerPack 20000
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/FttxoftMtHF3B2ZGmP2QubmOp3I=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -63,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/jITowxAWHBUo5WF3Y-XI6lKQNQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-05-02d76c869b864ef0abddfe824cfbf53a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
 ## **Design: Small but powerful**
@@ -85,13 +106,6 @@ Lifewire / Andrew Hayward
 
  There’s not much to the setup process here. Using the included USB-C to USB-C cable, simply plug one end into the power bank and the other into an AC adapter that you have handy—like one for a laptop, tablet, or[smartphone](https://www.lifewire.com/best-smartphones-4043781) . Once the four lights on the side are fully illuminated, then the battery pack is fully charged. Simply plug in devices using their respective cables to charge them using the power within the ZMI PowerPack 20000.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Charging Speed and Battery: It keeps going**
 
  The ZMI PowerPack 20000 has a hearty 20,000mAh cell within, and it charged my devices quickly without fully depleting the brick. I charged a[2019 MacBook Pro](https://www.lifewire.com/apple-macbook-pro-13-inch-2019-review-4770116) (13-inch) laptop from 0 percent to 100 percent in just 1 hour, 53 minutes using the ZMI PowerPack 20000’s USB-C PD port, with an effective charging rate of 42.92W (14.8Vx2.9A). When the charging process was complete, the PowerPack still had one light illuminated, indicating that there was still a little bit of battery life remaining.
@@ -104,18 +118,18 @@ Lifewire / Andrew Hayward
 
  Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: It’s a bargain**
 
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal. Granted, the maximum USB-C PD output of 45W won’t charge some super-powered laptops—but for compatible laptops, as well as smartphones, tablets, and other portable electronics, it’s very well priced.
 
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **ZMI PowerPack 20000 vs Mophie Powerstation AC**
 
@@ -153,17 +167,18 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-budget-savvy-gopro-upgrades-for-starters/"><u>[New] 2024 Approved Budget Savvy GoPro Upgrades for Starters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-stopwatch-like-pauses-tackling-frozen-photobooths/"><u>2024 Approved Stopwatch-Like Pauses Tackling Frozen Photobooths</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/apple-podcasts-downloading-made-easy-for-2024/"><u>Apple Podcasts Downloading Made Easy for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-universal-data-restoration-software/"><u>Comprehensive Data Rescue Tool: Universal Data Restoration Software</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/datarecoverer-versatile-raid-revival-software/"><u>DataRecoverer: Versatile RAID Revival Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/horizon-hopping-reviewing-the-gopro-karma-drone/"><u>Horizon Hopping Reviewing the GoPro Karma Drone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/htc-u23-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>HTC U23 won’t play HEVC H.265 media, how to fix? </u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>In 2024, RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/os-x-mavericks-the-ultimate-mp4-file-editor/"><u>OS X Mavericks The Ultimate MP4 File Editor</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/regain-access-to-missing-files-at-zero-cost/"><u>Regain Access to Missing Files at Zero Cost</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/resurrect-inaccessible-storage-areas-with-leading-edge-partition-restoration-applications/"><u>Resurrect Inaccessible Storage Areas with Leading-Edge Partition Restoration Applications</u></a></li>
-<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-from-script-to-screen-professional-youtube-editing-secrets/"><u>[Updated] From Script to Screen Professional YouTube Editing Secrets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-cross-platform-guide-to-transforming-photographic-genders-online/"><u>[Updated] In 2024, Cross-Platform Guide to Transforming Photographic Genders Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-laughlineup-app-become-a-master-at-memes/"><u>2024 Approved LaughLineup App - Become a Master at Memes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-in-class-top-drone-gimbals-compared-for-2024/"><u>Best in Class Top Drone Gimbals Compared for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/challenger-ai-how-claude-eclipses-chatgpt-in-4-major-ways/"><u>Challenger AI - How Claude Eclipses ChatGPT in 4 Major Ways</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-dell-g15-driver-download-and-installation-tutorial-for-windows-operating-systems/"><u>Easy Dell G15 Driver Download and Installation Tutorial for Windows Operating Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Motorola</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/revive-your-corrupted-partitions-with-cutting-edge-restoration-applications/"><u>Revive Your Corrupted Partitions with Cutting-Edge Restoration Applications</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/secure-data-retrieval-app-recover-accidentally-erased-or-blocked-areas/"><u>Secure Data Retrieval App: Recover Accidentally Erased or Blocked Areas</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-windows-code-9-printing-issues/"><u>Ultimate Guide: Resolving Windows Code 지 9 Printing Issues</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-data-restoration-tool-securely-retrieves-any-lost-files/"><u>Universal Data Restoration Tool - Securely Retrieves Any Lost Files</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unleash-film-potential-on-instagram-with-these-3-edges-for-2024/"><u>Unleash Film Potential on Instagram with These 3 Edges for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600720250-your-passport-to-recovered-files-free/"><u>Your Passport to Recovered Files, Free</u></a></li>
 </ul></div>
 
