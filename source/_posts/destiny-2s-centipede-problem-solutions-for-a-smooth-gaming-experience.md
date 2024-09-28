@@ -1,7 +1,7 @@
 ---
 title: "Destiny 2'S Centipede Problem: Solutions for a Smooth Gaming Experience"
-date: 2024-09-20T16:07:20.222Z
-updated: 2024-09-23T18:56:03.731Z
+date: 2024-09-27T01:03:15.584Z
+updated: 2024-09-27T21:22:48.790Z
 tags:
   - win11
   - win10
@@ -48,6 +48,19 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Re-add your friend
 
  I believe you’ve already tried restarting Minecraft maybe even restart your computer. There is one more thing you can try: re-add your friend.
@@ -67,17 +80,17 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-00-57.png)
 4. Evoke the menu and choose**Save & Quit** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-01-51.png)
 5. Back to the main menu and click the**Friends** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-02-37.png)
 6. You should be able to join your friends’ world.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable Windows Firewall
 
@@ -87,25 +100,18 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c.jpg)
 2. Set Control Panel view by**Large icons** then click**Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click**Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the “javaw.exe” is checked. If not, click the Change settings button then check the “javaw.exe”. If you see more than one “javaw.exe” entries, check all of them. Ensure the Private box and the Publick box are checked too.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5c260821a6772.png)
 
@@ -128,6 +134,13 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-714.png)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-715.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Run Minecraft and check whether you can connect to the world.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -138,10 +151,10 @@ If this fix can’t help, you can move to the next.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Change the settings
@@ -157,10 +170,10 @@ If this fix can’t help, you can move to the next.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable antivirus software
@@ -184,13 +197,6 @@ If this fix can’t help, you can move to the next.
 3. Connect to a server in a chosen location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Coupon TIP** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
 
  If it doesn’t work, you can contact your ISP for more information. Some players reported the ISP would block their ability to use all Minecraft servers. You need to persist and they’ll make a change.
@@ -198,10 +204,10 @@ If this fix can’t help, you can move to the next.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus tips
@@ -233,5 +239,24 @@ If this fix can’t help, you can move to the next.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-complete-drone-equipment-collection-guide/"><u>[New] 2024 Approved The Complete Drone Equipment Collection Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-compelling-visual-narratives-with-illustrators-motion-blur/"><u>[New] Crafting Compelling Visual Narratives with Illustrator's Motion Blur</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-master-mac-gif-archiver/"><u>[New] Master Mac GIF Archiver</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-tips-for-secure-clear-stock-purchases/"><u>[New] Top Tips for Secure, Clear Stock Purchases</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-15-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and Apple iPhone 15 The Right Way</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-uninstall-programs-on-windows-11/"><u>How to Uninstall Programs on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-brilliant-asus-monitor-ultrahd-true-black/"><u>In 2024, Brilliant Asus Monitor UltraHD, True Black</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/lost-partitions-rescued-top-tools-for-retrieving-accidentally-deleted-disk-sections/"><u>Lost Partitions Rescued: Top Tools for Retrieving Accidentally Deleted Disk Sections</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-graphics-tackling-the-sims-4s-video-card-malfunctions-with-ease/"><u>Mastering Graphics: Tackling The Sims 4'S Video Card Malfunctions with Ease</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/memorymender-pro-contacts-videos-photos/"><u>MemoryMender Pro: Contacts, Videos, Photos</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/partition-revival-services-bring-back-your-data-from-inaccessible-areas/"><u>Partition Revival Services - Bring Back Your Data From Inaccessible Areas</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/places-to-go-the-best-online-hubs-for-text-effects/"><u>Places to Go The Best Online Hubs for Text Effects</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/restore-and-revive-every-bit-of-mac-data/"><u>Restore and Revive Every Bit of Mac Data</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/software-solutions-for-retrieving-lost-or-corrupted-disk-partitions/"><u>Software Solutions for Retrieving Lost or Corrupted Disk Partitions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/win-datarescue-helper-bring-back-forgotten-files/"><u>WIN-DataRescue Helper - Bring Back Forgotten Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/your-passport-to-recovered-files-free/"><u>Your Passport to Recovered Files, Free!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600450383-windows/"><u>ステラ・データ・リカバリ: Windowsに最適化された無料データ回復ツール</u></a></li>
+</ul></div>
 

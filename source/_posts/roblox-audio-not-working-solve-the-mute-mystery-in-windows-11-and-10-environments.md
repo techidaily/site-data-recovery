@@ -1,7 +1,7 @@
 ---
 title: Roblox Audio Not Working? Solve the Mute Mystery in Windows 11 and 10 Environments
-date: 2024-09-22T17:42:38.523Z
-updated: 2024-09-23T16:33:52.650Z
+date: 2024-09-22T16:10:48.750Z
+updated: 2024-09-27T21:46:13.089Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ If you’re experiencing Dota 2 FPS drops on your Windows computer, don’t worr
 8. **[Restrict applications and downloads in the background](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Set the Power Plan of your PC for Best Performance](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Verify the game files
 
  You should ensure that the game files are not corrupted, since corrupted game files might lead to FPS drops in Dota 2\. To fix FPS drops caused by corrupted game files, you can verify the integrity of game files in Steam. Here is how to do it:
@@ -50,13 +43,6 @@ If you’re experiencing Dota 2 FPS drops on your Windows computer, don’t worr
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/image-1.png)
 
  Launch Dota 2 after the verifying process is completed to see if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your drivers
 
@@ -115,6 +101,13 @@ There are mainly two methods for you to update the graphics driver:
 `**-map dota -high -dx11 +fps_max #**`  
 ![modify dota 2 steam launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/modify-dota-2-steam-launch-options1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Explanation** :
 
 `**-map dota**` : lets Steam load the Dota 2 map right when you launch the game.
@@ -127,16 +120,16 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch Dota 2 to see if you get a better FPS. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Modify the graphics settings
 
  If the FPS in Dota2 still doesn’t improve, you may need to modify the graphics settings. If you don’t know how, just follow the steps below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1: modify your graphics card settings
 
@@ -155,6 +148,13 @@ There are mainly two methods for you to update the graphics driver:
 3. Select **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **Manage 3D Settings** on the left, then navigate to the**Program Settings** tab. In the**Select a program to customize:** part, add Dota 2 from the program list.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Dota 2 modify Nvidia control panel](https://images.drivereasy.com/wp-content/uploads/2021/04/Dota-2-modify-Nvidia-control-panel.jpg)
 5. In the**Specify the settings for this program** : part, modify the following settings:  
@@ -194,13 +194,6 @@ There are mainly two methods for you to update the graphics driver:
 7. Click **Apply** to save the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: modify Windows OS graphics settings
 
 To modify Windows OS graphics settings, follow the steps below:
@@ -214,21 +207,7 @@ To modify Windows OS graphics settings, follow the steps below:
 ![dota 2 graphics settings Windows 10](https://images.drivereasy.com/wp-content/uploads/2021/04/dota-2-graphics-settings-Windows-10.jpg)
 4. Once added, click the Options button under dota2.exe, then select**High performance** and click**Save** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![dota 2 graphics settings Windows 10 high performance](https://images.drivereasy.com/wp-content/uploads/2021/04/dota-2-graphics-settings-Windows-10-high-performance.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### On Windows 11
 
@@ -237,13 +216,20 @@ To modify Windows OS graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-57.png)
 3. Select**Dota 2** from the list of apps, and select**High performance** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-56.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3: Modify in-game graphics settings
@@ -302,6 +288,13 @@ To set Dota 2 to High priority:
 3. Navigate to the **Detail** tab. **Right-click** the**process dota2.exe** and select **High** .  
 ![set High priority yo dota2.exe](https://images.drivereasy.com/wp-content/uploads/2021/04/set-High-priority-yo-dota2.exe_.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run Dota 2 to see if the in-game FPS improves. If the FPS is still the same, try the next fix, below.
 
 ## Fix 8: Restrict applications and downloads in the background
@@ -315,10 +308,10 @@ To set Dota 2 to High priority:
  Run Dota 2 again to see if you can play the game smoothly. if not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 9: Set the Power Plan of your PC for Best Performance
@@ -334,6 +327,13 @@ To set Dota 2 to High priority:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Launch Dota 2 to see if you resolve the FPS drops issue.
 
@@ -358,5 +358,18 @@ Launch Dota 2 to see if you resolve the FPS drops issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-boosting-social-impact-with-the-combined-force-of-youtube-and-instagram-stories/"><u>[New] In 2024, Boosting Social Impact with the Combined Force of YouTube and Instagram Stories</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-convenient-mobile-watch-enabledisable-picture-in-picture-in-youtube/"><u>[Updated] Convenient Mobile Watch Enable/Disable Picture-In-Picture in YouTube</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-closer-look-at-apples-latest-imac-the-stunning-design-meets-the-formidable-m1-technology-reviewed-here/"><u>A Closer Look at Apple's Latest iMac - The Stunning Design Meets the Formidable M1 Technology Reviewed Here</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/cracking-the-code-fixing-call-of-duty-warzone-screen-glitches/"><u>Cracking the Code: Fixing Call of Duty: Warzone Screen Glitches</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1723010914128-expert-tips-for-fixing-hitman-3-error-connectivity-trouble-no-more/"><u>Expert Tips for Fixing Hitman 3 Error: Connectivity Trouble No More!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-adobe-premiere-pro-for-mac-the-video-editor-for-professionals/"><u>In 2024, Adobe Premiere Pro for Mac The Video Editor for Professionals</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-s23-tactical-edition-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 Tactical Edition Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/solving-performance-issues-with-avatar-frontiers-of-pandora-how-to-stop-the-game-from-lagging/"><u>Solving Performance Issues with 'Avatar: Frontiers of Pandora': How to Stop the Game From Lagging</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/troubleshoot-and-resolve-sound-problems-handling-failed-to-generate-sound/"><u>Troubleshoot and Resolve Sound Problems: Handling 'Failed to Generate Sound'</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unlocking-wifi-excellence-an-in-depth-guide-to-the-features-of-the-netgear-nighthawk-c7000-router/"><u>Unlocking WiFi Excellence: An In-Depth Guide to the Features of the Netgear Nighthawk C7000 Router</u></a></li>
+</ul></div>
 

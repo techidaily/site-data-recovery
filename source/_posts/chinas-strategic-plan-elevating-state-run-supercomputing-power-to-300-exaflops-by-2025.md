@@ -1,7 +1,7 @@
 ---
 title: "China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025"
-date: 2024-09-20T16:34:28.258Z
-updated: 2024-09-23T18:03:39.616Z
+date: 2024-09-22T22:17:40.811Z
+updated: 2024-09-27T18:58:18.406Z
 tags:
   - desktop
 categories:
@@ -62,12 +62,25 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-delving-deep-a-sincere-examination-of-recordcast/"><u>[New] In 2024, Delving Deep A Sincere Examination of RecordCast</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600333666-windows/"><u>安全にWindows上でファイルを取り戻すための無料ソリューション「ステラデータリカバリー」</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/astralinfo-reclamation/"><u>AstralInfo Reclamation</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/backupbuddy-ai-androids-data-guardian/"><u>BackupBuddy AI: Android's Data Guardian</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-revival-suite-seamless-retrieval-for-diverse-file-formats/"><u>Comprehensive Data Revival Suite: Seamless Retrieval for Diverse File Formats</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-strategies-for-overcoming-a-code-43-error/"><u>Effortless Strategies for Overcoming a Code 43 Error</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y27s-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y27s in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-illuminating-emotions-an-hdr-portraitists-guide/"><u>In 2024, Illuminating Emotions An HDR Portraitist's Guide</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/moon-mesh-mailroom-lunar-file-saver-hub/"><u>Moon Mesh Mailroom - Lunar File Saver Hub</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-no-rest-for-the-wicked-game-crashes-on-windows-a-step-by-step-guide/"><u>Solving 'No Rest for the Wicked' Game Crashes on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-expert-reviews-and-buying-guides-t17239718709632/"><u>Tom's Computer Components: Expert Reviews and Buying Guides</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

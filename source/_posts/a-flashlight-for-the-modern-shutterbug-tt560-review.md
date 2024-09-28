@@ -1,7 +1,7 @@
 ---
 title: "A Flashlight for the Modern Shutterbug: TT560 Review"
-date: 2024-09-22T18:51:31.633Z
-updated: 2024-09-23T17:54:18.758Z
+date: 2024-09-23T00:25:44.553Z
+updated: 2024-09-28T05:15:28.624Z
 categories:
   - BestProducts
 description: "This Article Describes A Flashlight for the Modern Shutterbug: TT560 Review"
@@ -38,22 +38,15 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 4.9
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZMI PowerPack 20000
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/FttxoftMtHF3B2ZGmP2QubmOp3I=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -77,14 +70,14 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/jITowxAWHBUo5WF3Y-XI6lKQNQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-05-02d76c869b864ef0abddfe824cfbf53a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Design: Small but powerful**
 
@@ -106,6 +99,13 @@ Lifewire / Andrew Hayward
 
  There’s not much to the setup process here. Using the included USB-C to USB-C cable, simply plug one end into the power bank and the other into an AC adapter that you have handy—like one for a laptop, tablet, or[smartphone](https://www.lifewire.com/best-smartphones-4043781) . Once the four lights on the side are fully illuminated, then the battery pack is fully charged. Simply plug in devices using their respective cables to charge them using the power within the ZMI PowerPack 20000.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Charging Speed and Battery: It keeps going**
 
  The ZMI PowerPack 20000 has a hearty 20,000mAh cell within, and it charged my devices quickly without fully depleting the brick. I charged a[2019 MacBook Pro](https://www.lifewire.com/apple-macbook-pro-13-inch-2019-review-4770116) (13-inch) laptop from 0 percent to 100 percent in just 1 hour, 53 minutes using the ZMI PowerPack 20000’s USB-C PD port, with an effective charging rate of 42.92W (14.8Vx2.9A). When the charging process was complete, the PowerPack still had one light illuminated, indicating that there was still a little bit of battery life remaining.
@@ -119,10 +119,10 @@ Lifewire / Andrew Hayward
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: It’s a bargain**
@@ -165,5 +165,20 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-a-comprehensible-list-of-mac-snippers-ranked-for-2024/"><u>[New] A Comprehensible List of Mac Snippers Ranked for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600581354-windows-stellar/"><u>「Windows用で人気! ゼロコストの Stellarデータ再生ソフト - ステラリカバリ」</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-ultimate-solution-for-every-kind-of-file-restoration/"><u>Comprehensive Data Rescue Tool: Ultimate Solution for Every Kind of File Restoration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discussing-the-merits-and-drawbacks-of-aurora-hdr-tech/"><u>Discussing the Merits and Drawbacks of Aurora HDR Tech</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-multisystem-video-processing-on-a-single-windows-setup-with-tdarr/"><u>Elevate Multisystem Video Processing on a Single Windows Setup with Tdarr</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/enhancing-visual-appeal-with-instagrams-filters-and-effects/"><u>Enhancing Visual Appeal with Instagram's Filters & Effects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-red-magic-9-proplus-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Red Magic 9 Pro+ to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-discover-the-truth-is-vn-video-editor-pro-a-top-notch-video-editor/"><u>In 2024, Discover the Truth Is VN Video Editor Pro a Top-Notch Video Editor?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instagram-story-mastery-controlling-your-video-speed-for-2024/"><u>Instagram Story Mastery Controlling Your Video Speed for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/restore-past-records-with-win-filefinder/"><u>Restore Past Records with WIN FileFinder</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600620588-universal-data-recuperation-program-brings-back-all-your-valuable-files/"><u>Universal Data Recuperation Program – Brings Back All Your Valuable Files!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/win-data-rediscovery-program/"><u>WIN Data Rediscovery Program</u></a></li>
+</ul></div>
 
