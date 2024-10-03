@@ -1,7 +1,7 @@
 ---
 title: Skype Voice Troubleshooting on Windows 11 - Get Your Mic Working Again!
-date: 2024-09-24T17:35:42.716Z
-updated: 2024-09-28T04:45:06.048Z
+date: 2024-09-29T09:12:56.495Z
+updated: 2024-10-03T05:16:56.824Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ Follow these:
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###
 
 ### Fix 2: Adjust the audio settings on Skype
@@ -56,17 +49,23 @@ Follow these:
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
 
 ###
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your sound card driver
 
@@ -79,10 +78,23 @@ Follow these:
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer and run Skype to see if your Microphone works.
@@ -90,10 +102,10 @@ Follow these:
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows audio service
@@ -122,20 +134,24 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-scan-for-collective-shared-content-on-messenger/"><u>[New] 2024 Approved Scan for Collective Shared Content on Messenger</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-cutting-edge-title-design-in-after-effects/"><u>[New] In 2024, Cutting-Edge Title Design in After Effects</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-camera-gimbals-top-10-iphone-android-dslr-compilation/"><u>2024 Approved Ideal Camera Gimbals Top 10 IPhone, Android, DSLR Compilation</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/30-cutting-edge-tiktok-profile-photo-ideas-for-2024/"><u>30 Cutting-Edge TikTok Profile Photo Ideas for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-guide-to-data-destruction-insightful-articles-and-best-practices-curated-by-stellar/"><u>Comprehensive Guide to Data Destruction: Insightful Articles & Best Practices Curated by Stellar</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-solutions-to-address-nwstoreexe-application-malfunctions/"><u>Comprehensive Solutions to Address nw_store.exe Application Malfunctions</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-agni-2-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Agni 2 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-honor-x9a-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Honor X9a Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-c67-4g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme C67 4G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reviving-your-last-connected-usb-device-for-windows-compatibility/"><u>Reviving Your Last Connected USB Device for Windows Compatibility</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-correcting-the-missing-mscorwksdll-error-message/"><u>Solutions for Correcting the Missing mscorwks.dll Error Message</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-resolve-iphones-error-14/"><u>Solving the Puzzle: A Step-by-Step Guide to Resolve iPhone's Error 14</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/troubleshooting-cannot-connect-to-the-server-on-lost-ark/"><u>Troubleshooting 'Cannot Connect to the Server' On Lost Ark</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/troubleshooting-phasmophobia-issues-latest-fixes-for-gamers/"><u>Troubleshooting Phasmophobia Issues - Latest Fixes for Gamers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-fixes-for-disabled-obs-fullscreen-mode/"><u>[New] Fixes for Disabled OBS Fullscreen Mode</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-spice-up-your-storytelling-the-secrets-behind-looped-videos-in-instagram/"><u>[New] Spice Up Your Storytelling The Secrets Behind Looped Videos in Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-tailor-your-tweets-exceptional-video-to-twitch-tools/"><u>[New] Tailor Your Tweets Exceptional Video to Twitch Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-boosting-like-counts-tips-for-tiktok-unboxings/"><u>[Updated] 2024 Approved Boosting Like Counts Tips for TikTok Unboxings</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-blueprint-of-successful-video-endorsements/"><u>2024 Approved The Blueprint of Successful Video Endorsements</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600423390-stellar-data-recovery-windows/"><u>無料のStellar Data Recoveryソフトウェア: Windows用データを完全に復元できます</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/all-encompassing-tech-specialist-suite-for-data-restoration-works-with-diverse-file-formats/"><u>All-Encompassing Tech Specialist Suite for Data Restoration - Works with Diverse File Formats</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/confidently-retrieving-lost-iphone-files-now/"><u>Confidently Retrieving Lost iPhone Files Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-unsuccessful-update-to-windows-11-build-1607/"><u>Error: Unsuccessful Update to Windows 11 Build 1607</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-constant-crashes-in-secret-of-mana-sedenium-manus-for-pc-players/"><u>How to Resolve Constant Crashes in Secret of Mana (SEDENIUM MANUS) for PC Players</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-playchoice-pondering-over-dacast/"><u>In 2024, PlayChoice Pondering Over DaCast</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/optimal-language-learning-platforms-for-success/"><u>Optimal Language Learning Platforms for Success</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reuniteyourdata-android-media-recovery/"><u>ReuniteYourData: Android Media Recovery</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/revive-past-memories-swift-and-reliable-file-recovery/"><u>Revive Past Memories - Swift and Reliable File Recovery</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/revive-your-corrupted-partitions-with-cutting-edge-restoration-applications/"><u>Revive Your Corrupted Partitions with Cutting-Edge Restoration Applications</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/secure-file-system-auditing-software/"><u>Secure File System Auditing Software</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/streamlined-experience-via-cookiebot-integration/"><u>Streamlined Experience via Cookiebot Integration</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/versatile-files-recovery-windows-mac-and-linux-assist/"><u>Versatile Files Recovery - Windows, Mac & Linux Assist</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600261620-windowsstellar-data-recovery/"><u>Windows互換緊急リカバリープログラムStellar Data Recovery 無料版使用法講座</u></a></li>
 </ul></div>
 

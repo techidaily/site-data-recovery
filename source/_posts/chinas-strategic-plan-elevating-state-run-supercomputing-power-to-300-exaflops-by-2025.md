@@ -1,7 +1,7 @@
 ---
 title: "China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025"
-date: 2024-09-22T22:17:40.811Z
-updated: 2024-09-27T18:58:18.406Z
+date: 2024-09-29T22:44:49.803Z
+updated: 2024-10-03T11:06:46.094Z
 tags:
   - desktop
 categories:
@@ -64,23 +64,27 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-delving-deep-a-sincere-examination-of-recordcast/"><u>[New] In 2024, Delving Deep A Sincere Examination of RecordCast</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600333666-windows/"><u>安全にWindows上でファイルを取り戻すための無料ソリューション「ステラデータリカバリー」</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/astralinfo-reclamation/"><u>AstralInfo Reclamation</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/backupbuddy-ai-androids-data-guardian/"><u>BackupBuddy AI: Android's Data Guardian</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-data-revival-suite-seamless-retrieval-for-diverse-file-formats/"><u>Comprehensive Data Revival Suite: Seamless Retrieval for Diverse File Formats</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-strategies-for-overcoming-a-code-43-error/"><u>Effortless Strategies for Overcoming a Code 43 Error</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-vivo-y27s-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y27s in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-illuminating-emotions-an-hdr-portraitists-guide/"><u>In 2024, Illuminating Emotions An HDR Portraitist's Guide</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/moon-mesh-mailroom-lunar-file-saver-hub/"><u>Moon Mesh Mailroom - Lunar File Saver Hub</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-no-rest-for-the-wicked-game-crashes-on-windows-a-step-by-step-guide/"><u>Solving 'No Rest for the Wicked' Game Crashes on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-expert-reviews-and-buying-guides-t17239718709632/"><u>Tom's Computer Components: Expert Reviews and Buying Guides</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ecoming-a-filmora-fcc-the-pathway-explained-for-2024/"><u>[New] Becoming a Filmora FCC The Pathway Explained for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-explore-the-pinnacle-of-photography-frames/"><u>[New] In 2024, Explore the Pinnacle of Photography Frames</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-the-hidden-meanings-behind-facebooks-messenger-icon/"><u>[Updated] Unveiling the Hidden Meanings Behind Facebook's Messenger Icon</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600581354-windows-stellar/"><u>「Windows用で人気! ゼロコストの Stellarデータ再生ソフト - ステラリカバリ」</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-easy-way-to-craft-your-digital-self-in-virtual-worlds/"><u>2024 Approved The Easy Way to Craft Your Digital Self in Virtual Worlds</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/all-encompassing-data-rescue-application-regain-access-to-all-your-files/"><u>All-Encompassing Data Rescue Application – Regain Access to All Your Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-ultimate-solution-for-every-kind-of-file-restoration/"><u>Comprehensive Data Rescue Tool: Ultimate Solution for Every Kind of File Restoration</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy XCover 6 Pro Tactical Edition to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-access-top-shorter-video-downloads-for-free-online/"><u>In 2024, Access Top Shorter Video Downloads for FREE Online</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/restore-past-records-with-win-filefinder/"><u>Restore Past Records with WIN FileFinder</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/telechargement-gratuit-du-codec-h265-pour-compresser-et-encoder-en-video-hevc/"><u>Téléchargement Gratuit Du Codec H.265 Pour Compresser Et Encoder en Vidéo HEVC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-top-rated-free-online-video-editing-tools-ideal-replacements-for-windows/"><u>The Ultimate List of Top-Rated Free Online Video Editing Tools: Ideal Replacements for Windows</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600620588-universal-data-recuperation-program-brings-back-all-your-valuable-files/"><u>Universal Data Recuperation Program – Brings Back All Your Valuable Files!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/win-data-rediscovery-program/"><u>WIN Data Rediscovery Program</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600202279-stellar-data-recovery-windows/"><u>スペシャルオファー！Stellar Data Recovery - 万が一Windowsで失われたデータを安全に取り戻せる無料プログラム</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
