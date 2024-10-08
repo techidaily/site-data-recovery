@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Solutions to Address nw_store.exe Application Malfunctions
-date: 2024-10-01T10:05:38.799Z
-updated: 2024-10-03T10:30:51.250Z
+date: 2024-10-06T17:21:57.729Z
+updated: 2024-10-08T17:54:46.757Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 
 **Note** : Some Ubisoft games feature Denuvo DRM (digital rights management) which is an anti-tamper technology. In this case, it requires some kind of CPU feature to run the game. If your game doesn’t have DRM removed, you may not be able to launch the game. And you should head to Ubisoft for suggestions.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Install the latest patch
 
  Ubisoft (developer of Assassin’s Creed) regularly releases patches to improve the game experience, as buggy issues in Assassin’s Creed Odyssey can cause problems like crashing or lagging. So you should **check for the latest updates of your game, and install the available game patches** . This can help fix problems that are likely to cause the crashing.
@@ -51,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
  Assassin’s Creed Odyssey still crashes? Don’t worry. Try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update available drivers
@@ -100,6 +93,13 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-73.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In**Window Mode** , click and change to another mode.
 
  If you’re using**Fullscreen** mode, change it to**Borderless** mode.  
@@ -111,6 +111,13 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click the**Graphics** tab, try lowing these settings:
 
 * **Shadows** : Low
@@ -121,25 +128,18 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Restart your computer.
 
 Open Assassin’s Creed Odyssey and see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
 
@@ -151,16 +151,16 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
@@ -171,10 +171,10 @@ Open Assassin’s Creed Odyssey and see if it works.
  6) Restart Steam and open Assassin’s Creed Odyssey and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why is Assassin’s Creed Odyssey crashing?
@@ -204,18 +204,22 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-visual-voyage-documenting-desktop-views-on-winos/"><u>[Updated] Visual Voyage Documenting Desktop Views on WinOS</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-delving-into-historical-masterpieces-without-copyrights/"><u>2024 Approved Delving Into Historical Masterpieces without Copyrights</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-detective-free-recovery-expertise/"><u>Data Detective – Free Recovery Expertise</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/explore-eco-films-learn-and-innovate-with-yts-green-screens-for-2024/"><u>Explore Eco-Films Learn & Innovate with YT's Green Screens for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-best-practices-for-writing-captivating-episode-summaries/"><u>In 2024, Best Practices for Writing Captivating Episode Summaries</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/itech-data-rescue-toolkit-retrieval-made-easy-and-reliable/"><u>ITech Data Rescue Toolkit: Retrieval Made Easy & Reliable</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/raidredeemer-adept-at-raid-data-restoration/"><u>RaidRedeemer: Adept at RAID Data Restoration</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/supernova-safehouse-intergalactic-file-finder/"><u>Supernova Safehouse - Intergalactic File Finder</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-poco-x6-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Poco X6 Pro without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-the-im6s-driver-constraint-a-comprehensive-guide/"><u>Understanding the IM6's Driver Constraint: A Comprehensive Guide</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/windows-stellar/"><u>Windows 用の失われたファイルを復元する Stellar データリカバリ -無料版でも利用可能</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600270207-windowsstellar-data-recovery/"><u>Windows用無料のStellar Data Recoveryソフトでデータを安全に復元</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-creators-guide-to-the-top-9-affordable-video-editing-apps/"><u>[Updated] The Creator's Guide to the Top 9 Affordable Video Editing Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-your-pathway-to-perfect-igtv-footage-from-phone-to-dslr/"><u>[Updated] Your Pathway to Perfect IGTV Footage From Phone to DSLR</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-detective-pro-your-financial-ally/"><u>Data Detective Pro – Your Financial Ally</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-2-phone-without-password-by-drfone-android/"><u>How To Unlock Lava Yuva 2 Phone Without Password?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-lava-yuva-3-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Lava Yuva 3 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-sony-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Sony FRP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-iphone-6-plus-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile iPhone 6 Plus online without SIM Card?</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/lossless-restoration-software-android-edition/"><u>Lossless Restoration Software: Android Edition</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-fundamental-features-to-consider-when-selecting-an-audio-editor-for-mac-users/"><u>New 2024 Approved Fundamental Features to Consider When Selecting an Audio Editor for Mac Users</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/optimal-hard-drive-recovery-protocols/"><u>Optimal Hard Drive Recovery Protocols</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/orbit-oasis-cosmic-file-restoration-hub/"><u>Orbit Oasis - Cosmic File Restoration Hub</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/photography-editing-tips-for-making-stunning-photos/"><u>Photography Editing Tips for Making Stunning Photos</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/pictureperfect-recovery-for-android/"><u>PicturePerfect Recovery for Android</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/regain-data-with-winrecovery-suite/"><u>Regain Data with WinRecovery Suite</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windows-file-revival-toolkit/"><u>Windows File Revival Toolkit</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600663304-windowsstellar-data-recovery/"><u>Windows上で失われたデータを簡単に取り戻すStellar Data Recovery: 信頼性の高いフリーソフト</u></a></li>
 </ul></div>
 

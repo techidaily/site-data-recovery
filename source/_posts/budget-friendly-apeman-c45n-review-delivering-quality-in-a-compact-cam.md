@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Apeman C45n Review: Delivering Quality in a Compact Cam"
-date: 2024-09-28T23:43:30.000Z
-updated: 2024-10-02T21:39:58.344Z
+date: 2024-10-06T16:47:25.761Z
+updated: 2024-10-08T18:02:13.353Z
 categories:
   - BestProducts
 description: "This Article Describes Budget-Friendly Apeman C45n Review: Delivering Quality in a Compact Cam"
@@ -42,10 +42,10 @@ Lifewire / Jeremy Laukkonen
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Xbox Series S
@@ -77,6 +77,19 @@ Lifewire / Jeremy Laukkonen
 
  This console is remarkably compact and has a surprisingly low price point. Gamers looking for a[4K UHD in HDR](https://www.lifewire.com/difference-between-hdr-and-4k-4176961) experience will need to pay a premium for the Series X, but the Xbox Series S offers an enticing alternative if you’re looking to save some money or haven’t yet made the jump to 4K.
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Sleek and compact**
 
  The Xbox Series S is small, and it's almost impossible to oversell that point. I had seen pictures and videos of the console and the spec sheet, but I was still surprised at how compact this thing was when I unboxed it. It's smaller than the Xbox One S, and Microsoft bills it as "our smallest Xbox ever." That's especially noteworthy since Microsoft and Sony went exceptionally big with their flagship consoles, the Series X and PlayStation 5.
@@ -90,10 +103,10 @@ Lifewire / Jeremy Laukkonen
  Aside from the bold vent grill, the Series S doesn’t break any new ground regarding design choices. It has sturdy rubber feet on two sides, so you can lay it flat or stand it up on end, as has become more or less standard with home consoles. It feels pretty sturdy in both positions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup Process: Easier than ever before**
@@ -129,10 +142,16 @@ Lifewire / Jeremy Laukkonen
  Load times were negligible in each game I played, which I expected from a super-fast NVME SSD storage system. Some games had more noticeable load times than others, but not enough to disrupt gameplay.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Games: Microsoft still has an exclusivity problem**
@@ -171,19 +190,6 @@ Lifewire / Jeremy Laukkonen
 
 ![Xbox Series S](https://www.lifewire.com/thmb/_GSxQvNgtJMhoyNl62qlg671Qvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-25991056c5c2486695923f7c1b61c7b5.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jeremy Laukkonen
 
  When downloading over Wi-Fi, I rarely saw over 150Mbps (compared to the 350Mbps I measured on my HP Spectre x360 laptop in the same room and at the same time). Curiously, the Series S download speed tanked, down to the lower double digits, while I was running speed tests on my laptop. Similarly, download speeds dive into the low teens whenever a game runs, even in the background.
@@ -191,6 +197,13 @@ Lifewire / Jeremy Laukkonen
  When connected via Ethernet, the Series S reported 880Mbps down and 65Mbps up on the network status screen. That’s right on the money in terms of what I see directly at my Eero router. Actual download speeds topped out at 500Mbps and typically hung out between 270 and 320Mbps.
 
  The bottom line is that the Series S provided fairly unimpressive download speeds over Wi-Fi but tore it up when connected via Ethernet. You’ll want to connect this all-digital console via Ethernet to a fast internet connection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software and User Interface: Familiar and cozy**
 
@@ -241,10 +254,16 @@ Lifewire / Jeremy Laukkonen
  The Xbox Series S might be a bit of a step back from the Xbox One X in performance, but the fact is that it’s a next-gen console that plays next-gen games with some impressive hardware and an unreal price tag. Gamers in search of the best graphics possible will want to look at the Xbox Series X instead, but gamers who haven’t yet made the 4K plunge, parents in need of an affordable console for their kids, or anyone looking to save money will all find something to like here.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -256,13 +275,6 @@ Lifewire / Jeremy Laukkonen
 [Nintendo Switch Review](https://www.lifewire.com/nintendo-switch-review-4707563)
 
 [Nintendo Switch Lite Review](https://www.lifewire.com/nintendo-switch-lite-review-4788015)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -296,18 +308,17 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-unique-content-to-differentiate-your-channel/"><u>[New] 2024 Approved Crafting Unique Content to Differentiate Your Channel</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-your-first-venture-into-hosting-effective-zoom-webinars-for-2024/"><u>[Updated] Your First Venture Into Hosting Effective Zoom Webinars for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/all-in-one-restore-solution-safeguard-any-form-of-lost-data/"><u>All-in-One Restore Solution: Safeguard Any Form of Lost Data</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-truecaller-application-analysis-features-usability-and-reviews/"><u>Comprehensive Truecaller Application Analysis: Features, Usability & Reviews</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-performance-of-apples-latest-m1-powered-macbook-air-13/"><u>Exploring the Performance of Apple's Latest M1 Powered MacBook Air 13</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/free-windows-and-mac-screen-saver-software-with-full-control-for-2024/"><u>Free Windows & Mac Screen Saver Software with Full Control for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/french-fluency-essentials-for-the-savvy-traveler/"><u>French Fluency Essentials for the Savvy Traveler</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-nubia-red-magic-8s-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Nubia Red Magic 8S Pro to Mac? | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/recoveryraid-specializing-in-raid-systems/"><u>RecoveryRaid: Specializing in RAID Systems</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reviving-files-specialized-software-by-windows/"><u>Reviving Files: Specialized Software by Windows</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/the-ultimate-software-for-reviving-unavailable-disk-sectors-and-forgotten-drives/"><u>The Ultimate Software for Reviving Unavailable Disk Sectors & Forgotten Drives</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/universal-data-restoration-program-secure-retrieval-for-any-file/"><u>Universal Data Restoration Program: Secure Retrieval for Any File</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/videovault-pro-comprehensive-data-rescue/"><u>VideoVault Pro: Comprehensive Data Rescue</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-the-dji-phantom-3-pro-advantages/"><u>2024 Approved Inside the DJI Phantom 3 Pro Advantages</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-ultimate-focusrite-scarlett-2i2-windows-sound-card-for-producers/"><u>Download the Ultimate Focusrite Scarlett 2I2 Windows Sound Card for Producers</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/exploring-gadgets-with-tom-in-depth-guides-on-electronics-and-hardware/"><u>Exploring Gadgets with Tom: In-Depth Guides on Electronics and Hardware</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-5-outstanding-mkv-tools-for-macos-users/"><u>In 2024, 5 Outstanding MKV Tools for macOS Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-hot-30-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Hot 30 5G Phone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/navigating-tech-with-toms-hardware-your-comprehensive-guide/"><u>Navigating Tech with Tom's Hardware - Your Comprehensive Guide</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1723262378040-qualcomms-affordable-snapdragon-x-elite-get-your-compact-desktop-development-kit-starting-preorders-today/"><u>Qualcomm's Affordable Snapdragon X Elite: Get Your Compact Desktop Development Kit – Starting Preorders Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swift-upload-of-sizeable-videos-from-iphone-to-mac-desktop-for-2024/"><u>Swift Upload of Sizeable Videos From iPhone to Mac Desktop for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-meizu-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Meizu Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rofit-generating-online-entertainer/"><u>Top Profit Generating Online Entertainer</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/top-toms-hardware-reviews-and-guides/"><u>Top Tom's Hardware Reviews & Guides</u></a></li>
 </ul></div>
 

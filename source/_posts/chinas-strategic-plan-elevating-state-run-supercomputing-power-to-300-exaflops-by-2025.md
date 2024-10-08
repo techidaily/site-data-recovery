@@ -1,7 +1,7 @@
 ---
 title: "China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025"
-date: 2024-09-29T22:44:49.803Z
-updated: 2024-10-03T11:06:46.094Z
+date: 2024-10-02T18:50:43.146Z
+updated: 2024-10-08T16:35:14.013Z
 tags:
   - desktop
 categories:
@@ -64,27 +64,22 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ecoming-a-filmora-fcc-the-pathway-explained-for-2024/"><u>[New] Becoming a Filmora FCC The Pathway Explained for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-explore-the-pinnacle-of-photography-frames/"><u>[New] In 2024, Explore the Pinnacle of Photography Frames</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-the-hidden-meanings-behind-facebooks-messenger-icon/"><u>[Updated] Unveiling the Hidden Meanings Behind Facebook's Messenger Icon</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600581354-windows-stellar/"><u>「Windows用で人気! ゼロコストの Stellarデータ再生ソフト - ステラリカバリ」</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-easy-way-to-craft-your-digital-self-in-virtual-worlds/"><u>2024 Approved The Easy Way to Craft Your Digital Self in Virtual Worlds</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/all-encompassing-data-rescue-application-regain-access-to-all-your-files/"><u>All-Encompassing Data Rescue Application – Regain Access to All Your Files</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-ultimate-solution-for-every-kind-of-file-restoration/"><u>Comprehensive Data Rescue Tool: Ultimate Solution for Every Kind of File Restoration</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy XCover 6 Pro Tactical Edition to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-access-top-shorter-video-downloads-for-free-online/"><u>In 2024, Access Top Shorter Video Downloads for FREE Online</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/restore-past-records-with-win-filefinder/"><u>Restore Past Records with WIN FileFinder</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/telechargement-gratuit-du-codec-h265-pour-compresser-et-encoder-en-video-hevc/"><u>Téléchargement Gratuit Du Codec H.265 Pour Compresser Et Encoder en Vidéo HEVC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-top-rated-free-online-video-editing-tools-ideal-replacements-for-windows/"><u>The Ultimate List of Top-Rated Free Online Video Editing Tools: Ideal Replacements for Windows</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600620588-universal-data-recuperation-program-brings-back-all-your-valuable-files/"><u>Universal Data Recuperation Program – Brings Back All Your Valuable Files!</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/win-data-rediscovery-program/"><u>WIN Data Rediscovery Program</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600202279-stellar-data-recovery-windows/"><u>スペシャルオファー！Stellar Data Recovery - 万が一Windowsで失われたデータを安全に取り戻せる無料プログラム</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-removing-your-facebook-live-video-tech-steps/"><u>[New] 2024 Approved Removing Your Facebook Live Video Tech Steps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leveraging-iphone-features-for-gif-storage-and-entertainment/"><u>[Updated] Leveraging iPhone Features for GIF Storage & Entertainment</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-share-the-laughter-mastering-kinemaster/"><u>2024 Approved Share the Laughter Mastering KineMaster</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/exploring-the-samsung-galaxy-tab-s6-in-depth-analysis-of-s-pen-features-and-dex-mode-capabilities/"><u>Exploring the Samsung Galaxy Tab S6: In-Depth Analysis of S Pen Features & Dex Mode Capabilities</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/home-cinema-mastery-top-10-hd-players-list/"><u>Home Cinema Mastery Top 10 HD Players' List</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/the-core-underlying-processes-in-predictive-ai/"><u>The Core Underlying Processes in Predictive AI</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/the-future-of-mini-computing-arrives-meet-the-minisforum-atomman-x7-ti-boasting-an-incredible-intel-core-185h-and-intuitive-ti-touch-screen-technology/"><u>The Future of Mini Computing Arrives: Meet the MinisForum AtomMan X7 Ti, Boasting an Incredible Intel Core 185H and Intuitive Ti-Touch Screen Technology</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/ultimate-guide-resolving-thaumaturge-game-crashes-on-your-pc/"><u>Ultimate Guide: Resolving Thaumaturge Game Crashes on Your PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/next-favorite-youtuber-might-be-just-a-test-away-six-categories-explored-for-2024/"><u>Your Next Favorite YouTuber Might Be Just a Test Away Six Categories Explored for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

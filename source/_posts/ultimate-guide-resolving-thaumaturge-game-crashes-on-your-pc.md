@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Thaumaturge Game Crashes on Your PC"
-date: 2024-09-27T11:16:15.043Z
-updated: 2024-10-02T19:31:14.315Z
+date: 2024-10-02T17:33:08.612Z
+updated: 2024-10-08T18:54:47.314Z
 tags:
   - win11
   - win10
@@ -31,10 +31,10 @@ If you encounter Oculus Link black screen / not working when you’re launching 
  Before you attempt the following fixes, please make sure your PC meets the[minimum requirements for Oculus Link](https://support.oculus.com/444256562873335) . Otherwise, you’ll need to upgrade the hardware component before you can use the app normally.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Repair system files
@@ -47,26 +47,27 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the repair completes, test if Oculus Link is back on track. If not, move on to the second fix.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your device drivers
 
@@ -84,6 +85,19 @@ There are mainly two ways you can update the driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -100,13 +114,6 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/resolution-settings.jpg)
 5. Restart your PC for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Reboot your Oculus headset and plug it back to the PC.
 
  Check whether Oculus Link works properly with your VR rig or not. If not, proceed to the next method.
@@ -122,19 +129,20 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart Oculus Link and your VR devices to see if the problem goes away. Still no luck? Don’t worry; there are two more fixes to try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Opt out of Public Test Channel
 
@@ -151,6 +159,13 @@ It’s suggested you opt out of the Beta mode and here’s how:
 
  Test if Oculus Link returns to the normal state. If not, continue to the next troubleshooting tips.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6 – Use the dedicated graphics card
 
  You’ll need to plug your Oculus headset into the dedicated graphics card or else the black screen occurs. If the connection is correct and you still have trouble using Oculus Link, follow the steps below to configure the NVIDIA settings.
@@ -159,23 +174,9 @@ It’s suggested you opt out of the Beta mode and here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-3-1.jpg)
 2. On the left pane, select**3D settings** \>**Manage 3D settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4.jpg)
 3. Go to the**Program Settings** tab. Then, select your Oculus app from the drop-down list and choose**High-performance NVIDIA processor** below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For users who have an AMD dedicated graphics card, here is a guide on[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017) .
 
@@ -203,21 +204,24 @@ Restart Oculus Link and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-finding-your-footprint-in-the-world-of-youtube-comments/"><u>[New] 2024 Approved Finding Your Footprint in the World of YouTube Comments</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mastering-inshot-pc-editing-made-easy/"><u>[New] 2024 Approved Mastering Inshot PC Editing Made Easy</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-depth-look-at-engaging-with-youtube-comment-threads-for-2024/"><u>[Updated] In-Depth Look at Engaging with YouTube Comment Threads for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-master-your-online-presence-the-ultimate-guide-to-effective-freefire-tags-for-2024/"><u>[Updated] Master Your Online Presence The Ultimate Guide to Effective FreeFire Tags for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-monetization-masterclass-with-carminati-ajay-crafting-content-for-commerce/"><u>[Updated] Monetization Masterclass with Carminati (AJay) Crafting Content for Commerce</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unleash-creativity-a-compreayer-to-slow-motion-photography-and-videos-for-instagram-success/"><u>[Updated] Unleash Creativity A Compreayer to Slow-Motion Photography and Videos for Instagram Success</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/arrayrescue-raid-0-5-and-6-reconstruction/"><u>ArrayRescue: RAID 0, 5 & 6 Reconstruction</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-play-40c-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/cosmicinfo-reconstruction/"><u>CosmicInfo Reconstruction</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-rescue-express-unlock-lost-information-today/"><u>Data Rescue Express - Unlock Lost Information Today</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/efficient-hardware-monitoring-kit/"><u>Efficient Hardware Monitoring Kit</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/experience-relief-secure-data-retrieval-without-delay/"><u>Experience Relief: Secure Data Retrieval Without Delay</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Phone without Google Account?</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/instant-relief-for-lost-data-stellar-secure-solutions-await/"><u>Instant Relief for Lost Data - Stellar, Secure Solutions Await</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reclaim-your-digital-assets-now-with-efficiency-and-speed/"><u>Reclaim Your Digital Assets Now with Efficiency & Speed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-illuminating-your-android-videos-a-quick-guide/"><u>[New] In 2024, Illuminating Your Android Videos A Quick Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-streaming-hits-for-movie-lovers-for-2024/"><u>[New] Ultimate Streaming Hits for Movie Lovers for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600614247-windowsstellar-data-recovery/"><u>「Windowsシステムから失われたデータを復元するStellar Data Recoveryフリーソフト」</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/android-reunion-photos-and-contacts/"><u>Android Reunion: Photos and Contacts</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/asteroid-arsenal-skys-backup-base/"><u>Asteroid Arsenal - Sky's Backup Base</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-oppo-find-x7-ultra-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/effortless-ios-file-salvation-toolkit/"><u>Effortless iOS File Salvation Toolkit</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-f15-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy F15 5G Phones with/without a PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-iphone-se-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On iPhone SE If Youve Tried Everything</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-poco-m6-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Poco M6 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ative-brainstroming-techniques-for-channels-names-for-2024/"><u>Innovative Brainstroming Techniques for Channels' Names for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reinstate-lost-data-via-win-recoverer-pro/"><u>Reinstate Lost Data via WIN Recoverer Pro</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/resolving-audio-issues-how-to-fix-ogg-file-wont-play-error-in-windows-10-version-1903/"><u>Resolving Audio Issues: How to Fix 'OGG File Won't Play' Error in Windows 10 Version 1903</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600417752-stellar-data-recovery-windows/"><u>Stellar Data Recovery: Windows用の人気無料データ復元ツール</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-brisk-blueprint-to-crafting-google-image-mosaics/"><u>The Brisk Blueprint to Crafting Google Image Mosaics</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/triple-os-file-finder-and-restoration-utility/"><u>Triple OS File Finder & Restoration Utility</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unleash-your-youtube-potential-with-easy-techniques-for-2024/"><u>Unleash Your YouTube Potential with Easy Techniques for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windows-data-detective-restore-operations/"><u>Windows Data Detective - Restore Operations</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windows-data-recovery-software-to-recover-lost-data/"><u>Windows Data Recovery Software to Recover Lost Data</u></a></li>
 </ul></div>
 

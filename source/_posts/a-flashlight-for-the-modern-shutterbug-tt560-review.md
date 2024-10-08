@@ -1,7 +1,7 @@
 ---
 title: "A Flashlight for the Modern Shutterbug: TT560 Review"
-date: 2024-09-30T17:09:39.334Z
-updated: 2024-10-03T04:40:35.862Z
+date: 2024-10-02T19:14:46.448Z
+updated: 2024-10-08T19:24:08.780Z
 categories:
   - BestProducts
 description: "This Article Describes A Flashlight for the Modern Shutterbug: TT560 Review"
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 4.9
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ZMI PowerPack 20000
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/FttxoftMtHF3B2ZGmP2QubmOp3I=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
@@ -70,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/jITowxAWHBUo5WF3Y-XI6lKQNQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-05-02d76c869b864ef0abddfe824cfbf53a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
 ## **Design: Small but powerful**
@@ -86,25 +86,18 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/vaINPELrwcWnOZDsX1ztKkCouww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-03-1530f666df824f6281040c2ae3285eb2-2e7956941b91403aa888795a7e5e2e33.jpeg)
 
-Lifewire / Andrew Hayward
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Lifewire / Andrew Hayward
 
 ## **Setup Process: Easy does it**
 
  There’s not much to the setup process here. Using the included USB-C to USB-C cable, simply plug one end into the power bank and the other into an AC adapter that you have handy—like one for a laptop, tablet, or[smartphone](https://www.lifewire.com/best-smartphones-4043781) . Once the four lights on the side are fully illuminated, then the battery pack is fully charged. Simply plug in devices using their respective cables to charge them using the power within the ZMI PowerPack 20000.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Charging Speed and Battery: It keeps going**
 
@@ -116,6 +109,13 @@ Lifewire / Andrew Hayward
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/asGVK-moJ54HvqyY9N6Kb-KM8hw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-04-828899fb01024cd4a0e35980251c04b4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
 ## **Price: It’s a bargain**
@@ -123,6 +123,13 @@ Lifewire / Andrew Hayward
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal. Granted, the maximum USB-C PD output of 45W won’t charge some super-powered laptops—but for compatible laptops, as well as smartphones, tablets, and other portable electronics, it’s very well priced.
 
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **ZMI PowerPack 20000 vs Mophie Powerstation AC**
 
@@ -133,19 +140,6 @@ Lifewire / Andrew Hayward
  **A fantastic portable laptop battery charger for nearly everyone.**
 
  It’s honestly difficult to find anything to complain about with the ZMI PowerPack 20000\. It’s powerful and does a great job of charging laptops and phones, it has enough capacity to handle those tasks with ease, it’s compact and well-designed, and the price is fantastic. It’s half the size of the giant Anker power brick that I’ve brought on my last two international trips and can handle all of the same tasks. In other words,_this_ is the power brick I’m bringing on my next trip.
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -173,18 +167,22 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-screen-recording-via-mobile-devices-a-guide-for-2024/"><u>[Updated] Snapchat Screen Recording via Mobile Devices A Guide for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-apple-iphone-6-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 6 When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/bandicam-a-user-centric-review-and-guide/"><u>Bandicam A User-Centric Review & Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-words-read-aloud-feature-when-it-stops-working-in-windows/"><u>How to Fix Word’s Read Aloud Feature When It Stops Working in Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-tecno-camon-30-pro-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Tecno Camon 30 Pro 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On OnePlus Ace 3? | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/precious-documents-rediscovered-gratis/"><u>Precious Documents Rediscovered - Gratis</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/starsaver-services/"><u>StarSaver Services</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600609120-stellar-windows/"><u>Stellar データリカバリー: Windows用で最適、無料データ復元ツール</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/total-information-salvage-toolkit-powerful-and-versatile-data-recovery-application/"><u>Total Information Salvage Toolkit: Powerful and Versatile Data Recovery Application</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-fix-chatgpt-app-issues-on-iphone/"><u>Troubleshooting Guide: How to Fix ChatGPT App Issues on iPhone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-building-connections-interacting-with-your-viewers/"><u>[New] 2024 Approved Building Connections Interacting With Your Viewers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-easy-way-change-clownfish-tone-in-windows/"><u>[New] Easy Way Change Clownfish Tone in Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-quick-and-easy-skype-calls-to-mp3-files-free-for-2024/"><u>[New] Quick & Easy Skype Calls to MP3 Files (Free) for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-moto-g84-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Moto G84 5G</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/advanced-storage-salvage-program/"><u>Advanced Storage Salvage Program</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600653166-android-data-recovery-software-to-recover-lost-photos-videos/"><u>Android Data Recovery Software to Recover Lost Photos, Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-prime-x670-p-wifi-am5-motherboard-get-yours-for-a-steal-at-only-135/"><u>ASUS Prime X670-P WiFi AM5 Motherboard - Get Yours for a Steal at Only $135!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/constellation-backup-repair/"><u>Constellation Backup Repair</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/cross-platform-backup-and-data-reconstruction/"><u>Cross-Platform Backup and Data Reconstruction</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-resurrection-software-for-deleted-mac-files/"><u>Data Resurrection Software for Deleted Mac Files</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-11-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 11 Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/master-techniques-for-improving-chrome-web-video-quality-for-2024/"><u>Master Techniques for Improving Chrome Web Video Quality for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/revolutionary-tech-for-total-data-salvage-unlock-every-kind-of-lost-information/"><u>Revolutionary Tech for Total Data Salvage: Unlock Every Kind of Lost Information</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/secure-iphone-data-extraction-unlocking-lost-information/"><u>Secure iPhone Data Extraction: Unlocking Lost Information</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-instructions-converting-your-dvds-into-iso-files-on-windows-10/"><u>Step-by-Step Instructions: Converting Your DVDs Into ISO Files on Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-507-unique-instagram-caption-ideas/"><u>Top 507 Unique Instagram Caption Ideas</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600583031-windows-stellar-data-recovery/"><u>Windows版無料データ復元ソフト - Stellar Data Recovery(ステラデータリカバリー)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Phasmophobia Issues - Latest Fixes for Gamers
-date: 2024-10-02T12:14:06.740Z
-updated: 2024-10-02T23:48:41.170Z
+date: 2024-10-02T16:35:36.122Z
+updated: 2024-10-08T19:32:05.056Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ There are two ways you can get the latest correct graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -93,6 +100,13 @@ There are two ways you can get the latest correct graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-500.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Relaunch_Diablo 3_ from the Blizzard Battle.net app.
 
 If your game crashes again, go ahead with the fix below.
@@ -117,13 +131,6 @@ If your game crashes again, go ahead with the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Install the latest patch
 
  The developers of _Diablo 3_ release regular game patches to fix bugs. It’s possible that a recent patch has stopped your game from running properly, and that a new patch is required to fix it. To check if there is any update, follow the instructions below:
@@ -138,13 +145,6 @@ If your game crashes again, go ahead with the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Reset your in-game settings
 
  In some cases, improper in-game settings can also trigger the crashing issue when launching_Diablo 3_ . Try running your game with default settings to see if it can works properly. Here is how to do it:
@@ -154,13 +154,6 @@ If your game crashes again, go ahead with the fix below.
 **2)** Click **BLIZZARD** , then **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-683.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Click the **Game Settings tab** \>**Reset in-Game Options** .
 
@@ -178,6 +171,13 @@ If your game crashes again, go ahead with the fix below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: **Delete the game cache files**
 
  Another possible cause of the Diablo 3 crashing issue is the corrupted cache folder. In this case, clearing the cache folder can fix the issue. Follow the instructions below to see how to do it:
@@ -193,10 +193,16 @@ If your game crashes again, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-705.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Type **%ProgramData%** and click **OK** .
@@ -207,16 +213,16 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-505.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch_Diablo 3_ to check if this worked for you. If the game is still unplayable, try the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Run your game in compatibility mode
 
@@ -229,6 +235,13 @@ If your game crashes again, go ahead with the fix below.
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-510.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Click the list box below to select **Windows 8** , then click **Apply** \>**OK** .
 
@@ -258,10 +271,10 @@ If your game crashes again, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-508.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click **Yes, Uninstall** .
@@ -279,22 +292,15 @@ If your game crashes again, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-441.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-443.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click **Uninstall a program** .
 
@@ -332,17 +338,22 @@ If your game crashes again, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://data-recovery.techidaily.com/stellar-for-windows/"><u>「無料Stellarデータ回復ツール for Windows環境」</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/backupbuddy-saving-android-media/"><u>BackupBuddy: Saving Android Media</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/conveniently-enjoy-nba-games-top-15-streaming-methods/"><u>Conveniently Enjoy NBA Games - Top 15 Streaming Methods</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ate-youtube-with-these-strategic-freefire-video-hashtags/"><u>Dominate YouTube with These Strategic FreeFire Video Hashtags</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/efficient-partition-recovery-tools-bring-back-lost-or-locked-drives/"><u>Efficient Partition Recovery Tools: Bring Back Lost or Locked Drives</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/one-stop-software-for-diverse-data-rescue-services-full-spectrum-recovery-system/"><u>One-Stop Software for Diverse Data Rescue Services – Full Spectrum Recovery System</u></a></li>
-<li><a href="https://windows11.techidaily.com/reverse-lost-rendering-device-error-in-overwatch-2/"><u>Reverse Lost Rendering Device Error in Overwatch 2</u></a></li>
-<li><a href="https://extra-support.techidaily.com/selecting-soundtracks-perfecting-trailers-atmosphere-for-2024/"><u>Selecting Soundtracks Perfecting Trailers' Atmosphere for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/startling-insight-initiate-conversations-with-gpt-3/"><u>Startling Insight: Initiate Conversations With GPT-3</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-dark-screens-on-streams/"><u>Troubleshooting Dark Screens on Streams</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600487237-windows/"><u>Windows向けに特化したステラデータリカバリ: 失敗からデータを取り戻す手助け、無料ダウンロード可能</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-prime-add-ons-the-best-new-filmmakers-starter-list/"><u>[New] 2024 Approved Prime Add-Ons The Best New Filmmaker’s Starter List</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600433832-stellar-data-recovery-windows/"><u>「Stellar Data Recovery: Windows版無料、完全修復機能付き」</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600651185-windowsstellar-data-recovery/"><u>無料で安全なWindows用データ回復ツール：Stellar Data Recoveryの使い方</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-expert-tech-support-for-retrieving-lost-files/"><u>Comprehensive Data Rescue Tool: Expert Tech Support for Retrieving Lost Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-rescue-at-no-charge-superior-solver/"><u>Data Rescue at No Charge - Superior Solver</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-print-server-not-responding-issue/"><u>Fixing Print Server Not Responding Issue</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-motorola-moto-g73-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Motorola Moto G73 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/intelligent-data-restoration-suite/"><u>Intelligent Data Restoration Suite</u></a></li>
+<li><a href="https://windows11.techidaily.com/masterful-methods-to-overcome-security-errors-in-windows-11/"><u>Masterful Methods to Overcome Security Errors in Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/meme-mastery-the-top-10-apps-for-android-and-ios-users/"><u>Meme Mastery The Top 10 Apps for Android and iOS Users</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/orbitaldata-revival-hub/"><u>OrbitalData Revival Hub</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reclaim-lost-data-in-minutes-stellar-service-guarantee/"><u>Reclaim Lost Data in Minutes - Stellar Service Guarantee!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-instructions-enabling-bluetooth-features-in-windows-7/"><u>Step-by-Step Instructions: Enabling Bluetooth Features in Windows 7</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/story-for-answer-a-pink-noise/"><u>Story for Answer A: Pink Noise</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-strategies-resolving-rocket-league-freezes-and-crashes/"><u>Top Strategies: Resolving Rocket League Freezes and Crashes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-routine-the-9-ways-chatgpt-boosts-personal-efficiency/"><u>Transform Your Routine: The 9 Ways ChatGPT Boosts Personal Efficiency</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/ultimate-backup-solutions-for-mac-users-missing-files/"><u>Ultimate Backup Solutions for Mac Users' Missing Files</u></a></li>
 </ul></div>
 

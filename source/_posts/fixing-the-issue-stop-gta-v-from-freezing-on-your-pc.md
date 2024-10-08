@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Stop GTA V From Freezing on Your PC"
-date: 2024-09-25T18:36:59.135Z
-updated: 2024-10-03T01:52:14.511Z
+date: 2024-10-07T18:51:31.463Z
+updated: 2024-10-08T19:42:20.008Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 
 [8: Increase your virtual memory](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Call of Duty: Vanguard System Requirements
 
 | **System requirements**  | **Minimum**                                                     | **Recommended**                              | **Competitive**                                             | **Ultra 4K**                                     |
@@ -58,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 | **High-Rez asset cache** | Up to 32 GB                                                     | Up to 32 GB                                  | Up to 32 GB                                                 | Up to 64 GB                                      |
 | **Video memory**         | 2 GB                                                            | 4 GB                                         | 8 GB                                                        | 10 GB                                            |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Close background applications
 
  The first quick fix you can try is to shut down the programs running in the background. They may interfere with Vanguard and cause the game to freeze. Or, these applications may take up the resources that are required for Vanguard to run smoothly, thus triggering performance issues. You can kill the background processes via Task Manager:
@@ -74,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
 If this doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update the graphics driver
 
@@ -99,15 +78,15 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -125,10 +104,10 @@ If this doesn’t solve your problem, try the next fix.
 If this doesn’t help, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Run the game executable as administrator
@@ -153,13 +132,6 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 
  If you’re still experiencing random freezes while playing Vanguard, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6: Make sure your system is up-to-date
 
  As the system requirements suggest, it’s important to make sure your system is up-to-date. Windows releases updates on a regular basis which may fix known bugs and compatibility issues. Installing the latest updates may make a difference in solving the freezing issues in Vanguard.
@@ -174,10 +146,24 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
 If this doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Check your antivirus software
 
@@ -190,10 +176,10 @@ If this doesn’t solve your problem, try the next fix.
 If the freezing issue persists, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 8: Increase your virtual memory
@@ -207,11 +193,32 @@ If the freezing issue persists, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 6. Use the below formulas to calculate the values you should set:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
@@ -222,13 +229,6 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 9. Reboot your PC to see if Vanguard still freezes on your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -249,15 +249,19 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-hot.techidaily.com/iuwlleeuuplusocsplusodsplusodhuodsplusodhoobppluswkueaenoeahoobquwrvewqjeajiplusazlsa6ioipsplusoblplusobhoocroocpoodisi/"><u>動画コンテンツで効果的な命名手法 : 詳しいガイド</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/asteroid-arsenal-skys-backup-base/"><u>Asteroid Arsenal - Sky's Backup Base</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/dailymotion-vs-youtube-monetization-which-is-more-profitable-in-2024/"><u>Dailymotion vs YouTube Monetization Which Is More Profitable, In 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/explore-and-engage-ifunny-meme-downloads-for-2024/"><u>Explore & Engage IFunny Meme Downloads for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ring-video-realms-significant-post-vidcon-conclaves/"><u>Exploring Video Realms Significant Post-VidCon Conclaves</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-oneplus-12r-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass OnePlus 12R FRP In 3 Different Ways</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-morse-input-for-laptops-precise-closure-techniques-needed-to-prevent-screen-or-hinge-damage-no-party-favors-included/"><u>Innovative Morse Input for Laptops: Precise Closure Techniques Needed to Prevent Screen or Hinge Damage - No Party Favors Included!</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/rediscover-hidden-files-forgotten-memories-mac-edition/"><u>Rediscover Hidden Files, Forgotten Memories (Mac Edition)</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reinstate-lost-data-via-win-recoverer-pro/"><u>Reinstate Lost Data via WIN Recoverer Pro</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/triple-os-file-finder-and-restoration-utility/"><u>Triple OS File Finder & Restoration Utility</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-discovering-the-best-screen-recorder-obs-studio-vs-fraps/"><u>[New] 2024 Approved Discovering the Best Screen Recorder OBS Studio Vs Fraps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-keywords-in-the-world-of-selling-monetized-youtube-channels/"><u>[New] 2024 Approved Keywords in the World of Selling Monetized Youtube Channels</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/boosting-your-blogs-earnings-potential-the-power-of-buyselladscom-ads/"><u>Boosting Your Blog's Earnings Potential: The Power of buySellAds.com Ads</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/discuss-off-peak-seasons-and-how-they-can-lead-to-significant-savings-on-flights-accommodation-and-activities/"><u>Discuss Off-Peak Seasons and How They Can Lead to Significant Savings on Flights, Accommodation, and Activities.</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-level-partition-fixers-recover-inaccessible-or-missing-drives-easily/"><u>Expert-Level Partition Fixers: Recover Inaccessible or Missing Drives Easily</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/express-creativity-for-free-your-meme-toolbox-awaits-for-2024/"><u>Express Creativity for Free – Your Meme Toolbox Awaits for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-broken-speaker-controls-in-windows-10-step-by-step-fixes/"><u>How to Repair Broken Speaker Controls in Windows 10 - Step by Step Fixes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-maximizing-impact-10-key-strategies-for-instagram-video-promotion/"><u>In 2024, Maximizing Impact 10 Key Strategies for Instagram Video Promotion</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600613084-missing-memories-return-in-a-flash-with-our-recovery-service/"><u>Missing Memories Return in a Flash with Our Recovery Service!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-create-video-with-ai-avatar/"><u>New Create Video with AI Avatar</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/pulsardata-resurrect/"><u>PulsarData Resurrect</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/rescue-your-data-top-software-for-restoring-erased-computer-sections/"><u>Rescue Your Data: Top Software for Restoring Erased Computer Sections</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/resurrecting-files-windows-edition/"><u>Resurrecting Files: Windows Edition</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600338083-stellar-data-recovery-windows/"><u>Stellar Data Recovery ソフトウェア - Windows上での無料使用で大切なデータを保護・復元</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bug-Free Gaming: How 'From the Ashes of Remnant' Now Stays Steady on Launch"
-date: 2024-10-01T03:38:22.055Z
-updated: 2024-10-02T18:52:28.411Z
+date: 2024-10-07T17:17:43.691Z
+updated: 2024-10-08T18:19:53.625Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2:**Disable your antivirus temporarily**
 
  The_Remnant_ crash is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -57,6 +50,13 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Run your game as an administrator
 
@@ -71,13 +71,6 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and_Remnant_ to test your issue.
 
@@ -101,18 +94,18 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -123,6 +116,13 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 If your problem persists, then move on to the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5:**Install the latest game patch**
 
@@ -154,6 +154,19 @@ If your problem persists, then move on to the next fix below.
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7:**Disable voice ch** at
 
  Some players have reported that the in-game voice chat feature in_Remnant_ (, which is enabled by default, ) is the culprit of the crashing error. Try disabling voice chat to see if it fixes your issue. Here is how to do it:
@@ -179,23 +192,9 @@ If your problem persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-609.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** On your keyboard, press the**Ctrl key** and**S** at the same time to save the changes. Then, close the Window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Relaunch your game to test your issue.
 
@@ -216,6 +215,13 @@ If the game is still unplayable, read on and try the fix below.
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-607.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Click the list box below to select **Windows 7** , then click **OK** . (If you’re on Windows 10, you can also try running your game in Windows 8 mode.)
 
@@ -246,22 +252,21 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-246.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click**DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-247.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Download and install**Remnant** again.
@@ -284,6 +289,13 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
@@ -291,13 +303,6 @@ If the game is still unplayable, read on and try the fix below.
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -312,6 +317,13 @@ If the game is still unplayable, read on and try the fix below.
 **9)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **10)**  Move the backup **steamapps folder** to your current directory location.
 
@@ -342,24 +354,16 @@ If the game is still unplayable, read on and try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-exclusive-access-to-best-ae-templates/"><u>[Updated] Exclusive Access to Best AE Templates</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastery-over-windows-10s-photo-app-stability-challenges/"><u>[Updated] Mastery Over Windows 10'S Photo App Stability Challenges</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-rhythmic-resonance-select-sites-for-downloading-tones-for-2024/"><u>[Updated] Rhythmic Resonance Select Sites for Downloading Tones for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600614247-windowsstellar-data-recovery/"><u>「Windowsシステムから失われたデータを復元するStellar Data Recoveryフリーソフト」</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/android-reunion-photos-and-contacts/"><u>Android Reunion: Photos and Contacts</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/effortless-ios-file-salvation-toolkit/"><u>Effortless iOS File Salvation Toolkit</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-wi-fi-driver-upgrades-for-your-windows-7-device-instantly/"><u>Get the Latest Wi-Fi Driver Upgrades for Your Windows 7 Device Instantly!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-asus-rog-phone-8-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Asus ROG Phone 8 Data? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-6-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 6 After Forgetting the Passcode?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-epson-wf-3520-printer-software-free-download-and-installation-guide-for-windows/"><u>Latest Epson WF-3520 Printer Software: Free Download and Installation Guide for Windows</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/multi-platform-data-salvaging-application-advanced-all-type-data-restoration/"><u>Multi-Platform Data Salvaging Application: Advanced All-Type Data Restoration</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/no-more-lost-data-rapid-and-precise-retrieval-service/"><u>No More Lost Data: Rapid and Precise Retrieval Service</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/precision-ios-data-rescue-trust-filled-solutions/"><u>Precision iOS Data Rescue: Trust-Filled Solutions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/protect-your-video-quality-a-guide-to-cleaning-up-background-sound-without-harm/"><u>Protect Your Video Quality: A Guide to Cleaning Up Background Sound Without Harm</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600417752-stellar-data-recovery-windows/"><u>Stellar Data Recovery: Windows用の人気無料データ復元ツール</u></a></li>
-<li><a href="https://extra-information.techidaily.com/straightforward-strategies-accessing-appreciated-comments-on-youtube/"><u>Straightforward Strategies Accessing Appreciated Comments on YouTube</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-infinix-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Infinix fingerprint</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/windows-data-detective-restore-operations/"><u>Windows Data Detective - Restore Operations</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/windows-data-recovery-software-to-recover-lost-data/"><u>Windows Data Recovery Software to Recover Lost Data</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-expert-tips-for-developing-high-quality-fb-videos/"><u>[New] In 2024, Expert Tips for Developing High-Quality FB Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/15-youtube-financial-experts-you-can-trust-for-2024/"><u>15 YouTube Financial Experts You Can Trust for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-core-aspects-of-stories/"><u>2024 Approved Core Aspects of Stories</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-turn-tracks-into-tunes-mp3-to-youtube-conversion-made-simple/"><u>2024 Approved Turn Tracks Into Tunes MP3-to-YouTube Conversion Made Simple</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/complete-data-revival-solution-reinstate-lost-information-across-formats/"><u>Complete Data Revival Solution - Reinstate Lost Information Across Formats</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-universal-file-retrieval/"><u>Comprehensive Data Rescue Tool - Universal File Retrieval</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-itel-a05s-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Itel A05s</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-premiere-pro-transitions-the-ultimate-list-of-top-rated-plugins/"><u>New Premiere Pro Transitions The Ultimate List of Top-Rated Plugins</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/rescue-inaccessible-hard-drive-areas-next-gen-programs-for-retrieving-lost-data-from-faulty-partitions/"><u>Rescue Inaccessible Hard Drive Areas: Next-Gen Programs for Retrieving Lost Data From Faulty Partitions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-lenovo-function-keys-repair-guide/"><u>Troubleshooting Your Lenovo Function Keys: Repair Guide</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/your-backups-guardian-instant-retrieval-solutions/"><u>Your Backup's Guardian: Instant Retrieval Solutions</u></a></li>
 </ul></div>
 
