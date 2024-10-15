@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Samsung Galaxy Tab S6: In-Depth Analysis of S Pen Features & Dex Mode Capabilities"
-date: 2024-10-01T17:37:55.542Z
-updated: 2024-10-08T16:56:54.518Z
+date: 2024-10-11T00:29:07.559Z
+updated: 2024-10-14T16:20:30.055Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring the Samsung Galaxy Tab S6: In-Depth Analysis of S Pen Features & Dex Mode Capabilities"
@@ -41,6 +41,13 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/JA4MI_SE7Alxl0MLR7rMoIVzKgI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xbox-One-Elite-Series-2-Controller-1-9039c64a27fa4dd3bac11330988d9c2f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Zach Sweat
 
 [View On Amazon $150](https://www.amazon.com/Elite-2-Controller-Black-Xbox-One/dp/B07SFKTLZM/?tag=lifewire-onsite-prod-20&ascsubtag=4796457%7Cnbd5105eb0dc54e3e804df51703e5036902%7CB07SFKTLZM) [View On Walmart $150](https://www.walmart.com/ip/Microsoft-Xbox-Elite-Wireless-Controller-Series-2-Black-FST-00001/784834522) [View On Adorama.com $180](https://www.adorama.com/xbfst00001.html)
@@ -65,6 +72,13 @@ Lifewire / Zach Sweat
  We reviewed the original $150 Elite controller when it debuted years ago and loved nearly every aspect of it, but it wasn’t flawless suffering from the lack of a few key features and some durability issues. This is where the newly updated Elite Series 2 controller comes in. Listening to feedback provided by gamers on the weaknesses of Series 1, Microsoft has put out what is likely to be the last iteration of the[Xbox One controller,](https://www.lifewire.com/xbox-one-consoles-4156250) and it’s pretty much perfect—provided you’re willing to pay the hefty price tag.
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/t8wI_yN2s_uIQ1leo87MmOnXxb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-5-0c39ec4e89eb45b094471681efec0e7d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -95,10 +109,10 @@ Lifewire / Zach Sweat
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/TRrezKVbAUPs2Rud3g4_iOHyxB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-2-4b3f9d8acd1440089989378253d902f4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
@@ -117,21 +131,7 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/cS5fpyPSlqvyETs-nGxTtAB3vXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-4-070b6c59b206457ba1068704bbe7bca9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Setup Process and Software: Bluetooth, at long last**
 
@@ -152,19 +152,6 @@ Lifewire / Zach Sweat
  If you plan to buy this controller to use with other electronics that support Bluetooth devices, make sure you do some research before committing to it, as it doesn’t always work with everything. That said, we did manage to pair the controller with a couple other devices that weren’t officially supported.
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/v25KBj3XhkgWMjFaqVnLVUUJqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-3-29dc70adabc64f888db60e817695153f.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -190,6 +177,13 @@ Lifewire / Zach Sweat
 
  While we didn’t experience any durability issues with our controller, the long-term durability will need to be assessed at a later date, though it seems to have gotten some upgrades to resolve issues of the past.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Like buying a brand new console**
 
  Right now, the Elite Series 2 controller retails at an MSRP of $249.99, about $100 more than its predecessor. This price tag makes it not only the most expensive first-party controller around, but also nearly the cost of a brand new Xbox One S console (or three brand new titles). That can be a tough sell for your average gamer.
@@ -200,14 +194,14 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/6VfCJGOyjLkAkE_mjiHr7rz8Gyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-6-0c1d7a2ae4e8443ea5b69f559e52bd12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Xbox One Elite Series 2 Controller vs. Xbox One Elite Series 1 Controller**
 
@@ -255,24 +249,20 @@ Lifewire / Zach Sweat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-crafting-visual-brilliance-mastering-luts-in-ae/"><u>[New] Crafting Visual Brilliance Mastering LUTs in AE</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-tips-capturing-high-quality-whatsapp-voice-transcripts/"><u>[New] Expert Tips Capturing High-Quality WhatsApp Voice Transcripts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-mastering-audio-quality-with-top-podcast-mics-for-2024/"><u>[Updated] Mastering Audio Quality with Top Podcast Mics for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-connect-with-stars-write-inspiring-biographies-on-whatsapp/"><u>2024 Approved Connect with Stars – Write Inspiring Biographies on WhatsApp</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevate-your-content-with-the-ultimate-guide-to-instagram-cover-photos/"><u>2024 Approved Elevate Your Content with the Ultimate Guide to Instagram Cover Photos</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/dataguardian-raid-redemption-tool/"><u>DataGuardian: RAID Redemption Tool</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/discover-10-budget-friendly-cloud-collaboration-platforms-for-2024/"><u>Discover 10 Budget-Friendly Cloud Collaboration Platforms for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/expertly-handle-data-disasters-get-lost-data-back-fast/"><u>Expertly Handle Data Disasters - Get Lost Data Back Fast</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on OnePlus 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-fix-resolve-oculus-hardware-problems-effectively/"><u>Master the Fix: Resolve Oculus Hardware Problems Effectively</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/multi-platform-data-salvaging-application-advanced-all-type-data-restoration/"><u>Multi-Platform Data Salvaging Application: Advanced All-Type Data Restoration</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-edit-video-tags-with-ease-best-mp4-editors-for-windows-and-mac-for-2024/"><u>New Edit Video Tags with Ease Best MP4 Editors for Windows and Mac for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/no-more-lost-data-rapid-and-precise-retrieval-service/"><u>No More Lost Data: Rapid and Precise Retrieval Service</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/operating-system-unified-data-recovery-kit/"><u>Operating System Unified Data Recovery Kit</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/precision-ios-data-rescue-trust-filled-solutions/"><u>Precision iOS Data Rescue: Trust-Filled Solutions</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reclaim-losses-with-win-data-finder/"><u>Reclaim Losses with WIN Data Finder</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reliable-file-guardian-macs-restoration-mastery/"><u>Reliable File Guardian: Mac's Restoration Mastery</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/universal-data-retrieval-suite-the-premier-choice-for-retrieving-lost-or-deleted-digital-files/"><u>Universal Data Retrieval Suite: The Premier Choice for Retrieving Lost or Deleted Digital Files</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-best-instagram-highlights-covers-apps-for-iphone-and-android/"><u>[New] Best Instagram Highlights Covers Apps for iPhone and Android</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-experts-choice-androids-best-large-group-calling/"><u>[Updated] 2024 Approved Expert's Choice Android's Best Large Group Calling</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-beyond-the-standard-unique-augmented-reality-stickers/"><u>[Updated] Beyond the Standard Unique Augmented Reality Stickers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-snapchat-boomerangs-ultimate-instructions/"><u>2024 Approved Mastering Snapchat Boomerangs Ultimate Instructions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-guide-to-data-resurrection-fixing-deleted-and-corrupted-disk-partitions/"><u>Expert Guide to Data Resurrection: Fixing Deleted and Corrupted Disk Partitions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-partition-data-revival-solutions-for-unrecoverable-drives/"><u>Expert Partition Data Revival Solutions for Unrecoverable Drives</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723011964130-fix-your-assassins-creed-odyssey-pc-issues-no-more-crashing/"><u>Fix Your Assassin's Creed Odyssey PC Issues - No More Crashing</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/galactic-data-retrieval/"><u>Galactic Data Retrieval</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/iphones-blueprint-for-extended-frame-mastery-for-2024/"><u>IPhone's Blueprint for Extended Frame Mastery for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/meteorite-mentorium-cosmic-backup-hub/"><u>Meteorite Mentorium - Cosmic Backup Hub</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/no-more-lost-files-rapid-stellar-data-recovery-now/"><u>No More Lost Files! Rapid, Stellar Data Recovery Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/psvr2-launch-update-latest-info-on-release-timeline-pricing-and-technical-details/"><u>PSVR2 Launch Update: Latest Info on Release Timeline, Pricing & Technical Details</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-data-revival-set-for-windowsmaclinux-users/"><u>Universal Data Revival Set - For Windows/Mac/Linux Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleash-peak-performance-mastering-120fps-gaming-on-the-sony-ps5-console/"><u>Unleash Peak Performance: Mastering 120FPS Gaming on the Sony PS5 Console</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unlock-files-no-cost-data-revival-tool/"><u>Unlock Files - No-Cost Data Revival Tool</u></a></li>
 </ul></div>
 

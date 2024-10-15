@@ -1,7 +1,7 @@
 ---
 title: "China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025"
-date: 2024-10-02T18:50:43.146Z
-updated: 2024-10-08T16:35:14.013Z
+date: 2024-10-11T01:24:12.623Z
+updated: 2024-10-15T02:19:39.146Z
 tags:
   - desktop
 categories:
@@ -64,22 +64,29 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-removing-your-facebook-live-video-tech-steps/"><u>[New] 2024 Approved Removing Your Facebook Live Video Tech Steps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leveraging-iphone-features-for-gif-storage-and-entertainment/"><u>[Updated] Leveraging iPhone Features for GIF Storage & Entertainment</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-share-the-laughter-mastering-kinemaster/"><u>2024 Approved Share the Laughter Mastering KineMaster</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/exploring-the-samsung-galaxy-tab-s6-in-depth-analysis-of-s-pen-features-and-dex-mode-capabilities/"><u>Exploring the Samsung Galaxy Tab S6: In-Depth Analysis of S Pen Features & Dex Mode Capabilities</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/home-cinema-mastery-top-10-hd-players-list/"><u>Home Cinema Mastery Top 10 HD Players' List</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/the-core-underlying-processes-in-predictive-ai/"><u>The Core Underlying Processes in Predictive AI</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/the-future-of-mini-computing-arrives-meet-the-minisforum-atomman-x7-ti-boasting-an-incredible-intel-core-185h-and-intuitive-ti-touch-screen-technology/"><u>The Future of Mini Computing Arrives: Meet the MinisForum AtomMan X7 Ti, Boasting an Incredible Intel Core 185H and Intuitive Ti-Touch Screen Technology</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/ultimate-guide-resolving-thaumaturge-game-crashes-on-your-pc/"><u>Ultimate Guide: Resolving Thaumaturge Game Crashes on Your PC</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/next-favorite-youtuber-might-be-just-a-test-away-six-categories-explored-for-2024/"><u>Your Next Favorite YouTuber Might Be Just a Test Away Six Categories Explored for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-streamlining-your-live-broadcast-ps4-recording-via-obs-studio/"><u>[New] 2024 Approved Streamlining Your Live Broadcast PS4 Recording via OBS Studio</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-boosting-detail-with-videoleaps-in-camera-zooming/"><u>[New] Boosting Detail with VideoLeap's In-Camera Zooming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-loom-screen-recorder-downloader-for-2024/"><u>[New] Loom Screen Recorder Downloader for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-redirect-macs-image-backup-to-new-folder/"><u>[Updated] 2024 Approved Redirect Mac's Image Backup to New Folder</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/all-encompassing-tech-specialist-suite-for-data-restoration-works-with-diverse-file-formats/"><u>All-Encompassing Tech Specialist Suite for Data Restoration - Works with Diverse File Formats</u></a></li>
+<li><a href="https://common-error.techidaily.com/call-of-duty-battlefronts-error-resolution-guide-dealing-with-code-4220-during-wwii-missions/"><u>Call of Duty Battlefront's Error Resolution Guide: Dealing with Code 4220 During WWII Missions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/confidently-retrieving-lost-iphone-files-now/"><u>Confidently Retrieving Lost iPhone Files Now</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/essential-dvd-duplication-info-from-digiartys-official-source-explore-page-5-insights/"><u>Essential DVD Duplication Info From Digiarty's Official Source – Explore Page 5 Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reuniteyourdata-android-media-recovery/"><u>ReuniteYourData: Android Media Recovery</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/revive-past-memories-swift-and-reliable-file-recovery/"><u>Revive Past Memories - Swift and Reliable File Recovery</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/revive-your-corrupted-partitions-with-cutting-edge-restoration-applications/"><u>Revive Your Corrupted Partitions with Cutting-Edge Restoration Applications</u></a></li>
+<li><a href="https://network-issues.techidaily.com/righting-the-sideways-screen-error/"><u>Righting the Sideways Screen Error</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/secure-file-system-auditing-software/"><u>Secure File System Auditing Software</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/versatile-files-recovery-windows-mac-and-linux-assist/"><u>Versatile Files Recovery - Windows, Mac & Linux Assist</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600261620-windowsstellar-data-recovery/"><u>Windows互換緊急リカバリープログラムStellar Data Recovery 無料版使用法講座</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
