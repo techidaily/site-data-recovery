@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Apeman C45n Review: Delivering Quality in a Compact Cam"
-date: 2024-10-16T16:18:53.773Z
-updated: 2024-10-20T16:07:19.100Z
+date: 2024-10-20T21:35:17.892Z
+updated: 2024-10-26T06:14:03.134Z
 categories:
   - BestProducts
 description: "This Article Describes Budget-Friendly Apeman C45n Review: Delivering Quality in a Compact Cam"
@@ -45,13 +45,6 @@ Lifewire / Jeremy Laukkonen
 
 ![Xbox Series S](https://www.lifewire.com/thmb/wlG_GrSmQPVex-VRt3ap4hsTP-s=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hero_Square-377546108feb4adaa3226c0ee22e1238.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Jeremy Laukkonen
 
 [View On Amazon $276](https://www.amazon.com/dp/B08G9J44ZN?tag=lifewire-onsite-prod-20&ascsubtag=5085770%7Cn852b6f87dac743c99d9ca07d1832825a20%7CB08G9J44ZN) [View On Walmart $285](https://www.walmart.com/ip/606518560) [View On Best Buy $300](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmicrosoft-xbox-series-s-512-gb-all-digital-console-disc-free-gaming-white%2F6430277.p%3FskuId%3D6430277)
@@ -82,6 +75,13 @@ Lifewire / Jeremy Laukkonen
  The Xbox Series S is small, and it's almost impossible to oversell that point. I had seen pictures and videos of the console and the spec sheet, but I was still surprised at how compact this thing was when I unboxed it. It's smaller than the Xbox One S, and Microsoft bills it as "our smallest Xbox ever." That's especially noteworthy since Microsoft and Sony went exceptionally big with their flagship consoles, the Series X and PlayStation 5.
 
 ![Xbox Series S](https://www.lifewire.com/thmb/3-mUIkkRYilM5F2tvCYMPXtW1Ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-04d996bcdfbb489d84e8945e4c475713.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
@@ -122,10 +122,16 @@ Lifewire / Jeremy Laukkonen
  Load times were negligible in each game I played, which I expected from a super-fast NVME SSD storage system. Some games had more noticeable load times than others, but not enough to disrupt gameplay.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Games: Microsoft still has an exclusivity problem**
@@ -164,6 +170,13 @@ Lifewire / Jeremy Laukkonen
 
 ![Xbox Series S](https://www.lifewire.com/thmb/_GSxQvNgtJMhoyNl62qlg671Qvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-25991056c5c2486695923f7c1b61c7b5.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jeremy Laukkonen
 
  When downloading over Wi-Fi, I rarely saw over 150Mbps (compared to the 350Mbps I measured on my HP Spectre x360 laptop in the same room and at the same time). Curiously, the Series S download speed tanked, down to the lower double digits, while I was running speed tests on my laptop. Similarly, download speeds dive into the low teens whenever a game runs, even in the background.
@@ -172,25 +185,11 @@ Lifewire / Jeremy Laukkonen
 
  The bottom line is that the Series S provided fairly unimpressive download speeds over Wi-Fi but tore it up when connected via Ethernet. You’ll want to connect this all-digital console via Ethernet to a fast internet connection.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Software and User Interface: Familiar and cozy**
 
  Microsoft isn’t looking to rock the boat with the Xbox Series X|S in terms of the user interface. If you’ve used an Xbox One, you’ll find the Xbox Series X|S user interface strangely familiar. The dashboard looks almost the same, and the guide functions as expected. There are a few upgrades and changes here and there, but this is nothing like the massive change between the Xbox 360 dashboard and the Xbox One dashboard.
 
  An overhaul of the dashboard is currently in the works, and we expect it to arrive in 2023.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Controller: Iteration more than innovation**
 
@@ -208,14 +207,14 @@ Lifewire / Jeremy Laukkonen
 
 ![Xbox Series S](https://www.lifewire.com/thmb/MZdEnnFWPzhGzv_P5GO8byAY5qI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3-dd9458b294e74205acad2ff6fee33913.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Jaw-droppingly low**
 
@@ -228,10 +227,16 @@ Lifewire / Jeremy Laukkonen
  One expense you may need to budget is a high-speed USB 3.1 drive. The console is perfectly usable without an external drive, but expect to uninstall games regularly to make more space if you limit yourself to the onboard storage.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Xbox Series S vs. PS5 Digital**
@@ -247,6 +252,13 @@ Lifewire / Jeremy Laukkonen
  **An affordable alternative for those without a 4K television.**
 
  The Xbox Series S might be a bit of a step back from the Xbox One X in performance, but the fact is that it’s a next-gen console that plays next-gen games with some impressive hardware and an unreal price tag. Gamers in search of the best graphics possible will want to look at the Xbox Series X instead, but gamers who haven’t yet made the 4K plunge, parents in need of an affordable console for their kids, or anyone looking to save money will all find something to like here.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -290,22 +302,18 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-guide-to-cheap-video-conferencing-tools-for-computers-for-2024/"><u>[Updated] Essential Guide to Cheap Video Conferencing Tools for Computers for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-coolest-filmora-elements-for-enthusiastic-creators/"><u>[Updated] The Coolest Filmora Elements for Enthusiastic Creators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-audio-selection-in-video-unboxing/"><u>[Updated] The Ultimate Guide to Audio Selection in Video Unboxing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-mystery-of-free-graphic-imagery/"><u>[Updated] Unveiling the Mystery of Free Graphic Imagery</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/battle-of-giants-amds-epyc-cpu-doubles-up-against-nvidias-arm-powered-grace-in-multiple-performance-benchmarks/"><u>Battle of Giants: AMD's EPYC CPU Doubles Up Against NVIDIA’s ARM-Powered Grace in Multiple Performance Benchmarks</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/detailed-breakdown-of-newest-technology-innovations-toms-hardware-experts/"><u>Detailed Breakdown of Newest Technology Innovations - Tom's Hardware Experts</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/exclusive-sale-alert-high-end-prebuilt-gaming-desktop-msi-aegis-r2-featuring-rtx-4070-super-plus-intel-i7-at-an-unbeatable-price-below-1600/"><u>Exclusive Sale Alert: High-End Prebuilt Gaming Desktop – MSI Aegis R2 Featuring RTX 4070 Super + Intel I7 at an Unbeatable Price Below $1,600</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-tech-savings-alert-featuring-the-enhanced-pixel-7a-phone-ultra-compact-anker-nano-charger-revolutionary-tv-experience-through-samsung-frame-models15/"><u>Exclusive Tech Savings Alert! Featuring the Enhanced Pixel 7a Phone, Ultra Compact Anker Nano Charger, Revolutionary TV Experience Through Samsung Frame Models and More Spectacular Offers!</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-repairing-windows-update-malfunction-error-0x80240017/"><u>Expert Advice on Repairing Windows Update Malfunction (Error 0X80240017)</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/exploring-the-samsung-galaxy-tab-s6-in-depth-analysis-of-s-pen-features-and-dex-mode-capabilities/"><u>Exploring the Samsung Galaxy Tab S6: In-Depth Analysis of S Pen Features & Dex Mode Capabilities</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Infinix</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-installation-of-arduino-drivers-in-your-windows-environment-a-comprehensive-walkthrough/"><u>Seamless Installation of Arduino Drivers in Your Windows Environment: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/the-core-underlying-processes-in-predictive-ai/"><u>The Core Underlying Processes in Predictive AI</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/the-future-of-mini-computing-arrives-meet-the-minisforum-atomman-x7-ti-boasting-an-incredible-intel-core-185h-and-intuitive-ti-touch-screen-technology/"><u>The Future of Mini Computing Arrives: Meet the MinisForum AtomMan X7 Ti, Boasting an Incredible Intel Core 185H and Intuitive Ti-Touch Screen Technology</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/toms-tech-review-expert-insights-on-hardware-innovations/"><u>Tom's Tech Review: Expert Insights on Hardware Innovations</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/ultimate-guide-resolving-thaumaturge-game-crashes-on-your-pc/"><u>Ultimate Guide: Resolving Thaumaturge Game Crashes on Your PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mastering-snapchat-sharing-with-twitter-videos/"><u>[New] Mastering Snapchat Sharing with Twitter Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-real-time-webcam-and-screen-melding-tips/"><u>[Updated] 2024 Approved Real-Time Webcam & Screen Melding Tips</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-restoration-suite-seamless-recovery-for-diverse-file-formats/"><u>Comprehensive Data Restoration Suite - Seamless Recovery for Diverse File Formats</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-facil-y-rapida-de-dvd-a-mkv-usando-la-herramienta-de-conversion-de-movavi-video/"><u>Conversión Fácil Y Rápida De DVD a MKV Usando La Herramienta De Conversión De Movavi Video</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/cosmicinfo-reconstruction/"><u>CosmicInfo Reconstruction</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/efficient-hardware-monitoring-kit/"><u>Efficient Hardware Monitoring Kit</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/instant-relief-for-lost-data-stellar-secure-solutions-await/"><u>Instant Relief for Lost Data - Stellar, Secure Solutions Await</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unlock-free-animation-top-software-for-windows-and-mac/"><u>New Unlock Free Animation Top Software for Windows and Mac</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reunite-your-memories-with-datafinder-ai/"><u>Reunite Your Memories with DataFinder AI</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/reviving-deleted-system-restore-points-on/"><u>Reviving Deleted System Restore Points On</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-elements-of-java-gaming-delight/"><u>The Essential Elements of Java Gaming Delight</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/unveiling-the-art-of-reshaping-your-tiktok-avatar-for-2024/"><u>Unveiling the Art of Reshaping Your TikTok Avatar for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windows-stellar-data-recovery/"><u>Windows向けの有料なしデータ回復ソフト - Stellar Data Recovery(ステラデータリカバリー)</u></a></li>
 </ul></div>
 

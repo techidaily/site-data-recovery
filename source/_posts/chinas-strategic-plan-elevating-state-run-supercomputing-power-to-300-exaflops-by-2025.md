@@ -1,7 +1,7 @@
 ---
 title: "China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025"
-date: 2024-10-15T16:39:39.965Z
-updated: 2024-10-20T16:15:00.171Z
+date: 2024-10-21T00:34:19.510Z
+updated: 2024-10-26T08:20:58.032Z
 tags:
   - desktop
 categories:
@@ -64,29 +64,25 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-fading-techniques-for-aural-balance-for-2024/"><u>[New] Fading Techniques for Aural Balance for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhance-your-videography-youtube-studio-edition-techniques/"><u>[Updated] In 2024, Enhance Your Videography YouTube Studio Edition Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-navigating-pixizs-tools-for-photo-video-craftsmanship/"><u>[Updated] Navigating Pixiz's Tools for Photo-Video Craftsmanship</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-smallest-flyers-yet-big-impact-top-brands-reviewed/"><u>[Updated] Smallest Flyers Yet Big Impact - Top Brands Reviewed</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-duel-of-durability-hero-5-black-versus-keymission-for-2024/"><u>[Updated] The Duel of Durability HERO 5 Black Versus Keymission for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/a-flashlight-for-the-modern-shutterbug-tt560-review/"><u>A Flashlight for the Modern Shutterbug: TT560 Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-uninterrupted-wi-fi-speed-with-the-g309-lightspeed-your-solution-to-seamless-internet/"><u>Affordable, Uninterrupted Wi-Fi Speed with the G309 LIGHTSPEED: Your Solution to Seamless Internet</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/boost-your-frame-rate-overcoming-low-fps-in-farming-simulator-22-for-pc-users/"><u>Boost Your Frame Rate: Overcoming Low FPS in Farming Simulator 22 for PC Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/building-your-bespokee-chatgpt-model-using-personalized-data-techniques-and-tips/"><u>Building Your Bespokee ChatGPT Model Using Personalized Data – Techniques and Tips</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/expert-tips-for-resolving-rainbow-six-server-connectivity-problems/"><u>Expert Tips for Resolving Rainbow Six Server Connectivity Problems</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/fixing-issues-why-is-my-destiny-2-microphone-not-detected/"><u>Fixing Issues: Why Is My Destiny 2 Microphone Not Detected?</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/fixing-the-issue-stop-gta-v-from-freezing-on-your-pc/"><u>Fixing the Issue: Stop GTA V From Freezing on Your PC</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/roblox-audio-not-working-solve-the-mute-mystery-in-windows-11-and-10-environments/"><u>Roblox Audio Not Working? Solve the Mute Mystery in Windows 11 and 10 Environments</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1723016632510-skype-voice-troubleshooting-on-windows-11-get-your-mic-working-again/"><u>Skype Voice Troubleshooting on Windows 11 - Get Your Mic Working Again!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-highest-quality-bluetooth-telephones-of-2-comparison-chart-discover-the-most-advanced-wire-free-communicators/"><u>The Ultimate Guide to the Highest Quality Bluetooth Telephones of 2# Comparison Chart: Discover the Most Advanced Wire-Free Communicators</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-4-unbeatable-gaming-browsers-on-windows-platform-your-ultimate-guide/"><u>Top 4 Unbeatable Gaming Browsers on Windows Platform: Your Ultimate Guide</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/troubleshoot-and-resolve-sound-problems-handling-failed-to-generate-sound/"><u>Troubleshoot and Resolve Sound Problems: Handling 'Failed to Generate Sound'</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-mastering-mp3-capture-skype-calls-no-cost/"><u>[New] 2024 Approved Mastering MP3 Capture Skype Calls, No Cost</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windowsstellar/"><u>「落とし物を取り戻せる! Windows向け無料Stellarリカバリプログラム」</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-memory-compatible-with-sony-a7-cams/"><u>2024 Approved Premium Memory Compatible with Sony A7 Cams</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/arrayasylum-sanctuary-for-scrambled-raids/"><u>ArrayAsylum: Sanctuary for Scrambled RAIDs</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/complete-data-revival-system-a-versatile-one-stop-solution-to-restore-your-most-precious-memories/"><u>Complete Data Revival System: A Versatile, One-Stop Solution to Restore Your Most Precious Memories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craft-excellence-top-10-free-drawing-tools-for-mac-for-2024/"><u>Craft Excellence Top 10 Free Drawing Tools for Mac for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-zte-blade-a73-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on ZTE Blade A73 5G online without jailbreak</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-se-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone SE</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-lagging-at-launch-overcome-hogwarts-legacy-crashing-with-these-8-tricks/"><u>No More Lagging at Launch? Overcome Hogwarts Legacy Crashing with These 8 Tricks</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/stellar-data-recovery-data-recovery-software-free-download/"><u>Stellar Data Recovery: Data Recovery Software Free Download</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-secure-entry-into-windows-admin-console/"><u>Steps for Secure Entry Into Windows' Admin Console</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-choosing-a-top-nixplay-seed-frame/"><u>The Ultimate Guide to Choosing a Top Nixplay Seed Frame</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/ultimate-solution-for-various-data-extraction-programs-total-data-reconstruction-suite/"><u>Ultimate Solution for Various Data Extraction Programs - Total Data Reconstruction Suite</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

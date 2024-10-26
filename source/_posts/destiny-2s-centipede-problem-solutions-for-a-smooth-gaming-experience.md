@@ -1,7 +1,7 @@
 ---
 title: "Destiny 2'S Centipede Problem: Solutions for a Smooth Gaming Experience"
-date: 2024-10-13T16:43:28.311Z
-updated: 2024-10-20T16:46:16.743Z
+date: 2024-10-23T18:50:55.904Z
+updated: 2024-10-25T18:35:12.008Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Reload your private world
 
  Some players have reported that after reloading their private world, they’re able to connect to their friends’ world. Somehow it works for many users on all platforms.  
@@ -67,25 +74,18 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-00-57.png)
 4. Evoke the menu and choose**Save & Quit** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-01-51.png)
 5. Back to the main menu and click the**Friends** tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-02-37.png)
 6. You should be able to join your friends’ world.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable Windows Firewall
 
@@ -99,27 +99,34 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 3. Click**Allow an app or feature through Windows Defender Firewall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the “javaw.exe” is checked. If not, click the Change settings button then check the “javaw.exe”. If you see more than one “javaw.exe” entries, check all of them. Ensure the Private box and the Publick box are checked too.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5c260821a6772.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the Minecraft.exe is checked, this fix doesn’t work for you. Move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the network drivers
 
@@ -145,6 +152,13 @@ If this fix can’t help, you can move to the next.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Change the settings
 
  Check your and your friends’ settings on Xbox.com. The changed settings may be the reason why you’re unable to connect to the world.
@@ -157,13 +171,6 @@ If this fix can’t help, you can move to the next.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Disable antivirus software
 
  Some antivirus software may block some features in Minecraft so that you can encounter the “unable to connect to world” issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -173,10 +180,10 @@ If this fix can’t help, you can move to the next.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Use a VPN
@@ -191,13 +198,6 @@ If this fix can’t help, you can move to the next.
 2. Run NordVPN and open it.
 3. Connect to a server in a chosen location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Coupon TIP** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
 
@@ -236,19 +236,24 @@ If this fix can’t help, you can move to the next.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-master-your-craft-exclusive-free-templates-and-tips/"><u>2024 Approved Master Your Craft Exclusive Free Templates & Tips</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-tunefabs-innovative-approach-to-video-capturing/"><u>2024 Approved Tunefab's Innovative Approach to Video Capturing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/diy-360-videos-using-your-smartphone/"><u>DIY 360 Videos Using Your Smartphone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-electric-vehicles-outshine-gas-guzzlers-in-terms-of-efficiency-and-power-the-reasons-behind-it/"><u>How Electric Vehicles Outshine Gas Guzzlers in Terms of Efficiency and Power - The Reasons Behind It</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-edit-videos-in-windows-live-movie-maker-lately-windows-movie-maker/"><u>How to Edit Videos in Windows Live Movie Maker Lately Windows Movie Maker</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-microphone-malfunctions-on-windows-7-systems-tutorial/"><u>Overcoming Microphone Malfunctions on Windows 7 Systems [Tutorial]</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/precious-documents-rediscovered-gratis/"><u>Precious Documents Rediscovered - Gratis</u></a></li>
-<li><a href="https://video-capture.techidaily.com/quick-capture-techniques-for-your-lenovo-screen/"><u>Quick Capture Techniques for Your Lenovo Screen</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/raidrise-software-pioneering-data-resurrection/"><u>RaidRise Software: Pioneering Data Resurrection</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reliable-file-reconstruction-app/"><u>Reliable File Reconstruction App</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600609120-stellar-windows/"><u>Stellar データリカバリー: Windows用で最適、無料データ復元ツール</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-flip-side-using-ai-to-combat-malware/"><u>The Flip Side: Using AI to Combat Malware</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/total-information-salvage-toolkit-powerful-and-versatile-data-recovery-application/"><u>Total Information Salvage Toolkit: Powerful and Versatile Data Recovery Application</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unlock-the-art-of-recording-all-your-hulu-content-for-2024/"><u>Unlock the Art of Recording All Your Hulu Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-gym-goer-to-broadcayer-set-up-a-sports-vlog-on-macos/"><u>[New] 2024 Approved From Gym Goer to Broadcayer Set Up a Sports Vlog on macOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-insider-guide-for-seamless-video-sharing-on-instagram-tv/"><u>[New] In 2024, The Insider Guide for Seamless Video Sharing on Instagram TV</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-discovering-deeper-dives-in-minecraft-gameplay-for-2024/"><u>[Updated] Discovering Deeper Dives in Minecraft Gameplay for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-impact-in-depth-youtube-video-editing-mastery-for-2024/"><u>Cut to Impact In-Depth Youtube Video Editing Mastery for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-rescued-time-is-money-optimize-recovery-rate/"><u>Data Rescued, Time Is Money! Optimize Recovery Rate</u></a></li>
+<li><a href="https://solve-help.techidaily.com/essential-guide-how-to-convert-dvds-into-various-formats-like-mp4-mov-avi-and-flv-on-a-mac/"><u>Essential Guide: How to Convert DVDs Into Various Formats Like MP4, MOV, AVI & FLV on a Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fading-frequencies-the-gentle-way-with-garageband-for-2024/"><u>Fading Frequencies The Gentle Way with Garageband for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/find-your-favorite-songs-in-mp3-format-quick-download-tips/"><u>Find Your Favorite Songs in MP3 Format – Quick Download Tips!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-12-pro-max-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off Apple iPhone 12 Pro Max without Password</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/intelligent-data-extraction-toolkit-cutting-edge-tech-support-for-retrieving-diverse-file-types/"><u>Intelligent Data Extraction Toolkit: Cutting-Edge Tech Support for Retrieving Diverse File Types</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/mac-file-revival-tool-secure-lost-data-recovery/"><u>Mac File Revival Tool: Secure Lost Data Recovery</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/nebulanet-recovery/"><u>NebulaNet Recovery</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/omnirecovery-software-windows-mac-and-linux-support/"><u>OmniRecovery Software – Windows, Mac & Linux Support</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/precisionstar-restoration/"><u>PrecisionStar Restoration</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y78-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y78 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/ultimate-system-rescue-kit-data-retrieval-for-all-oses/"><u>Ultimate System Rescue Kit - Data Retrieval for All OSes</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-data-recuperation-program-brings-back-all-your-valuable-files/"><u>Universal Data Recuperation Program – Brings Back All Your Valuable Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-files-rescue-suite-windowsmaclinux-edition/"><u>Universal Files Rescue Suite – Windows/Mac/Linux Edition</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/windows-11-problembehebung-erleichtern-sorgenumgrunde-aufklaren-und-losungsmoglichkeiten-prasentieren/"><u>Windows 11-Problembehebung Erleichtern: Sorgenumgründe Aufklären Und Lösungsmöglichkeiten Präsentieren</u></a></li>
 </ul></div>
 

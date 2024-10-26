@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Benefits of Garmin Venu - Your Intelligent Partner in Nonstop Activity and Health Tracking
-date: 2024-10-19T16:02:13.346Z
-updated: 2024-10-20T16:07:50.259Z
+date: 2024-10-21T04:15:48.297Z
+updated: 2024-10-26T05:21:04.563Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling the Benefits of Garmin Venu - Your Intelligent Partner in Nonstop Activity and Health Tracking
@@ -41,10 +41,10 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
@@ -65,25 +65,11 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -92,6 +78,13 @@ Lifewire / Kelsey Simon
  I did continue forward, even though I was already disinterested, hoping the game would become more gripping. After the memory room, you’ll wake to another platform where a being tells you you’ve suffered a great injury and they are in your mind. He tries to explain who you are but before he gets too far, you’ll be attacked by something called the Sorrow. Eventually, you’ll wake in the real world, enter the game’s main city, and be able to talk to the wealth of characters living there. You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Gameplay: Dialogue prompts and effort**
 
@@ -123,13 +116,6 @@ Lifewire / Kelsey Simon
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Only worth it if you’re keen on the story**
 
  Torment: Tides of Numenera is still an expensive game, costing $50 on[Steam](https://www.lifewire.com/best-free-steam-games-4176308) when it’s not on sale. It’s a game created with a very specific type of player in mind―and I suspect most people are not going to like it.
@@ -137,6 +123,13 @@ Lifewire / Kelsey Simon
  That said, if role-playing games with a text-heavy focus are of interest to you, then the game does have a lot to offer for the cost. The world of Numenera is vast, and considering all the prompts that alter the story, the game also has a lot of replayability. While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else, and for those players, the $50 cost will be worth it.
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
 
@@ -149,6 +142,13 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -173,19 +173,21 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-master-the-view-ranking-and-review-of-top-11-bridge-cameras/"><u>[New] 2024 Approved Master the View Ranking & Review of Top 11 Bridge Cameras</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-deciphering-content-control-youtube-vs-creative-commons-license/"><u>[New] In 2024, Deciphering Content Control YouTube Vs. Creative Commons License</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-lowdown-on-instagrams-video-time-frame/"><u>[New] The Lowdown on Instagram's Video Time Frame</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-discovering-the-10-leading-low-cost-mobile-video-conferencing/"><u>[Updated] Discovering the 10 Leading Low-Cost, Mobile Video Conferencing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-efficiently-record-your-screen-with-io-screen-recorder/"><u>[Updated] In 2024, Efficiently Record Your Screen with IO Screen Recorder</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-revenue-revolution-how-to-design-effective-animated-fb-ads/"><u>[Updated] Revenue Revolution How to Design Effective Animated FB Ads</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/bug-free-gaming-how-from-the-ashes-of-remnant-now-stays-steady-on-launch/"><u>Bug-Free Gaming: How 'From the Ashes of Remnant' Now Stays Steady on Launch</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1722997950531-cod-black-ops-cold-war-wont-boot-here-are-the-solutions-for-pc-players/"><u>COD: Black Ops Cold War Won't Boot? Here Are The Solutions for PC Players!</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/destiny-2s-centipede-problem-solutions-for-a-smooth-gaming-experience/"><u>Destiny 2'S Centipede Problem: Solutions for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/does-interacting-with-chatgpt-pose-any-cybersecurity-dangers/"><u>Does Interacting with ChatGPT Pose Any Cybersecurity Dangers?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Meizu 21 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/high-definition-video-comparison-choosing-between-1080p-720p-480p-and-4k-for-your-viewing-needs/"><u>High Definition Video Comparison: Choosing Between 1080P, 720P, 480P, and 4K for Your Viewing Needs</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/troubleshooting-guide-how-to-speed-up-the-2022-spotify-web-player-performance-issues/"><u>Troubleshooting Guide: How to Speed Up the 2022 Spotify Web Player Performance Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-the-power-of-ai-top-6-chatgpt-enhancements-that-revolutionize-coding-in-vs-code/"><u>Unleash the Power of AI: Top 6 ChatGPT Enhancements That Revolutionize Coding in VS Code</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-picks-of-screen-recording-applications-for-modern-windows-users/"><u>[New] Top Picks of Screen Recording Applications for Modern Windows Users</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-youtubes-most-lucrative-star-title/"><u>[Updated] 2024 Approved YouTube's Most Lucrative Star Title</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/arrayrescue-raid-0-5-and-6-reconstruction/"><u>ArrayRescue: RAID 0, 5 & 6 Reconstruction</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/constellation-copy-center-star-salvage-service/"><u>Constellation Copy Center - Star Salvage Service</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-rescue-express-unlock-lost-information-today/"><u>Data Rescue Express - Unlock Lost Information Today</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/experience-relief-secure-data-retrieval-without-delay/"><u>Experience Relief: Secure Data Retrieval Without Delay</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/explore-blurring-techniques-best-app-picks/"><u>Explore Blurring Techniques Best App Picks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-12-pro-max-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 12 Pro Max Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-broken-spacebar-key-in-microsofts-latest-operating-system/"><u>How to Repair a Broken Spacebar Key in Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/idea-fountainheads-blending-mindmaps-with-ai/"><u>Idea Fountainheads: Blending Mindmaps with AI</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-y200-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Y200 Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-y02t-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo Y02T to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reclaim-your-digital-assets-now-with-efficiency-and-speed/"><u>Reclaim Your Digital Assets Now with Efficiency & Speed</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reconstruct-your-lost-files-for-zero/"><u>Reconstruct Your Lost Files for ZERO</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/ultimate-data-recovery-software-restore-every-kind-of-corrupted-or-deleted-content/"><u>Ultimate Data Recovery Software – Restore Every Kind of Corrupted or Deleted Content</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Skype Voice Troubleshooting on Windows 11 - Get Your Mic Working Again!
-date: 2024-10-15T16:49:31.388Z
-updated: 2024-10-20T16:26:52.808Z
+date: 2024-10-21T01:53:26.063Z
+updated: 2024-10-25T22:09:48.923Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/2e909ca12d5d0ef3819e924e4b2acc53554680366
 
 ###
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
  If you’re running Skype on**Windows 10** , firstly please check if the Microphone is set to **On**  for Skype in the Privacy settings.
@@ -41,6 +48,13 @@ Follow these:
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###
 
 ### Fix 2: Adjust the audio settings on Skype
@@ -49,16 +63,23 @@ Follow these:
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
 
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your sound card driver
@@ -71,23 +92,9 @@ Follow these:
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer and run Skype to see if your Microphone works.
 
 ###
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows audio service
 
@@ -95,13 +102,6 @@ Follow these:
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Log in Skype and check to see if your Microphone works.
 
@@ -122,19 +122,22 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-screen-capturing-magic-comprehensive-guide-and-options-ranked/"><u>[New] 2024 Approved Screen-Capturing Magic Comprehensive Guide & Options Ranked</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-maximizing-impact-livestreaming-360-degree-video-magic-on-youtube/"><u>[New] Maximizing Impact Livestreaming 360-Degree Video Magic on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-choice-vr-game-engines-update-march-2023/"><u>[New] Top Choice VR Game Engines Update - March 2023</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/all-purpose-recovery-solution-software-fast-and-reliable-data-rescue-across-platforms/"><u>All-Purpose Recovery Solution Software – Fast and Reliable Data Rescue Across Platforms</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/drivesavers-raid-suite-multiverse-support/"><u>DriveSavers RAID Suite: Multiverse Support</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/engaging-with-fortnites-latest-season-an-exciting-new-chapter-in-the-battle-royale-universe/"><u>Engaging with Fortnite's Latest Season: An Exciting New Chapter in the Battle Royale Universe</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-ai-technology-must-haves-every-entrepreneur-needs-to-understand/"><u>Essential AI Technology Must-Haves Every Entrepreneur Needs to Understand</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/galaxyarchive-revival/"><u>GalaxyArchive Revival</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/planetary-restoration-unit/"><u>Planetary Restoration Unit</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-data-recoverywindows/"><u>Stellar Data Recovery(ステラデータリカバリー)：Windowsユーザーのための優秀なフリーデータ回復ソリューション</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-shapley-values-exploring-the-capabilities-of-openais-shape-explainer/"><u>Understanding Shapley Values: Exploring the Capabilities of OpenAI's shapE Explainer</u></a></li>
-<li><a href="https://solve-help.techidaily.com/1726026507757-youtube/"><u>YouTubeビデオの音声取り出し手順</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-audio-capture-essentials-mastering-mac-setup/"><u>[New] Audio Capture Essentials Mastering Mac Setup</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-masterful-stardew-upgrades-uncovered-the-seven-best/"><u>[Updated] Masterful Stardew Upgrades Uncovered The Seven Best</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-downloads-igtv-media-for-phone-users/"><u>[Updated] Mastering Downloads IGTV Media for Phone Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-preserving-every-moment-of-your-switch-gaming/"><u>2024 Approved Preserving Every Moment of Your Switch Gaming</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/advanced-data-restoration-program-professional-software-solutions-for-every-kind-of-file/"><u>Advanced Data Restoration Program: Professional Software Solutions for Every Kind of File</u></a></li>
+<li><a href="https://fox-that.techidaily.com/demystifying-the-offline-issue-with-find-my-iphone-a-guide-to-finding-your-device/"><u>Demystifying the Offline Issue with Find My iPhone – A Guide to Finding Your Device</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskdynamo-swiftly-retrieving-raid-data/"><u>DiskDynamo: Swiftly Retrieving RAID Data</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/elite-data-reconstruction-application-seamless-retrieval-of-diverse-file-formats/"><u>Elite Data Reconstruction Application: Seamless Retrieval of Diverse File Formats</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-nokia-c02-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Nokia C02</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-battery-health-on-windows-10-insights-and-strategies-from-the-official-report/"><u>Mastering Battery Health on Windows 10: Insights and Strategies From the Official Report</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reliable-phone-data-resurrection-program/"><u>Reliable Phone Data Resurrection Program</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/starrybackup-solutions/"><u>StarryBackup Solutions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600598923-stellar-data-recovery-windows/"><u>Stellar Data Recovery: Windows版で失われたデータのみ魔法のように回復可能(無料)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/tailoring-youtube-experience-on-the-worlds-largest-social-network-for-2024/"><u>Tailoring YouTube Experience on the World's Largest Social Network for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-data-rescue-application-efficient-solution-for-retrieving-lost-or-corrupted-information-across-various-formats/"><u>Universal Data Rescue Application: Efficient Solution for Retrieving Lost or Corrupted Information Across Various Formats</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtube-thumbnails-demystified-mac-edition-for-2024/"><u>YouTube Thumbnails Demystified - Mac Edition for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600422234-windows/"><u>ステラデータリカバリー・Windows版 - 安心できる無料データ救出ツール</u></a></li>
 </ul></div>
 

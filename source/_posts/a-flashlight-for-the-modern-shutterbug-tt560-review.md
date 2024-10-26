@@ -1,7 +1,7 @@
 ---
 title: "A Flashlight for the Modern Shutterbug: TT560 Review"
-date: 2024-10-19T16:41:34.821Z
-updated: 2024-10-20T16:28:08.323Z
+date: 2024-10-24T05:45:49.939Z
+updated: 2024-10-26T09:39:34.637Z
 categories:
   - BestProducts
 description: "This Article Describes A Flashlight for the Modern Shutterbug: TT560 Review"
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/FttxoftMtHF3B2ZGmP2QubmOp3I=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
@@ -70,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/jITowxAWHBUo5WF3Y-XI6lKQNQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-05-02d76c869b864ef0abddfe824cfbf53a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
 ## **Design: Small but powerful**
@@ -92,6 +99,13 @@ Lifewire / Andrew Hayward
 
  There’s not much to the setup process here. Using the included USB-C to USB-C cable, simply plug one end into the power bank and the other into an AC adapter that you have handy—like one for a laptop, tablet, or[smartphone](https://www.lifewire.com/best-smartphones-4043781) . Once the four lights on the side are fully illuminated, then the battery pack is fully charged. Simply plug in devices using their respective cables to charge them using the power within the ZMI PowerPack 20000.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Charging Speed and Battery: It keeps going**
 
  The ZMI PowerPack 20000 has a hearty 20,000mAh cell within, and it charged my devices quickly without fully depleting the brick. I charged a[2019 MacBook Pro](https://www.lifewire.com/apple-macbook-pro-13-inch-2019-review-4770116) (13-inch) laptop from 0 percent to 100 percent in just 1 hour, 53 minutes using the ZMI PowerPack 20000’s USB-C PD port, with an effective charging rate of 42.92W (14.8Vx2.9A). When the charging process was complete, the PowerPack still had one light illuminated, indicating that there was still a little bit of battery life remaining.
@@ -102,20 +116,13 @@ Lifewire / Andrew Hayward
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/asGVK-moJ54HvqyY9N6Kb-KM8hw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-04-828899fb01024cd4a0e35980251c04b4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: It’s a bargain**
@@ -123,13 +130,6 @@ Lifewire / Andrew Hayward
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal. Granted, the maximum USB-C PD output of 45W won’t charge some super-powered laptops—but for compatible laptops, as well as smartphones, tablets, and other portable electronics, it’s very well priced.
 
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **ZMI PowerPack 20000 vs Mophie Powerstation AC**
 
@@ -167,18 +167,22 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-6-cool-minecraft-house-ideas/"><u>[New] 2024 Approved Top 6 Cool Minecraft House Ideas</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-fix-for-sudden-audio-gaps-in-obs-captures/"><u>[New] Fix for Sudden Audio Gaps in OBS Captures</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-dive-deep-into-duality-mastering-multi-video-watching-on-youtube/"><u>[New] In 2024, Dive Deep Into Duality Mastering Multi-Video Watching on YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-two-pocket-strategies-for-effective-google-meet-documentation/"><u>[New] In 2024, Two Pocket Strategies for Effective Google Meet Documentation</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-vivid-vistas-in-video-a-closer-look-at-lgs-monitor-31mu97-b-for-2024/"><u>[New] Vivid Vistas in Video A Closer Look at LG's Monitor, 31MU97-B for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-warrior-spirits-rising-comparable-game-suggestions/"><u>[Updated] Warrior Spirits Rising Comparable Game Suggestions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-cease-non-filtered-youtube-video-trail/"><u>2024 Approved Cease Non-Filtered YouTube Video Trail</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/complete-data-revival-solution-reinstate-lost-information-across-formats/"><u>Complete Data Revival Solution - Reinstate Lost Information Across Formats</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/expert-level-partition-fixers-recover-inaccessible-or-missing-drives-easily/"><u>Expert-Level Partition Fixers: Recover Inaccessible or Missing Drives Easily</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-fade-music-on-windowsmac/"><u>How to Fade Music on Windows/Mac</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-how-to-screen-record-on-hp-laptop-best-4-ways-to-use/"><u>In 2024, How to Screen Record on Hp Laptop? - Best 4 Ways to Use</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/rescue-your-data-top-software-for-restoring-erased-computer-sections/"><u>Rescue Your Data: Top Software for Restoring Erased Computer Sections</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600338083-stellar-data-recovery-windows/"><u>Stellar Data Recovery ソフトウェア - Windows上での無料使用で大切なデータを保護・復元</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-expert-online-seminar-tagline-creator/"><u>[New] 2024 Approved Expert Online Seminar Tagline Creator</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-earning-on-youtube-a-step-by-step-guide-for-newbies-for-2024/"><u>[New] Earning on YouTube A Step-by-Step Guide for Newbies for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bend-the-norm-innovative-text-transformation-techniques/"><u>[Updated] Bend the Norm Innovative Text Transformation Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-endless-visual-streaming-services/"><u>[Updated] Endless Visual Streaming Services</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-exclusive-review-of-showmore-authoritative-screen-capture-software/"><u>[Updated] Exclusive Review of ShowMore’ Authoritative Screen Capture Software</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/android-data-recovery-software-to-recover-lost-photos-videos/"><u>Android Data Recovery Software to Recover Lost Photos, Videos ...</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/beyond-video-chats-webcam-alternatives-for-2024/"><u>Beyond Video Chats Webcam Alternatives for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-rescue-efficient-software-solutions-for-reconstructing-lost-or-corrupt-disk-partitions/"><u>Data Rescue: Efficient Software Solutions for Reconstructing Lost or Corrupt Disk Partitions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/digital-photo-restorer-android-edition/"><u>Digital Photo Restorer: Android Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/iphone-restoration-mastermind-unlock-data-peacefully/"><u>IPhone Restoration Mastermind: Unlock Data Peacefully</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/missing-memories-return-in-a-flash-with-our-recovery-service/"><u>Missing Memories Return in a Flash with Our Recovery Service</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016570694-no-more-silence-in-battle-royale-fixed-guide-to-restore-voice-chat-on-apex-legends/"><u>No More Silence in Battle Royale: Fixed Guide to Restore Voice Chat on Apex Legends!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/retrieving-shadows-your-mac-data-restoration-companion/"><u>Retrieving Shadows: Your Mac Data Restoration Companion</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/syncos-files-rescue-windows-mac-linux-version/"><u>SyncOS Files Rescue - Windows, Mac, Linux Version</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlock-local-treasures-browse-free-classified-options-on-oodle-now/"><u>Unlock Local Treasures: Browse Free Classified Options on Oodle Now</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600578736-windows/"><u>ステラ・データレコヴァリー: Windowsで使用可能な無料のデータ回復ツール</u></a></li>
 </ul></div>
 

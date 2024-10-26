@@ -1,7 +1,7 @@
 ---
 title: "The Power Shift: Lenovo's Adoption of MoDT Tech for Unleashing the Potential of Legion 7000K Gaming Towers in China"
-date: 2024-10-14T16:32:37.114Z
-updated: 2024-10-20T16:30:41.131Z
+date: 2024-10-22T02:00:17.613Z
+updated: 2024-10-26T09:12:58.061Z
 tags:
   - desktop
 categories:
@@ -28,10 +28,16 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Also note that we don't include the cost of an operating system, because you can get[Windows for Free or Cheap](https://www.tomshardware.com/reviews/get-windows-10-free-or-cheap,5717.html) . Nor do we include the price of peripherals such as the[best gaming monitors](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.html) ,[best gaming keyboards](https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards) or[best gaming mouse](https://www.tomshardware.com/best-picks/best-gaming-mouse) . And if you've never made a computer before, see our article on[how to build a PC](https://www.tomshardware.com/how-to/build-a-pc) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best $500 PC Build for Gaming
@@ -78,13 +84,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Gamdias Aura GC1](https://cdn.mos.cms.futurecdn.net/fixBMW57Uvy4YDmfRJpWAd-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Amazon)
 
  Swipe to scroll horizontally
@@ -107,13 +106,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![14400 CPU vs competition](https://cdn.mos.cms.futurecdn.net/FVyBrR3Fkm8RXeguWat4ik-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  To go with this Intel processor, we're using an ASRock B760M-HDV motherboard because it supports 14th Gen CPUs without a BIOS update. It's a DDR4 board so we can save money by using DDR4 memory. It also features two M.2 slots for SSDs, with one of them supporting PCIe 4.0 drives.
@@ -121,6 +113,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Our graphics card at this price point is the Nvidia RTX 4060, which comes in just under $300\. The 4060 has strong performance at 1080p, ultra settings, having averaged 84.9 fps on our suite of tests. It ranks just above the RTX 2080 and below the Raden RX 6700 on our[GPU benchmarks hierarchy](https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html) .
 
 ![1080p GPUs Ranked](https://cdn.mos.cms.futurecdn.net/ktyz8PAoeeySeFAwDS7RGh-320-80.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -164,6 +163,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![CPU 1080p performance for Ryzen 7 5700X3D](https://cdn.mos.cms.futurecdn.net/FubLpBjdNUCy6aXRouBReZ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Newegg)
 
  To support our Ryzen 7 57003XD, we're using a Gigabyte B550 UD AC motherboard. This board has built-in Wi-Fi 6 and it also has Q-Flash, which allows you to[update the BIOS](https://www.tomshardware.com/how-to/update-bios-on-a-pc) , before you install the CPU. This may be necessary as the 5700X3D just came out a few months ago.
@@ -185,13 +191,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ## Best $1,500 PC Build for Gaming
 
 ![Lian Li Lancool 216](https://cdn.mos.cms.futurecdn.net/Km4g6hf6hy2XkxhB88oxBR-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -217,13 +216,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![RTX 4070 Spider-Man: Miles Morales Ray Tracing results](https://cdn.mos.cms.futurecdn.net/XgVebfNva528szwrGpaooB-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  We're also upgrading the CPU to[Intel's Core i5-14600KF](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) , an overclockable processor that has 6 performance cores, 8 efficiency cores, 20 threads and a boost clock of 5.3 GHz. That's before you attempt to overclock it.
@@ -236,29 +228,22 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![WD SN850X](https://cdn.mos.cms.futurecdn.net/Zgbo67f5diWaNQg29SQ3nQ-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  Our case for this build is the $99[Lian Li Lancool 216](https://www.tomshardware.com/reviews/lian-li-lancool-216-review) . When we reviewed the Lancool 216, we praised its included dual RGB 160mm front and single 140mm exhaust fans, excellent cable management and attractive looks. There's also plenty of room for a top-mounted radiator that's up to 360mm.
 
  Our power supply is a 750-watt Corsair CX750M. This 80 Plus Gold certified PSU packs enough power to support our GPU with plenty of juice to spare. However, it's not fully modular, with some of the wires being built-in.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best $2000 PC Build for Gaming
 
 ![Hyte Y40](https://cdn.mos.cms.futurecdn.net/4uhnTrJWRufEuBFQzenypi-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -290,6 +275,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Ryzen 7 7800X3D 1080p gaming tests](https://cdn.mos.cms.futurecdn.net/c5TiEiPPHBkLtGTfkp3Tyh-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  To cool the CPU, we're using an Iceberg Thermal IceFLOE Oasis 360\. When we[tested the IceFLOE](https://www.tomshardware.com/pc-components/liquid-cooling/iceberg-thermal-icefloe-oasis-360mm-240mm-review) , we were impressed with its low noise output and fantastic cooling output that allowed it to disperse up to 237 watts of heat. It has attractive RGB and you get all of that for a measly $89.
@@ -299,10 +291,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Memory Latency](https://cdn.mos.cms.futurecdn.net/ew9VS2PUuTupX8YSvcyb5X-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Image credit: Future)
@@ -312,6 +304,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Our case is Hyte Y40, which is a great showcase for our components. It has beautiful wraparound glass that extends from the front to the left side. The case is available in three colors but we really like it in red.
 
  To power all these high-end components, we're using a Corsair RM750e PSU which is 80+ Gold certified and fully modular.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best $4000+ PC Build for Gaming
 
@@ -359,6 +358,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Samsung 990 Pro 4TB Benchmarks](https://cdn.mos.cms.futurecdn.net/GArKvY8BSc22ZhDRwWyr2C-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We decided to go with a case that has a unique, premium look in the[Fractal Design North XL.](https://www.tomshardware.com/pc-components/pc-cases/fractal-design-north-xl-review) With its wood paneled front, this chassis looks more like a mid-century modern piece of furniture than a gaming PC, which is a nice subtle touch. However, it also has a tempered glass side panel which you can use to show off all of your RGB components (or you can buy it with a solid panel and no window). It also has fantastic thermal performance and plenty of room for more drives and fans. The XL model can accommodate up to an E-ATX motherboard, giving you plenty of room for future upgrades.
@@ -384,18 +390,21 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-online-bunches-of-premium-quality-vector-icons/"><u>2024 Approved Best Online Bunches of Premium-Quality Vector Icons</u></a></li>
-<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/asuspc-hddssd/"><u>ASUSノートPC 改造術：HDDをSSDに転送する手順解説</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-universal-data-restoration-software/"><u>Comprehensive Data Rescue Tool: Universal Data Restoration Software</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/datarecoverer-versatile-raid-revival-software/"><u>DataRecoverer: Versatile RAID Revival Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-xbox-game-pass-for-gamers/"><u>Demystifying Xbox Game Pass for Gamers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminate-the-disappearing-act-fix-your-windows-11-touchpad-cursor-issues/"><u>Eliminate the Disappearing Act: Fix Your Windows 11 Touchpad Cursor Issues</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/online-pcx-gif-movavi/"><u>Online 무료 PCX 이미지를 안면 영상(GIF)으로 바꾸기 - Movavi</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/raidreclamation-suite-reclaiming-raid-systems/"><u>RaidReclamation Suite: Reclaiming RAID Systems</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/regain-access-to-missing-files-at-zero-cost/"><u>Regain Access to Missing Files at Zero Cost</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/resurrect-inaccessible-storage-areas-with-leading-edge-partition-restoration-applications/"><u>Resurrect Inaccessible Storage Areas with Leading-Edge Partition Restoration Applications</u></a></li>
-<li><a href="https://windows11.techidaily.com/revolutionize-desktop-top-5-clock-saver-software/"><u>Revolutionize Desktop - Top 5 Clock Saver Software</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-full-potential-chromium-setup-for-windows-11/"><u>Unleash Full Potential: Chromium Setup for Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlocking-your-potential-in-youtube-video-production-scripts/"><u>[New] 2024 Approved Unlocking Your Potential in YouTube Video Production Scripts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-prime-5-tools-shake-off-youtube-video-editing/"><u>[New] In 2024, Prime 5 Tools Shake Off Youtube Video Editing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ipad-speech-recording-uncovered-top-methods/"><u>2024 Approved IPad Speech Recording Uncovered Top Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-video-capacity-in-64128gb-drives/"><u>2024 Approved Maximizing Video Capacity in 64/128GB Drives</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/a-flashlight-for-the-modern-shutterbug-tt560-review/"><u>A Flashlight for the Modern Shutterbug: TT560 Review</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/boost-your-frame-rate-overcoming-low-fps-in-farming-simulator-22-for-pc-users/"><u>Boost Your Frame Rate: Overcoming Low FPS in Farming Simulator 22 for PC Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-color-laserjet-pro-m452dn-driver/"><u>Download HP Color LaserJet Pro M452dn Driver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-the-windows-access-error-annoyance/"><u>Eliminating the 'Windows Access Error' Annoyance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/error-leaf-resolved-optimize-your-apex-legends-experience-with-2022-fixes/"><u>Error Leaf Resolved: Optimize Your Apex Legends Experience with 2022 Fixes</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-tips-for-resolving-rainbow-six-server-connectivity-problems/"><u>Expert Tips for Resolving Rainbow Six Server Connectivity Problems</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/fixing-issues-why-is-my-destiny-2-microphone-not-detected/"><u>Fixing Issues: Why Is My Destiny 2 Microphone Not Detected?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/roblox-audio-not-working-solve-the-mute-mystery-in-windows-11-and-10-environments/"><u>Roblox Audio Not Working? Solve the Mute Mystery in Windows 11 and 10 Environments</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1723016632510-skype-voice-troubleshooting-on-windows-11-get-your-mic-working-again/"><u>Skype Voice Troubleshooting on Windows 11 - Get Your Mic Working Again!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/tips-for-clearer-audio-in-home-based-podcasts/"><u>Tips for Clearer Audio in Home-Based Podcasts</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/troubleshoot-and-resolve-sound-problems-handling-failed-to-generate-sound/"><u>Troubleshoot and Resolve Sound Problems: Handling 'Failed to Generate Sound'</u></a></li>
 </ul></div>
 

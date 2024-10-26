@@ -1,7 +1,7 @@
 ---
 title: "Fixing Issues: Why Is My Destiny 2 Microphone Not Detected?"
-date: 2024-10-15T16:37:28.658Z
-updated: 2024-10-20T16:46:08.070Z
+date: 2024-10-23T18:58:04.275Z
+updated: 2024-10-25T18:05:42.414Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1 – Allow access to your microphone on your PC
 
  If your Corsair HS35 is not activated in the Window settings, your PC will lack the access to your microphone and so the mic just won’t start to work at all. Follow these steps to allow access to your microphone:
@@ -47,24 +54,24 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
 
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2 – Check the audio settings
@@ -75,11 +82,31 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/volume-icon-sounds.jpg)
 2. Under the**Recording** tab, check to see if your headset microphone is set to disabled. If it is, right-click on it and select**Enable** . (If your mic is not the default device, click**Set Default** to set it as default)  
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 3. Right-click the headset microphone again and select **Properties.**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
 4. Under the**Levels** tab, move the slider to the highest value and then click**OK** to save your settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this fix doesn’t give you the luck, try the next below to update your audio drives.
 
@@ -104,29 +131,9 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
 4. After updating your audio driver, restart your PC for the trick to take effect.
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The**Pro version** of Driver Easy comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at <support@drivereasy.com> .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4 – Reinstall the Corsair headset and iCUE software
 
@@ -136,22 +143,8 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
@@ -199,6 +192,13 @@ Top Pick
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6 – Seek technical support or after-sales service
 
  If you’ve tried all of the above fixes and still can’t get your mic boom to function, the issue could be with your headset rather than your computer.**You can try connecting your headset to another PC** ; if it’s still not working, there may be an issue with your Corsair Mic. In this situation, you should **[contact Corsair for support](https://help.corsair.com/hc/en-us)**  or have your headset serviced.
@@ -222,24 +222,20 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-decoding-shake-reduction-in-photoshop-does-it-matter-in-2024/"><u>[New] Decoding Shake Reduction in Photoshop Does It Matter, In 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-leading-plot-coders-space-for-2024/"><u>[New] Leading Plot Coders Space for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-top-8-best-video-converter-on-iphonedesktop/"><u>[New] Top 8 Best Video Converter on iPhone/Desktop</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-dive-into-retro-gaming-the-5-highest-rated-android-ps2-emulators/"><u>[Updated] In 2024, Dive Into Retro Gaming The 5 Highest-Rated Android PS2 Emulators</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-navigate-the-social-media-maze-understanding-insights/"><u>[Updated] In 2024, Navigate the Social Media Maze Understanding Insights</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/all-in-one-data-salvage-program-expert-solutions-for-extracting-vital-information/"><u>All-in-One Data Salvage Program – Expert Solutions for Extracting Vital Information</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/android-file-retriever-restore-photos-and-more/"><u>Android File Retriever: Restore Photos & More</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/arrayhealer-precise-raid-0-5-and-6-recovery/"><u>ArrayHealer: Precise RAID 0, 5 & 6 Recovery</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-size-for-2024/"><u>Building Size for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/efficient-partition-recovery-tools-bring-back-lost-or-locked-drives/"><u>Efficient Partition Recovery Tools: Bring Back Lost or Locked Drives</u></a></li>
-<li><a href="https://video-capture.techidaily.com/effortless-bulk-conversion-turning-mpeg-files-into-m4a-quickly/"><u>Effortless Bulk Conversion: Turning MPEG Files Into M4A Quickly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-on-the-go-motion-dampener-for-videography/"><u>In 2024, On-the-Go Motion Dampener for Videography</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/lost-storage-sectors-made-accessible-again-top-tier-software-expertise-in-recovering-deleted-disk-segments/"><u>Lost Storage Sectors Made Accessible Again - Top-Tier Software Expertise in Recovering Deleted Disk Segments</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/orbitrebuild-services/"><u>OrbitRebuild Services</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/recover-forgotten-data-swiftly-trust-in-our-specialist-service/"><u>Recover Forgotten Data Swiftly - Trust in Our Specialist Service</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/recovers-raid-data-from-raid-0-5-and-6-stellar-data-recovery/"><u>Recovers RAID Data From RAID 0, 5 & 6 - Stellar Data Recovery</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600702247-stellar-data-recovery-for-windows/"><u>Stellar Data Recovery for Windows: 無料のデータ復元ソフトウェア</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ltimate-guide-to-swift-youtube-discussion-management-for-2024/"><u>The Ultimate Guide to Swift Youtube Discussion Management for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/top-image-disk-software-pour-windows-11-aomei-backupper-solution-optimale/"><u>Top Image Disk Software Pour Windows 11: AOMEI Backupper - Solution Optimale</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-elite-driving-sims-best-five-titles/"><u>[New] 2024 Approved Elite Driving Sims Best Five Titles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-auditory-anchors-keeping-streamed-music-intact/"><u>[Updated] Auditory Anchors Keeping Streamed Music Intact</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600546174-windows/"><u>「ステラデータリカバリー - Windows用の軽量無料データ復旧ツール」</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-become-a-sticker-master-turning-any-gif-into-an-icon-on-messaging-apps/"><u>2024 Approved Become a Sticker Master Turning Any GIF Into an Icon on Messaging Apps</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-11-pro-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 11 Pro? How to Fix it?</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/complete-partition-restoration-toolset-reclaim-your-deleted-segments-with-cutting-edge-software/"><u>Complete Partition Restoration Toolset - Reclaim Your Deleted Segments with Cutting-Edge Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-key-finder-gadgets-secure-and-smart-options-reviewed/"><u>Discover the Ultimate Key Finder Gadgets : Secure & Smart Options Reviewed</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/free-file-salvage-suite-optimal-repair/"><u>Free File Salvage Suite – Optimal Repair</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-the-unsupported-hardware-detected-error-in-idt-packages/"><u>How to Overcome the ‘Unsupported Hardware Detected’ Error in IDT Packages</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/keep-an-eye-out-for-insta-follower-fleece/"><u>Keep an Eye Out for Insta Follower Fleece</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reclaim-your-digital-world-with-lightning-fast-restoration/"><u>Reclaim Your Digital World with Lightning-Fast Restoration</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reconstruct-lost-files-on-your-mac-proactively/"><u>Reconstruct Lost Files on Your Mac Proactively</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/top-software-solutions-to-restore-unallocated-or-formatted-storage-areas/"><u>Top Software Solutions to Restore Unallocated or Formatted Storage Areas</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600344854-windows/"><u>Windows用の無料データ回復ツール - ステラデータリカバリ</u></a></li>
 </ul></div>
 

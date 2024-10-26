@@ -1,7 +1,7 @@
 ---
 title: Reviving Your Last Connected USB Device for Windows Compatibility
-date: 2024-10-13T16:37:47.876Z
-updated: 2024-10-20T16:43:28.288Z
+date: 2024-10-22T10:07:08.161Z
+updated: 2024-10-25T23:38:58.579Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc
 
  As mentioned, the exact cause could be very different in different situations, but there are some general resolutions that you should try before you turn to technicians. And one of the solutions below is bound to fix the problem for you. No worries, we’ve got you covered.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How can I fix it?
 
  Here are 4 solutions for you to try. You may not have to try them all; just work your way down until you find the one works for you.
@@ -49,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc
  If your problem stops here, the USB port might be at fault, not your USB flash drive. Try to avoid using the same port next time, in case similar problem happens again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Update all possible device drivers
@@ -69,18 +76,18 @@ thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37710b44342.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged drivers to automatically download and install the correct versions (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the [**Pro**](https://tools.techidaily.com/drivereasy/download/) version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37721186152.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) You need to restart your PC for the updated drivers to work properly. Check if your USB device is recognized now.
 
@@ -95,13 +102,6 @@ Or click **Update All**  to automatically download and install the correct versi
  1) On your keyboard, press the**Windows logo key** and**S** at the same time, type in the search box**power plan** and click**Choose a power plan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377758f2bdc.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click**Change plan settings** next to the plan option you’re having now.
 
@@ -119,13 +119,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377b3cef938.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **NOTE** : If you’re using a laptop, click**On battery** , then**Disabled** from the drop-down menu.
 
  6) Check to see if your USB device is recognized now. If the problem remains unsolved, proceed with the methods below.
@@ -139,6 +132,13 @@ Or click **Update All**  to automatically download and install the correct versi
  1) On your keyboard, press the**Windows logo key** and**R** at the same time. Type**devmgmt.msc** in and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3786b06277a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On the top bar, click**View** and then**Show hidden devices** .
 
@@ -156,6 +156,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37895fbce37.png)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3.1.3) When the uninstall finishes, restart your computer. Then repeat the same procedure with the rest of the USB controllers marked by yellow exclamation marks or question marks one by one.
 
 ### 3.2) If you don’t see any drivers marked by yellow exclamation mark or question mark
@@ -165,22 +178,15 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e629ee28.png)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3.2.3) When the disable finishes, restart your PC. Repeat the same procedure as above, and if your USB controller driver is not enabled automatically, right-click it and click**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e29c15b5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Your USB device should be recognized now.
 
@@ -201,20 +207,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-virtual-safari-androids-ultimate-animals-game-list/"><u>[New] Virtual Safari Android's Ultimate Animals Game List</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-discovering-prime-frame-rates-for-top-tier-slow-motion-vids/"><u>[Updated] In 2024, Discovering Prime Frame Rates for Top-Tier Slow-Motion Vids</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/all-inclusive-data-reconstruction-platform-the-best-in-versatile-data-restoration-solutions/"><u>All-Inclusive Data Reconstruction Platform: The Best in Versatile Data Restoration Solutions</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-expert-tech-support-for-retrieving-lost-files/"><u>Comprehensive Data Rescue Tool: Expert Tech Support for Retrieving Lost Files</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-rescue-at-no-charge-superior-solver/"><u>Data Rescue at No Charge - Superior Solver</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/efficiently-recover-lost-data-with-winrecovery-plus/"><u>Efficiently Recover Lost Data with WinRecovery Plus</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhanced-software-update-hp-officejet-4630-edition/"><u>Enhanced Software Update: HP Officejet 4630 Edition</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2010-found-a-problem-with-one-or-more-formula-by-stellar-guide/"><u>Fixed Excel 2010 Found a Problem with One or more Formula</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/free-file-resurrection-software/"><u>Free File Resurrection Software</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improving-graphics-stability-to-fix-frame-drops-in-fortnite-on-pc/"><u>Improving Graphics Stability to Fix Frame Drops in Fortnite on PC</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/microsoft-unveils-future-a-3d-reality-with-hololens-for-2024/"><u>Microsoft Unveils Future A 3D Reality With HoloLens for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reclaim-lost-data-in-minutes-stellar-service-guarantee/"><u>Reclaim Lost Data in Minutes - Stellar Service Guarantee!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-m34-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy M34</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/windatarestoration-kit/"><u>WinDataRestoration Kit</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-screencast-primer-fundamental-knowledge-for-video-enthusiasts/"><u>[New] In 2024, The Screencast Primer Fundamental Knowledge for Video Enthusiasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-look-at-sonys-x1000v-hd-recorder/"><u>[New] In-Depth Look at Sony's X1000V HD Recorder</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-your-youtube-presence-with-these-8-free-courses/"><u>[Updated] Elevate Your YouTube Presence with These 8 Free Courses</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/all-in-one-restore-solution-safeguard-any-form-of-lost-data/"><u>All-in-One Restore Solution: Safeguard Any Form of Lost Data</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-guide-to-data-destruction-insightful-articles-and-best-practices-curated-by-stellar/"><u>Comprehensive Guide to Data Destruction: Insightful Articles & Best Practices Curated by Stellar</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-solutions-to-address-nwstoreexe-application-malfunctions/"><u>Comprehensive Solutions to Address nw_store.exe Application Malfunctions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-update-your-asus-monitor-drivers-for-optimal-performance/"><u>Easy Steps to Update Your ASUS Monitor Drivers for Optimal Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/friend-vs-friend-showdowns-in-pokemon-go-tips-and-tricks-to-dominate-battles-side-by-side/"><u>Friend vs Friend Showdowns in 'Pokémon Go': Tips and Tricks to Dominate Battles Side by Side</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-11-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 11 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-symphony-space-recordings-downloads-for-study/"><u>In 2024, Symphony Space Recordings, Downloads for Study</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/recoveryraid-specializing-in-raid-systems/"><u>RecoveryRaid: Specializing in RAID Systems</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-resolve-iphones-error-14/"><u>Solving the Puzzle: A Step-by-Step Guide to Resolve iPhone's Error 14</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-solution-uncovered-bypassing-overwatchs-initial-black-screen-glitch/"><u>The Solution Uncovered: Bypassing Overwatch's Initial Black Screen Glitch</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/the-ultimate-software-for-reviving-unavailable-disk-sectors-and-forgotten-drives/"><u>The Ultimate Software for Reviving Unavailable Disk Sectors & Forgotten Drives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-pick-windows-10s-cutting-edge-apps-and-games/"><u>Top Pick Windows 10’S Cutting-Edge Apps & Games</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/troubleshooting-phasmophobia-issues-latest-fixes-for-gamers/"><u>Troubleshooting Phasmophobia Issues - Latest Fixes for Gamers</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-data-restoration-program-secure-retrieval-for-any-file/"><u>Universal Data Restoration Program: Secure Retrieval for Any File</u></a></li>
 </ul></div>
 
