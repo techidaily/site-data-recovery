@@ -1,7 +1,7 @@
 ---
 title: "China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025"
-date: 2024-10-21T00:34:19.510Z
-updated: 2024-10-26T08:20:58.032Z
+date: 2024-10-24T22:58:42.458Z
+updated: 2024-11-01T03:20:48.588Z
 tags:
   - desktop
 categories:
@@ -64,25 +64,26 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-mastering-mp3-capture-skype-calls-no-cost/"><u>[New] 2024 Approved Mastering MP3 Capture Skype Calls, No Cost</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/windowsstellar/"><u>「落とし物を取り戻せる! Windows向け無料Stellarリカバリプログラム」</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premium-memory-compatible-with-sony-a7-cams/"><u>2024 Approved Premium Memory Compatible with Sony A7 Cams</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/arrayasylum-sanctuary-for-scrambled-raids/"><u>ArrayAsylum: Sanctuary for Scrambled RAIDs</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/complete-data-revival-system-a-versatile-one-stop-solution-to-restore-your-most-precious-memories/"><u>Complete Data Revival System: A Versatile, One-Stop Solution to Restore Your Most Precious Memories</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/craft-excellence-top-10-free-drawing-tools-for-mac-for-2024/"><u>Craft Excellence Top 10 Free Drawing Tools for Mac for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-zte-blade-a73-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on ZTE Blade A73 5G online without jailbreak</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-se-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone SE</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-lagging-at-launch-overcome-hogwarts-legacy-crashing-with-these-8-tricks/"><u>No More Lagging at Launch? Overcome Hogwarts Legacy Crashing with These 8 Tricks</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-data-recovery-data-recovery-software-free-download/"><u>Stellar Data Recovery: Data Recovery Software Free Download</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-secure-entry-into-windows-admin-console/"><u>Steps for Secure Entry Into Windows' Admin Console</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-choosing-a-top-nixplay-seed-frame/"><u>The Ultimate Guide to Choosing a Top Nixplay Seed Frame</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/ultimate-solution-for-various-data-extraction-programs-total-data-reconstruction-suite/"><u>Ultimate Solution for Various Data Extraction Programs - Total Data Reconstruction Suite</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-5-premier-cloud-platforms-revolutionizing-storage/"><u>[Updated] 5 Premier Cloud Platforms Revolutionizing Storage</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-brief-stardom-flash-review/"><u>[Updated] Brief Stardom Flash Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-low-cost-screen-recorder-guide-for-old-computers/"><u>[Updated] Low-Cost Screen Recorder Guide for Old Computers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-educational-videos-cutting-and-assembly-techniques/"><u>2024 Approved Educational Videos Cutting & Assembly Techniques</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/all-in-one-data-salvage-program-expert-solutions-for-extracting-vital-information/"><u>All-in-One Data Salvage Program – Expert Solutions for Extracting Vital Information</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/android-file-retriever-restore-photos-and-more/"><u>Android File Retriever: Restore Photos & More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-you-track-blood-pressure-with-the-new-apple-watch-series-10-the-facts-revealed-by-zdnet/"><u>Can You Track Blood Pressure with the New Apple Watch Series 10? The Facts Revealed by ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c02-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia C02 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-maximizing-your-time-online-embracing-facebook-fully/"><u>In 2024, Maximizing Your Time Online Embracing Facebook Fully</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/innovative-data-retrieval-software-for-iphones/"><u>Innovative Data Retrieval Software for iPhones</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/recover-forgotten-data-swiftly-trust-in-our-specialist-service/"><u>Recover Forgotten Data Swiftly - Trust in Our Specialist Service</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/recovers-raid-data-from-raid-0-5-and-6-stellar-data-recovery/"><u>Recovers RAID Data From RAID 0, 5 & 6 - Stellar Data Recovery</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-missing-drivers-issue-on-windows-windows-11-8-and-7-guide/"><u>Resolving Missing Drivers Issue on Windows: Windows 11, 8 & 7 Guide</u></a></li>
+<li><a href="https://win-popular.techidaily.com/step-by-step-guide-removing-your-iphone-from-icloud-using-a-computer-or-mobile-device/"><u>Step-by-Step Guide: Removing Your iPhone From iCloud Using a Computer or Mobile Device</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
