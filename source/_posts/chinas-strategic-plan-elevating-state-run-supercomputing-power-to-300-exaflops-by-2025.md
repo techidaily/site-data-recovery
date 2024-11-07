@@ -1,7 +1,7 @@
 ---
 title: "China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025"
-date: 2024-10-24T22:58:42.458Z
-updated: 2024-11-01T03:20:48.588Z
+date: 2024-11-02T23:01:49.394Z
+updated: 2024-11-06T21:17:55.408Z
 tags:
   - desktop
 categories:
@@ -64,26 +64,37 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-5-premier-cloud-platforms-revolutionizing-storage/"><u>[Updated] 5 Premier Cloud Platforms Revolutionizing Storage</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-brief-stardom-flash-review/"><u>[Updated] Brief Stardom Flash Review</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-low-cost-screen-recorder-guide-for-old-computers/"><u>[Updated] Low-Cost Screen Recorder Guide for Old Computers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-educational-videos-cutting-and-assembly-techniques/"><u>2024 Approved Educational Videos Cutting & Assembly Techniques</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/all-in-one-data-salvage-program-expert-solutions-for-extracting-vital-information/"><u>All-in-One Data Salvage Program – Expert Solutions for Extracting Vital Information</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/android-file-retriever-restore-photos-and-more/"><u>Android File Retriever: Restore Photos & More</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-you-track-blood-pressure-with-the-new-apple-watch-series-10-the-facts-revealed-by-zdnet/"><u>Can You Track Blood Pressure with the New Apple Watch Series 10? The Facts Revealed by ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c02-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia C02 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-maximizing-your-time-online-embracing-facebook-fully/"><u>In 2024, Maximizing Your Time Online Embracing Facebook Fully</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/innovative-data-retrieval-software-for-iphones/"><u>Innovative Data Retrieval Software for iPhones</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/recover-forgotten-data-swiftly-trust-in-our-specialist-service/"><u>Recover Forgotten Data Swiftly - Trust in Our Specialist Service</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/recovers-raid-data-from-raid-0-5-and-6-stellar-data-recovery/"><u>Recovers RAID Data From RAID 0, 5 & 6 - Stellar Data Recovery</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-missing-drivers-issue-on-windows-windows-11-8-and-7-guide/"><u>Resolving Missing Drivers Issue on Windows: Windows 11, 8 & 7 Guide</u></a></li>
-<li><a href="https://win-popular.techidaily.com/step-by-step-guide-removing-your-iphone-from-icloud-using-a-computer-or-mobile-device/"><u>Step-by-Step Guide: Removing Your iPhone From iCloud Using a Computer or Mobile Device</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-mastery-of-youtube-policy-for-successful-channels/"><u>[New] 2024 Approved Mastery of YouTube Policy for Successful Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-first-time-streamers-unite-learn-obs-and-broadcast-to-youtube-for-2024/"><u>[New] First-Time Streamers Unite Learn OBS & Broadcast to Youtube for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-enhancing-interactivity-tips-for-hosting-splitting-screen-events-on-facebook/"><u>[Updated] In 2024, Enhancing Interactivity Tips for Hosting Splitting-Screen Events on Facebook</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/a-flashlight-for-the-modern-shutterbug-tt560-review/"><u>A Flashlight for the Modern Shutterbug: TT560 Review</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/boost-your-frame-rate-overcoming-low-fps-in-farming-simulator-22-for-pc-users/"><u>Boost Your Frame Rate: Overcoming Low FPS in Farming Simulator 22 for PC Users</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/bug-free-gaming-how-from-the-ashes-of-remnant-now-stays-steady-on-launch/"><u>Bug-Free Gaming: How 'From the Ashes of Remnant' Now Stays Steady on Launch</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1722997950531-cod-black-ops-cold-war-wont-boot-here-are-the-solutions-for-pc-players/"><u>COD: Black Ops Cold War Won't Boot? Here Are The Solutions for PC Players!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/destiny-2s-centipede-problem-solutions-for-a-smooth-gaming-experience/"><u>Destiny 2'S Centipede Problem: Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/does-interacting-with-chatgpt-pose-any-cybersecurity-dangers/"><u>Does Interacting with ChatGPT Pose Any Cybersecurity Dangers?</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-and-effective-ways-to-prevent-frequent-steam-game-crashes/"><u>Easy and Effective Ways to Prevent Frequent Steam Game Crashes</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-tips-for-resolving-rainbow-six-server-connectivity-problems/"><u>Expert Tips for Resolving Rainbow Six Server Connectivity Problems</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/fixing-the-issue-stop-gta-v-from-freezing-on-your-pc/"><u>Fixing the Issue: Stop GTA V From Freezing on Your PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-conversion-transform-mp4-files-into-mpg-format-effortless-with-movavi/"><u>Free Online Conversion: Transform MP4 Files Into MPG Format - Effortless with Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/immediate-resolution-for-persistent-issues-in-ghost-recon-breaking-point-crashes/"><u>Immediate Resolution for Persistent Issues in Ghost Recon: Breaking Point Crashes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-apple-iphone-se-2020-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The Apple iPhone SE (2020) SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-ideas-into-impactful-podcast-content-writing-tips-and-samples/"><u>In 2024, Transform Your Ideas Into Impactful Podcast Content Writing Tips & Samples</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-uncover-11-free-effective-youtube-naming-solutions/"><u>In 2024, Uncover 11 Free, Effective YouTube Naming Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-complete-overview-of-artificial-intelligence-advancements-unveiled-in-apples-wwdc-24/"><u>The Complete Overview of Artificial Intelligence Advancements Unveiled in Apple's WWDC '24</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/troubleshooting-guide-how-to-speed-up-the-2022-spotify-web-player-performance-issues/"><u>Troubleshooting Guide: How to Speed Up the 2022 Spotify Web Player Performance Issues</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
