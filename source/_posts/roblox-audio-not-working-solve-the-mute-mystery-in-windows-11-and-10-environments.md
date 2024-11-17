@@ -1,7 +1,7 @@
 ---
 title: Roblox Audio Not Working? Solve the Mute Mystery in Windows 11 and 10 Environments
-date: 2024-11-02T21:12:43.901Z
-updated: 2024-11-07T01:08:32.275Z
+date: 2024-11-11T21:18:06.467Z
+updated: 2024-11-16T21:53:57.121Z
 tags:
   - win11
   - win10
@@ -38,6 +38,14 @@ If you’re experiencing Dota 2 FPS drops on your Windows computer, don’t worr
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _Dota 2_ . Then select **Properties** .  
 ![steam dota2 properties](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-dota2-properties.jpg)
 2. Go to the**LOCAL FILES** section, then click**Verify the integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Dota 2 verify the integrity of the game files](https://images.drivereasy.com/wp-content/uploads/2021/04/Dota-2-verify-the-integrity-of-the-game-files.jpg)
 3. It may take some time to finish verifying the game files.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/image-1.png)
@@ -70,6 +78,13 @@ There are mainly two methods for you to update the graphics driver:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. Restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -114,6 +129,13 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch Dota 2 to see if you get a better FPS. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Modify the graphics settings
 
  If the FPS in Dota2 still doesn’t improve, you may need to modify the graphics settings. If you don’t know how, just follow the steps below.
@@ -132,24 +154,18 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
-4. Click **Manage 3D Settings** on the left, then navigate to the**Program Settings** tab. In the**Select a program to customize:** part, add Dota 2 from the program list.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
+4. Click **Manage 3D Settings** on the left, then navigate to the**Program Settings** tab. In the**Select a program to customize:** part, add Dota 2 from the program list.  
 
 ![Dota 2 modify Nvidia control panel](https://images.drivereasy.com/wp-content/uploads/2021/04/Dota-2-modify-Nvidia-control-panel.jpg)
 5. In the**Specify the settings for this program** : part, modify the following settings:  
@@ -168,13 +184,6 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
@@ -190,6 +199,13 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
 
@@ -197,23 +213,16 @@ There are mainly two methods for you to update the graphics driver:
 6. Modify the settings the same way you see in the screenshot below.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: modify Windows OS graphics settings
 
@@ -231,19 +240,6 @@ To modify Windows OS graphics settings, follow the steps below:
 
 ![dota 2 graphics settings Windows 10 high performance](https://images.drivereasy.com/wp-content/uploads/2021/04/dota-2-graphics-settings-Windows-10-high-performance.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### On Windows 11
 
 1. On your keyboard, press the**Windows** key and the**I** key at the same time to open Settings.
@@ -251,14 +247,14 @@ To modify Windows OS graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-57.png)
 3. Select**Dota 2** from the list of apps, and select**High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-56.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Modify in-game graphics settings
 
@@ -305,13 +301,6 @@ Set the rendering API that is recommended by Steam.
 * **Game Screen Render Quality** : set to around**90%**
 * **Maximum frames per second allowed** : set to a value above the refresh rate of your monitor and below the maximum FPS you can get.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 7: Set Dota 2 to High priority
 
  By setting Dota 2 to High priority, you can allocate more resources to play in the game and it should increase your performance especially if you have other programs running in the background.
@@ -332,6 +321,13 @@ To set Dota 2 to High priority:
 1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![End task](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run Dota 2 again to see if you can play the game smoothly. if not, try the next fix, below.
 
@@ -374,16 +370,18 @@ Launch Dota 2 to see if you resolve the FPS drops issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/essential-iphone-recording-apps-for-2024/"><u>Essential iPhone Recording Apps for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guida-alla-conversione-libera-da-dvd-a-formato-hevch265-mp4-senza-perdere-qualita-video/"><u>Guida Alla Conversione Libera Da DVD a Formato HEVC/H.265 MP4 Senza Perdere Qualità Video</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-oppo-find-n3-flip-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Oppo Find N3 Flip Phone?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-windows-11-unveiled-the-new-era-begins/"><u>In 2024, Windows 11 Unveiled The New Era Begins</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/innovative-data-retrieval-software-for-iphones/"><u>Innovative Data Retrieval Software for iPhones</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/quick-and-secure-mobile-data-reinstatement/"><u>Quick & Secure Mobile Data Reinstatement</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ring-vs-nest-doorbells-face-off-a-comprehensive-review/"><u>Ring vs Nest Doorbells Face-Off: A Comprehensive Review</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/smartphone-file-reinstatement-software-assurance-guaranteed/"><u>Smartphone File Reinstatement Software: Assurance Guaranteed</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/ultimate-tutorial-for-setting-up-q-sports-channel-with-kodi-v19-matrix-get-started-now/"><u>Ultimate Tutorial for Setting Up Q Sports Channel with Kodi v19 Matrix - Get Started Now!</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600703033-unshackle-hidden-files-no-money-down/"><u>Unshackle Hidden Files, No Money Down</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600293203-windowsstellar-data-recovery/"><u>データを安全に復元! Windows版無料ソフトStellar Data Recovery</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-find-out-video-editors-work-smoothly-on-m1-chip/"><u>[Updated] In 2024, Find Out Video Editors Work Smoothly on M1 Chip</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-snapspectacular-high-quality-windowsmac-screenshots/"><u>[Updated] SnapSpectacular High-Quality Windows/Mac Screenshots</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-lenovo-thinkphone-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Lenovo ThinkPhone to iPhone | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/android-memory-mender-lossless-recovery/"><u>Android Memory Mender - Lossless Recovery</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-tecno-pova-5-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Pova 5 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breaking-barriers-innovative-ways-to-hook-your-podcast-audience-for-2024/"><u>Breaking Barriers Innovative Ways to Hook Your Podcast Audience for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskdefender-guarding-against-raid-failures/"><u>DiskDefender: Guarding Against RAID Failures</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-itel-p55-5g-by-drfone-android/"><u>How to Bypass FRP on Itel P55 5G?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-layers-of-a-great-humorous-poster/"><u>In 2024, The Layers of a Great Humorous Poster</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/rescue-lost-files-at-no-monetary-cost/"><u>Rescue Lost Files at No Monetary Cost</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reviving-unreachable-sections-of-hard-drive-top-recovery-programs-reviewed/"><u>Reviving Unreachable Sections of Hard Drive: Top Recovery Programs Reviewed</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/social-media-impact-tiktoks-viral-tweets-at-the-forefront/"><u>Social Media Impact TikTok's Viral Tweets at the Forefront</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 11 Pro Max</u></a></li>
 </ul></div>
 

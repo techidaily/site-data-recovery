@@ -1,7 +1,7 @@
 ---
 title: Skype Voice Troubleshooting on Windows 11 - Get Your Mic Working Again!
-date: 2024-11-02T23:49:11.511Z
-updated: 2024-11-06T17:30:25.401Z
+date: 2024-11-14T20:02:24.788Z
+updated: 2024-11-16T16:43:18.288Z
 tags:
   - win11
   - win10
@@ -41,13 +41,20 @@ Follow these:
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Adjust the audio settings on Skype
@@ -59,14 +66,14 @@ Follow these:
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your sound card driver
 
@@ -78,22 +85,16 @@ Follow these:
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer and run Skype to see if your Microphone works.
 
 ###
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows audio service
 
@@ -101,13 +102,6 @@ Follow these:
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Log in Skype and check to see if your Microphone works.
 
@@ -128,20 +122,16 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-amplify-your-iphones-sound-with-top-rated-podcasts/"><u>[Updated] Amplify Your iPhone's Sound with Top-Rated Podcasts</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-boost-your-earnings-on-youtube-shorts-a-guide-for-2024/"><u>[Updated] Boost Your Earnings on YouTube Shorts A Guide for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-seamless-sonic-connector-a-casters-companion/"><u>2024 Approved Seamless Sonic Connector A Caster's Companion</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/all-purpose-recovery-solution-software-fast-and-reliable-data-rescue-across-platforms/"><u>All-Purpose Recovery Solution Software – Fast and Reliable Data Rescue Across Platforms</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/do-you-need-more-than-8gb-vram-your-gaming-needs-may-dictate-that/"><u>Do You Need More Than 8GB VRAM? Your Gaming Needs May Dictate That</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/drivesavers-raid-suite-multiverse-support/"><u>DriveSavers RAID Suite: Multiverse Support</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/experience-the-joy-sorrow-merge-with-these-ten-meme-ig-accounts-for-2024/"><u>Experience the Joy-Sorrow Merge with These Ten Meme IG Accounts for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/galaxyarchive-revival/"><u>GalaxyArchive Revival</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-s18-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on S18?</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/multi-platform-data-recovery-program-seamless-extraction-of-diverse-data-types-with-advanced-technology/"><u>Multi-Platform Data Recovery Program: Seamless Extraction of Diverse Data Types with Advanced Technology</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-background-generator-in-2024/"><u>New What Is AI Background Generator, In 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/planetary-restoration-unit/"><u>Planetary Restoration Unit</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/practical-exploration-enhancing-your-viewing-with-a-dell-monitor-advanced-anc-headset-features-and-unmatched-ultrasharp-webcams/"><u>Practical Exploration: Enhancing Your Viewing with a Dell Monitor, Advanced ANC Headset Features & Unmatched UltraSharp Webcams</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-data-recoverywindows/"><u>Stellar Data Recovery(ステラデータリカバリー)：Windowsユーザーのための優秀なフリーデータ回復ソリューション</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-nokia-31-user-guide-a-top-pick-for-first-time-smartphone-users/"><u>The Nokia 3.1 User Guide: A Top Pick for First-Time Smartphone Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-ultimate-stream-software-showdown-obs-vs-shadowplay/"><u>[New] In 2024, The Ultimate Stream Software Showdown OBS vs ShadowPlay</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-style-with-confidence-adding-border-artistry-to-your-instagram-posts-for-2024/"><u>[New] Style with Confidence Adding Border Artistry to Your Instagram Posts for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600637293-stellar-data-recovery-windows/"><u>無料のStellar Data Recovery: Windows用データを完全に復元できる</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cheap-yet-superior-4k-equipment-for-2024/"><u>Cheap Yet Superior 4K Equipment for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskhaven-pro-advanced-raid-restoration/"><u>DiskHaven Pro: Advanced RAID Restoration</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721464366607-experiencing-sound-direction-changes-in-airpods-disable-dynamic-positioning-heres-how/"><u>Experiencing Sound Direction Changes in AirPods? Disable Dynamic Positioning Here's How.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-whatsapp-cloud-issues-a-guide-to-enable-icloud-integration-for-complete-chat-backup/"><u>Fixing WhatsApp Cloud Issues: A Guide to Enable iCloud Integration for Complete Chat Backup</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-doc-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .doc file electronically</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/how-to-reconstruct-erased-drive-sections-with-advanced-partition-restoration-apps/"><u>How to Reconstruct Erased Drive Sections with Advanced Partition Restoration Apps</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/stellardata-salvage-hub/"><u>StellarData Salvage Hub</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-leading-innovations-at-ces-2n-2024-acknowledged-by-how-to-geek-awards/"><u>Unveiling the Leading Innovations at CES 2N 2024 - Acknowledged by How-To Geek Awards</u></a></li>
 </ul></div>
 

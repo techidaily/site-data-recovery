@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot and Resolve Sound Problems: Handling 'Failed to Generate Sound'"
-date: 2024-11-02T22:23:13.362Z
-updated: 2024-11-07T01:15:49.207Z
+date: 2024-11-09T22:49:34.638Z
+updated: 2024-11-17T03:56:07.064Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 4. **[Modify Windows sound settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Troubleshoot the connection
 
  First things first. Before trying anything more complicated, you need to do some basic troubleshooting steps:
@@ -45,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 
  There are two ways to update your audio driver: **[manually](https://tools.techidaily.com/drivereasy/download/)**  and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1: Download and install the audio driver manually
 
  You should go to the manufacturer’s website of your sound card, find the latest version of the driver and install it in your computer. Ensure to download the latest correct driver that is compatible with your computer operating system. This requires time and computer skills.
@@ -67,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2021/04/scannow.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![update audio driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/3-2-1.jpg)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -78,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
  If the latest audio driver doesn’t give you luck, just try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Run the Windows audio troubleshooter
@@ -92,27 +99,27 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 ![Run Windows audio troubleshooter](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter.jpg)
 2. Click**Next** to run the troubleshooter.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Run Windows audio troubleshooter 1](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-1.jpg)
 3. Wait for it to detect problems. This usually takes only a few seconds.  
 
 ![Run Windows audio troubleshooter 2](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-2.jpg)
 4. Select the audio device you’re using, then click **Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Run Windows audio troubleshooter 3](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-3.jpg)
 5. If the troubleshooter suggests that you turn off the audio enhancements for better sound quality. Click **Yes, Open Audio Enhancements** if you wish to do so. If you click no, it will skip to the scan results.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Run Windows audio troubleshooter 4](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-4.jpg)
@@ -121,10 +128,16 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
  Launch It Takes Two to see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Modify Windows sound settings
@@ -135,46 +148,39 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 ![control mmsys.cpl sounds](https://images.drivereasy.com/wp-content/uploads/2021/04/control-mmsys.cpl-sounds-1.jpg)
 2. **Right-click** anywhere under the**Playback** tab of the Sound window, and make sure you select **Show Disabled Devices** and **Show Disconnected Devices** options.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Windows sound settings playback](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-sound-settings-playback.jpg)
 3. If your audio device is disabled, **right-click** on it and select **Enable** .  
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Enable audio device](https://images.drivereasy.com/wp-content/uploads/2021/04/Enable-audio-device.jpg)
 4. Select the speaker / headset you’re using and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![set default audio device](https://images.drivereasy.com/wp-content/uploads/2021/04/set-default-audio-device.jpg)
 5. Click **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Launch It Takes Two.
 7. On your desktop, **right-click** **the speaker icon** on the lower-right corner, and then select **Open Volume Mixer** .  
 ![Open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/04/Open-volume-mixer.jpg)
 8. If It Takes Two is muted, click **the speaker icon** under it to unmute it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Unmute It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Unmute-It-Takes-Two.jpg)
 
@@ -216,22 +222,21 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-mp3-masterclass-easy-audio-to-video-for-youtube-enthusiasts/"><u>[New] 2024 Approved MP3 Masterclass Easy Audio to Video for YouTube Enthusiasts</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-creating-masterpiece-canon-chrono-films/"><u>[New] In 2024, Creating Masterpiece Canon Chrono Films</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-to-dailymotion-transferring-videos-seamlessly/"><u>[New] YouTube to Dailymotion Transferring Videos Seamlessly</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-perfecting-your-makeup-mastery/"><u>[Updated] In 2024, Perfecting Your Makeup Mastery</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-for-windows/"><u>「無料Stellarデータ回復ツール for Windows環境」</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/arrayhealer-precise-raid-0-5-and-6-recovery/"><u>ArrayHealer: Precise RAID 0, 5 & 6 Recovery</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/backupbuddy-saving-android-media/"><u>BackupBuddy: Saving Android Media</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-detective-free-recovery-expertise/"><u>Data Detective – Free Recovery Expertise</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/efficient-partition-recovery-tools-bring-back-lost-or-locked-drives/"><u>Efficient Partition Recovery Tools: Bring Back Lost or Locked Drives</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-a2plus-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi A2+ in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-compreenas-step-by-step-for-controlling-netflix-playback-rate/"><u>In 2024, A Compreenas Step-by-Step for Controlling Netflix Playback Rate</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/one-stop-software-for-diverse-data-rescue-services-full-spectrum-recovery-system/"><u>One-Stop Software for Diverse Data Rescue Services – Full Spectrum Recovery System</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/orbitrebuild-services/"><u>OrbitRebuild Services</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-perfect-blend-of-strength-and-ease-dive-into-the-kensun-tire-air-bottle-review/"><u>The Perfect Blend of Strength and Ease - Dive Into the Kensun Tire Air Bottle Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-multipurpose-charger-with-usb-and-hdmi-insights/"><u>The Ultimate Multipurpose Charger with USB and HDMI: Insights</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600487237-windows/"><u>Windows向けに特化したステラデータリカバリ: 失敗からデータを取り戻す手助け、無料ダウンロード可能</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-blur-faces-or-objects-in-youtube-videos/"><u>[New] 2024 Approved How to Blur Faces or Objects in YouTube Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-high-flying-brain-games-top-11-knowledge-channels/"><u>[New] High-Flying Brain Games Top 11 Knowledge Channels</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-elite-action-video-capture-top-15-handheld-devices-for-2024/"><u>[Updated] Elite Action Video Capture Top 15 Handheld Devices for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/all-encompassing-data-rescue-application-regain-access-to-all-your-files/"><u>All-Encompassing Data Rescue Application – Regain Access to All Your Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/contact-and-video-rescue-toolkit-android-edition/"><u>Contact & Video Rescue Toolkit, Android Edition</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/contact-reclaim-androids-helper/"><u>Contact Reclaim: Android's Helper</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-and-the-flatlined-error-2024-understanding-the-technical-hurdle/"><u>Cyberpunk 2077 and the 'Flatlined Error 2024': Understanding the Technical Hurdle</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c32-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C32 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/multios-file-finder-toolkit-quick-data-restoration/"><u>MultiOS File Finder Toolkit – Quick Data Restoration</u></a></li>
+<li><a href="https://fox-making.techidaily.com/professioneller-leitfaden-zur-wiederherstellung-von-backups-auf-windows-servern-detaillierte-schritte-fur-einen-reibungslosen-prozess/"><u>Professioneller Leitfaden Zur Wiederherstellung Von Backups Auf Windows Servern: Detaillierte Schritte Für Einen Reibungslosen Prozess</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stardew-valley-launch-error-fixed-now-ready-to-play/"><u>Stardew Valley Launch Error Fixed - Now Ready To Play!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-techniques-for-keeping-your-mechanical-keyboard-spotless/"><u>The Best Techniques for Keeping Your Mechanical Keyboard Spotless</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104378487-troubleshoot-and-fix-why-isnt-my-hp-wireless-keyboard-working-step-by-step/"><u>Troubleshoot and Fix: Why Isn't My HP Wireless Keyboard Working? Step by Step.</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universedata-revival-center/"><u>UniverseData Revival Center</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unrivaled-file-resurrection-platform-expertly-engineered-for-retrieving-any-type-of-digital-information/"><u>Unrivaled File Resurrection Platform: Expertly Engineered for Retrieving Any Type of Digital Information</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600202279-stellar-data-recovery-windows/"><u>スペシャルオファー！Stellar Data Recovery - 万が一Windowsで失われたデータを安全に取り戻せる無料プログラム</u></a></li>
 </ul></div>
 

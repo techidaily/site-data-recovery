@@ -1,7 +1,7 @@
 ---
 title: "China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025"
-date: 2024-11-02T23:01:49.394Z
-updated: 2024-11-06T21:17:55.408Z
+date: 2024-11-15T16:39:42.140Z
+updated: 2024-11-16T16:49:34.831Z
 tags:
   - desktop
 categories:
@@ -64,37 +64,31 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-mastery-of-youtube-policy-for-successful-channels/"><u>[New] 2024 Approved Mastery of YouTube Policy for Successful Channels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-first-time-streamers-unite-learn-obs-and-broadcast-to-youtube-for-2024/"><u>[New] First-Time Streamers Unite Learn OBS & Broadcast to Youtube for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-enhancing-interactivity-tips-for-hosting-splitting-screen-events-on-facebook/"><u>[Updated] In 2024, Enhancing Interactivity Tips for Hosting Splitting-Screen Events on Facebook</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/a-flashlight-for-the-modern-shutterbug-tt560-review/"><u>A Flashlight for the Modern Shutterbug: TT560 Review</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/boost-your-frame-rate-overcoming-low-fps-in-farming-simulator-22-for-pc-users/"><u>Boost Your Frame Rate: Overcoming Low FPS in Farming Simulator 22 for PC Users</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/bug-free-gaming-how-from-the-ashes-of-remnant-now-stays-steady-on-launch/"><u>Bug-Free Gaming: How 'From the Ashes of Remnant' Now Stays Steady on Launch</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1722997950531-cod-black-ops-cold-war-wont-boot-here-are-the-solutions-for-pc-players/"><u>COD: Black Ops Cold War Won't Boot? Here Are The Solutions for PC Players!</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/destiny-2s-centipede-problem-solutions-for-a-smooth-gaming-experience/"><u>Destiny 2'S Centipede Problem: Solutions for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/does-interacting-with-chatgpt-pose-any-cybersecurity-dangers/"><u>Does Interacting with ChatGPT Pose Any Cybersecurity Dangers?</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-and-effective-ways-to-prevent-frequent-steam-game-crashes/"><u>Easy and Effective Ways to Prevent Frequent Steam Game Crashes</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/expert-tips-for-resolving-rainbow-six-server-connectivity-problems/"><u>Expert Tips for Resolving Rainbow Six Server Connectivity Problems</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/fixing-the-issue-stop-gta-v-from-freezing-on-your-pc/"><u>Fixing the Issue: Stop GTA V From Freezing on Your PC</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-conversion-transform-mp4-files-into-mpg-format-effortless-with-movavi/"><u>Free Online Conversion: Transform MP4 Files Into MPG Format - Effortless with Movavi</u></a></li>
-<li><a href="https://win-blog.techidaily.com/immediate-resolution-for-persistent-issues-in-ghost-recon-breaking-point-crashes/"><u>Immediate Resolution for Persistent Issues in Ghost Recon: Breaking Point Crashes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-apple-iphone-se-2020-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The Apple iPhone SE (2020) SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-ideas-into-impactful-podcast-content-writing-tips-and-samples/"><u>In 2024, Transform Your Ideas Into Impactful Podcast Content Writing Tips & Samples</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-uncover-11-free-effective-youtube-naming-solutions/"><u>In 2024, Uncover 11 Free, Effective YouTube Naming Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-complete-overview-of-artificial-intelligence-advancements-unveiled-in-apples-wwdc-24/"><u>The Complete Overview of Artificial Intelligence Advancements Unveiled in Apple's WWDC '24</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/troubleshooting-guide-how-to-speed-up-the-2022-spotify-web-player-performance-issues/"><u>Troubleshooting Guide: How to Speed Up the 2022 Spotify Web Player Performance Issues</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-facebooks-new-frontier-trends-of-2024/"><u>[New] Navigating Facebook's New Frontier Trends of 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-chromatic-magic-for-your-digital-photography/"><u>[Updated] Chromatic Magic for Your Digital Photography</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-sustaining-a-dynamic-facebook-experience-for-2024/"><u>[Updated] Sustaining a Dynamic Facebook Experience for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-masterful-descriptions-for-impactful-podcast-intros/"><u>2024 Approved Masterful Descriptions for Impactful Podcast Intros</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-seamless-linktree-addition-in-your-tiktok-profile/"><u>In 2024, Unlocking Seamless Linktree Addition in Your TikTok Profile</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/precious-documents-rediscovered-gratis/"><u>Precious Documents Rediscovered - Gratis</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/rediscover-hidden-files-forgotten-memories-mac-edition/"><u>Rediscover Hidden Files, Forgotten Memories (Mac Edition)</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/starsaver-services/"><u>StarSaver Services</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600609120-stellar-windows/"><u>Stellar データリカバリー: Windows用で最適、無料データ復元ツール</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/top-strategies-for-effective-deletion-of-iphone-voicemails/"><u>Top Strategies for Effective Deletion of iPhone Voicemails</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/total-information-salvage-toolkit-powerful-and-versatile-data-recovery-application/"><u>Total Information Salvage Toolkit: Powerful and Versatile Data Recovery Application</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transmission-dimages-online-conversion-rapide-de-photos-au-format-jpeg-et-png/"><u>Transmission D'Images Online - Conversion Rapide De Photos Au Format JPEG Et PNG</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/trasforma-i-tuoi-video-m4v-in-flash-swf-facilmente-e-senza-costo-movavi/"><u>Trasforma I Tuoi Video M4V in Flash SWF Facilmente E Senza Costo - Movavi</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'Cannot Connect to the Server' On Lost Ark
-date: 2024-10-30T22:44:20.410Z
-updated: 2024-11-07T00:49:12.811Z
+date: 2024-11-09T16:39:21.872Z
+updated: 2024-11-17T05:54:14.661Z
 tags:
   - win11
   - win10
@@ -30,26 +30,12 @@ If there’s anything more frustrating than having no internet, it would be the 
 * [Fix 7: Allow Steam through Windows Firewall](https://tools.techidaily.com/drivereasy/download/)
 * [If all else fails…](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check Steam server status
 
  The first thing you should check is whether Steam servers are down for the moment. This is because occasionally, Steam would schedule maintenance for the servers to patch possible bugs and install new features. As such, the servers will be taken down.
 
 * If the servers are indeed down, then there’s not much you can do but wait for the developer staff to do their thing and recover the servers.
 * If the servers are up and running and yet the error occurs, please move on to**Fix 2** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Restart your network devices
 
@@ -60,6 +46,26 @@ Here’s how you can restart your modem & router:
 1. Unplug your modem (and your router, if it’s a separate device) from the power socket.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
 
@@ -85,6 +91,13 @@ Here’s how you can restart your modem & router:
 ![update network driver with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/03/de-update-network-driver.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Fire up Steam to see if it can connect properly this time. If yes, congrats – you’ve resolved the issue. If it’s still no joy, please try**Fix 4** , below.
 
@@ -105,38 +118,38 @@ Here’s how you can restart your modem & router:
 3. Type **ipconfig /flushdns** and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/3-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To renew your IP:
 
 1. On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd.png)
 2. When prompted for permission, click **Yes**  to run Command Prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type **ipconfig /release** and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2-3.png)
 4. Type **ipconfig /renew** and press **Enter**  on your keyboard.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/4-1.png)
 5. Launch Steam, play the game again and see if the connection is smooth and without fail. If the**Steam is having trouble connecting to the Steam servers** error persists, don’t worry. Here are a couple more fixes for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Reset WinSock
@@ -170,13 +183,6 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/tcp.png)
 6. Launch Steam and check if**Steam is having trouble connecting to the Steam servers** warning error has been fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Steam is having trouble connecting to the Steam servers** still happening? Please continue onto**Fix 7** .
 
 ### Fix 7: Allow Steam through Windows Firewall
@@ -189,28 +195,34 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-1.png)
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall.png)
 3. Browse through the list of Allowed apps and features to see if Epic Gamers launcher is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app.png)
 4. Once completed, click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Run the game in the Steam client and see if it can be connected to the server.
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### If all else fails…
@@ -239,19 +251,18 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-visual-editors-journey-cropping-content-for-instagram-standout/"><u>[New] In 2024, The Visual Editor's Journey Cropping Content for Instagram Standout</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-top-12-clicker-games-on-pc-for-2024/"><u>[New] Top 12 Clicker Games on PC for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-creating-impactful-twitter-campaigns-for-businesses-for-2024/"><u>[Updated] Creating Impactful Twitter Campaigns for Businesses for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/advanced-data-reconstruction-application-versatile-tech-to-bring-back-all-your-digital-information/"><u>Advanced Data Reconstruction Application: Versatile Tech to Bring Back All Your Digital Information</u></a></li>
-<li><a href="https://media-tips.techidaily.com/download-the-latest-windows-11-dvd-player-app-freeware-and-support-faqs/"><u>Download the Latest Windows 11 DVD Player App - Freeware and Support FAQs</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/enhanced-file-system-revival-utility/"><u>Enhanced File System Revival Utility</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fast-friending-mastering-the-art-of-profile-searches/"><u>In 2024, Fast Friending Mastering the Art of Profile Searches</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/macmastery-regain-forgotten-documents-with-ease/"><u>MacMastery: Regain Forgotten Documents with Ease</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reclaim-your-lost-treasures-from-the-sands-of-time-mac-files/"><u>Reclaim Your Lost Treasures From the Sands of Time (Mac Files)</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reviving-records-without-spending-a-dime/"><u>Reviving Records Without Spending a Dime</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-fix-isdonedll-glitches-in-w10-and-11/"><u>Tips to Fix ISDone.dll Glitches in W10 & 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-ideas-into-reality-with-openai-tools/"><u>Transforming Ideas Into Reality with OpenAI Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-missing-advrcntr2dll-file-in-nero-software/"><u>Troubleshooting the Missing Advrcntr2.dll File in Nero Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unmatched-streaming-excellence-top-1enas-comparative-analysis-for-2024/"><u>Unmatched Streaming Excellence Top 1Enas Comparative Analysis for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-nighttime-portrait-etiquette-dos-and-donts/"><u>[Updated] Nighttime Portrait Etiquette Do's and Don'ts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-12-pro-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 12 Pro in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/boost-your-frame-rate-overcoming-low-fps-in-farming-simulator-22-for-pc-users/"><u>Boost Your Frame Rate: Overcoming Low FPS in Farming Simulator 22 for PC Users</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-tips-for-resolving-rainbow-six-server-connectivity-problems/"><u>Expert Tips for Resolving Rainbow Six Server Connectivity Problems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-m14-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy M14 5G Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-motorola-g54-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Motorola G54 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-s18-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo S18 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/masterclass-diagnosing-and-correcting-the-notorious-blue-screen-on-pc-systems/"><u>Masterclass: Diagnosing and Correcting the Notorious Blue Screen on PC Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-samsung-galaxy-a15-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Samsung Galaxy A15 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/roblox-audio-not-working-solve-the-mute-mystery-in-windows-11-and-10-environments/"><u>Roblox Audio Not Working? Solve the Mute Mystery in Windows 11 and 10 Environments</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1723016632510-skype-voice-troubleshooting-on-windows-11-get-your-mic-working-again/"><u>Skype Voice Troubleshooting on Windows 11 - Get Your Mic Working Again!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-finest-gaming-keyboards-for-fanatics-on-a-budget/"><u>The Finest Gaming Keyboards for Fanatics on a Budget</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unlocking-wifi-excellence-an-in-depth-guide-to-the-features-of-the-netgear-nighthawk-c7000-router/"><u>Unlocking WiFi Excellence: An In-Depth Guide to the Features of the Netgear Nighthawk C7000 Router</u></a></li>
 </ul></div>
 
