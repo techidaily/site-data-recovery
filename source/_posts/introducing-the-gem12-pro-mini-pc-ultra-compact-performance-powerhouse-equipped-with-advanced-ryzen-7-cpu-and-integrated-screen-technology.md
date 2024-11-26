@@ -1,7 +1,7 @@
 ---
 title: Introducing the Gem12 Pro Mini PC - Ultra-Compact Performance Powerhouse, Equipped with Advanced Ryzen 7 CPU and Integrated Screen Technology
-date: 2024-11-09T16:03:28.703Z
-updated: 2024-11-16T23:59:11.537Z
+date: 2024-11-22T18:35:08.123Z
+updated: 2024-11-26T16:34:02.400Z
 tags:
   - desktop
 categories:
@@ -40,6 +40,10 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,9 +56,17 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Miniproca)
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Miniproca)
 
@@ -77,29 +89,21 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boosting-youtube-engagement-top-11-seo-strategies-revealed/"><u>[New] 2024 Approved Boosting YouTube Engagement Top 11 SEO Strategies Revealed</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-live-stream-showdown-xsplit-vs-obs/"><u>[New] 2024 Approved Live Stream Showdown XSplit Vs. OBS</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-a-comprehensive-review-of-the-latest-picsart-updates/"><u>[New] A Comprehensive Review of the Latest PicsArt Updates</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-best-in-class-no-charging-switch-replicas-for-2024/"><u>[New] Best-in-Class, No-Charging Switch Replicas for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-blending-beats-posting-tunes-on-digital-diaries/"><u>[New] Blending Beats Posting Tunes on Digital Diaries</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/5y2z5pmc57eo6lyv5b2x54mh77ya55m85oplusu5l2g55qe6zu75a2q57mq5zyw5asp5yig/"><u>即時編輯影片：發揮你的電子繪圖天分</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/damn-small-linux-installation-for-outdated-desktops-and-netbooks-a-complete-guide/"><u>Damn Small Linux Installation for Outdated Desktops and Netbooks - A Complete Guide</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/discover-the-future-of-music-programming-musicians-can-now-own-a-micropython-tulip-computer-for-under-60/"><u>Discover the Future of Music Programming: Musicians Can Now Own a MicroPython Tulip Computer for Under $60</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/exploring-toms-tech-insights-and-hardware-evaluations/"><u>Exploring Tom's Tech Insights and Hardware Evaluations</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/inch-towards-a-million-instagrams-1k-goal-for-you-for-2024/"><u>Inch Towards a Million Instagram's 1K Goal for You for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/master-the-art-of-tech-with-toms-detailed-gadget-reviews-and-analysis/"><u>Master The Art Of Tech With Tom's Detailed Gadget Reviews and Analysis</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fixes-for-when-your-airpods-are-silent-or-have-glitchy-audio-quality/"><u>Quick Fixes for When Your AirPods Are Silent or Have Glitchy Audio Quality</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/revolutionary-design-meets-power-maingears-discrete-motherboard-free-computers-start-from-just-1399/"><u>Revolutionary Design Meets Power: Maingear's Discrete Motherboard-Free Computers Start From Just $1,399</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/scoop-the-finest-offers-on-pcs-and-laptops/"><u>Scoop the Finest Offers on PCs & Laptops</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/ultra-thin-stick-pc-packed-with-power-intel-n100-fanless-design-16gb-memory-and-windows-11-os/"><u>Ultra-Thin Stick PC Packed With Power: Intel N100, Fanless Design, 16GB Memory and Windows 11 OS</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unveiling-the-best-in-technology-toms-hardware-critiques/"><u>Unveiling the Best in Technology: Tom's Hardware Critiques</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-excellence-of-amazon-lunas-streamlined-gaming-interface-review/"><u>Unveiling the Excellence of Amazon Luna's Streamlined Gaming Interface Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-elevating-audio-fidelity-on-obs-for-2024/"><u>[New] Elevating Audio Fidelity on OBS for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-warranty-and-lifespan-higher-quality-led-systems-may-come-with-a-higher-upfront-price-but-can-offer-longer-lifespans-and-better-performance-which-sh/"><u>[Updated] __Warranty and Lifespan Higher Quality LED Systems May Come with a Higher Upfront Price but Can Offer Longer Lifespans and Better Performance, Which Should Be Considered in the Overall Cost Evaluation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-directing-attention-how-to-eradicate-background-from-your-virtual-conferences/"><u>[Updated] 2024 Approved Directing Attention How to Eradicate Background From Your Virtual Conferences</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bright-future-in-hd-a-fit-or-overstepping-for-hdr/"><u>[Updated] Bright Future in HD A Fit or Overstepping for HDR?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-integrating-pre-recorded-content-into-facebook-live-shows/"><u>[Updated] In 2024, Integrating Pre-Recorded Content Into Facebook Live Shows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/affordable-quality-the-edifier-neobuds-pro-2-your-go-to-choice-over-airpods-for-android-users/"><u>Affordable Quality: The Edifier NeoBuds Pro 2 - Your Go-To Choice Over AirPods for Android Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clarifying-nlp-and-machine-learning-distinctions/"><u>Clarifying NLP & Machine Learning Distinctions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comet-conveyance-corner-cosmic-data-rescue-hub/"><u>Comet Conveyance Corner - Cosmic Data Rescue Hub</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/iphone-data-salvage-ensure-safety-and-restore-files/"><u>IPhone Data Salvage: Ensure Safety and Restore Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/phonedatamender-for-missing-files/"><u>PhoneDataMender for Missing Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/stellar-data-recovery-lab-services/"><u>Stellar® Data Recovery Lab-Services</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-downloading-and-installing-steelseries-arctis-5-audio-drivers-today/"><u>Step-by-Step Instructions: Downloading & Installing SteelSeries Arctis 5 Audio Drivers Today!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/swift-recovery-software-for-your-iphones-memory/"><u>Swift Recovery Software for Your iPhone's Memory</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unseen-memories-reunited-mac-data-recovery-extraordinaire/"><u>Unseen Memories Reunited: Mac Data Recovery Extraordinaire</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600730174-windows-stellar-data-recovery/"><u>Windows 互換性のある無料データ回復ツール: Stellar Data Recovery</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Design Meets Power: Maingear's Discrete Motherboard-Free Computers Start From Just $1,399"
-date: 2024-11-09T17:08:19.179Z
-updated: 2024-11-16T16:36:54.648Z
+date: 2024-11-25T17:34:59.497Z
+updated: 2024-11-26T19:24:56.882Z
 tags:
   - desktop
 categories:
@@ -29,6 +29,10 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,28 +56,18 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-essential-guide-to-capturing-skype-conversations-on-windowsmac/"><u>[New] 2024 Approved The Essential Guide to Capturing Skype Conversations on Windows/Mac</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-mastering-pexels-a-photographers-toolkit/"><u>[Updated] In 2024, Mastering Pexels A Photographer's Toolkit</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-innovative-ways-to-generate-money-on-snapchat-channels/"><u>[Updated] Innovative Ways to Generate Money on Snapchat Channels</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/boost-professional-look-adding-borders-to-instagram-content/"><u>Boost Professional Look Adding Borders to Instagram Content</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/complete-data-resurrection-best-software-for-retrieving-lost-or-unavailable-disk-partitions/"><u>Complete Data Resurrection: Best Software for Retrieving Lost or Unavailable Disk Partitions</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/contactrecover-pro-androids-data-saver/"><u>ContactRecover Pro: Android's Data Saver</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/from-still-screens-to-mp3-beats-insta-video-tips-for-2024/"><u>From Still Screens to MP3 Beats - Insta Video Tips for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-iphone-customization-changing-your-phones-tune/"><u>In 2024, IPhone Customization Changing Your Phone's Tune</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-mobile-video-assembly-software-for-smartphones/"><u>In 2024, Top Mobile Video Assembly Software for Smartphones</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-typesetting-in-adobe-ae-for-2024/"><u>Innovative Typesetting in Adobe AE for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/iphone-backup-breaker-swift-and-sure-data-revival/"><u>IPhone Backup Breaker: Swift and Sure Data Revival</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/lifesaver-for-missing-data-at-no-cost-solution/"><u>Lifesaver for Missing Data - At-No-Cost Solution</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/phonerecovery-pro-restore-and-backup/"><u>PhoneRecovery Pro: Restore & Backup</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/planetary-patrol-panel-sky-archive-support/"><u>Planetary Patrol Panel - Sky Archive Support</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600744711-revive-past-memories-swift-and-reliable-file-recovery/"><u>Revive Past Memories - Swift and Reliable File Recovery!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/tailor-your-fb-theme-with-footage/"><u>Tailor Your FB Theme with Footage</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-50plus-impressive-tiktok-username-ideas-to-boost-more-views/"><u>[New] 50+ Impressive TikTok Username Ideas to Boost More Views</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-screen-recording-showdown-go-with-obs-studio-or-bandicam/"><u>[New] In 2024, Screen Recording Showdown Go with OBS Studio or Bandicam</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-windows-error-0xc0000098-heres-how-you-can-fix-it/"><u>Dealing with Windows Error 0Xc0000098? Here's How You Can Fix It</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-part-files-a-comprehensive-guide-on-opening-and-converting-processes/"><u>Demystifying PART Files: A Comprehensive Guide on Opening & Converting Processes</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/elite-data-reconstruction-application-seamless-retrieval-of-diverse-file-formats/"><u>Elite Data Reconstruction Application: Seamless Retrieval of Diverse File Formats</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-warzone-not-finding-matches-on-pc/"><u>How to Fix Warzone Not Finding Matches on PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-infinite-possibilities-on-a-track-top-5-racing-simulators-reviewed/"><u>In 2024, Infinite Possibilities on a Track Top 5 Racing Simulators Reviewed</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-popular-platforms-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Mastering Popular Platforms: A Guide to Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reliable-phone-data-resurrection-program/"><u>Reliable Phone Data Resurrection Program</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-lead-generation-with-our-cookiebot-integrated-tools-and-services/"><u>Revolutionize Lead Generation with Our Cookiebot Integrated Tools and Services</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600598923-stellar-data-recovery-windows/"><u>Stellar Data Recovery: Windows版で失われたデータのみ魔法のように回復可能(無料)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-dual-nature-of-ai-boons-and-baneful-risks/"><u>The Dual Nature of AI: Boons & Baneful Risks</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-data-rescue-application-efficient-solution-for-retrieving-lost-or-corrupted-information-across-various-formats/"><u>Universal Data Rescue Application: Efficient Solution for Retrieving Lost or Corrupted Information Across Various Formats</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
