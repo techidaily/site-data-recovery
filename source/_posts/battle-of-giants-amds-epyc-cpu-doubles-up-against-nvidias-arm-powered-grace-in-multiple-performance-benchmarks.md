@@ -1,7 +1,7 @@
 ---
 title: "Battle of Giants: AMD's EPYC CPU Doubles Up Against NVIDIA’s ARM-Powered Grace in Multiple Performance Benchmarks"
-date: 2024-11-22T20:56:29.731Z
-updated: 2024-11-26T20:24:44.888Z
+date: 2024-12-03T22:47:27.476Z
+updated: 2024-12-06T03:06:01.505Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,18 +60,19 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-bite-sized-video-knowledge-now/"><u>[New] Bite-Sized Video Knowledge Now</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ensuring-your-pictures-endure-top-rated-cloud-storage-services/"><u>[Updated] 2024 Approved Ensuring Your Pictures Endure Top-Rated Cloud Storage Services</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/breaking-encryption-barriers-stellar-data-recoverys-breakthrough/"><u>Breaking Encryption Barriers: Stellar Data Recovery's Breakthrough</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-dell-g15-graphics-card-drivers-on-windows/"><u>Download and Install Dell G15 Graphics Card Drivers on Windows</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/effortless-file-retrieval-tool-zero-price/"><u>Effortless File Retrieval Tool - Zero Price</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/high-speed-disk-replication-software/"><u>High-Speed Disk Replication Software</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/introducing-a-new-era-of-artificial-intelligence-with-openais-trailblazing-gpt-4/"><u>Introducing a New Era of Artificial Intelligence with OpenAI's Trailblazing GPT-4</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/nebulaedata-salvage/"><u>NebulaeData Salvage</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-add-bitmoji-to-keyboard/"><u>New 2024 Approved How to Add Bitmoji to Keyboard?</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/phonedatarescue-for-android-regain-lost-media/"><u>PhoneDataRescue for Android: Regain Lost Media</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/restore-peace-fast-recovery-service-for-missing-data/"><u>Restore Peace! Fast Recovery Service for Missing Data</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/top-ranked-flv-download-tool-for-macos-users/"><u>Top-Ranked Flv Download Tool for macOS Users</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-interpreting-differences-360-and-virtual-reality-cinematography/"><u>[New] In 2024, Interpreting Differences 360° and Virtual Reality Cinematography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-redefining-high-definition-a-review-of-the-immersive-4k-monitor-lgs-31mu97-b/"><u>[New] Redefining High Definition A Review of the Immersive 4K Monitor, LG's 31MU97-B</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600581354-windows-stellar/"><u>「Windows用で人気! ゼロコストの Stellarデータ再生ソフト - ステラリカバリ」</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unmatched-no-fee-mobile-and-web-picture-enhancement/"><u>2024 Approved Unmatched No-Fee Mobile & Web Picture Enhancement</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/all-encompassing-data-rescue-application-regain-access-to-all-your-files/"><u>All-Encompassing Data Rescue Application – Regain Access to All Your Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-android-companion-apps-for-your-smartwatch/"><u>Leading Android Companion Apps for Your Smartwatch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-d3dx928dll-file-missing-issue-on-your-computer/"><u>Resolving the d3dx9_28.dll File Missing Issue on Your Computer</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/restore-past-records-with-win-filefinder/"><u>Restore Past Records with WIN FileFinder</u></a></li>
+<li><a href="https://extra-support.techidaily.com/restoring-clarity-resolving-iphones-blurry-photos-for-2024/"><u>Restoring Clarity Resolving iPhone's Blurry Photos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-the-persistent-0x80070490-error-encountered-in-windows-update-process/"><u>The Ultimate Fix for the Persistent 0X80070490 Error Encountered in Windows Update Process</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600620588-universal-data-recuperation-program-brings-back-all-your-valuable-files/"><u>Universal Data Recuperation Program – Brings Back All Your Valuable Files!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/walmarts-ultimate-christmas-and-new-year-bargains-explore-the-top-100-deals/"><u>Walmart's Ultimate Christmas and New Year Bargains: Explore the Top 100 Deals</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/win-data-rediscovery-program/"><u>WIN Data Rediscovery Program</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600202279-stellar-data-recovery-windows/"><u>スペシャルオファー！Stellar Data Recovery - 万が一Windowsで失われたデータを安全に取り戻せる無料プログラム</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Future of Music Programming: Musicians Can Now Own a MicroPython Tulip Computer for Under $60"
-date: 2024-11-24T16:51:55.243Z
-updated: 2024-11-26T18:29:28.987Z
+date: 2024-11-30T10:05:18.856Z
+updated: 2024-12-06T08:28:57.864Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,24 +76,14 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-how-to-record-minecraft-gameplay-complete-guide/"><u>[New] How to Record Minecraft Gameplay [Complete Guide]</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-hidden-viewers-guide-reading-instagram-stories-privately-from-pcandroidios/"><u>[New] In 2024, Hidden Viewers Guide Reading Instagram Stories Privately From PC/Android/iOS</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-smooth-integration-of-youtube-playlists-via-web-tech/"><u>[New] Smooth Integration of YouTube Playlists via Web Tech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-turn-your-videos-backwards-on-phone/"><u>[New] Turn Your Videos Backwards on Phone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/windows-stellar-free-version/"><u>「Windows環境に最適化! Stellarデータ救出ソフトの使い方 - Free Version」</u></a></li>
-<li><a href="https://games-able.techidaily.com/11-captivating-phone-game-experiences-anytime-anyplace/"><u>11 Captivating Phone Game Experiences Anytime, Anyplace</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/broadcasting-tweeted-videos-to-facebook-friends-for-2024/"><u>Broadcasting Tweeted Videos to Facebook Friends for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-data-restoration-suite-universal-recovery-solutions-for-every-file-type/"><u>Comprehensive Data Restoration Suite: Universal Recovery Solutions for Every File Type</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/expert-guide-to-data-resurrection-fixing-deleted-and-corrupted-disk-partitions/"><u>Expert Guide to Data Resurrection: Fixing Deleted and Corrupted Disk Partitions</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/expert-partition-data-revival-solutions-for-unrecoverable-drives/"><u>Expert Partition Data Revival Solutions for Unrecoverable Drives</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-creating-compelling-podcast-openings/"><u>In 2024, Creating Compelling Podcast Openings</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/meteorite-mentorium-cosmic-backup-hub/"><u>Meteorite Mentorium - Cosmic Backup Hub</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/no-more-lost-files-rapid-stellar-data-recovery-now/"><u>No More Lost Files! Rapid, Stellar Data Recovery Now</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/reorienting-your-computer-display-a-step-by-step-guide-to-correcting-screen-orientation-issues/"><u>Reorienting Your Computer Display: A Step-by-Step Guide to Correcting Screen Orientation Issues</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/save-whats-lost-with-windatamender/"><u>Save What's Lost with WinDataMender</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-power-of-4k-in-the-samsung-galaxy-s8-experience/"><u>The Power of 4K in the Samsung Galaxy S8 Experience</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/universal-data-revival-set-for-windowsmaclinux-users/"><u>Universal Data Revival Set - For Windows/Mac/Linux Users</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unlock-files-no-cost-data-revival-tool/"><u>Unlock Files - No-Cost Data Revival Tool</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/unlocking-cost-effective-clouds-for-the-budget-conscious-for-2024/"><u>Unlocking Cost-Effective Clouds for the Budget-Conscious for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-microphone-for-different-youtube-channel-types/"><u>[Updated] 2024 Approved Best Microphone for Different YouTube Channel Types</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-nokia-g22-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/video-maker-with-music-and-pictures/"><u>Best Video Maker with Music and Pictures</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-list-of-e-commerce-sites-for-one-of-a-kind-boxed-gifts-for-2024/"><u>Exclusive List of E-Commerce Sites for One-of-a-Kind Boxed Gifts for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/professional-data-recovery-software-to-restore-your-files/"><u>Professional Data Recovery Software to Restore Your Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/professional-techniques-for-rebuilding-accidentally-erased-computer-sections/"><u>Professional Techniques for Rebuilding Accidentally Erased Computer Sections</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/scalable-data-salvage-operations/"><u>Scalable Data Salvage Operations</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/stellar-info-renewal/"><u>Stellar Info Renewal</u></a></li>
 </ul></div>
 
