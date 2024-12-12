@@ -1,7 +1,7 @@
 ---
 title: "Discover the Future of Music Programming: Musicians Can Now Own a MicroPython Tulip Computer for Under $60"
-date: 2024-11-30T10:05:18.856Z
-updated: 2024-12-06T08:28:57.864Z
+date: 2024-12-08T03:05:04.448Z
+updated: 2024-12-11T19:51:09.396Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,14 +76,24 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-microphone-for-different-youtube-channel-types/"><u>[Updated] 2024 Approved Best Microphone for Different YouTube Channel Types</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-nokia-g22-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/video-maker-with-music-and-pictures/"><u>Best Video Maker with Music and Pictures</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-list-of-e-commerce-sites-for-one-of-a-kind-boxed-gifts-for-2024/"><u>Exclusive List of E-Commerce Sites for One-of-a-Kind Boxed Gifts for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/professional-data-recovery-software-to-restore-your-files/"><u>Professional Data Recovery Software to Restore Your Files</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/professional-techniques-for-rebuilding-accidentally-erased-computer-sections/"><u>Professional Techniques for Rebuilding Accidentally Erased Computer Sections</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/scalable-data-salvage-operations/"><u>Scalable Data Salvage Operations</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-info-renewal/"><u>Stellar Info Renewal</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eading-9-free-logo-design-software-for-youtube-channels/"><u>[New] Leading 9 Free Logo Design Software for YouTube Channels</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweet-to-whatsapp-video-dissemination-methods-for-2024/"><u>[New] Tweet-to-WhatsApp Video Dissemination Methods for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1728483897608-pc/"><u>「独学でデータ救出:故障中のPCから情報復旧手順２つ」</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-streamsavvy-beyond-the-dacast-boundary/"><u>2024 Approved StreamSavvy Beyond the DaCast Boundary</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/android-memory-mender-lossless-recovery/"><u>Android Memory Mender - Lossless Recovery</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/best-of-the-best-a-ranked-list-of-top-10-video-call-apps-for-2024/"><u>Best of the Best A Ranked List of Top 10 Video Call Apps for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-performance-intel-iris-plus-gfx-driver-v655-for-windows-11-systems/"><u>Best Performance: Intel Iris Plus Gfx Driver v655 for Windows 11 Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/cease-comments-tips-for-stopping-discussions-on-fb-posts/"><u>Cease Comments: Tips for Stopping Discussions on FB Posts</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskdefender-guarding-against-raid-failures/"><u>DiskDefender: Guarding Against RAID Failures</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskhaven-pro-advanced-raid-restoration/"><u>DiskHaven Pro: Advanced RAID Restoration</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/effortless-file-restoration-toolkit-complimentary/"><u>Effortless File Restoration Toolkit – Complimentary</u></a></li>
+<li><a href="https://fox-links.techidaily.com/enhance-music-mixing-with-our-comprehensible-online-tempo-tools-for-2024/"><u>Enhance Music Mixing with Our Comprehensible Online Tempo Tools for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/how-to-reconstruct-erased-drive-sections-with-advanced-partition-restoration-apps/"><u>How to Reconstruct Erased Drive Sections with Advanced Partition Restoration Apps</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/rescue-lost-files-at-no-monetary-cost/"><u>Rescue Lost Files at No Monetary Cost</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reviving-unreachable-sections-of-hard-drive-top-recovery-programs-reviewed/"><u>Reviving Unreachable Sections of Hard Drive: Top Recovery Programs Reviewed</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/stellardata-salvage-hub/"><u>StellarData Salvage Hub</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-great-video-app-race-will-likeeclipses-tiktoks-dominance-for-2024/"><u>The Great Video App Race Will LikeEclipses TikTok’s Dominance for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unified-data-salvage-suite-windowsmaclinux-compatible/"><u>Unified Data Salvage Suite – Windows/Mac/Linux Compatible</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlock-next-level-photo-editing-capabilities-in-open-source-raw-editor-darktable-for-os-x-and-linux-at-zero-expense/"><u>Unlock Next-Level Photo Editing Capabilities in Open Source RAW Editor, Darktable for OS X and Linux – At Zero Expense</u></a></li>
 </ul></div>
 

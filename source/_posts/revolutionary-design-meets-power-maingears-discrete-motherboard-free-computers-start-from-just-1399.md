@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Design Meets Power: Maingear's Discrete Motherboard-Free Computers Start From Just $1,399"
-date: 2024-12-05T09:19:14.986Z
-updated: 2024-12-05T16:46:34.234Z
+date: 2024-12-09T00:37:01.891Z
+updated: 2024-12-12T07:46:24.358Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,18 +56,24 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-the-basics-a-comprehensive-guide-to-yt-shorts/"><u>[Updated] Mastering the Basics A Comprehensive Guide to YT Shorts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-leading-edge-apps-the-ultimate-10-for-real-time-gymnastics-and-hockey-games/"><u>2024 Approved Leading Edge Apps The Ultimate 10 for Real-Time Gymnastics and Hockey Games</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comet-conveyance-corner-cosmic-data-rescue-hub/"><u>Comet Conveyance Corner - Cosmic Data Rescue Hub</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-getting-your-headset-microphone-back-on-track/"><u>Expert Tips for Getting Your Headset Microphone Back on Track</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-voice-customization-leaders-beyond-echo-magic/"><u>In 2024, Voice Customization Leaders Beyond Echo Magic</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/iphone-data-salvage-ensure-safety-and-restore-files/"><u>IPhone Data Salvage: Ensure Safety and Restore Files</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-modern-computer-systems-with-toms-hardware-expertise/"><u>Mastering Modern Computer Systems with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-craft-effective-techniques-to-overcome-black-ops-amoortomies/"><u>Mastering the Craft: Effective Techniques to Overcome Black Ops Amoortomies</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/mobile-memory-mender-restore-and-save/"><u>Mobile Memory Mender, Restore & Save</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/partition-recovery-software-restores-deleted-and-inaccessible-partition/"><u>Partition Recovery Software Restores Deleted and Inaccessible Partition</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600524349-revive-files-anytime-everywhere-no-cost/"><u>Revive Files Anytime, Everywhere - No Cost!</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-leading-choices-for-law-enforcement-body-wearables-2e34-edition/"><u>The Leading Choices for Law Enforcement Body Wearables - 2E34 Edition</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600730174-windows-stellar-data-recovery/"><u>Windows 互換性のある無料データ回復ツール: Stellar Data Recovery</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-best-bits-of-bulb-tech-top-17-choices/"><u>[Updated] 2024 Approved Best Bits of Bulb Tech - Top 17 Choices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-apowersoft-a-complete-guide-to-screen-recording/"><u>[Updated] In 2024, Apowersoft A Complete Guide to Screen Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-diy-photography-support-systems/"><u>[Updated] In 2024, DIY Photography Support Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-interpreting-second-duration-from-mb-content/"><u>[Updated] Interpreting Second Duration From MB Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-art-of-space-arrangement-in-fostering-a-high-performing-team-for-2024/"><u>[Updated] The Art of Space Arrangement in Fostering a High-Performing Team for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600581354-windows-stellar/"><u>「Windows用で人気! ゼロコストの Stellarデータ再生ソフト - ステラリカバリ」</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/all-encompassing-data-rescue-application-regain-access-to-all-your-files/"><u>All-Encompassing Data Rescue Application – Regain Access to All Your Files</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/bose-qc35-ii-showcase-audiophiles-silence-seeker/"><u>Bose QC35 II Showcase: Audiophile's Silence Seeker</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/contact-and-video-rescue-toolkit-android-edition/"><u>Contact & Video Rescue Toolkit, Android Edition</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/contact-reclaim-androids-helper/"><u>Contact Reclaim: Android's Helper</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/facebooklinkedinxingyoutube/"><u>FacebookLinkedInxingYouTube</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-digital-drawing-board-converting-videos-into-cartoons-with-ease/"><u>New In 2024, Digital Drawing Board Converting Videos Into Cartoons with Ease</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/personal-photo-makeover-simple-tricks-to-modify-hair-and-skin-tone-for-a-fresh-appearance/"><u>Personal Photo Makeover: Simple Tricks to Modify Hair & Skin Tone for a Fresh Appearance</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/restore-past-records-with-win-filefinder/"><u>Restore Past Records with WIN FileFinder</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/simple-android-voice-capture-no-root-access/"><u>Simple Android Voice Capture - No Root Access</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universedata-revival-center/"><u>UniverseData Revival Center</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unrivaled-file-resurrection-platform-expertly-engineered-for-retrieving-any-type-of-digital-information/"><u>Unrivaled File Resurrection Platform: Expertly Engineered for Retrieving Any Type of Digital Information</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/win-data-rediscovery-program/"><u>WIN Data Rediscovery Program</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600202279-stellar-data-recovery-windows/"><u>スペシャルオファー！Stellar Data Recovery - 万が一Windowsで失われたデータを安全に取り戻せる無料プログラム</u></a></li>
 </ul></div>
 

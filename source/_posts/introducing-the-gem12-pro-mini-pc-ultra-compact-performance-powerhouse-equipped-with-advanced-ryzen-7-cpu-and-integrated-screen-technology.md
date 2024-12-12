@@ -1,7 +1,7 @@
 ---
 title: Introducing the Gem12 Pro Mini PC - Ultra-Compact Performance Powerhouse, Equipped with Advanced Ryzen 7 CPU and Integrated Screen Technology
-date: 2024-11-29T02:07:43.780Z
-updated: 2024-12-06T01:50:12.547Z
+date: 2024-12-09T11:24:20.858Z
+updated: 2024-12-11T18:15:47.929Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,18 +89,17 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-exploring-the-unspoken-rules-of-instagram-mastery/"><u>[New] In 2024, Exploring the Unspoken Rules of Instagram Mastery</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-depth-insights-perfecting-the-craft-of-screen-recording-on-macbooks-for-2024/"><u>[New] In-Depth Insights Perfecting the Craft of Screen Recording on MacBooks for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-2023-how-to-download-facebook-status-videos/"><u>[Updated] In 2024, 2023 | How to Download Facebook Status Videos?</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600190521-stellar-data-recovery-windows/"><u>迅速かつ信頼性が高いStellar Data Recovery - 無料でWindows環境における重要データを救う方法</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/complete-hardware-health-management/"><u>Complete Hardware Health Management</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-time-lapse-with-your-samsung-phone/"><u>In 2024, Mastering Time Lapse with Your Samsung Phone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/investment-insights-starting-a-profitable-podcast/"><u>Investment Insights Starting a Profitable Podcast</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/maximizing-facebook-fame-8-premier-apps-for-like-boosting-for-2024/"><u>Maximizing Facebook Fame 8 Premier Apps for Like Boosting for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/nebula-file-nexus-interstellar-recovery-portal/"><u>Nebula File Nexus - Interstellar Recovery Portal</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/raidrestore-solutions-diverse-raid-recovery/"><u>RaidRestore Solutions: Diverse RAID Recovery</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reliable-file-reconstruction-app/"><u>Reliable File Reconstruction App</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-ring-unlocking-information-on-pricing-release-schedule-and-features/"><u>Samsung Galaxy Ring - Unlocking Information on Pricing, Release Schedule & Features</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ompact-guide-to-creating-viral-music-on-youtube/"><u>The Compact Guide to Creating Viral Music on YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-easy-steps-for-stellar-youtube-thumbnails/"><u>[New] In 2024, Easy Steps for Stellar YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-10-spectacular-reactions-on-creative-youtube-videos-for-2024/"><u>[Updated] Discover 10 Spectacular Reactions on Creative YouTube Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-aligning-zoom-sessions-with-desktop-and-smartphone-calendars/"><u>2024 Approved Aligning Zoom Sessions with Desktop and Smartphone Calendars</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-miro-extreme-8-pro-wmps-elite-alternative/"><u>2024 Approved Miro Extreme 8 Pro WMP's Elite Alternative</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/android-data-recovery-software-to-recover-lost-photos-videos/"><u>Android Data Recovery Software to Recover Lost Photos, Videos ...</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-to-cost-free-text-animations-onlineoff-for-2024/"><u>Guide to Cost-Free Text Animations (Online/Off) for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/iphone-restoration-mastermind-unlock-data-peacefully/"><u>IPhone Restoration Mastermind: Unlock Data Peacefully</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/m4v-in-vob-format-konvertieren-kostenloses-online-tool-von-movavi/"><u>M4V in VOB Format Konvertieren - Kostenloses Online-Tool Von Movavi</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/retrieving-shadows-your-mac-data-restoration-companion/"><u>Retrieving Shadows: Your Mac Data Restoration Companion</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210559238-9781590799628-sq21/"><u>SQ21 | Free Book</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/syncos-files-rescue-windows-mac-linux-version/"><u>SyncOS Files Rescue - Windows, Mac, Linux Version</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-checklist-for-confirming-yt-account/"><u>The Ultimate Checklist for Confirming YT Account</u></a></li>
 </ul></div>
 
