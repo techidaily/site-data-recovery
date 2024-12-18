@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'Cannot Connect to the Server' On Lost Ark
-date: 2024-12-06T05:16:23.187Z
-updated: 2024-12-12T06:51:56.627Z
+date: 2024-12-16T19:59:40.565Z
+updated: 2024-12-18T21:16:00.073Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ If there’s anything more frustrating than having no internet, it would be the 
 
  If you’ve encountered the very same issue, don’t worry. Here’s a handy guide that could help you get rid of the problem. Just navigate your way down the list until you find the one that works for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Steam is having trouble connecting to the Steam servers
 
 * [Fix 1: Check Steam server status](https://tools.techidaily.com/drivereasy/download/)
@@ -30,20 +34,12 @@ If there’s anything more frustrating than having no internet, it would be the 
 * [Fix 7: Allow Steam through Windows Firewall](https://tools.techidaily.com/drivereasy/download/)
 * [If all else fails…](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check Steam server status
 
  The first thing you should check is whether Steam servers are down for the moment. This is because occasionally, Steam would schedule maintenance for the servers to patch possible bugs and install new features. As such, the servers will be taken down.
 
 * If the servers are indeed down, then there’s not much you can do but wait for the developer staff to do their thing and recover the servers.
 * If the servers are up and running and yet the error occurs, please move on to**Fix 2** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Restart your network devices
 
@@ -55,10 +51,6 @@ Here’s how you can restart your modem & router:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
 
 3. Plug the network devices back in again and wait until the indicator lights are back to the normal state.
@@ -68,7 +60,7 @@ Here’s how you can restart your modem & router:
  You can try out other ways to boost your network connection, such as moving your modem& router to a more central place in your home, use a[**WiFi Extender**](https://www.amazon.com/WiFi-6-Range-Extender-Booster/dp/B088H2FCHL/ref=sxin%5F21?asc%5Fcontentid=amzn1.osa.cb67d155-f9ef-4c53-b460-b150a3cccc6d.ATVPDKIKX0DER.en%5FUS&asc%5Fcontenttype=article&ascsubtag=amzn1.osa.cb67d155-f9ef-4c53-b460-b150a3cccc6d.ATVPDKIKX0DER.en%5FUS&creativeASIN=B088H2FCHL&cv%5Fct%5Fcx=wifi+extender&cv%5Fct%5Fid=amzn1.osa.cb67d155-f9ef-4c53-b460-b150a3cccc6d.ATVPDKIKX0DER.en%5FUS&cv%5Fct%5Fpg=search&cv%5Fct%5Fwe=asin&cv%5Fct%5Fwn=osp-single-source-pecos-desktop&dchild=1&keywords=wifi+extender&linkCode=oas&pd%5Frd%5Fi=B088H2FCHL&pd%5Frd%5Fr=8b06fc1b-3845-42cd-9f79-71ba04450fee&pd%5Frd%5Fw=DKebm&pd%5Frd%5Fwg=FUMuR&pf%5Frd%5Fp=9ca0c43d-5b2f-4d08-be2c-4bf20950d3e4&pf%5Frd%5Fr=3VVGWE27XNY8894YZHV6&qid=1620464270&sr=1-1-c26ac7f6-b43f-4741-a772-17cad7536576&tag=tgl0a3-20&tag=drivereasycom-20) , limit the number of devices connected to your network etc. You might also want to double check that the issue doesn’t lie with the router – if it does, you should contact your ISP for further advice.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your network adapter driver
@@ -84,12 +76,12 @@ Here’s how you can restart your modem & router:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update network driver with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/03/de-update-network-driver.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Fire up Steam to see if it can connect properly this time. If yes, congrats – you’ve resolved the issue. If it’s still no joy, please try**Fix 4** , below.
@@ -112,7 +104,7 @@ Here’s how you can restart your modem & router:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/3-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To renew your IP:
@@ -127,6 +119,10 @@ To renew your IP:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/4-1.png)
 5. Launch Steam, play the game again and see if the connection is smooth and without fail. If the**Steam is having trouble connecting to the Steam servers** error persists, don’t worry. Here are a couple more fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset WinSock
 
@@ -143,6 +139,10 @@ Here’s how to go about it:
 
 4. Run Steam and check if the server connection error is solved. If it still occurs, please move on to**Fix 6** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Modify Steam properties
 
  According to some players, launching Steam with the TCP protocol, instead of the UDP protocol has helped them get rid of the server error. So it’s worth giving it a try and see if it solves your woe.
@@ -155,7 +155,7 @@ Here are the steps:
 3. Restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. On your desktop, right-click on**Steam** and click**Properties** .
@@ -176,15 +176,11 @@ Here are the steps:
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall.png)
 3. Browse through the list of Allowed apps and features to see if Epic Gamers launcher is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app.png)
 4. Once completed, click **OK** .
@@ -192,6 +188,10 @@ Here are the steps:
 5. Run the game in the Steam client and see if it can be connected to the server.
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### If all else fails…
 
@@ -219,17 +219,17 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-detailed-steps-to-supercharge-your-youtube-audio-content/"><u>[New] 2024 Approved Detailed Steps to Supercharge Your YouTube Audio Content</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-universal-youtube-guidelines-and-expectations/"><u>[New] 2024 Approved Universal YouTube Guidelines and Expectations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-eyes-on-samsungs-upcoming-2025-event-rumors-confirmed-tech-and-future-innovations/"><u>All Eyes on Samsung's Upcoming 2025 Event - Rumors, Confirmed Tech, and Future Innovations!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723011940663-gas-station-simulator-windows-errors-heres-a-solution/"><u>Gas Station Simulator Windows Errors? Here's a Solution</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-edge-2023-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola Edge 2023 for Free? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211424413-9798330318261-know-me-as-i-am/"><u>KNOW ME AS I AM | Free Book</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/mac-file-revival-tool-secure-lost-data-recovery/"><u>Mac File Revival Tool: Secure Lost Data Recovery</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/mirrorless-vs-dslr-video-mastery-in-focus/"><u>Mirrorless vs DSLR Video Mastery in Focus</u></a></li>
-<li><a href="https://common-error.techidaily.com/noise-issues-gone-expert-solutions-for-restoring-sounds-in-forza-horizon-4-game/"><u>Noise Issues Gone: Expert Solutions for Restoring Sounds in Forza Horizon 4 Game</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/precisionstar-restoration/"><u>PrecisionStar Restoration</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/ultimate-system-rescue-kit-data-retrieval-for-all-oses/"><u>Ultimate System Rescue Kit - Data Retrieval for All OSes</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/universal-data-recuperation-program-brings-back-all-your-valuable-files/"><u>Universal Data Recuperation Program – Brings Back All Your Valuable Files</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-12-tycoons-a-gamers-dream-achieving-business-brilliance-on-screen/"><u>[New] 2024 Approved Top 12 Tycoons A Gamer's Dream, Achieving Business Brilliance on Screen</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-easy-techniques-for-using-screencastify-app/"><u>[New] In 2024, Easy Techniques for Using Screencastify App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-steps-for-perfect-audio-transition-in-adobe-audition/"><u>[New] Steps for Perfect Audio Transition in Adobe Audition</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-mastering-pre-upload-tiktoks-copyright-guidelines/"><u>[Updated] 2024 Approved Mastering Pre-Upload TikTok's Copyright Guidelines</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-innovative-ideas-for-images-with-professional-color-palette/"><u>[Updated] In 2024, Innovative Ideas for Images with Professional Color Palette</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/1728501234011-word/"><u>善用 Word 修复重置文件后丢失数据的方法</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/break-through-losses-shield-your-files-for-free/"><u>Break Through Losses - Shield Your Files for FREE</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-partition-fix-utility-extract-files-from-inaccessible-and-missing-volumes/"><u>Comprehensive Partition Fix Utility: Extract Files From Inaccessible & Missing Volumes</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskrescuemax-maximizing-raid-file-accessibility/"><u>DiskRescueMax: Maximizing RAID File Accessibility</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transform-rm-video-clips-into-wmv-format-for-free-and-maintain-excellent-visual-quality-a-comprehensive-guide/"><u>How To Transform RM Video Clips Into WMV Format for Free and Maintain Excellent Visual Quality: A Comprehensive Guide</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/revive-your-deleted-drives-elite-partition-recovery-solutions-explored/"><u>Revive Your Deleted Drives: Elite Partition Recovery Solutions Explored</u></a></li>
 </ul></div>
 

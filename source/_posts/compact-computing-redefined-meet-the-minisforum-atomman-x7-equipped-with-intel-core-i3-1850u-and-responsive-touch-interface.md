@@ -1,7 +1,7 @@
 ---
 title: "Compact Computing Redefined: Meet the MinisForum AtomMan X7, Equipped with Intel Core I3-1850U & Responsive Touch Interface"
-date: 2024-12-04T19:31:22.084Z
-updated: 2024-12-12T11:54:22.304Z
+date: 2024-12-11T17:42:18.438Z
+updated: 2024-12-18T16:56:48.545Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,24 +89,22 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-excellent-pc-screen-grabbers-the-most-useful-1-5/"><u>[New] Excellent PC Screen Grabbers The Most Useful #1-#5</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-novel-set-of-pertinent-probing-for-podcast-participants/"><u>[New] Novel Set of Pertinent Probing for Podcast Participants</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-iosandroid-leading-photo-writing-app-list/"><u>[Updated] IOS/Android Leading Photo-Writing App List</u></a></li>
-<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/converting-iso-files-to-dvd-format-on-windows-1087-a-step-by-step-guide/"><u>Converting ISO Files to DVD Format on Windows 10/8/7 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-rejuvenation-software-for-windows/"><u>Data Rejuvenation Software for Windows</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600568279-data-revival-made-simple-fast-secure-recovery-available/"><u>Data Revival Made Simple - Fast, Secure Recovery Available</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/drivedynamics-navigating-through-raid-chaos/"><u>DriveDynamics: Navigating Through RAID Chaos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-top-16-alexa-capabilities-with-amazon-echo-discoveries-by-zdnet/"><u>Exploring the Top 16 Alexa Capabilities with Amazon Echo - Discoveries by ZDNet</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/high-performance-drive-cloning-service/"><u>High-Performance Drive Cloning Service</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-m34-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy M34 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tech-assisted-jogs-top-virtual-reality-walking-machines-explored/"><u>In 2024, Tech-Assisted Jogs Top Virtual Reality Walking Machines Explored</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/interstellar-information-resurrect/"><u>Interstellar Information Resurrect</u></a></li>
-<li><a href="https://win-webster.techidaily.com/premium-music-selection-for-karaoke-enthusiasts-subscribe-now-to-tap-into-the-latest-top-tracks-in-pop-and-hip-hop-genres/"><u>Premium Music Selection for Karaoke Enthusiasts – Subscribe Now to Tap Into the Latest Top Tracks in Pop and Hip Hop Genres!</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-windows/"><u>Stellarデータリカバリー - Windows用フリーデータ復元ソフトウェア</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/superior-backup-and-restoration-platform/"><u>Superior Backup and Restoration Platform</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-elite-quartet-of-ai-hardware-innovations-taking-center-stage/"><u>The Elite Quartet of AI Hardware Innovations Taking Center Stage</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/win-recover-master-lost-data-retrieval/"><u>WIN-RECOVER: Master Lost Data Retrieval</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/winrecovery-your-key-to-regaining-lost-data/"><u>WinRecovery: Your Key to Regaining Lost Data</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-redefining-schooling-with-virtual-reality/"><u>[Updated] In 2024, Redefining Schooling with Virtual Reality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-innovative-listening-techniques-for-students-with-macs-for-2024/"><u>[Updated] Innovative Listening Techniques for Students with Macs for 2024</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/1-no-cost-avc-effortlessly-download-audio-from-your-videos/"><u>1) No-Cost AVC: Effortlessly Download Audio From Your Videos</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-restoration-suite-universal-recovery-solutions-for-every-file-type/"><u>Comprehensive Data Restoration Suite: Universal Recovery Solutions for Every File Type</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-graphics-optimization-unleashing-your-gpu-power-on-windows-10/"><u>Cyberpunk 2077 Graphics Optimization: Unleashing Your GPU Power on Windows 10</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-guide-to-data-resurrection-fixing-deleted-and-corrupted-disk-partitions/"><u>Expert Guide to Data Resurrection: Fixing Deleted and Corrupted Disk Partitions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-partition-data-revival-solutions-for-unrecoverable-drives/"><u>Expert Partition Data Revival Solutions for Unrecoverable Drives</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/galactic-data-retrieval/"><u>Galactic Data Retrieval</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guia-paso-a-paso-rescatando-datos-borrados-en-windows-server-2012-r2/"><u>Guía Paso a Paso: Rescatando Datos Borrados en Windows Server 2012 R2</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-nokia-105-classic-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia 105 Classic Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/instant-verbal-to-written-conversion-for-nothing-for-2024/"><u>Instant Verbal to Written Conversion for Nothing for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/meteorite-mentorium-cosmic-backup-hub/"><u>Meteorite Mentorium - Cosmic Backup Hub</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/no-more-lost-files-rapid-stellar-data-recovery-now/"><u>No More Lost Files! Rapid, Stellar Data Recovery Now</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-data-revival-set-for-windowsmaclinux-users/"><u>Universal Data Revival Set - For Windows/Mac/Linux Users</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unlock-files-no-cost-data-revival-tool/"><u>Unlock Files - No-Cost Data Revival Tool</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-reduce-video-size-for-free-10-best-online-compressors/"><u>Updated Reduce Video Size for Free 10 Best Online Compressors</u></a></li>
 </ul></div>
 

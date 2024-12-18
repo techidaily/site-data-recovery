@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Stop GTA V From Freezing on Your PC"
-date: 2024-12-06T02:39:47.458Z
-updated: 2024-12-12T03:24:38.793Z
+date: 2024-12-12T19:04:37.552Z
+updated: 2024-12-18T17:04:01.348Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/key-art-vg-desktop1-1200x668.jpg)
 
  Call of duty: Vanguard is released, and as expected for most new titles, quite a few bugs and issues come with the launch. Many players have reported that COD Vanguard keeps freezing on their PCs and the game is almost unplayable. If you’re in the same boat, no worries! Here are some working fixes you can try:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 [8: Increase your virtual memory](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Call of Duty: Vanguard System Requirements
@@ -59,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 | **High-Rez asset cache** | Up to 32 GB                                                     | Up to 32 GB                                  | Up to 32 GB                                                 | Up to 64 GB                                      |
 | **Video memory**         | 2 GB                                                            | 4 GB                                         | 8 GB                                                        | 10 GB                                            |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Close background applications
 
  The first quick fix you can try is to shut down the programs running in the background. They may interfere with Vanguard and cause the game to freeze. Or, these applications may take up the resources that are required for Vanguard to run smoothly, thus triggering performance issues. You can kill the background processes via Task Manager:
@@ -70,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 1. Press**Ctrl** and**Shift** and**Esc** to open the Task Manager.
 2. Under the**Processes** tab, right-click the processes that you want to shut down, then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the next fix.
 
@@ -91,7 +87,7 @@ If this doesn’t solve your problem, try the next fix.
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -101,10 +97,6 @@ If this doesn’t solve your problem, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If you’re still experiencing the freezing issue after you updated the graphics driver, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Scan and repair your game files
 
@@ -121,6 +113,10 @@ If this doesn’t help, move on to the next fix.
  Sometimes when the game doesn’t have the required administrator rights, it could crash or freeze randomly in the middle of the gameplay. You can provide them by running the game executable file as administrator.
 
 If Vanguard still freezes randomly on your PC, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Repair corrupted system files
 
@@ -153,14 +149,18 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Check your antivirus software
 
@@ -181,12 +181,12 @@ If the freezing issue persists, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the **Advanced** tab, under the Performance section, click **Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
@@ -202,7 +202,7 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 8. Calculate and fill in the **Initial size and Maximum size** , click **Set** then click **OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
@@ -227,22 +227,18 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-exploring-dells-bold-move-with-the-latest-p2715q-monitor-review/"><u>[New] 2024 Approved Exploring Dell's Bold Move with the Latest P2715Q Monitor Review</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-guides-on-creating-cost-free-youtube-beginnings-and-conclusions/"><u>[New] Guides on Creating Cost-Free YouTube Beginnings & Conclusions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-engaging-youtube-videos-using-finalcut-pro-expertise-for-2024/"><u>[Updated] Crafting Engaging YouTube Videos Using FinalCut Pro Expertise for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600333666-windows/"><u>安全にWindows上でファイルを取り戻すための無料ソリューション「ステラデータリカバリー」</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/astral-data-redeemers/"><u>Astral Data Redeemers</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/astralinfo-reclamation/"><u>AstralInfo Reclamation</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/backupbuddy-ai-androids-data-guardian/"><u>BackupBuddy AI: Android's Data Guardian</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-data-revival-suite-seamless-retrieval-for-diverse-file-formats/"><u>Comprehensive Data Revival Suite: Seamless Retrieval for Diverse File Formats</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/convert-and-display-your-ebook-collection-on-kindle-into-a-slideshow-sequence/"><u>Convert and Display Your eBook Collection on Kindle Into a Slideshow Sequence</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/cross-platform-file-restorer-win-mac-linux-edition/"><u>Cross-Platform File Restorer - Win, Mac, Linux Edition</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gigglegenius-log-in-for-video-adventures-for-2024/"><u>GiggleGenius Log In for Video Adventures for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-vivo-y100-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo Y100 5G Phone Screen?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-comprehensive-guide-for-effective-video-capturing/"><u>In 2024, Comprehensive Guide for Effective Video Capturing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-supercharged-visuals-video-content-plus-filter-amplification-pcmobile/"><u>In 2024, Supercharged Visuals Video Content + Filter Amplification (PC/Mobile)</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/moon-mesh-mailroom-lunar-file-saver-hub/"><u>Moon Mesh Mailroom - Lunar File Saver Hub</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/noiseless-speech-transcription-services/"><u>Noiseless Speech Transcription Services</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/rescue-inaccessible-hard-drive-areas-next-gen-programs-for-retrieving-lost-data-from-faulty-partitions/"><u>Rescue Inaccessible Hard Drive Areas: Next-Gen Programs for Retrieving Lost Data From Faulty Partitions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-sony-s6500-blu-ray-reader-an-updated-analysis/"><u>[New] In 2024, Sony S6500 Blu-Ray Reader An Updated Analysis</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/50-top-tier-virtual-bgms-for-zoomgoogle/"><u>50 Top-Tier Virtual BGMs for Zoom/Google</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/bug-free-gaming-how-from-the-ashes-of-remnant-now-stays-steady-on-launch/"><u>Bug-Free Gaming: How 'From the Ashes of Remnant' Now Stays Steady on Launch</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/destiny-2s-centipede-problem-solutions-for-a-smooth-gaming-experience/"><u>Destiny 2'S Centipede Problem: Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/exploring-the-samsung-galaxy-tab-s6-in-depth-analysis-of-s-pen-features-and-dex-mode-capabilities/"><u>Exploring the Samsung Galaxy Tab S6: In-Depth Analysis of S Pen Features & Dex Mode Capabilities</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-970-gpu-upgrade-guide-for-windows-11-users/"><u>GTX 970 GPU Upgrade Guide for Windows 11 Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-world-of-subtitle-uploads-social-media-edition/"><u>In 2024, Navigating the World of Subtitle Uploads Social Media Edition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-a24-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy A24 Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-sony-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Sony Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/retrieve-accidentally-deleted-numbers-on-android-with-these-effective-strategies/"><u>Retrieve Accidentally Deleted Numbers on Android with These Effective Strategies</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/the-core-underlying-processes-in-predictive-ai/"><u>The Core Underlying Processes in Predictive AI</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/ultimate-guide-resolving-thaumaturge-game-crashes-on-your-pc/"><u>Ultimate Guide: Resolving Thaumaturge Game Crashes on Your PC</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-silent-editing-a-step-by-step-guide-to-noise-reduction-in-fcpx/"><u>Updated In 2024, Silent Editing A Step-by-Step Guide to Noise Reduction in FCPX</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reviving Your Last Connected USB Device for Windows Compatibility
-date: 2024-12-06T00:14:39.375Z
-updated: 2024-12-11T22:12:05.683Z
+date: 2024-12-15T19:26:32.034Z
+updated: 2024-12-18T17:37:32.211Z
 tags:
   - win11
   - win10
@@ -25,19 +25,11 @@ thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc
 
  making it impossible for you to do whatever you want to do, you’re not alone. Many Windows 10 users are reporting this as well. But no worries, this problem is not that hard to fix at all. If you’re not interested in the cause of this problem, jump ahead to the [fixes](https://uperfect.sjv.io/g1jgba) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why would I see this problem?
 
  The exact cause to this problem varies on different combinations of computer environments. It could be caused by malfunctioned USB ports, USB controllers bugs, or outdated, missing or faulty USB ports.
 
  As mentioned, the exact cause could be very different in different situations, but there are some general resolutions that you should try before you turn to technicians. And one of the solutions below is bound to fix the problem for you. No worries, we’ve got you covered.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How can I fix it?
 
@@ -70,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37710b44342.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged drivers to automatically download and install the correct versions (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the [**Pro**](https://tools.techidaily.com/drivereasy/download/) version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -77,7 +73,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37721186152.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) You need to restart your PC for the updated drivers to work properly. Check if your USB device is recognized now.
@@ -94,6 +90,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377758f2bdc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Change plan settings** next to the plan option you’re having now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3777c0a811b.png)
@@ -102,6 +102,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377814e701a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click to expand**USB settings** and**USB selective suspend setting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3778a48905d.png)
@@ -109,6 +113,10 @@ Or click **Update All**  to automatically download and install the correct versi
  5) Select**Disabled** from the drop-down option. Then click**Apply** and**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377b3cef938.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **NOTE** : If you’re using a laptop, click**On battery** , then**Disabled** from the drop-down menu.
 
@@ -125,7 +133,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3786b06277a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the top bar, click**View** and then**Show hidden devices** .
@@ -134,25 +142,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
  3) Click to expand**Universal Serial Bus controllers.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3.1) If you see any device drivers marked by**yellow exclamation marks** or**question marks:**
 
  3.1.1) Right-click them and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37894943164.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3.1.2) Click**Uninstall** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37895fbce37.png)
 
  3.1.3) When the uninstall finishes, restart your computer. Then repeat the same procedure with the rest of the USB controllers marked by yellow exclamation marks or question marks one by one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.2) If you don’t see any drivers marked by yellow exclamation mark or question mark
 
@@ -163,10 +167,6 @@ Or click **Update All**  to automatically download and install the correct versi
  3.2.3) When the disable finishes, restart your PC. Repeat the same procedure as above, and if your USB controller driver is not enabled automatically, right-click it and click**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e29c15b5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Your USB device should be recognized now.
 
@@ -187,19 +187,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-comprehensive-list-of-vocal-alteration-apps/"><u>[New] The Comprehensive List of Vocal Alteration Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-captivating-books-in-video-form/"><u>[Updated] Captivating Books in Video Form</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-master-downloader-facebook-and-firefox-integration/"><u>[Updated] Master Downloader Facebook & FireFox Integration</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-prime-editor-shortlist-top-10-for-instagram-reel-brilliance-for-2024/"><u>[Updated] The Prime Editor Shortlist Top 10 for Instagram Reel Brilliance for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600433832-stellar-data-recovery-windows/"><u>「Stellar Data Recovery: Windows版無料、完全修復機能付き」</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600651185-windowsstellar-data-recovery/"><u>無料で安全なWindows用データ回復ツール：Stellar Data Recoveryの使い方</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-expert-tech-support-for-retrieving-lost-files/"><u>Comprehensive Data Rescue Tool: Expert Tech Support for Retrieving Lost Files</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-rescue-at-no-charge-superior-solver/"><u>Data Rescue at No Charge - Superior Solver</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-breaking-down-different-windows-movie-maker-phases/"><u>In 2024, Breaking Down Different Windows Movie Maker Phases</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/intelligent-data-restoration-suite/"><u>Intelligent Data Restoration Suite</u></a></li>
-<li><a href="https://article-files.techidaily.com/photographic-standouts-with-our-top-10-grid-picks/"><u>Photographic Standouts with Our Top 10 Grid Picks</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reclaim-lost-data-in-minutes-stellar-service-guarantee/"><u>Reclaim Lost Data in Minutes - Stellar Service Guarantee!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-the-power-of-high-dynamic-range-in-photography-for-2024/"><u>Unlocking the Power of High Dynamic Range in Photography for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-streamlining-your-workflow-import-and-export-videos-in-adobe-premiere-pro-2023/"><u>Updated Streamlining Your Workflow Import and Export Videos in Adobe Premiere Pro 2023</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-elevate-engagement-with-these-10-premier-youtube-seo-instruments/"><u>[Updated] In 2024, Elevate Engagement with These 10 Premier YouTube SEO Instruments</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-how-to-trim-youtube-videos-like-a-pro/"><u>[Updated] In 2024, How to Trim YouTube Videos Like a Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-lenovo-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Lenovo Phone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/comprehensively-capturing-your-messenger-conversations/"><u>Comprehensively Capturing Your Messenger Conversations</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskdetective-uncovering-hidden-raid-files/"><u>DiskDetective: Uncovering Hidden RAID Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-windows-update-0x8007049e-troubleshooting-guide/"><u>How to Fix the Windows Update '0X8007049e' Troubleshooting Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-how-to-safeguard-against-youtube-prohibitions/"><u>In 2024, How to Safeguard Against Youtube Prohibitions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/permanent-file-saver-macs-deletion-undoing-software/"><u>Permanent File Saver: Mac's Deletion Undoing Software</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reveldataxtract-expert-raid-recovery-services/"><u>RevelDataXtract: Expert RAID Recovery Services</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/swiftly-regain-your-vanished-mac-data/"><u>Swiftly Regain Your Vanished Mac Data</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/waterproof-nikon-unboxed-the-coolpix-w100-review/"><u>Waterproof Nikon Unboxed: The Coolpix W100 Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725284771209-dvdiphone/"><u>すぐに始められる、パソコン無しDVDiPhone移行ガイド スマホ動画見せます！</u></a></li>
 </ul></div>
 

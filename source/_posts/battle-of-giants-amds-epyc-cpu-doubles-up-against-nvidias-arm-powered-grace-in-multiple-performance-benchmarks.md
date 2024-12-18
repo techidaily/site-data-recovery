@@ -1,7 +1,7 @@
 ---
 title: "Battle of Giants: AMD's EPYC CPU Doubles Up Against NVIDIA’s ARM-Powered Grace in Multiple Performance Benchmarks"
-date: 2024-12-07T21:45:12.012Z
-updated: 2024-12-12T00:52:51.020Z
+date: 2024-12-13T19:20:23.400Z
+updated: 2024-12-18T18:20:28.877Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,24 +60,17 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-best-10-volume-magnifiers-for-windowsmacos-for-2024/"><u>[Updated] Best 10 Volume Magnifiers for Windows/MacOS for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-stand-out-on-youtube-logo-tips-for-visibility/"><u>[Updated] In 2024, Stand Out on YouTube Logo Tips for Visibility</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-securely-capturing-and-storing-itunes-media-content/"><u>[Updated] Securely Capturing and Storing iTunes Media Content</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-speak-and-stun-on-snapchat-voice-change-made-simple/"><u>2024 Approved Speak and Stun on Snapchat Voice Change Made Simple</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/arrayasylum-sanctuary-for-scrambled-raids/"><u>ArrayAsylum: Sanctuary for Scrambled RAIDs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/division-2-optimization-guide-eliminating-low-fps-and-stuttering-issues-in-the-new-year/"><u>Division 2 Optimization Guide: Eliminating Low FPS & Stuttering Issues in the New Year</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvdwonderfox/"><u>DVD変換ソフトWonderFoxインストール成功へ、おめでとう！- ご利用を賜り、深く感謝</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/efficient-cross-platform-recovery-software-proficient-in-retrieving-lost-or-corrupted-digital-files-across-all-systems/"><u>Efficient Cross-Platform Recovery Software - Proficient in Retrieving Lost or Corrupted Digital Files Across All Systems</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/efficient-partition-rescue-apps-retrieve-accidentally-deleted-sections-of-your-hard-drive/"><u>Efficient Partition Rescue Apps: Retrieve Accidentally Deleted Sections of Your Hard Drive</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/embrace-the-return-of-your-missing-mac-data/"><u>Embrace the Return of Your Missing Mac Data</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/free-methods-for-adding-subtitles-to-your-videos-desktop-online-tools-and-mobile-apps/"><u>Free Methods for Adding Subtitles to Your Videos: Desktop, Online Tools & Mobile Apps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-nokia-130-music-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Nokia 130 Music for Free? | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/multi-format-expert-data-retrieval-application-designed-to-resurrect-any-lost-digital-files/"><u>Multi-Format Expert Data Retrieval Application – Designed to Resurrect Any Lost Digital Files</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/raidrevival-pro-elite-in-raid-data-salvage/"><u>RaidRevival Pro: Elite in RAID Data Salvage</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restore-lost-d3dx943dll-on-windows-a-step-by-step-guide-to-quick-repair/"><u>Restore Lost d3dx9_43.dll on Windows: A Step-by-Step Guide to Quick Repair</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/retrieve-lost-files-today-our-immediate-reliable-solution/"><u>Retrieve Lost Files Today! Our Immediate, Reliable Solution</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reveldataxtract-expert-raid-recovery-services/"><u>RevelDataXtract: Expert RAID Recovery Services</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/swiftly-regain-your-vanished-mac-data/"><u>Swiftly Regain Your Vanished Mac Data</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-strategies-to-stand-out-with-a-great-podcast-name-for-2024/"><u>Unveiling Strategies to Stand Out with a Great Podcast Name for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-making-money-fast-the-pathway-to-success-in-youtube-shorts/"><u>[New] 2024 Approved Making Money Fast The Pathway to Success in YouTube Shorts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-top-10-filmora-traits-fueling-video-magic/"><u>[Updated] The Top 10 Filmora Traits Fueling Video Magic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-disk-errors-with-advanced-windows-tools/"><u>Fixing Disk Errors with Advanced Windows Tools</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/lost-partitions-rescued-top-tools-for-retrieving-accidentally-deleted-disk-sections/"><u>Lost Partitions Rescued: Top Tools for Retrieving Accidentally Deleted Disk Sections</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/mastering-network-booting-with-pxe-on-the-latest-windows-n-operating-system/"><u>Mastering Network Booting with PXE on the Latest Windows N Operating System</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/memorymender-pro-contacts-videos-photos/"><u>MemoryMender Pro: Contacts, Videos, Photos</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/mobilemediamender-regaining-lost-files/"><u>MobileMediaMender: Regaining Lost Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/partition-revival-services-bring-back-your-data-from-inaccessible-areas/"><u>Partition Revival Services - Bring Back Your Data From Inaccessible Areas</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-y100t-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo Y100t Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-seamless-pc-management-with-our-favorite-15-free-uninstaller-utilities/"><u>Unlock Seamless PC Management with Our Favorite 15 Free Uninstaller Utilities</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/your-passport-to-recovered-files-free/"><u>Your Passport to Recovered Files, Free!</u></a></li>
 </ul></div>
 

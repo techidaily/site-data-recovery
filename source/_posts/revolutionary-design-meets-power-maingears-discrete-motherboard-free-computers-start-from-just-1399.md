@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Design Meets Power: Maingear's Discrete Motherboard-Free Computers Start From Just $1,399"
-date: 2024-12-09T00:37:01.891Z
-updated: 2024-12-12T07:46:24.358Z
+date: 2024-12-14T17:03:03.744Z
+updated: 2024-12-18T19:31:27.712Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,24 +56,18 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-best-bits-of-bulb-tech-top-17-choices/"><u>[Updated] 2024 Approved Best Bits of Bulb Tech - Top 17 Choices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-apowersoft-a-complete-guide-to-screen-recording/"><u>[Updated] In 2024, Apowersoft A Complete Guide to Screen Recording</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-diy-photography-support-systems/"><u>[Updated] In 2024, DIY Photography Support Systems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-interpreting-second-duration-from-mb-content/"><u>[Updated] Interpreting Second Duration From MB Content</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-art-of-space-arrangement-in-fostering-a-high-performing-team-for-2024/"><u>[Updated] The Art of Space Arrangement in Fostering a High-Performing Team for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600581354-windows-stellar/"><u>「Windows用で人気! ゼロコストの Stellarデータ再生ソフト - ステラリカバリ」</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/all-encompassing-data-rescue-application-regain-access-to-all-your-files/"><u>All-Encompassing Data Rescue Application – Regain Access to All Your Files</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/bose-qc35-ii-showcase-audiophiles-silence-seeker/"><u>Bose QC35 II Showcase: Audiophile's Silence Seeker</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/contact-and-video-rescue-toolkit-android-edition/"><u>Contact & Video Rescue Toolkit, Android Edition</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/contact-reclaim-androids-helper/"><u>Contact Reclaim: Android's Helper</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/facebooklinkedinxingyoutube/"><u>FacebookLinkedInxingYouTube</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-digital-drawing-board-converting-videos-into-cartoons-with-ease/"><u>New In 2024, Digital Drawing Board Converting Videos Into Cartoons with Ease</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/personal-photo-makeover-simple-tricks-to-modify-hair-and-skin-tone-for-a-fresh-appearance/"><u>Personal Photo Makeover: Simple Tricks to Modify Hair & Skin Tone for a Fresh Appearance</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/restore-past-records-with-win-filefinder/"><u>Restore Past Records with WIN FileFinder</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/simple-android-voice-capture-no-root-access/"><u>Simple Android Voice Capture - No Root Access</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/universedata-revival-center/"><u>UniverseData Revival Center</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unrivaled-file-resurrection-platform-expertly-engineered-for-retrieving-any-type-of-digital-information/"><u>Unrivaled File Resurrection Platform: Expertly Engineered for Retrieving Any Type of Digital Information</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/win-data-rediscovery-program/"><u>WIN Data Rediscovery Program</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600202279-stellar-data-recovery-windows/"><u>スペシャルオファー！Stellar Data Recovery - 万が一Windowsで失われたデータを安全に取り戻せる無料プログラム</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-igtv-hash-tagging-boosting-your-fan-base/"><u>[New] Mastering IGTV Hash Tagging Boosting Your Fan Base</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-step-by-step-process-to-create-impressive-gopro-timelapses-for-2024/"><u>[New] Step-by-Step Process to Create Impressive GoPro Timelapses for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-isolated-earbuds-fix-manual-for-2024/"><u>[Updated] The Isolated Earbuds Fix Manual for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/all-purpose-recovery-solution-software-fast-and-reliable-data-rescue-across-platforms/"><u>All-Purpose Recovery Solution Software – Fast and Reliable Data Rescue Across Platforms</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/drivesavers-raid-suite-multiverse-support/"><u>DriveSavers RAID Suite: Multiverse Support</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/galaxyarchive-revival/"><u>GalaxyArchive Revival</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/multi-platform-data-recovery-program-seamless-extraction-of-diverse-data-types-with-advanced-technology/"><u>Multi-Platform Data Recovery Program: Seamless Extraction of Diverse Data Types with Advanced Technology</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/planetary-restoration-unit/"><u>Planetary Restoration Unit</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/stellar-data-recoverywindows/"><u>Stellar Data Recovery(ステラデータリカバリー)：Windowsユーザーのための優秀なフリーデータ回復ソリューション</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-comprehensible-guide-to-enhancing-your-facebook-live-experience-for-2024/"><u>The Comprehensible Guide to Enhancing Your Facebook Live Experience for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-copyright-claims-and-how-to-deal-with-a-strike-in-2024/"><u>YouTube Copyright Claims and How to Deal with a Strike, In 2024</u></a></li>
 </ul></div>
 

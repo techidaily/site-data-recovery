@@ -1,7 +1,7 @@
 ---
 title: "Discover the Future of Music Programming: Musicians Can Now Own a MicroPython Tulip Computer for Under $60"
-date: 2024-12-08T03:05:04.448Z
-updated: 2024-12-11T19:51:09.396Z
+date: 2024-12-14T18:46:43.706Z
+updated: 2024-12-18T21:02:25.180Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,24 +76,18 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/eading-9-free-logo-design-software-for-youtube-channels/"><u>[New] Leading 9 Free Logo Design Software for YouTube Channels</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tweet-to-whatsapp-video-dissemination-methods-for-2024/"><u>[New] Tweet-to-WhatsApp Video Dissemination Methods for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1728483897608-pc/"><u>「独学でデータ救出:故障中のPCから情報復旧手順２つ」</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-streamsavvy-beyond-the-dacast-boundary/"><u>2024 Approved StreamSavvy Beyond the DaCast Boundary</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/android-memory-mender-lossless-recovery/"><u>Android Memory Mender - Lossless Recovery</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/best-of-the-best-a-ranked-list-of-top-10-video-call-apps-for-2024/"><u>Best of the Best A Ranked List of Top 10 Video Call Apps for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-performance-intel-iris-plus-gfx-driver-v655-for-windows-11-systems/"><u>Best Performance: Intel Iris Plus Gfx Driver v655 for Windows 11 Systems</u></a></li>
-<li><a href="https://facebook.techidaily.com/cease-comments-tips-for-stopping-discussions-on-fb-posts/"><u>Cease Comments: Tips for Stopping Discussions on FB Posts</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/diskdefender-guarding-against-raid-failures/"><u>DiskDefender: Guarding Against RAID Failures</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/diskhaven-pro-advanced-raid-restoration/"><u>DiskHaven Pro: Advanced RAID Restoration</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/effortless-file-restoration-toolkit-complimentary/"><u>Effortless File Restoration Toolkit – Complimentary</u></a></li>
-<li><a href="https://fox-links.techidaily.com/enhance-music-mixing-with-our-comprehensible-online-tempo-tools-for-2024/"><u>Enhance Music Mixing with Our Comprehensible Online Tempo Tools for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/how-to-reconstruct-erased-drive-sections-with-advanced-partition-restoration-apps/"><u>How to Reconstruct Erased Drive Sections with Advanced Partition Restoration Apps</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/rescue-lost-files-at-no-monetary-cost/"><u>Rescue Lost Files at No Monetary Cost</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reviving-unreachable-sections-of-hard-drive-top-recovery-programs-reviewed/"><u>Reviving Unreachable Sections of Hard Drive: Top Recovery Programs Reviewed</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellardata-salvage-hub/"><u>StellarData Salvage Hub</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-great-video-app-race-will-likeeclipses-tiktoks-dominance-for-2024/"><u>The Great Video App Race Will LikeEclipses TikTok’s Dominance for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unified-data-salvage-suite-windowsmaclinux-compatible/"><u>Unified Data Salvage Suite – Windows/Mac/Linux Compatible</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlock-next-level-photo-editing-capabilities-in-open-source-raw-editor-darktable-for-os-x-and-linux-at-zero-expense/"><u>Unlock Next-Level Photo Editing Capabilities in Open Source RAW Editor, Darktable for OS X and Linux – At Zero Expense</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-discover-your-rhythm-assembling-tailored-youtube-playlists-for-the-digital-age-webmobile-for-2024/"><u>[Updated] Discover Your Rhythm Assembling Tailored YouTube Playlists for the Digital Age (Web/Mobile) for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600653166-android-data-recovery-software-to-recover-lost-photos-videos/"><u>Android Data Recovery Software to Recover Lost Photos, Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-motorola-moto-g24-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Motorola Moto G24</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oneplus-open-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your OnePlus Open is off? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-surface-laptop-studio-2-review-almost-the-perfect-creator-tool/"><u>Microsoft Surface Laptop Studio 2 Review: Almost the Perfect Creator Tool</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600613084-missing-memories-return-in-a-flash-with-our-recovery-service/"><u>Missing Memories Return in a Flash with Our Recovery Service!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-5-best-free-mod-video-editors/"><u>New Top 5 Best Free MOD Video Editors</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/pulsardata-resurrect/"><u>PulsarData Resurrect</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/rescue-your-data-top-software-for-restoring-erased-computer-sections/"><u>Rescue Your Data: Top Software for Restoring Erased Computer Sections</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/resurrecting-files-windows-edition/"><u>Resurrecting Files: Windows Edition</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600338083-stellar-data-recovery-windows/"><u>Stellar Data Recovery ソフトウェア - Windows上での無料使用で大切なデータを保護・復元</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-photographic-edge-cutting-edge-editing-strategies-for-2024/"><u>The Photographic Edge Cutting-Edge Editing Strategies for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-crafting-and-dispatching-voice-notes-on-the-iphone/"><u>The Ultimate Walkthrough: Crafting and Dispatching Voice Notes on the iPhone</u></a></li>
 </ul></div>
 

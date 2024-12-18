@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Thaumaturge Game Crashes on Your PC"
-date: 2024-12-08T01:07:53.772Z
-updated: 2024-12-12T12:13:43.749Z
+date: 2024-12-12T21:22:02.438Z
+updated: 2024-12-18T19:45:45.910Z
 tags:
   - win11
   - win10
@@ -41,16 +41,20 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  After the repair completes, test if Oculus Link is back on track. If not, move on to the second fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your device drivers
 
@@ -68,7 +72,7 @@ There are mainly two ways you can update the driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
@@ -77,10 +81,6 @@ There are mainly two ways you can update the driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch Oculus Link to test. If the problem persists, have a look at more fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the resolution
 
@@ -92,6 +92,10 @@ There are mainly two ways you can update the driver:
 4. Lower the**Encode Resolution Width** or you can set the value according to[Oculus’s recommendations](https://forums.oculusvr.com/community/discussion/83561/oculus-link-resolution-with-v12) . (Quite a few users fix the issue by setting the Encode Resolution Width to 2784.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/resolution-settings.jpg)
 5. Restart your PC for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Reboot your Oculus headset and plug it back to the PC.
 
@@ -105,10 +109,6 @@ There are mainly two ways you can update the driver:
 2. Click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/7-1-1-1.jpg)
 3. Turn off**In-game overlay** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00-1.jpg)
 
@@ -125,17 +125,13 @@ It’s suggested you opt out of the Beta mode and here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-1.jpg)
 3. **Toggle off** the button next to Public Test Channel.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Test if Oculus Link returns to the normal state. If not, continue to the next troubleshooting tips.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6 – Use the dedicated graphics card
 
@@ -146,11 +142,15 @@ It’s suggested you opt out of the Beta mode and here’s how:
 2. On the left pane, select**3D settings** \>**Manage 3D settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4.jpg)
 3. Go to the**Program Settings** tab. Then, select your Oculus app from the drop-down list and choose**High-performance NVIDIA processor** below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-5.jpg)
 
@@ -180,24 +180,18 @@ Restart Oculus Link and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-the-exchange-a-comprehensive-guide-to-fb-media-download/"><u>[New] In 2024, Mastering the Exchange A Comprehensive Guide to FB Media Download</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-social-sites-for-effective-youtube-video-promotion/"><u>[New] Social Sites for Effective YouTube Video Promotion</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-launch-your-content-with-free-intros/"><u>[Updated] In 2024, Launch Your Content with Free Intros</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unveiling-this-years-most-engaging-storytelling-youtubers-for-2024/"><u>[Updated] Unveiling This Year's Most Engaging Storytelling YouTubers for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/android-reunion-photos-and-contacts/"><u>Android Reunion: Photos and Contacts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-workflow-expert-tips-on-integrating-chatgpt-in-daily-life/"><u>Elevate Your Workflow: Expert Tips on Integrating ChatGPT in Daily Life</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/expertly-handle-data-disasters-get-lost-data-back-fast/"><u>Expertly Handle Data Disasters - Get Lost Data Back Fast</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-y200-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo Y200 to iPod | Dr.fone</u></a></li>
-<li><a href="https://win-info.techidaily.com/lost-your-application-data-heres-how-to-recover-and-restore-it/"><u>Lost Your Application Data? Here's How to Recover & Restore It!</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/multi-platform-data-salvaging-application-advanced-all-type-data-restoration/"><u>Multi-Platform Data Salvaging Application: Advanced All-Type Data Restoration</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/next-gen-homes-in-minecraft-top-6-concepts/"><u>Next-Gen Homes in Minecraft Top 6 Concepts</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/no-more-lost-data-rapid-and-precise-retrieval-service/"><u>No More Lost Data: Rapid and Precise Retrieval Service</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/operating-system-unified-data-recovery-kit/"><u>Operating System Unified Data Recovery Kit</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/playstation-network-outage-how-to-tell-if-its-a-server-issue-or-local-problem/"><u>PlayStation Network Outage: How to Tell If It's a Server Issue or Local Problem</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/precision-ios-data-rescue-trust-filled-solutions/"><u>Precision iOS Data Rescue: Trust-Filled Solutions</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reclaim-losses-with-win-data-finder/"><u>Reclaim Losses with WIN Data Finder</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reliable-file-guardian-macs-restoration-mastery/"><u>Reliable File Guardian: Mac's Restoration Mastery</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-battlefield-4-audio-issues-expert-guide-to-restoring-game-sounds/"><u>Solving Battlefield 4 Audio Issues: Expert Guide to Restoring Game Sounds</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/universal-data-retrieval-suite-the-premier-choice-for-retrieving-lost-or-deleted-digital-files/"><u>Universal Data Retrieval Suite: The Premier Choice for Retrieving Lost or Deleted Digital Files</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-crafting-cinema-magic-with-fcps-top-10-plugin-choices/"><u>[New] In 2024, Crafting Cinema Magic with FCP’s Top 10 Plugin Choices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-kid-proof-camcorders-the-top-11-beginner-friendly-choices/"><u>[Updated] 2024 Approved Kid-Proof Camcorders The Top 11 Beginner-Friendly Choices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-smartest-podcast-renaming-options-through-ai-technology/"><u>[Updated] 2024 Approved The Smartest Podcast Renaming Options Through AI Technology</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600581354-windows-stellar/"><u>「Windows用で人気! ゼロコストの Stellarデータ再生ソフト - ステラリカバリ」</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/all-encompassing-data-rescue-application-regain-access-to-all-your-files/"><u>All-Encompassing Data Rescue Application – Regain Access to All Your Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/contact-reclaim-androids-helper/"><u>Contact Reclaim: Android's Helper</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/digital-memory-keeping-for-your-ps3-experiences/"><u>Digital Memory Keeping for Your PS3 Experiences</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-itel-a05s-phone-by-drfone-android/"><u>How to Unlock a Network Locked Itel A05s Phone?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/itel-s23plus-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Itel S23+ Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-chrome-installation-on-windows-11/"><u>Mastering Chrome Installation on Windows 11</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/restore-past-records-with-win-filefinder/"><u>Restore Past Records with WIN FileFinder</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/win-data-rediscovery-program/"><u>WIN Data Rediscovery Program</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600202279-stellar-data-recovery-windows/"><u>スペシャルオファー！Stellar Data Recovery - 万が一Windowsで失われたデータを安全に取り戻せる無料プログラム</u></a></li>
 </ul></div>
 

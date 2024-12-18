@@ -1,7 +1,7 @@
 ---
 title: "China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025"
-date: 2024-12-11T12:49:33.811Z
-updated: 2024-12-11T19:35:38.871Z
+date: 2024-12-17T21:31:02.498Z
+updated: 2024-12-18T21:05:05.315Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,17 +68,20 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-rhythm-on-rings-creating-tamil-ringtone-playlists/"><u>[New] Rhythm on Rings Creating Tamil Ringtone Playlists</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-mastering-video-conversion-save-vimeo-videos-as-mp4/"><u>[Updated] In 2024, Mastering Video Conversion Save Vimeo Videos as MP4</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/cracking-the-code-fixing-call-of-duty-warzone-screen-glitches/"><u>Cracking the Code: Fixing Call of Duty: Warzone Screen Glitches</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/fixing-issues-why-is-my-destiny-2-microphone-not-detected/"><u>Fixing Issues: Why Is My Destiny 2 Microphone Not Detected?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nokia 105 Classic? | Dr.fone</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/mastering-microsoft-excel-essential-tips-and-techniques-for-modifying-spreadsheets-yl-software-solutions/"><u>Mastering Microsoft Excel: Essential Tips & Techniques for Modifying Spreadsheets - YL Software Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-store-halt-unlock-code-x80131500/"><u>Microsoft Store Halt: Unlock Code X80131500</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-network-hurdles-reconnecting-lele-on-pc/"><u>Navigating Network Hurdles: Reconnecting LeLë on PC</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/roblox-audio-not-working-solve-the-mute-mystery-in-windows-11-and-10-environments/"><u>Roblox Audio Not Working? Solve the Mute Mystery in Windows 11 and 10 Environments</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/solving-performance-issues-with-avatar-frontiers-of-pandora-how-to-stop-the-game-from-lagging/"><u>Solving Performance Issues with 'Avatar: Frontiers of Pandora': How to Stop the Game From Lagging</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/troubleshoot-and-resolve-sound-problems-handling-failed-to-generate-sound/"><u>Troubleshoot and Resolve Sound Problems: Handling 'Failed to Generate Sound'</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-downloading-content-from-apods-with-confidence/"><u>[New] Downloading Content From APods with Confidence</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-road-warriors-top-virtual-races-listed/"><u>[Updated] In 2024, Road Warriors Top Virtual Races Listed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instavideo-magic-crafting-a-plan-to-capture-your-audiences-attention/"><u>[Updated] InstaVideo Magic Crafting a Plan to Capture Your Audience's Attention</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-precision-screen-capturing-top-tools-reviewed-on-pcmac/"><u>[Updated] Precision Screen Capturing Top Tools Reviewed on PC/Mac</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600250743-windows/"><u>完全無償で動くステラ・データリカバリ: Windows用データ復元ソフトの最適解決策</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comet-conveyance-corner-cosmic-data-rescue-hub/"><u>Comet Conveyance Corner - Cosmic Data Rescue Hub</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/iphone-data-salvage-ensure-safety-and-restore-files/"><u>IPhone Data Salvage: Ensure Safety and Restore Files</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-game-video-editing-software-top-picks/"><u>New Free Game Video Editing Software Top Picks</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/phonedatamender-for-missing-files/"><u>PhoneDataMender for Missing Files</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-realtek-asio-windows-10-drivers-fast-and-simple-installation/"><u>Quick Download: RealTek Asió Windows 10 Drivers - Fast & Simple Installation</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/stellar-data-recovery-lab-services/"><u>Stellar® Data Recovery Lab-Services</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/swift-recovery-software-for-your-iphones-memory/"><u>Swift Recovery Software for Your iPhone's Memory</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-411-on-navigating-youtube-shorts/"><u>The 411 on Navigating YouTube Shorts</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-warzones-gpu-usage-issue-on-windows-10-problem-fixed/"><u>Troubleshooting Warzone's GPU Usage Issue on Windows 10 – Problem Fixed</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unseen-memories-reunited-mac-data-recovery-extraordinaire/"><u>Unseen Memories Reunited: Mac Data Recovery Extraordinaire</u></a></li>
 </ul></div>
 

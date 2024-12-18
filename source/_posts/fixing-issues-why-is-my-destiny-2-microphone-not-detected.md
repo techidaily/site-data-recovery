@@ -1,7 +1,7 @@
 ---
 title: "Fixing Issues: Why Is My Destiny 2 Microphone Not Detected?"
-date: 2024-12-09T18:48:36.424Z
-updated: 2024-12-12T01:48:56.341Z
+date: 2024-12-11T18:29:59.110Z
+updated: 2024-12-18T16:08:21.431Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1 – Allow access to your microphone on your PC
 
  If your Corsair HS35 is not activated in the Window settings, your PC will lack the access to your microphone and so the mic just won’t start to work at all. Follow these steps to allow access to your microphone:
@@ -49,21 +45,13 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 2. Select**Microphone** on the left panel, then click the**Change** button to see if the toggle is**On** in the pop-up menu. If it isn’t, change the toggle to On.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
 
@@ -80,8 +68,16 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 3. Right-click the headset microphone again and select **Properties.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
 4. Under the**Levels** tab, move the slider to the highest value and then click**OK** to save your settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this fix doesn’t give you the luck, try the next below to update your audio drives.
 
@@ -102,10 +98,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-5.7.2-SCAN.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download and install the correct version of that driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
 4. After updating your audio driver, restart your PC for the trick to take effect.
@@ -113,6 +105,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
  The**Pro version** of Driver Easy comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at <support@drivereasy.com> .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4 – Reinstall the Corsair headset and iCUE software
 
@@ -122,23 +118,23 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 5. Select**iCUE** and then click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 6. Click**Yes** in the confirmation box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Restart your PC and replug your Corsair headset into your computer.
 8. Relaunch the iCUE software. You can click **[here](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Ficue&mktsrc=drivereasyen%5F166866)**  to download the latest version of iCUE.
@@ -179,6 +175,10 @@ Top Pick
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6 – Seek technical support or after-sales service
 
  If you’ve tried all of the above fixes and still can’t get your mic boom to function, the issue could be with your headset rather than your computer.**You can try connecting your headset to another PC** ; if it’s still not working, there may be an issue with your Corsair Mic. In this situation, you should **[contact Corsair for support](https://help.corsair.com/hc/en-us)**  or have your headset serviced.
@@ -202,15 +202,20 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-top-stabilizers-choosing-the-best-for-high-res-cameras/"><u>[New] Top Stabilizers Choosing the Best for High-Res Cameras</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-essentials-of-crafting-crystal-clear-vhs-graphics-online/"><u>[Updated] 2024 Approved The Essentials of Crafting Crystal-Clear VHS Graphics Online</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-inside-look-tunefabs-best-screen-recorder/"><u>[Updated] In 2024, Inside Look Tunefab's Best Screen Recorder</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/arrayhealer-precise-raid-0-5-and-6-recovery/"><u>ArrayHealer: Precise RAID 0, 5 & 6 Recovery</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/backupbuddy-saving-android-media/"><u>BackupBuddy: Saving Android Media</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/efficient-partition-recovery-tools-bring-back-lost-or-locked-drives/"><u>Efficient Partition Recovery Tools: Bring Back Lost or Locked Drives</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-shadowplay-failure-to-record-in-windows-easy-guide/"><u>How to Fix ShadowPlay Failure to Record in Windows - Easy Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-professional-tips-designing-youtube-trailers-in-filmora/"><u>In 2024, Professional Tips Designing YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/one-stop-software-for-diverse-data-rescue-services-full-spectrum-recovery-system/"><u>One-Stop Software for Diverse Data Rescue Services – Full Spectrum Recovery System</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/regular-payment-structures-in-youtuber-economics/"><u>Regular Payment Structures in YouTuber Economics</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-video-voyage-navigating-the-world-of-youtube-links/"><u>[New] Elevate Your Video Voyage Navigating the World of YouTube Links</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-iphone-photos-discover-prime-angles-for-perfect-shots/"><u>[Updated] Mastering iPhone Photos Discover Prime Angles for Perfect Shots</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/advanced-technical-assessments-by-toms-electronics-specialist/"><u>Advanced Technical Assessments by Tom's Electronics Specialist</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-advice-on-cutting-edge-hardware-from-toms-tech-insight/"><u>Expert Advice on Cutting-Edge Hardware From Tom's Tech Insight</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/explore-the-latest-in-computing-discover-whats-new-at-toms-hardware/"><u>Explore the Latest in Computing: Discover What's New at Tom's Hardware!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/frames-to-fabulous-the-ultimate-list-of-photo-plugins/"><u>Frames to Fabulous The Ultimate List of Photo Plugins</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/introducing-the-gem12-pro-mini-pc-ultra-compact-performance-powerhouse-equipped-with-advanced-ryzen-7-cpu-and-integrated-screen-technology/"><u>Introducing the Gem12 Pro Mini PC - Ultra-Compact Performance Powerhouse, Equipped with Advanced Ryzen 7 CPU and Integrated Screen Technology</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/lollipop-lens-detailed-analysis-and-how-to-for-sweet-filming/"><u>Lollipop Lens Detailed Analysis & How-To for Sweet Filming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastermakers-in-av-production-top-5-list-for-2024/"><u>Mastermakers in AV Production Top 5 List for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/navigating-the-world-of-computer-components-with-toms-hardware-solutions/"><u>Navigating the World of Computer Components with Tom's Hardware Solutions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-free-video-rotator-apps-for-iphone-expert-recommendations/"><u>New Free Video Rotator Apps for iPhone Expert Recommendations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-z-fold-2023-anticipated-features-cost-estimates-launch-timeline-unveiled/"><u>Samsung Galaxy Z Fold 2023: Anticipated Features, Cost Estimates, Launch Timeline Unveiled</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/the-power-shift-lenovos-adoption-of-modt-tech-for-unleashing-the-potential-of-legion-7000k-gaming-towers-in-china/"><u>The Power Shift: Lenovo's Adoption of MoDT Tech for Unleashing the Potential of Legion 7000K Gaming Towers in China</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/toms-tech-review-expert-insights-on-latest-gadgets-and-pc-components/"><u>Tom's Tech Review: Expert Insights on Latest Gadgets and PC Components</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Introducing the Gem12 Pro Mini PC - Ultra-Compact Performance Powerhouse, Equipped with Advanced Ryzen 7 CPU and Integrated Screen Technology
-date: 2024-12-09T11:24:20.858Z
-updated: 2024-12-11T18:15:47.929Z
+date: 2024-12-11T18:17:47.307Z
+updated: 2024-12-18T19:37:32.064Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,17 +89,17 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-easy-steps-for-stellar-youtube-thumbnails/"><u>[New] In 2024, Easy Steps for Stellar YouTube Thumbnails</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-10-spectacular-reactions-on-creative-youtube-videos-for-2024/"><u>[Updated] Discover 10 Spectacular Reactions on Creative YouTube Videos for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-aligning-zoom-sessions-with-desktop-and-smartphone-calendars/"><u>2024 Approved Aligning Zoom Sessions with Desktop and Smartphone Calendars</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-miro-extreme-8-pro-wmps-elite-alternative/"><u>2024 Approved Miro Extreme 8 Pro WMP's Elite Alternative</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/android-data-recovery-software-to-recover-lost-photos-videos/"><u>Android Data Recovery Software to Recover Lost Photos, Videos ...</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-cost-free-text-animations-onlineoff-for-2024/"><u>Guide to Cost-Free Text Animations (Online/Off) for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/iphone-restoration-mastermind-unlock-data-peacefully/"><u>IPhone Restoration Mastermind: Unlock Data Peacefully</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/m4v-in-vob-format-konvertieren-kostenloses-online-tool-von-movavi/"><u>M4V in VOB Format Konvertieren - Kostenloses Online-Tool Von Movavi</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/retrieving-shadows-your-mac-data-restoration-companion/"><u>Retrieving Shadows: Your Mac Data Restoration Companion</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210559238-9781590799628-sq21/"><u>SQ21 | Free Book</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/syncos-files-rescue-windows-mac-linux-version/"><u>SyncOS Files Rescue - Windows, Mac, Linux Version</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-ultimate-checklist-for-confirming-yt-account/"><u>The Ultimate Checklist for Confirming YT Account</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-revamp-chrome-browsing-sharper-social-media-videos/"><u>[New] In 2024, Revamp Chrome Browsing Sharper Social Media Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mastering-the-art-of-using-telegram-web/"><u>[New] Mastering the Art of Using Telegram Web</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlock-your-potential-best-instagram-video-editors-android-pc/"><u>[New] Unlock Your Potential Best Instagram Video Editors (Android, PC)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unlocking-potential-master-dvd-burning-with-your-mac/"><u>[Updated] In 2024, Unlocking Potential Master DVD Burning with Your Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/express-thanks-free-and-premium-video-farewells-for-2024/"><u>Express Thanks Free and Premium Video Farewells for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/garmin-forerunner-45-and-its-advantages-for-athletes/"><u>Garmin Forerunner 45 and Its Advantages for Athletes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-f54-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy F54 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c110frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C110FRP Lock</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/mobile-memory-master-iphone-data-restoration/"><u>Mobile Memory Master - iPhone Data Restoration</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/next-gen-data-salvation-programs-reinstate-accidentally-wiped-out-segments-of-your-hardware/"><u>Next-Gen Data Salvation Programs: Reinstate Accidentally Wiped Out Segments of Your Hardware</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/secure-and-swift-file-recovery-for-iphones/"><u>Secure & Swift File Recovery for iPhones</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/ultimate-data-retrieval-program-comprehensive-software-suite-for-all-formats/"><u>Ultimate Data Retrieval Program: Comprehensive Software Suite for All Formats</u></a></li>
 </ul></div>
 

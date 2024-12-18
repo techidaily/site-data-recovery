@@ -1,7 +1,7 @@
 ---
 title: "The Power Shift: Lenovo's Adoption of MoDT Tech for Unleashing the Potential of Legion 7000K Gaming Towers in China"
-date: 2024-12-09T01:51:13.803Z
-updated: 2024-12-12T09:16:19.294Z
+date: 2024-12-16T16:36:58.566Z
+updated: 2024-12-18T20:50:17.385Z
 tags:
   - desktop
 categories:
@@ -26,6 +26,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
  We are also going to recommend GPUs rather than specific makes and models of graphics cards. For example, we'd recommend an RTX 4070 Ti and link to a list of available cards rather than, for example, the[Zotac RTX 4070 Ti](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FZOTAC-Graphics-IceStorm-Advanced-ZT-D40710J-10P%2Fdp%2FB0BQCVTSR3%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1261595583226646282-20) [.](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FZOTAC-Graphics-IceStorm-Advanced-ZT-D40810B-10P%2Fdp%2FB0BKK3RFT6%2F%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8032896364299685703-20) Given frequent price and stock changes in the space, you should get whichever third or first-party card is available with the GPU you want for the best price at the time you read this.
 
  Also note that we don't include the cost of an operating system, because you can get[Windows for Free or Cheap](https://www.tomshardware.com/reviews/get-windows-10-free-or-cheap,5717.html) . Nor do we include the price of peripherals such as the[best gaming monitors](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.html) ,[best gaming keyboards](https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards) or[best gaming mouse](https://www.tomshardware.com/best-picks/best-gaming-mouse) . And if you've never made a computer before, see our article on[how to build a PC](https://www.tomshardware.com/how-to/build-a-pc) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best $500 PC Build for Gaming
 
@@ -67,13 +71,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
   
  Finally, we need something to power the whole system, and this is an area where we opted to compromise in pursuit of the $500 price point. The $40 500W PSU should be fine for this basic build, which will likely peak at around 200W of power use, but the Thermaltake Smart series isn't exactly highly regarded, and the listing mentions Haswell support (circa 2014) and it only has 80 Plus certification, which are clear drawbacks. If you want a quality PSU, check out the[Thermaltake Toughpower GX2 600W](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB087CDR14Z%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2901418645577992029-20) that costs $20 more. It's an 80 Plus Gold certified PSU, from a reputable brand, albeit overkill for a build like this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best $800 PC Build for Gaming
 
 ![Gamdias Aura GC1](https://cdn.mos.cms.futurecdn.net/fixBMW57Uvy4YDmfRJpWAd-320-80.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Amazon)
 
@@ -119,13 +123,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  Our case is the Gamdias Aura GC1, a full-size ATX case that comes with four ARGB fans. The GC1 has a mesh front for optimal airflow and plenty of room for expansion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best $1,000 PC Build for Gaming
 
 ![Phanteks XT Pro](https://cdn.mos.cms.futurecdn.net/AeCzMV4DUqQFiBnV2hPQuf-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Newegg)
 
@@ -152,7 +156,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![CPU 1080p performance for Ryzen 7 5700X3D](https://cdn.mos.cms.futurecdn.net/FubLpBjdNUCy6aXRouBReZ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Newegg)
@@ -167,10 +171,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![3DMark Storage for WD SN580](https://cdn.mos.cms.futurecdn.net/YduTXHRsvK8iHR2sEsSWHH-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  We're going with the[Phanteks XT Pro](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-3971734713525887260%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fblack-phanteks-xt-mid-tower%252Fp%252F11-854-132) as our case, because it has a quality, mesh design, room for up to a 360mm AIO up top and the ability to support back-connecting motherboards, should you get one in the future. For $20, you can get the[Phanteks XT Pro Ultra](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2132366878660750340%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fblack-phanteks-xt-mid-tower%252Fp%252FN82E16811854133) , which comes with four ARGB fans.
@@ -182,7 +182,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Lian Li Lancool 216](https://cdn.mos.cms.futurecdn.net/Km4g6hf6hy2XkxhB88oxBR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -221,15 +221,15 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![WD SN850X](https://cdn.mos.cms.futurecdn.net/Zgbo67f5diWaNQg29SQ3nQ-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  Our case for this build is the $99[Lian Li Lancool 216](https://www.tomshardware.com/reviews/lian-li-lancool-216-review) . When we reviewed the Lancool 216, we praised its included dual RGB 160mm front and single 140mm exhaust fans, excellent cable management and attractive looks. There's also plenty of room for a top-mounted radiator that's up to 360mm.
 
  Our power supply is a 750-watt Corsair CX750M. This 80 Plus Gold certified PSU packs enough power to support our GPU with plenty of juice to spare. However, it's not fully modular, with some of the wires being built-in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best $2000 PC Build for Gaming
 
@@ -257,6 +257,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![RTX 4070 Ti Super Charts](https://cdn.mos.cms.futurecdn.net/xLHYFZLdk36D2Rmd2iLYFa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The AMD Ryzen 7 7800X3D offers a superior experience thanks to its 104MB of 3D cache, along with its 8 cores, 16 threads and 5-GHz boost clock. Yes, AMD makes the Ryzen 9 7950X3D which is even faster overall, but it costs a lot more money and either ties or comes in behind the 7800X3D on many gaming tests.
@@ -264,10 +268,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
  On our suite of[Windows 11](https://www.tomshardware.com/tag/windows-11) tests, running at 1080p with an RTX 4090 card, the 7800X3D averaged 224 fps, putting it slightly ahead of the Ryzen 9 7950X3D (222 fps) and way ahead of Intel's top-ranked Core i9-13900K (200 fps).
 
 ![Ryzen 7 7800X3D 1080p gaming tests](https://cdn.mos.cms.futurecdn.net/c5TiEiPPHBkLtGTfkp3Tyh-320-80.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -277,10 +277,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Memory Latency](https://cdn.mos.cms.futurecdn.net/ew9VS2PUuTupX8YSvcyb5X-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Future)
 
  For the SSD, we're sticking with the WD Black SN850X at 2TB. You really can't do much better without spending a lot more money on a PCIe 5 drive or a 4TB capacity.
@@ -289,13 +285,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  To power all these high-end components, we're using a Corsair RM750e PSU which is 80+ Gold certified and fully modular.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best $4000+ PC Build for Gaming
 
 ![Fractal Design North XL](https://cdn.mos.cms.futurecdn.net/gohZoiw9QykbPm5kgrhfbi-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -320,6 +316,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
  On our tests, the RTX 4090 averaged 112 fps playing a suite of games at 4K. That's a huge improvement over the next-best card, the Radeon RX 7900 XTX, which only hit 90 fps. In ray tracing, the gap widens a lot more, with the 4090 averaging 58 fps, the 4080 sits at 41 fps, and the fastest card from AMD, the 7900 XTX, gets just 30 fps.
 
 ![RTX 4090 Performance](https://cdn.mos.cms.futurecdn.net/mKv5emaUBYKBRQ8URPsxCY-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -364,14 +364,24 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-content-game-mastering-the-art-of-instagram-video-uploads-on-desktop-for-2024/"><u>[New] Elevate Your Content Game Mastering the Art of Instagram Video Uploads on Desktop for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/1-steps-to-restore-accidentally-removed-gifs-on-your-computer/"><u>1. Steps to Restore Accidentally Removed GIFs on Your Computer</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-essential-edits-and-tips-to-master-filmoras-interface/"><u>2024 Approved Essential Edits and Tips to Master Filmora's Interface</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-6-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 6 by Name | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-rescue-efficient-software-solutions-for-reconstructing-lost-or-corrupt-disk-partitions/"><u>Data Rescue: Efficient Software Solutions for Reconstructing Lost or Corrupt Disk Partitions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oneplus-open-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost OnePlus Open for Free? | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/luminarydata-restoration/"><u>LuminaryData Restoration</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unseen-records-rediscovered-mac-data-rescue-pro/"><u>Unseen Records Rediscovered: Mac Data Rescue Pro</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600578736-windows/"><u>ステラ・データレコヴァリー: Windowsで使用可能な無料のデータ回復ツール</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-make-gif-on-iphone-top-10-gif-apps-for-iphone-x876-for-2024/"><u>[New] Make GIF on iPhone Top 10 GIF Apps for iPhone X/8/7/6 for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-disconnect-and-delete-discord-accounts-devices/"><u>[Updated] 2024 Approved Disconnect and Delete Discord Accounts (Devices)</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600566996-android-data-recovery-software-to-recover-lost-photos-videos-contacts-etc/"><u>Android Data Recovery Software to Recover Lost Photos, Videos, Contacts Etc</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/complete-data-resurrection-best-software-for-retrieving-lost-or-unavailable-disk-partitions/"><u>Complete Data Resurrection: Best Software for Retrieving Lost or Unavailable Disk Partitions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/contactrecover-pro-androids-data-saver/"><u>ContactRecover Pro: Android's Data Saver</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-cp65-avrg-a-dependable-entry-level-ups-solution/"><u>Evaluating the CP6#5 AVRG - A Dependable Entry-Level UPS Solution</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expertly-recovering-iphone-files-with-assurance/"><u>Expertly Recovering iPhone Files with Assurance</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-motorola-edge-40-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Motorola Edge 40 Pro Data? | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/iphone-backup-breaker-swift-and-sure-data-revival/"><u>IPhone Backup Breaker: Swift and Sure Data Revival</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-it-possible-to-play-spotify-simultaneously-with-a-friend/"><u>Is It Possible to Play Spotify Simultaneously with a Friend?</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/lifesaver-for-missing-data-at-no-cost-solution/"><u>Lifesaver for Missing Data - At-No-Cost Solution</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/phonerecovery-pro-restore-and-backup/"><u>PhoneRecovery Pro: Restore & Backup</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/planetary-patrol-panel-sky-archive-support/"><u>Planetary Patrol Panel - Sky Archive Support</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quantity-of-videos-on-128gb-storage-media/"><u>Quantity of Videos on 128GB Storage Media</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/removing-inaudible-voices-from-obs-recording/"><u>Removing Inaudible Voices From OBS Recording</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600744711-revive-past-memories-swift-and-reliable-file-recovery/"><u>Revive Past Memories - Swift and Reliable File Recovery!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/swift-methodology-to-weed-out-fake-pals-from-insta-network-for-2024/"><u>Swift Methodology to Weed Out Fake Pals From Insta Network for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-70-lite-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor 70 Lite 5G</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-xiaomi-civi-3-disney-100th-anniversary-edition-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Xiaomi Civi 3 Disney 100th Anniversary Edition Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
 

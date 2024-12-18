@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Phasmophobia Issues - Latest Fixes for Gamers
-date: 2024-12-05T12:20:43.283Z
-updated: 2024-12-12T07:29:54.696Z
+date: 2024-12-13T17:52:52.746Z
+updated: 2024-12-18T16:57:17.562Z
 tags:
   - win11
   - win10
@@ -71,6 +71,10 @@ There are two ways you can get the latest correct graphics driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Restart your computer
 
  Some programs on your computer might conflict with_Diablo 3_ or the Blizzard Battle.net app, causing your game to crash frequently. Try performing a reboot on your PC to end unwanted programs completely, then relaunch your game.
@@ -80,7 +84,7 @@ There are two ways you can get the latest correct graphics driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: **Run your game as an administrator**
@@ -94,7 +98,7 @@ There are two ways you can get the latest correct graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-499.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click**Yes** .
@@ -136,7 +140,7 @@ If your game crashes again, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-507.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If a patch is available, install it, then run your game again to check whether the crashing issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
@@ -153,17 +157,21 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-683.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the **Game Settings tab** \>**Reset in-Game Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-514.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-515.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Click **Done** .
 
@@ -183,13 +191,13 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-701.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo Key and R**  st the same time to open the Run dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-705.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Type **%ProgramData%** and click **OK** .
 
@@ -198,6 +206,10 @@ If your game crashes again, go ahead with the fix below.
 **5)**  Highlight and delete the **Blizzard Entertainment** and**Battle.net folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-505.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch_Diablo 3_ to check if this worked for you. If the game is still unplayable, try the fix below.
 
@@ -211,25 +223,13 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-512.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-510.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the list box below to select **Windows 8** , then click **Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-511.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
@@ -254,13 +254,13 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-508.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click **Yes, Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-513.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Restart the Blizzard Battle.net app to download and install _Diablo 3_ .
 
@@ -277,7 +277,7 @@ If your game crashes again, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-443.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click **Uninstall a program** .
@@ -316,19 +316,15 @@ If your game crashes again, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-screen-recording-essentials-and-competitive-analyses/"><u>[New] Screen Recording Essentials and Competitive Analyses</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/advanced-data-rescue-program-a-multiformat-retrieval-toolkit-by-professionals/"><u>Advanced Data Rescue Program: A Multiformat Retrieval Toolkit by Professionals</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beyond-the-screen-jaunt-vrs-spectacular-world-for-2024/"><u>Beyond the Screen Jaunt VR's Spectacular World for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-rescued-time-is-money-optimize-recovery-rate/"><u>Data Rescued, Time Is Money! Optimize Recovery Rate</u></a></li>
-<li><a href="https://os-tips.techidaily.com/diy-guide-crafting-personalized-contact-cards-using-your-iphone/"><u>DIY Guide: Crafting Personalized Contact Cards Using Your iPhone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-increase-fps-2024-useful-tips/"><u>How To Increase FPS [2024 Useful Tips]</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-tecno-spark-10c-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Spark 10C in Minutes | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-8-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 8 Plus without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-sony-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Sony Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/introducing-the-groundbreaking-feature-satellite-powered-emergency-alerts-on-the-newly-launched-google-pixel-9-a-milestone-for-android-phones/"><u>Introducing the Groundbreaking Feature: Satellite-Powered Emergency Alerts on the Newly Launched Google Pixel 9 - A Milestone for Android Phones</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/nebulanet-recovery/"><u>NebulaNet Recovery</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/next-gen-cross-format-data-retrieval-solution-state-of-the-art-software-for-restoring-all-kinds-of-lost-digital-information/"><u>Next-Gen Cross-Format Data Retrieval Solution: State-of-the-Art Software for Restoring All Kinds of Lost Digital Information</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/omnirecovery-software-windows-mac-and-linux-support/"><u>OmniRecovery Software – Windows, Mac & Linux Support</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/universal-files-rescue-suite-windowsmaclinux-edition/"><u>Universal Files Rescue Suite – Windows/Mac/Linux Edition</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-streamline-creative-processes-efficiently-adding-text-to-videos-with-microsoft-photos/"><u>[Updated] In 2024, Streamline Creative Processes Efficiently Adding Text to Videos with Microsoft Photos</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600269020-windows/"><u>「ステラ・データリカバリ - Windows版無償の効果的なデータ回復プログラム」</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-a-comprehensive-guide-to-successful-fb-cover-video-strategies/"><u>2024 Approved A Comprehensive Guide to Successful FB Cover Video Strategies</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-t2-pro-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo T2 Pro 5G without App | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/easydata-revival-software-multiplatform-compatibility/"><u>EasyData Revival Software - Multiplatform Compatibility</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/efficient-hdd-cloning-interface/"><u>Efficient HDD Cloning Interface</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-lava-yuva-2-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Lava Yuva 2 Pro Quickly | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-address-and-repair-not-found-dbghelpdll-files-on-pc/"><u>How to Address and Repair 'Not Found' dBghelp.dll Files on PC</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/your-files-deserve-better-swift-data-reinstatement-here/"><u>Your Files Deserve Better: Swift Data Reinstatement Here</u></a></li>
 </ul></div>
 

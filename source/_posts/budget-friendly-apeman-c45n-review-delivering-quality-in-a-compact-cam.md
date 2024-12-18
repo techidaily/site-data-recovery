@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Apeman C45n Review: Delivering Quality in a Compact Cam"
-date: 2024-12-04T22:09:42.489Z
-updated: 2024-12-11T16:05:22.339Z
+date: 2024-12-11T19:42:45.529Z
+updated: 2024-12-18T17:47:06.491Z
 categories:
   - BestProducts
 description: "This Article Describes Budget-Friendly Apeman C45n Review: Delivering Quality in a Compact Cam"
@@ -41,17 +41,9 @@ Lifewire / Jeremy Laukkonen
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Xbox Series S
 
 ![Xbox Series S](https://www.lifewire.com/thmb/wlG_GrSmQPVex-VRt3ap4hsTP-s=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hero_Square-377546108feb4adaa3226c0ee22e1238.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -79,7 +71,7 @@ Lifewire / Jeremy Laukkonen
  This console is remarkably compact and has a surprisingly low price point. Gamers looking for a[4K UHD in HDR](https://www.lifewire.com/difference-between-hdr-and-4k-4176961) experience will need to pay a premium for the Series X, but the Xbox Series S offers an enticing alternative if you’re looking to save some money or haven’t yet made the jump to 4K.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Sleek and compact**
@@ -87,6 +79,10 @@ Lifewire / Jeremy Laukkonen
  The Xbox Series S is small, and it's almost impossible to oversell that point. I had seen pictures and videos of the console and the spec sheet, but I was still surprised at how compact this thing was when I unboxed it. It's smaller than the Xbox One S, and Microsoft bills it as "our smallest Xbox ever." That's especially noteworthy since Microsoft and Sony went exceptionally big with their flagship consoles, the Series X and PlayStation 5.
 
 ![Xbox Series S](https://www.lifewire.com/thmb/3-mUIkkRYilM5F2tvCYMPXtW1Ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-04d996bcdfbb489d84e8945e4c475713.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
@@ -142,10 +138,6 @@ Lifewire / Jeremy Laukkonen
 
  Microsoft's $7.5B purchase of Bethesda's parent company, Zenimax, brought some hope of additional exclusives appearing in Microsoft's arsenal. (Bethesda is the publisher of Fallout, DOOM, Dishonored, Skyrim, Wolfenstein, The Elder Scrolls, and more.) However, the situation is murky as the company has yet to clarify which (if any) Bethesda titles will be exclusive to Xbox.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Storage: Disappointingly shallow, so bring your USB drive**
 
  The biggest problem with the Xbox Series S is the lack of storage. Unlike the Series X, which packs in a 1TB drive, the Series S only offers 512GB of space. That's an extremely shallow pool to swim in when dealing with an all-digital console, as you have to download every game you play.
@@ -161,7 +153,7 @@ Lifewire / Jeremy Laukkonen
  So if you go with an external USB drive, you'll only be able to play Xbox One, Xbox 360, and original Xbox games stored on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Internet Connectivity: Fast when wired, but Wi-Fi is a mixed bag**
@@ -170,10 +162,6 @@ Lifewire / Jeremy Laukkonen
 
 ![Xbox Series S](https://www.lifewire.com/thmb/_GSxQvNgtJMhoyNl62qlg671Qvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-25991056c5c2486695923f7c1b61c7b5.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Jeremy Laukkonen
 
  When downloading over Wi-Fi, I rarely saw over 150Mbps (compared to the 350Mbps I measured on my HP Spectre x360 laptop in the same room and at the same time). Curiously, the Series S download speed tanked, down to the lower double digits, while I was running speed tests on my laptop. Similarly, download speeds dive into the low teens whenever a game runs, even in the background.
@@ -181,6 +169,10 @@ Lifewire / Jeremy Laukkonen
  When connected via Ethernet, the Series S reported 880Mbps down and 65Mbps up on the network status screen. That’s right on the money in terms of what I see directly at my Eero router. Actual download speeds topped out at 500Mbps and typically hung out between 270 and 320Mbps.
 
  The bottom line is that the Series S provided fairly unimpressive download speeds over Wi-Fi but tore it up when connected via Ethernet. You’ll want to connect this all-digital console via Ethernet to a fast internet connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software and User Interface: Familiar and cozy**
 
@@ -216,6 +208,10 @@ Lifewire / Jeremy Laukkonen
 
  One expense you may need to budget is a high-speed USB 3.1 drive. The console is perfectly usable without an external drive, but expect to uninstall games regularly to make more space if you limit yourself to the onboard storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Xbox Series S vs. PS5 Digital**
 
  This comparison is a bit of an unfair fight because Microsoft and Sony took entirely different approaches when designing their lower-priced console options. Microsoft cut back on hardware to offer an incredibly low price point, while Sony removed the optical drive. The result is that the PS5 Digital blows the Xbox Series S out of the water in terms of graphics and performance, but they aren’t even in the same time zone in terms of price.
@@ -231,7 +227,7 @@ Lifewire / Jeremy Laukkonen
  The Xbox Series S might be a bit of a step back from the Xbox One X in performance, but the fact is that it’s a next-gen console that plays next-gen games with some impressive hardware and an unreal price tag. Gamers in search of the best graphics possible will want to look at the Xbox Series X instead, but gamers who haven’t yet made the 4K plunge, parents in need of an affordable console for their kids, or anyone looking to save money will all find something to like here.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -243,6 +239,10 @@ Lifewire / Jeremy Laukkonen
 [Nintendo Switch Review](https://www.lifewire.com/nintendo-switch-review-4707563)
 
 [Nintendo Switch Lite Review](https://www.lifewire.com/nintendo-switch-lite-review-4788015)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -276,21 +276,22 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-calculating-earnings-ad-revenues-in-the-world-of-youtube/"><u>[New] 2024 Approved Calculating Earnings Ad Revenues in the World of YouTube?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-ownership-deciphering-in-instasongs/"><u>[New] 2024 Approved Ownership Deciphering in InstaSongs</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-complete-guide-to-customizing-your-game-characters-sound-identity-free-solution-included/"><u>[New] 2024 Approved The Complete Guide to Customizing Your Game Character's Sound Identity (Free Solution Included)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-elite-listings-easy-purchases-of-startup-youtube-revenue-streams/"><u>2024 Approved Elite Listings Easy Purchases of Startup YouTube Revenue Streams</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-elite-after-effects-plugins-compendium/"><u>2024 Approved Unveiling the Elite After Effects Plugins Compendium</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1722997950531-cod-black-ops-cold-war-wont-boot-here-are-the-solutions-for-pc-players/"><u>COD: Black Ops Cold War Won't Boot? Here Are The Solutions for PC Players!</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/destiny-2s-centipede-problem-solutions-for-a-smooth-gaming-experience/"><u>Destiny 2'S Centipede Problem: Solutions for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/does-interacting-with-chatgpt-pose-any-cybersecurity-dangers/"><u>Does Interacting with ChatGPT Pose Any Cybersecurity Dangers?</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/exploring-the-samsung-galaxy-tab-s6-in-depth-analysis-of-s-pen-features-and-dex-mode-capabilities/"><u>Exploring the Samsung Galaxy Tab S6: In-Depth Analysis of S Pen Features & Dex Mode Capabilities</u></a></li>
-<li><a href="https://win-dash.techidaily.com/getting-up-to-date-with-your-hp-laserjet-m5e-series-driver-downloads-and-setup-tips/"><u>Getting Up-to-Date with Your HP Laserjet M5e Series: Driver Downloads & Setup Tips</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-best-mac-screen-recorders-a-comprehensive-guide/"><u>In 2024, Best Mac Screen Recorders A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-preeminence-in-premiere-pro-mastering-fullscreen-vistas/"><u>In 2024, Preeminence in Premiere Pro Mastering Fullscreen Vistas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-security-of-user-authentication-on-w11/"><u>Mastering the Security of User Authentication on W11</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/the-core-underlying-processes-in-predictive-ai/"><u>The Core Underlying Processes in Predictive AI</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/the-future-of-mini-computing-arrives-meet-the-minisforum-atomman-x7-ti-boasting-an-incredible-intel-core-185h-and-intuitive-ti-touch-screen-technology/"><u>The Future of Mini Computing Arrives: Meet the MinisForum AtomMan X7 Ti, Boasting an Incredible Intel Core 185H and Intuitive Ti-Touch Screen Technology</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/ultimate-guide-resolving-thaumaturge-game-crashes-on-your-pc/"><u>Ultimate Guide: Resolving Thaumaturge Game Crashes on Your PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-total-circles-capture-systems/"><u>[New] Total Circles Capture Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-uncover-11-free-effective-youtube-naming-solutions/"><u>[New] Uncover 11 Free, Effective YouTube Naming Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-professional-tips-sharpen-and-brighten-your-iphones-hdri-in-adobe-premiere-pro/"><u>2024 Approved [Professional Tips] Sharpen and Brighten Your iPhone's HDRI in Adobe Premiere Pro</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-secure-methods-for-youtube-to-mp4-conversion/"><u>2024 Approved Secure Methods for Youtube-to-MP4 Conversion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-useful-tips-and-apps-for-taking-amazing-android-photography/"><u>2024 Approved Useful Tips and Apps for Taking Amazing Android Photography</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600397383-stellar-data-recovery-windows/"><u>失われたファイルを安全に取り戻せる - Stellar Data Recovery (ステラ・データリカバリ) Windows版無料ソフトウェア</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-guide-to-understanding-popular-networks-facebook-twitter-instagram-versus-youtube/"><u>A Guide to Understanding Popular Networks: Facebook, Twitter, Instagram versus YouTube</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/advanced-technicians-program-for-comprehensive-data-salvaging-effective-on-various-storage-mediums/"><u>Advanced Technician's Program for Comprehensive Data Salvaging – Effective on Various Storage Mediums</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/advanced-techniques-for-recovering-inaccessible-and-erased-disk-partitions/"><u>Advanced Techniques for Recovering Inaccessible and Erased Disk Partitions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-revival-made-simple-fast-secure-recovery-available/"><u>Data Revival Made Simple - Fast, Secure Recovery Available!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/effizientes-kopieren-von-hdd-auf-ssd-unter-windows-ohne-vollstandige-neukonfiguration/"><u>Effizientes Kopieren Von HDD Auf SSD Unter Windows Ohne Vollständige Neukonfiguration</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/enhanced-file-system-revival-utility/"><u>Enhanced File System Revival Utility</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/idevice-data-detective-secure-and-efficient-recovery/"><u>IDevice Data Detective: Secure & Efficient Recovery</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-big-sur-basics-for-system-and-hardware-enthusiasts/"><u>In 2024, Big Sur Basics for System & Hardware Enthusiasts</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/launch-of-dex-v3201-software-update-by-deckeeze-now-supports-additional-pioneer-dj-hardware/"><u>Launch of DEX v3.20.1 Software Update by Deckeeze | Now Supports Additional Pioneer DJ Hardware</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reclaim-your-lost-treasures-from-the-sands-of-time-mac-files/"><u>Reclaim Your Lost Treasures From the Sands of Time (Mac Files)</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reviving-records-without-spending-a-dime/"><u>Reviving Records Without Spending a Dime</u></a></li>
 </ul></div>
 
