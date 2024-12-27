@@ -1,7 +1,7 @@
 ---
 title: "Compact Computing Redefined: Meet the MinisForum AtomMan X7, Equipped with Intel Core I3-1850U & Responsive Touch Interface"
-date: 2024-12-11T17:42:18.438Z
-updated: 2024-12-18T16:56:48.545Z
+date: 2024-12-21T07:29:35.707Z
+updated: 2024-12-26T16:12:06.804Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,22 +89,24 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-redefining-schooling-with-virtual-reality/"><u>[Updated] In 2024, Redefining Schooling with Virtual Reality</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-innovative-listening-techniques-for-students-with-macs-for-2024/"><u>[Updated] Innovative Listening Techniques for Students with Macs for 2024</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/1-no-cost-avc-effortlessly-download-audio-from-your-videos/"><u>1) No-Cost AVC: Effortlessly Download Audio From Your Videos</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-data-restoration-suite-universal-recovery-solutions-for-every-file-type/"><u>Comprehensive Data Restoration Suite: Universal Recovery Solutions for Every File Type</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-graphics-optimization-unleashing-your-gpu-power-on-windows-10/"><u>Cyberpunk 2077 Graphics Optimization: Unleashing Your GPU Power on Windows 10</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/expert-guide-to-data-resurrection-fixing-deleted-and-corrupted-disk-partitions/"><u>Expert Guide to Data Resurrection: Fixing Deleted and Corrupted Disk Partitions</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/expert-partition-data-revival-solutions-for-unrecoverable-drives/"><u>Expert Partition Data Revival Solutions for Unrecoverable Drives</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/galactic-data-retrieval/"><u>Galactic Data Retrieval</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guia-paso-a-paso-rescatando-datos-borrados-en-windows-server-2012-r2/"><u>Guía Paso a Paso: Rescatando Datos Borrados en Windows Server 2012 R2</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On ZTE Blade A73 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-nokia-105-classic-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia 105 Classic Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/instant-verbal-to-written-conversion-for-nothing-for-2024/"><u>Instant Verbal to Written Conversion for Nothing for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/meteorite-mentorium-cosmic-backup-hub/"><u>Meteorite Mentorium - Cosmic Backup Hub</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/no-more-lost-files-rapid-stellar-data-recovery-now/"><u>No More Lost Files! Rapid, Stellar Data Recovery Now</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/universal-data-revival-set-for-windowsmaclinux-users/"><u>Universal Data Revival Set - For Windows/Mac/Linux Users</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unlock-files-no-cost-data-revival-tool/"><u>Unlock Files - No-Cost Data Revival Tool</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-reduce-video-size-for-free-10-best-online-compressors/"><u>Updated Reduce Video Size for Free 10 Best Online Compressors</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-essential-video-recording-and-editing-software-for-new-gamers/"><u>[Updated] 2024 Approved Essential Video Recording & Editing Software for New Gamers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-art-of-persuasion-on-facebook-a-beginners-and-expert-playbook/"><u>[Updated] 2024 Approved The Art of Persuasion on Facebook A Beginner’s & Expert Playbook</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-superior-chromebook-video-saver/"><u>[Updated] Superior ChromeBook Video Saver</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600269020-windows/"><u>「ステラ・データリカバリ - Windows版無償の効果的なデータ回復プログラム」</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-tecno-pop-7-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Tecno Pop 7 Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/break-through-losses-shield-your-files-for-free/"><u>Break Through Losses - Shield Your Files for FREE</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-partition-fix-utility-extract-files-from-inaccessible-and-missing-volumes/"><u>Comprehensive Partition Fix Utility: Extract Files From Inaccessible & Missing Volumes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/cutting-edge-platforms-where-gif-becomes-professional-video-for-2024/"><u>Cutting-Edge Platforms Where GIF Becomes Professional Video for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskrescuemax-maximizing-raid-file-accessibility/"><u>DiskRescueMax: Maximizing RAID File Accessibility</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/easydata-revival-software-multiplatform-compatibility/"><u>EasyData Revival Software - Multiplatform Compatibility</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/efficient-hdd-cloning-interface/"><u>Efficient HDD Cloning Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-integration-managing-ms-office-documents-within-google-drive/"><u>Effortless Integration: Managing MS Office Documents Within Google Drive</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/full-scale-digital-rescue-operations-advanced-recovery-software-for-any-data-type/"><u>Full-Scale Digital Rescue Operations: Advanced Recovery Software for Any Data Type</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/revive-your-deleted-drives-elite-partition-recovery-solutions-explored/"><u>Revive Your Deleted Drives: Elite Partition Recovery Solutions Explored</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-update-guide-how-to-change-your-standard-sata-ahci-controller-drivers/"><u>Simple Update Guide: How to Change Your Standard SATA AHCI Controller Drivers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-adding-captions-to-your-mp4-video-files/"><u>Step-by-Step Guide: Adding Captions to Your MP4 Video Files</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/transforming-life-experiences-into-engaging-yt-videos/"><u>Transforming Life Experiences Into Engaging YT Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723003715260-why-is-hell-let-loose-faulty-on-your-computer-troubleshooting-guide-inside/"><u>Why Is Hell Let Loose Faulty on Your Computer? Troubleshooting Guide Inside!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/your-files-deserve-better-swift-data-reinstatement-here/"><u>Your Files Deserve Better: Swift Data Reinstatement Here</u></a></li>
 </ul></div>
 

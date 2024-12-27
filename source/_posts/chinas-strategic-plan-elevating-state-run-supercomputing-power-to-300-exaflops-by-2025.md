@@ -1,7 +1,7 @@
 ---
 title: "China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025"
-date: 2024-12-17T21:31:02.498Z
-updated: 2024-12-18T21:05:05.315Z
+date: 2024-12-24T20:22:49.546Z
+updated: 2024-12-27T08:57:14.796Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,20 +68,18 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-downloading-content-from-apods-with-confidence/"><u>[New] Downloading Content From APods with Confidence</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-road-warriors-top-virtual-races-listed/"><u>[Updated] In 2024, Road Warriors Top Virtual Races Listed</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instavideo-magic-crafting-a-plan-to-capture-your-audiences-attention/"><u>[Updated] InstaVideo Magic Crafting a Plan to Capture Your Audience's Attention</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-precision-screen-capturing-top-tools-reviewed-on-pcmac/"><u>[Updated] Precision Screen Capturing Top Tools Reviewed on PC/Mac</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600250743-windows/"><u>完全無償で動くステラ・データリカバリ: Windows用データ復元ソフトの最適解決策</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comet-conveyance-corner-cosmic-data-rescue-hub/"><u>Comet Conveyance Corner - Cosmic Data Rescue Hub</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/iphone-data-salvage-ensure-safety-and-restore-files/"><u>IPhone Data Salvage: Ensure Safety and Restore Files</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-game-video-editing-software-top-picks/"><u>New Free Game Video Editing Software Top Picks</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/phonedatamender-for-missing-files/"><u>PhoneDataMender for Missing Files</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-download-realtek-asio-windows-10-drivers-fast-and-simple-installation/"><u>Quick Download: RealTek Asió Windows 10 Drivers - Fast & Simple Installation</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-data-recovery-lab-services/"><u>Stellar® Data Recovery Lab-Services</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/swift-recovery-software-for-your-iphones-memory/"><u>Swift Recovery Software for Your iPhone's Memory</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-411-on-navigating-youtube-shorts/"><u>The 411 on Navigating YouTube Shorts</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-warzones-gpu-usage-issue-on-windows-10-problem-fixed/"><u>Troubleshooting Warzone's GPU Usage Issue on Windows 10 – Problem Fixed</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unseen-memories-reunited-mac-data-recovery-extraordinaire/"><u>Unseen Memories Reunited: Mac Data Recovery Extraordinaire</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-elevate-your-presence-setting-up-an-instagram-company/"><u>[New] 2024 Approved Elevate Your Presence Setting Up an Instagram Company</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-8-tools-to-record-computer-sound-and-microphone/"><u>[New] In 2024, 8 Tools to Record Computer Sound and Microphone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/battle-of-giants-amds-epyc-cpu-doubles-up-against-nvidias-arm-powered-grace-in-multiple-performance-benchmarks/"><u>Battle of Giants: AMD's EPYC CPU Doubles Up Against NVIDIA’s ARM-Powered Grace in Multiple Performance Benchmarks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-iphone-13ipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on iPhone 13/iPad/iPod</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/detailed-breakdown-of-newest-technology-innovations-toms-hardware-experts/"><u>Detailed Breakdown of Newest Technology Innovations - Tom's Hardware Experts</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/exclusive-sale-alert-high-end-prebuilt-gaming-desktop-msi-aegis-r2-featuring-rtx-4070-super-plus-intel-i7-at-an-unbeatable-price-below-1600/"><u>Exclusive Sale Alert: High-End Prebuilt Gaming Desktop – MSI Aegis R2 Featuring RTX 4070 Super + Intel I7 at an Unbeatable Price Below $1,600</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/high-definition-dark-phoenix-desktop-backgrounds-and-static-wallpaper-collection-premium-designs-by-yl-computing/"><u>High Definition Dark Phoenix Desktop Backgrounds & Static Wallpaper Collection - Premium Designs by YL Computing</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why does the pokemon go battle league not available On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rs-in-learning-select-sci-yt-channels/"><u>Leaders in Learning Select Sci-YT Channels</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/make-every-sound-count-comprehensive-guide-to-free-youtube-video-transcriptions-for-2024/"><u>Make Every Sound Count Comprehensive Guide to Free YouTube Video Transcriptions for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/the-future-of-mini-computing-arrives-meet-the-minisforum-atomman-x7-ti-boasting-an-incredible-intel-core-185h-and-intuitive-ti-touch-screen-technology/"><u>The Future of Mini Computing Arrives: Meet the MinisForum AtomMan X7 Ti, Boasting an Incredible Intel Core 185H and Intuitive Ti-Touch Screen Technology</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/toms-tech-review-expert-insights-on-hardware-innovations/"><u>Tom's Tech Review: Expert Insights on Hardware Innovations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-language-barriers-with-these-6-superior-offline-translation-apps/"><u>Unlock Language Barriers with These 6 Superior Offline Translation Apps</u></a></li>
 </ul></div>
 

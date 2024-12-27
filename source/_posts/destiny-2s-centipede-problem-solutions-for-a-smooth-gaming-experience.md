@@ -1,7 +1,7 @@
 ---
 title: "Destiny 2'S Centipede Problem: Solutions for a Smooth Gaming Experience"
-date: 2024-12-17T19:29:46.351Z
-updated: 2024-12-18T16:41:02.711Z
+date: 2024-12-25T07:15:59.196Z
+updated: 2024-12-26T21:28:16.104Z
 tags:
   - win11
   - win10
@@ -48,6 +48,10 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Re-add your friend
 
  I believe you’ve already tried restarting Minecraft maybe even restart your computer. There is one more thing you can try: re-add your friend.
@@ -55,6 +59,10 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
  If you find you can still connect to a stranger’s world, you can remove the person as a friend then re-add him/her back. This fix has helped some players.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Reload your private world
 
@@ -73,10 +81,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-02-37.png)
 6. You should be able to join your friends’ world.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Disable Windows Firewall
 
  If Minecraft is not allowed in the Firewall, the “Unable to connect to world” issue can happen. You can connect to the internet but can’t join each other’s world. So check the Firewall settings and ensure the Minecraft executable file “javaw.exe” is allowed in the Firewall.
@@ -85,28 +89,28 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c.jpg)
 2. Set Control Panel view by**Large icons** then click**Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click**Allow an app or feature through Windows Defender Firewall** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the “javaw.exe” is checked. If not, click the Change settings button then check the “javaw.exe”. If you see more than one “javaw.exe” entries, check all of them. Ensure the Private box and the Publick box are checked too.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5c260821a6772.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5c260821a6772.png)
 
  If the Minecraft.exe is checked, this fix doesn’t work for you. Move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update the network drivers
@@ -124,10 +128,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-714.png)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-715.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Run Minecraft and check whether you can connect to the world.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -136,10 +136,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 If this fix can’t help, you can move to the next.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Change the settings
 
@@ -152,6 +148,10 @@ If this fix can’t help, you can move to the next.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/x.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable antivirus software
 
@@ -181,7 +181,7 @@ If this fix can’t help, you can move to the next.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tips
@@ -215,16 +215,18 @@ If this fix can’t help, you can move to the next.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchat-savvy-elevating-your-photographic-style-with-app-edits/"><u>[Updated] 2024 Approved Snapchat Savvy Elevating Your Photographic Style with App Edits</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-techniques-for-smooth-screen-casting-for-2024/"><u>[Updated] Expert Techniques for Smooth Screen Casting for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-master-the-art-of-uploading-vimeo-to-instagram/"><u>[Updated] Master the Art of Uploading Vimeo to Instagram</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/asteroid-archive-rehab/"><u>Asteroid Archive Rehab</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/confidently-comeback-lost-data-on-ios-devices/"><u>Confidently Comeback Lost Data on iOS Devices</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/gratuito-conversor-de-milhas-por-galao-para-video-em-formato-wma-online-e-facil-de-usar-com-o-moviemaker-da-movavi/"><u>Gratuito Conversor De Milhas Por Galão Para Vídeo Em Formato WMA - Online E Fácil De Usar Com O MovieMaker Da Movavi</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-get-rid-of-your-personal-identification-number-pin-in-windows/"><u>How to Get Rid of Your Personal Identification Number (PIN) in Windows</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-insta-metrics-comprehensive-ig-data-analysis/"><u>In 2024, Mastering Insta Metrics Comprehensive IG Data Analysis</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/iphone-file-finder-your-reliable-resource/"><u>IPhone File Finder: Your Reliable Resource</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/mastering-the-mystique-of-moonlit-portraits-for-2024/"><u>Mastering the Mystique of Moonlit Portraits for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/robust-data-retrieval-software/"><u>Robust Data Retrieval Software</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-propel-your-presence-on-tiktok-strategic-application-of-template-videos/"><u>[Updated] 2024 Approved Propel Your Presence on TikTok Strategic Application of Template Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-optimizing-multichannel-video-series-via-strategic-chaptering-in-youtube-videos/"><u>[Updated] Optimizing Multichannel Video Series via Strategic Chaptering in YouTube Videos</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/complete-hardware-health-management/"><u>Complete Hardware Health Management</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/engage-broadly-embedding-twitch-videos-on-fb-for-2024/"><u>Engage Broadly Embedding Twitch Videos on FB for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-the-most-out-of-your-apple-vision-pro-experience-insider-tips-on-landing-exclusive-in-store-demos-tech-today/"><u>Get the Most Out of Your Apple Vision Pro Experience - Insider Tips on Landing Exclusive In-Store Demos | Tech Today</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-stop-assassins-creed-valhalla-from-frequently-crashing-on-your-computer/"><u>How to Stop Assassin's Creed: Valhalla From Frequently Crashing on Your Computer</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/nebula-file-nexus-interstellar-recovery-portal/"><u>Nebula File Nexus - Interstellar Recovery Portal</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/precious-documents-rediscovered-gratis/"><u>Precious Documents Rediscovered - Gratis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/professional-prowess-best-webcams-to-upgrade-your-podcasting/"><u>Professional Prowess Best Webcams to Upgrade Your Podcasting</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/raidrestore-solutions-diverse-raid-recovery/"><u>RaidRestore Solutions: Diverse RAID Recovery</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/raidrise-software-pioneering-data-resurrection/"><u>RaidRise Software: Pioneering Data Resurrection</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reliable-file-reconstruction-app/"><u>Reliable File Reconstruction App</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-endless-fun-top-10-free-online-video-loop-generators-for-2024/"><u>Updated Endless Fun Top 10 Free Online Video Loop Generators for 2024</u></a></li>
 </ul></div>
 

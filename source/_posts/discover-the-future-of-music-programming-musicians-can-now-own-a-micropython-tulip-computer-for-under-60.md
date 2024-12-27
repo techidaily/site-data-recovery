@@ -1,7 +1,7 @@
 ---
 title: "Discover the Future of Music Programming: Musicians Can Now Own a MicroPython Tulip Computer for Under $60"
-date: 2024-12-14T18:46:43.706Z
-updated: 2024-12-18T21:02:25.180Z
+date: 2024-12-20T02:52:00.488Z
+updated: 2024-12-26T21:33:50.970Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,18 +76,19 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-discover-your-rhythm-assembling-tailored-youtube-playlists-for-the-digital-age-webmobile-for-2024/"><u>[Updated] Discover Your Rhythm Assembling Tailored YouTube Playlists for the Digital Age (Web/Mobile) for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600653166-android-data-recovery-software-to-recover-lost-photos-videos/"><u>Android Data Recovery Software to Recover Lost Photos, Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-motorola-moto-g24-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Motorola Moto G24</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oneplus-open-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your OnePlus Open is off? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-surface-laptop-studio-2-review-almost-the-perfect-creator-tool/"><u>Microsoft Surface Laptop Studio 2 Review: Almost the Perfect Creator Tool</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600613084-missing-memories-return-in-a-flash-with-our-recovery-service/"><u>Missing Memories Return in a Flash with Our Recovery Service!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-5-best-free-mod-video-editors/"><u>New Top 5 Best Free MOD Video Editors</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/pulsardata-resurrect/"><u>PulsarData Resurrect</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/rescue-your-data-top-software-for-restoring-erased-computer-sections/"><u>Rescue Your Data: Top Software for Restoring Erased Computer Sections</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/resurrecting-files-windows-edition/"><u>Resurrecting Files: Windows Edition</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600338083-stellar-data-recovery-windows/"><u>Stellar Data Recovery ソフトウェア - Windows上での無料使用で大切なデータを保護・復元</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-photographic-edge-cutting-edge-editing-strategies-for-2024/"><u>The Photographic Edge Cutting-Edge Editing Strategies for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-crafting-and-dispatching-voice-notes-on-the-iphone/"><u>The Ultimate Walkthrough: Crafting and Dispatching Voice Notes on the iPhone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-becoming-a-meet-maestro-chat-techniques-unveiled/"><u>[New] 2024 Approved Becoming a Meet Maestro Chat Techniques Unveiled</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-writing-vlogs-a-guide-to-persuasive-scripts/"><u>[New] In 2024, Writing Vlogs A Guide to Persuasive Scripts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-navigating-the-best-free-srt-translation-services/"><u>[New] Navigating the Best FREE SRT Translation Services</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-interactive-display-decode-for-2024/"><u>[Updated] Interactive Display Decode for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-premier-asmr-videography-choices/"><u>[Updated] Premier ASMR Videography Choices</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/asteroid-archive-rehab/"><u>Asteroid Archive Rehab</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-ultimate-solution-for-every-kind-of-file-restoration/"><u>Comprehensive Data Rescue Tool: Ultimate Solution for Every Kind of File Restoration</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/confidently-comeback-lost-data-on-ios-devices/"><u>Confidently Comeback Lost Data on iOS Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-rid-of-game-lags-in-pubg-expert-tips-and-tricks-uncovered/"><u>How to Get Rid of Game Lags in PUBG? Expert Tips & Tricks Uncovered!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-craft-a-winning-video-resume-the-best-tools-and-free-templates/"><u>In 2024, Craft a Winning Video Resume The Best Tools and Free Templates</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/iphone-file-finder-your-reliable-resource/"><u>IPhone File Finder: Your Reliable Resource</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/revitalize-missing-data-now-unmatched-recovery-rate-at-hand/"><u>Revitalize Missing Data Now! Unmatched Recovery Rate at Hand</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/skydata-rescue-service/"><u>SkyData Rescue Service</u></a></li>
 </ul></div>
 

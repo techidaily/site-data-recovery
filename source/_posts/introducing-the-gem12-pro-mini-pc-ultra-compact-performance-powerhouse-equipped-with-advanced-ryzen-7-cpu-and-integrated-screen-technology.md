@@ -1,7 +1,7 @@
 ---
 title: Introducing the Gem12 Pro Mini PC - Ultra-Compact Performance Powerhouse, Equipped with Advanced Ryzen 7 CPU and Integrated Screen Technology
-date: 2024-12-11T18:17:47.307Z
-updated: 2024-12-18T19:37:32.064Z
+date: 2024-12-23T22:40:48.229Z
+updated: 2024-12-26T22:12:29.634Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,17 +89,17 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-revamp-chrome-browsing-sharper-social-media-videos/"><u>[New] In 2024, Revamp Chrome Browsing Sharper Social Media Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-mastering-the-art-of-using-telegram-web/"><u>[New] Mastering the Art of Using Telegram Web</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unlock-your-potential-best-instagram-video-editors-android-pc/"><u>[New] Unlock Your Potential Best Instagram Video Editors (Android, PC)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unlocking-potential-master-dvd-burning-with-your-mac/"><u>[Updated] In 2024, Unlocking Potential Master DVD Burning with Your Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/express-thanks-free-and-premium-video-farewells-for-2024/"><u>Express Thanks Free and Premium Video Farewells for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/garmin-forerunner-45-and-its-advantages-for-athletes/"><u>Garmin Forerunner 45 and Its Advantages for Athletes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-f54-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy F54 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c110frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C110FRP Lock</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/mobile-memory-master-iphone-data-restoration/"><u>Mobile Memory Master - iPhone Data Restoration</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/next-gen-data-salvation-programs-reinstate-accidentally-wiped-out-segments-of-your-hardware/"><u>Next-Gen Data Salvation Programs: Reinstate Accidentally Wiped Out Segments of Your Hardware</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/secure-and-swift-file-recovery-for-iphones/"><u>Secure & Swift File Recovery for iPhones</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/ultimate-data-retrieval-program-comprehensive-software-suite-for-all-formats/"><u>Ultimate Data Retrieval Program: Comprehensive Software Suite for All Formats</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-how-to-record-online-tv-shows/"><u>[Updated] 2024 Approved How to Record Online TV Shows</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-choosing-and-utilizing-cc-license-types-for-2024/"><u>[Updated] The Art of Choosing and Utilizing CC License Types for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windows-stellar-free-version/"><u>「Windows環境に最適化! Stellarデータ救出ソフトの使い方 - Free Version」</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-the-cloud-of-past-accomplishments-in-steam/"><u>Clearing the Cloud of Past Accomplishments in Steam</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-restoration-suite-universal-recovery-solutions-for-every-file-type/"><u>Comprehensive Data Restoration Suite: Universal Recovery Solutions for Every File Type</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/content-reinvention-with-chatgpts-innovations/"><u>Content Reinvention with ChatGPT's Innovations</u></a></li>
+<li><a href="https://fox-making.techidaily.com/einfache-anleitungen-zum-importieren-ihres-icloud-kalenders-in-gmail-and-google-calendar/"><u>Einfache Anleitungen Zum Importieren Ihres iCloud-Kalenders in Gmail & Google Calendar.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-camon-20-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Tecno Camon 20 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/onedrivepst-outlook/"><u>OneDriveへのPSTファイル移行: Outlookで安全なバックアップ手順</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/restore-files-using-windows-data-resurrector/"><u>Restore Files Using Windows Data Resurrector</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/save-whats-lost-with-windatamender/"><u>Save What's Lost with WinDataMender</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-to-restore-your-hp-wireless-keyboard-functionality/"><u>Step-by-Step Solutions to Restore Your HP Wireless Keyboard Functionality</u></a></li>
 </ul></div>
 

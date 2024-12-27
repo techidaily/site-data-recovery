@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Design Meets Power: Maingear's Discrete Motherboard-Free Computers Start From Just $1,399"
-date: 2024-12-14T17:03:03.744Z
-updated: 2024-12-18T19:31:27.712Z
+date: 2024-12-24T02:49:39.642Z
+updated: 2024-12-26T16:43:51.164Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,18 +56,19 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-mastering-igtv-hash-tagging-boosting-your-fan-base/"><u>[New] Mastering IGTV Hash Tagging Boosting Your Fan Base</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-step-by-step-process-to-create-impressive-gopro-timelapses-for-2024/"><u>[New] Step-by-Step Process to Create Impressive GoPro Timelapses for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-isolated-earbuds-fix-manual-for-2024/"><u>[Updated] The Isolated Earbuds Fix Manual for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/all-purpose-recovery-solution-software-fast-and-reliable-data-rescue-across-platforms/"><u>All-Purpose Recovery Solution Software – Fast and Reliable Data Rescue Across Platforms</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/drivesavers-raid-suite-multiverse-support/"><u>DriveSavers RAID Suite: Multiverse Support</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/galaxyarchive-revival/"><u>GalaxyArchive Revival</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/multi-platform-data-recovery-program-seamless-extraction-of-diverse-data-types-with-advanced-technology/"><u>Multi-Platform Data Recovery Program: Seamless Extraction of Diverse Data Types with Advanced Technology</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/planetary-restoration-unit/"><u>Planetary Restoration Unit</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-data-recoverywindows/"><u>Stellar Data Recovery(ステラデータリカバリー)：Windowsユーザーのための優秀なフリーデータ回復ソリューション</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-comprehensible-guide-to-enhancing-your-facebook-live-experience-for-2024/"><u>The Comprehensible Guide to Enhancing Your Facebook Live Experience for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-copyright-claims-and-how-to-deal-with-a-strike-in-2024/"><u>YouTube Copyright Claims and How to Deal with a Strike, In 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-chart-your-course-in-crypto-selecting-the-best-7-art-converters/"><u>[New] 2024 Approved Chart Your Course in Crypto - Selecting the Best 7 Art Converters</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-unveiling-youtube-analytics-a-beginners-guide/"><u>[New] 2024 Approved Unveiling YouTube Analytics A Beginner's Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-segmented-screen-success-is-splitcam-superior-for-2024/"><u>[Updated] Segmented Screen Success Is SplitCam Superior for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-tecno-pova-5-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Tecno Pova 5 Pro System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-guide-to-data-destruction-insightful-articles-and-best-practices-curated-by-stellar/"><u>Comprehensive Guide to Data Destruction: Insightful Articles & Best Practices Curated by Stellar</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-solutions-to-address-nwstoreexe-application-malfunctions/"><u>Comprehensive Solutions to Address nw_store.exe Application Malfunctions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-lowdown-on-minitool-movie-maker-review-tips-and-alternative-video-editors-for-2024/"><u>New The Lowdown on Minitool Movie Maker Review, Tips, and Alternative Video Editors for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reviving-your-last-connected-usb-device-for-windows-compatibility/"><u>Reviving Your Last Connected USB Device for Windows Compatibility</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-the-ultimate-audio-experience-for-gamers-discover-30-off-premium-speaker-systems-at-amazon-reviewed-by-zdnet/"><u>Score the Ultimate Audio Experience for Gamers – Discover 30% Off Premium Speaker Systems at Amazon, Reviewed by ZDNet!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-resolve-iphones-error-14/"><u>Solving the Puzzle: A Step-by-Step Guide to Resolve iPhone's Error 14</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-4-photography-drone-picks-for-2n2-expert-reviews-and-ratings-gizmodo/"><u>Top 4 Photography Drone Picks for 2N2: Expert Reviews & Ratings | Gizmodo</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/troubleshooting-cannot-connect-to-the-server-on-lost-ark/"><u>Troubleshooting 'Cannot Connect to the Server' On Lost Ark</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/troubleshooting-phasmophobia-issues-latest-fixes-for-gamers/"><u>Troubleshooting Phasmophobia Issues - Latest Fixes for Gamers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-hd-video-editing-made-easy-top-5-software-recommendations-for-2024/"><u>Updated HD Video Editing Made Easy Top 5 Software Recommendations for 2024</u></a></li>
 </ul></div>
 
