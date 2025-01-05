@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Thaumaturge Game Crashes on Your PC"
-date: 2024-12-22T09:08:11.891Z
-updated: 2024-12-26T21:00:57.371Z
+date: 2024-12-29T20:01:52.342Z
+updated: 2025-01-05T20:02:07.813Z
 tags:
   - win11
   - win10
@@ -48,10 +48,6 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 
  After the repair completes, test if Oculus Link is back on track. If not, move on to the second fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 – Update your device drivers
 
  The Oculus Link black screen or not working issue can also be driver-related, especially if your graphics driver and USB driver are incompatible, faulty or outdated. Your Oculus devices also require specific drivers. So, to keep your Oculus device in tip-top condition and boost the performance of your VR games, you should update the drivers regularly.
@@ -68,23 +64,15 @@ There are mainly two ways you can update the driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch Oculus Link to test. If the problem persists, have a look at more fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the resolution
 
@@ -98,7 +86,7 @@ There are mainly two ways you can update the driver:
 5. Restart your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Reboot your Oculus headset and plug it back to the PC.
@@ -114,7 +102,15 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/7-1-1-1.jpg)
 3. Turn off**In-game overlay** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart Oculus Link and your VR devices to see if the problem goes away. Still no luck? Don’t worry; there are two more fixes to try.
 
@@ -131,10 +127,14 @@ It’s suggested you opt out of the Beta mode and here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Test if Oculus Link returns to the normal state. If not, continue to the next troubleshooting tips.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Use the dedicated graphics card
@@ -148,11 +148,11 @@ It’s suggested you opt out of the Beta mode and here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4.jpg)
 3. Go to the**Program Settings** tab. Then, select your Oculus app from the drop-down list and choose**High-performance NVIDIA processor** below.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-5.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-5.jpg)
 
  For users who have an AMD dedicated graphics card, here is a guide on[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017) .
 
@@ -180,19 +180,22 @@ Restart Oculus Link and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-analyzing-the-precision-of-yis-4k-actioncam/"><u>[New] In 2024, Analyzing the Precision of Yi's 4K ActionCam</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600614247-windowsstellar-data-recovery/"><u>「Windowsシステムから失われたデータを復元するStellar Data Recoveryフリーソフト」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-top-5-unlimited-iphone-cloud-storage-solutions-beyond-icloud/"><u>1. Top 5 Unlimited iPhone Cloud Storage Solutions Beyond iCloud</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/android-reunion-photos-and-contacts/"><u>Android Reunion: Photos and Contacts</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-the-asus-rt-ac68u-fast-and-safe-5g-wireless-networks-unleashed/"><u>Comprehensive Guide to the Asus RT-AC68U: Fast & Safe 5G Wireless Networks Unleashed</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/effortless-ios-file-salvation-toolkit/"><u>Effortless iOS File Salvation Toolkit</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-ways-to-restore-functionality-to-your-broken-usb-hard-drive/"><u>Effortless Ways to Restore Functionality to Your Broken USB Hard Drive</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/image-influx-the-jpeg-salvage-specialist/"><u>Image Influx: The JPEG Salvage Specialist</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-comprehensive-breakdown-unleash-the-potential-with-magix-vpx/"><u>In 2024, A Comprehensive Breakdown Unleash the Potential with Magix VPX</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/reliable-hardware-information-and-testing-toms-hardware-unveiled/"><u>Reliable Hardware Information and Testing - Tom's Hardware Unveiled</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600417752-stellar-data-recovery-windows/"><u>Stellar Data Recovery: Windows用の人気無料データ復元ツール</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transform-images-into-captivating-gifs/"><u>Transform Images Into Captivating GIFs</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/windows-data-detective-restore-operations/"><u>Windows Data Detective - Restore Operations</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/windows-data-recovery-software-to-recover-lost-data/"><u>Windows Data Recovery Software to Recover Lost Data</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-snapshots-of-opposites-youtube-video-inverts/"><u>[New] 2024 Approved Snapshots of Opposites YouTube Video Inverts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-10-high-quality-passport-photos-available-here/"><u>[New] Free 10 High-Quality Passport Photos Available Here</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-leveraging-multimedia-tools-for-enhanced-screencasts/"><u>[Updated] In 2024, Leveraging Multimedia Tools for Enhanced Screencasts</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600546174-windows/"><u>「ステラデータリカバリー - Windows用の軽量無料データ復旧ツール」</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-filters-to-make-your-tiktok-stand-out/"><u>2024 Approved Innovative Filters to Make Your TikTok Stand Out</u></a></li>
+<li><a href="https://discover-data.techidaily.com/como-clonar-y-restaurar-con-seguridad-su-sistema-operativo-en-nueva-configuracion-de-hardware/"><u>Cómo Clonar Y Restaurar Con Seguridad Su Sistema Operativo en Nueva Configuración De Hardware</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/complete-partition-restoration-toolset-reclaim-your-deleted-segments-with-cutting-edge-software/"><u>Complete Partition Restoration Toolset - Reclaim Your Deleted Segments with Cutting-Edge Software</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/free-file-salvage-suite-optimal-repair/"><u>Free File Salvage Suite – Optimal Repair</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-create-a-live-stream-online/"><u>How to Create a Live Stream Online</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-the-bubble-leading-android-and-ios-video-sharing-apps/"><u>In 2024, Beyond the Bubble Leading Android and iOS Video Sharing Apps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-xiaomi-redmi-a2plus-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Xiaomi Redmi A2+ to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reclaim-your-digital-world-with-lightning-fast-restoration/"><u>Reclaim Your Digital World with Lightning-Fast Restoration</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reconstruct-lost-files-on-your-mac-proactively/"><u>Reconstruct Lost Files on Your Mac Proactively</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/top-software-solutions-to-restore-unallocated-or-formatted-storage-areas/"><u>Top Software Solutions to Restore Unallocated or Formatted Storage Areas</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unhindered-access-to-lost-data-free-of-cost/"><u>Unhindered Access to Lost Data Free-of-Cost</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-secrets-an-in-depth-exploration-of-netflix-as-a-premium-streaming-provider/"><u>Unlocking Secrets: An In-Depth Exploration of Netflix as a Premium Streaming Provider</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600344854-windows/"><u>Windows用の無料データ回復ツール - ステラデータリカバリ</u></a></li>
 </ul></div>
 

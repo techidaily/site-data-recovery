@@ -1,7 +1,7 @@
 ---
 title: "Discover the Future of Music Programming: Musicians Can Now Own a MicroPython Tulip Computer for Under $60"
-date: 2024-12-20T02:52:00.488Z
-updated: 2024-12-26T21:33:50.970Z
+date: 2025-01-03T20:54:37.036Z
+updated: 2025-01-05T18:40:36.113Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,19 +76,22 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-becoming-a-meet-maestro-chat-techniques-unveiled/"><u>[New] 2024 Approved Becoming a Meet Maestro Chat Techniques Unveiled</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-writing-vlogs-a-guide-to-persuasive-scripts/"><u>[New] In 2024, Writing Vlogs A Guide to Persuasive Scripts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-navigating-the-best-free-srt-translation-services/"><u>[New] Navigating the Best FREE SRT Translation Services</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-interactive-display-decode-for-2024/"><u>[Updated] Interactive Display Decode for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-premier-asmr-videography-choices/"><u>[Updated] Premier ASMR Videography Choices</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/asteroid-archive-rehab/"><u>Asteroid Archive Rehab</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-ultimate-solution-for-every-kind-of-file-restoration/"><u>Comprehensive Data Rescue Tool: Ultimate Solution for Every Kind of File Restoration</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/confidently-comeback-lost-data-on-ios-devices/"><u>Confidently Comeback Lost Data on iOS Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-get-rid-of-game-lags-in-pubg-expert-tips-and-tricks-uncovered/"><u>How to Get Rid of Game Lags in PUBG? Expert Tips & Tricks Uncovered!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-craft-a-winning-video-resume-the-best-tools-and-free-templates/"><u>In 2024, Craft a Winning Video Resume The Best Tools and Free Templates</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/iphone-file-finder-your-reliable-resource/"><u>IPhone File Finder: Your Reliable Resource</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/revitalize-missing-data-now-unmatched-recovery-rate-at-hand/"><u>Revitalize Missing Data Now! Unmatched Recovery Rate at Hand</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/skydata-rescue-service/"><u>SkyData Rescue Service</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-sound-masterpieces-selecting-the-top-10-on-spotify-for-2024/"><u>[New] Sound Masterpieces Selecting the Top 10 on Spotify for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-top-accessories-to-elevate-your-sj4000-experience-for-2024/"><u>[New] Top Accessories to Elevate Your SJ4000 Experience for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-boosting-social-impact-with-the-combined-force-of-youtube-and-instagram-stories/"><u>[Updated] 2024 Approved Boosting Social Impact with the Combined Force of YouTube and Instagram Stories</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-honor-magic-vs-2-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Honor Magic Vs 2 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600190521-stellar-data-recovery-windows/"><u>迅速かつ信頼性が高いStellar Data Recovery - 無料でWindows環境における重要データを救う方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-spreadsheet-skills-with-chatgpts-insight/"><u>Elevate Spreadsheet Skills with ChatGPT's Insight</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-vivo-s18e-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo S18e Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/multifaceted-data-revival-system-advanced-tech-for-total-file-recovery/"><u>Multifaceted Data Revival System: Advanced Tech for Total File Recovery</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/nebula-file-nexus-interstellar-recovery-portal/"><u>Nebula File Nexus - Interstellar Recovery Portal</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/raidrestore-solutions-diverse-raid-recovery/"><u>RaidRestore Solutions: Diverse RAID Recovery</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/select-your-usb-drive-in-rufus-choose-the-correct-partition-scheme-mbr-for-bioslegacy-boot-or-gpt-for-uefi-and-select-fat32-as-the-format/"><u>Select Your USB Drive in Rufus, Choose the Correct Partition Scheme (MBR for BIOS/Legacy Boot or GPT for UEFI), and Select FAT32 as the Format.</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/stellar-data-recovery-windows/"><u>Stellar Data Recovery(ステラ・データリカバリ): Windows用無料プログラムで、簡単に安全なデータ修復が可能</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-correcting-a-missing-msvcr110dll/"><u>Understanding & Correcting a Missing Msvcr110.dll</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-data-restoration-tool-securely-retrieves-any-lost-files/"><u>Universal Data Restoration Tool - Securely Retrieves Any Lost Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/versatile-data-revival-suite-specialized-software-expertise-for-all-forms-of-digital-information/"><u>Versatile Data Revival Suite: Specialized Software Expertise for All Forms of Digital Information</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600720250-your-passport-to-recovered-files-free/"><u>Your Passport to Recovered Files, Free</u></a></li>
 </ul></div>
 

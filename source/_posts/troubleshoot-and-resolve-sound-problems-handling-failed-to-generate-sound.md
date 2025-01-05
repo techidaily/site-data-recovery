@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot and Resolve Sound Problems: Handling 'Failed to Generate Sound'"
-date: 2024-12-23T21:10:00.907Z
-updated: 2024-12-27T01:25:43.498Z
+date: 2024-12-30T20:51:38.321Z
+updated: 2025-01-05T17:02:15.565Z
 tags:
   - win11
   - win10
@@ -39,18 +39,26 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 
  If you’re pretty sure that everything is OK, but there’s still no sound in the game, don’t worry. Let’s move on to the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your audio driver
 
  If the audio driver on your PC is missing, corrupted or outdated, it may cause the no sound issue in It Takes Two. If you haven’t updated your audio driver for a long time, you should update the audio driver.
 
  There are two ways to update your audio driver: **[manually](https://tools.techidaily.com/drivereasy/download/)**  and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Download and install the audio driver manually
 
  You should go to the manufacturer’s website of your sound card, find the latest version of the driver and install it in your computer. Ensure to download the latest correct driver that is compatible with your computer operating system. This requires time and computer skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically update the audio driver
@@ -83,29 +91,21 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 2. Click**Next** to run the troubleshooter.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Run Windows audio troubleshooter 1](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-1.jpg)
 3. Wait for it to detect problems. This usually takes only a few seconds.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Run Windows audio troubleshooter 2](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-2.jpg)
 4. Select the audio device you’re using, then click **Next** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Run Windows audio troubleshooter 3](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-3.jpg)
 5. If the troubleshooter suggests that you turn off the audio enhancements for better sound quality. Click **Yes, Open Audio Enhancements** if you wish to do so. If you click no, it will skip to the scan results.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Run Windows audio troubleshooter 4](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-4.jpg)
 6. Follow the on-screen instructions to troubleshoot the audio playback issue.
@@ -120,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 ![control mmsys.cpl sounds](https://images.drivereasy.com/wp-content/uploads/2021/04/control-mmsys.cpl-sounds-1.jpg)
 2. **Right-click** anywhere under the**Playback** tab of the Sound window, and make sure you select **Show Disabled Devices** and **Show Disconnected Devices** options.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows sound settings playback](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-sound-settings-playback.jpg)
 3. If your audio device is disabled, **right-click** on it and select **Enable** .  
 
@@ -130,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 5. Click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Launch It Takes Two.
@@ -141,7 +145,7 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 ![Unmute It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Unmute-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now see if the in-game audio works as expected. If not, try the next fix, below.
@@ -156,10 +160,6 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files.  
 
 ![It Takes Two Verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/It-Takes-Two-Verify-integrity-of-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch It Takes Two after the verifying process is completed to see if this fix works.
 
@@ -186,18 +186,17 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-story-keepers-at-the-click-no-limits-allowed/"><u>[Updated] 2024 Approved Story Keepers at the Click, No Limits Allowed</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-for-windows/"><u>「無料Stellarデータ回復ツール for Windows環境」</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-poco-m6-pro-4g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Poco M6 Pro 4G Unlock Without Password</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/backupbuddy-saving-android-media/"><u>BackupBuddy: Saving Android Media</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-fueled-optimize-your-website-with-advanced-tracking-tools/"><u>Cookiebot-Fueled: Optimize Your Website with Advanced Tracking Tools</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-detective-free-recovery-expertise/"><u>Data Detective – Free Recovery Expertise</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/efficient-partition-recovery-tools-bring-back-lost-or-locked-drives/"><u>Efficient Partition Recovery Tools: Bring Back Lost or Locked Drives</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-poco-f5-pro-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Poco F5 Pro 5G Devices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-crafting-visually-striking-fb-ad-videos/"><u>In 2024, Crafting Visually Striking FB Ad Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-hd-graphics-440-driver-downloads-and-updates-easy-guide/"><u>Intel HD Graphics 440 Driver Downloads & Updates - Easy Guide</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/one-stop-software-for-diverse-data-rescue-services-full-spectrum-recovery-system/"><u>One-Stop Software for Diverse Data Rescue Services – Full Spectrum Recovery System</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/reviewing-the-action-realm-with-t5s-thievery-for-2024/"><u>Reviewing the Action Realm with T5's Thievery for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600487237-windows/"><u>Windows向けに特化したステラデータリカバリ: 失敗からデータを取り戻す手助け、無料ダウンロード可能</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-low-cost-4k-recording-options-for-2024/"><u>[New] Top Low-Cost 4K Recording Options for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-from-recording-to-broadcasting-the-steam-gamers-path/"><u>[Updated] 2024 Approved From Recording to Broadcasting The Steam Gamers' Path</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-professional-film-techniques-for-drones/"><u>2024 Approved Professional Film Techniques for Drones</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/a-flashlight-for-the-modern-shutterbug-tt560-review/"><u>A Flashlight for the Modern Shutterbug: TT560 Review</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/bug-free-gaming-how-from-the-ashes-of-remnant-now-stays-steady-on-launch/"><u>Bug-Free Gaming: How 'From the Ashes of Remnant' Now Stays Steady on Launch</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/fixing-issues-why-is-my-destiny-2-microphone-not-detected/"><u>Fixing Issues: Why Is My Destiny 2 Microphone Not Detected?</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/fixing-the-issue-stop-gta-v-from-freezing-on-your-pc/"><u>Fixing the Issue: Stop GTA V From Freezing on Your PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 8 Plus</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-ultimate-energy-kits-for-hero5-official-and-alternative-products/"><u>In 2024, Ultimate Energy Kits for Hero5 - Official & Alternative Products</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-reels-borrow-tips-and-tricks-from-tiktok-to-go-viral/"><u>Instagram Reels Borrow Tips & Tricks From TikTok to Go Viral</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/reviving-the-second-largest-stock-exchange-chinas-strategic-tax-cut-on-securities-transactions-takes-effect-sparking-hope-in-troubled-times/"><u>Reviving the Second-Largest Stock Exchange: China's Strategic Tax Cut on Securities Transactions Takes Effect, Sparking Hope in Troubled Times</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/troubleshooting-guide-how-to-speed-up-the-2022-spotify-web-player-performance-issues/"><u>Troubleshooting Guide: How to Speed Up the 2022 Spotify Web Player Performance Issues</u></a></li>
 </ul></div>
 

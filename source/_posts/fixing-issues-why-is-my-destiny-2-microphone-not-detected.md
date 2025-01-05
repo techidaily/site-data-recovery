@@ -1,7 +1,7 @@
 ---
 title: "Fixing Issues: Why Is My Destiny 2 Microphone Not Detected?"
-date: 2024-12-23T23:17:18.635Z
-updated: 2024-12-27T08:20:42.420Z
+date: 2025-01-01T20:32:46.080Z
+updated: 2025-01-05T21:18:15.240Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 ## Fixing Issues: How to Restore Microphone Functionality in Corsair HS35 Headset (Windows) | Solved
 
 The Corsair HS35 mic is a good-value product but it might be frustrating when it suddenly stops working sometimes. If you’re having the same issue, we have a few solutions that might work for you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -44,18 +48,22 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/setting-Privacy.jpg)
 2. Select**Microphone** on the left panel, then click the**Change** button to see if the toggle is**On** in the pop-up menu. If it isn’t, change the toggle to On.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2 – Check the audio settings
 
@@ -75,10 +83,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3 – Update your audio driver
 
  The mic not working problem may also occur if you are using the wrong audio driver or it’s out of date. Therefore you should update your audio driver to see if it fixes your problem.
@@ -94,20 +98,20 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-5.7.2-SCAN.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download and install the correct version of that driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
 4. After updating your audio driver, restart your PC for the trick to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at <support@drivereasy.com> .
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4 – Reinstall the Corsair headset and iCUE software
@@ -119,15 +123,11 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
@@ -144,7 +144,7 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5 – Use a USB audio card
@@ -202,24 +202,18 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-blur-the-boundaries-techniques-to-mask-faces-in-photos/"><u>[New] Blur the Boundaries Techniques to Mask Faces in Photos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-9-top-tier-youtube-fitness-tips-to-captivate-audiences-movement-for-2024/"><u>[Updated] 9 Top-Tier YouTube Fitness Tips to Captivate Audience's Movement for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-enhancing-your-video-experience-a-guide-to-using-logitech-webcam/"><u>2024 Approved Enhancing Your Video Experience - A Guide to Using Logitech Webcam</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/all-in-one-data-salvage-program-expert-solutions-for-extracting-vital-information/"><u>All-in-One Data Salvage Program – Expert Solutions for Extracting Vital Information</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/android-file-retriever-restore-photos-and-more/"><u>Android File Retriever: Restore Photos & More</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/arrayhealer-precise-raid-0-5-and-6-recovery/"><u>ArrayHealer: Precise RAID 0, 5 & 6 Recovery</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/error-eradication-tactics-how-to-solve-the-infamous-stop-0x000a003d-problems/"><u>Error Eradication Tactics: How To Solve The Infamous STOP 0X000A003D Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-non-functional-audio-in-obs-studio-on-your-computer/"><u>Fixing Non-Functional Audio in OBS Studio on Your Computer</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-k70-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi K70 Pro to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Samsung Galaxy S23+? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-a05s-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy A05s to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/innovative-data-retrieval-software-for-iphones/"><u>Innovative Data Retrieval Software for iPhones</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/lost-storage-sectors-made-accessible-again-top-tier-software-expertise-in-recovering-deleted-disk-segments/"><u>Lost Storage Sectors Made Accessible Again - Top-Tier Software Expertise in Recovering Deleted Disk Segments</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/orbitrebuild-services/"><u>OrbitRebuild Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-resolve-error-code-0x800f0831-using-windows-updates/"><u>Quick Fix Guide: Resolve Error Code 0X800f0831 Using Windows Updates</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/recover-forgotten-data-swiftly-trust-in-our-specialist-service/"><u>Recover Forgotten Data Swiftly - Trust in Our Specialist Service</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/recovers-raid-data-from-raid-0-5-and-6-stellar-data-recovery/"><u>Recovers RAID Data From RAID 0, 5 & 6 - Stellar Data Recovery</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/section-s2-advanced-topic-ratios-in-chemical-kinetics-s1/"><u>Section S2: Advanced Topic – Ratios in Chemical Kinetics (S1)</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600702247-stellar-data-recovery-for-windows/"><u>Stellar Data Recovery for Windows: 無料のデータ復元ソフトウェア</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1716070046789-new-2024-approved-discover-the-best-mac-gif-recorders-now/"><u>[New] 2024 Approved Discover the Best Mac GIF Recorders Now!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-making-spherical-videos-the-iphone-way/"><u>[New] Making Spherical Videos The iPhone Way</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-smart-selections-top-10-apps-for-in-the-moment-baseball-and-soccer-viewing/"><u>[New] Smart Selections Top 10 Apps for In-the-Moment Baseball and Soccer Viewing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-british-tv-dramas-available-on-netflix-this-week/"><u>Best British TV Dramas Available on Netflix This Week</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/boost-your-frame-rate-overcoming-low-fps-in-farming-simulator-22-for-pc-users/"><u>Boost Your Frame Rate: Overcoming Low FPS in Farming Simulator 22 for PC Users</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-tips-for-resolving-rainbow-six-server-connectivity-problems/"><u>Expert Tips for Resolving Rainbow Six Server Connectivity Problems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/roblox-audio-not-working-solve-the-mute-mystery-in-windows-11-and-10-environments/"><u>Roblox Audio Not Working? Solve the Mute Mystery in Windows 11 and 10 Environments</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1723016632510-skype-voice-troubleshooting-on-windows-11-get-your-mic-working-again/"><u>Skype Voice Troubleshooting on Windows 11 - Get Your Mic Working Again!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/troubleshoot-and-resolve-sound-problems-handling-failed-to-generate-sound/"><u>Troubleshoot and Resolve Sound Problems: Handling 'Failed to Generate Sound'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-preventing-rainbow-six-extraction-pc-game-crashes/"><u>Troubleshooting Tips for Preventing Rainbow Six Extraction PC Game Crashes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/understanding-watermarks-and-protecting-fb-pics/"><u>Understanding Watermarks & Protecting FB Pics</u></a></li>
 </ul></div>
 

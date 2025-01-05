@@ -1,7 +1,7 @@
 ---
 title: File Salvage with Windows Essential Tool
-date: 2024-12-12T19:53:51.527Z
-updated: 2024-12-18T17:13:59.671Z
+date: 2025-01-02T17:04:15.378Z
+updated: 2025-01-05T19:45:52.811Z
 categories:
   - repair-tools
 description: This Article Describes File Salvage with Windows Essential Tool
@@ -78,10 +78,6 @@ Stellar Data Recovery for Windows
 
 ![SSD](https://www.stellarinfo.com/public/image/catalog/v6/ssd.png) ![Hard Drive](https://www.stellarinfo.com/public/image/catalog/v6/hard_drive.png) ![USB](https://www.stellarinfo.com/public/image/catalog/v6/usb.png) ![CD](https://www.stellarinfo.com/public/image/catalog/v6/cd.png) ![Monitor](https://www.stellarinfo.com/public/image/catalog/v6/monitor.png) ![ract](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png) ![Ract](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png) ![ract](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Recover Lost Windows Data from any Storage Media
 
 * Supports recovery from internal and external Windows storage drives
@@ -124,10 +120,6 @@ Powerful Comprehensive Solution
 
 ![RAW Drive Data Recovery](https://www.stellarinfo.com/image/catalog/feature-icon/stellar-data-recovery-professional/RAW-Recovery-for-Storage-Drives.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### RAW Drive Data Recovery
 
  Recover data from severely corrupted RAW physical or removable storage drives with this Windows data recovery tool. Whether your system’s drive (physical) or an external storage drive has turned RAW or is inaccessible, the software competently scans the drive to locate the lost or deleted drive volumes and recover each bit of its data.
@@ -146,15 +138,7 @@ SUCCESS STORIES
 
 [Testimonials Music Enthusiast _quote_  "You can imagine the happiness when you get back your past 10 years of data." **Claudio** ,  Rome, Italy](https://www.stellarinfo.com/images/v7/Claudio.jpg) Music Enthusiast _ ![quote](https://www.stellarinfo.com/images/v7/quote.png) _  "You can imagine the happiness when you get back your past 10 years of data." **Claudio** ,  Rome, Italy ](#register-modalv)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Testimonials Photography Enthusiast _quote_  "Recovered every single photo shot from Nikon camera!" **Roger Miller**   Weyburn, Canada](https://www.stellarinfo.com/images/v7/Roger-Miller.jpg) Photography Enthusiast _ ![quote](https://www.stellarinfo.com/images/v7/quote.png) _  "Recovered every single photo shot from Nikon camera!" **Roger Miller**   Weyburn, Canada ](#register-modalv)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Enhanced Features of Windows File Recovery
 
@@ -163,7 +147,7 @@ Add More Power
 ![Unlimited File-Type Support](https://www.stellarinfo.com/image/catalog/feature-icon/stellar-data-recovery/Unlimited-File-Type-Support.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Unlimited File-Type Support
@@ -172,25 +156,21 @@ Add More Power
 
 ![Preview & Recover Your Priceless Memories](https://www.stellarinfo.com/image/catalog/feature-icon/stellar-data-recovery/Preview-&-Recover-Your-Priceless-Memories.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Preview & Recover Your Priceless Memories
 
  Get a real picture of your recoverable files with the ‘Preview File’ feature of this powerful Windows recovery software. The software recovers data in its original quality and format. You can preview the files before recovering them. Additionally, the software allows a full-screen mode option for recoverable video files.
 
 ![Dual Scanning Mode for Recovery](https://www.stellarinfo.com/image/catalog/feature-icon/stellar-data-recovery/Dual-Scanning-Mode-for-Recovery.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Dual Scanning Mode for Recovery
 
  With this powerful file recovery software, you get two scanning modes – Quick Scan and Deep Scan. Where Quick scan helps you recover data in all common data loss scenarios like deletion, formatting, etc. The deep scan helps you restore data in complex scenarios such as logical drive failure, RAW drives, BSoD errors, lost partitions, and more.
 
 ![File Sorting for Easy Recovery](https://www.stellarinfo.com/image/catalog/feature-icon/stellar-data-recovery/File-Sorting-for-Easy-Recovery.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### File Sorting for Easy Recovery
 
@@ -243,6 +223,10 @@ Software Walkthrough
  Select the type of data that you want to recover and click 'Next.'
 
 [video wrapper play Watch Video How to use  Stellar Data Recovery for Windows software to recover data.](https://www.stellarinfo.com/images/v7/video-wrapper.png) ![play](https://www.stellarinfo.com/public/image/catalog/v6/play.png) Watch Video How to use  Stellar Data Recovery for Windows software to recover data. ](#register-modalv)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 PRICING
 
@@ -313,7 +297,15 @@ AWARDS & REVIEWS
 
 ![q1](https://www.stellarinfo.com/images/v7/q1.png) ![q1](https://www.stellarinfo.com/images/v7/q2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Forbes](https://www.stellarinfo.com/images/v7/fordeb.png) ![star](https://www.stellarinfo.com/images/v7/star.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Forbes
 
@@ -331,6 +323,10 @@ Techradar
 
 ![Windows Report](https://www.stellarinfo.com/images/v7/windows-support.png) ![star](https://www.stellarinfo.com/images/v7/star.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Windows Report
 
  It has just one job, and it does that to perfection: recovering data of all kinds.
@@ -338,6 +334,10 @@ Windows Report
  Stellar Data Recovery's strongest point, after its data recovery and repair capabilities of course, is its simplicity.
 
 ![XDA - Developers](https://www.stellarinfo.com/images/v7/xda.png) ![star](https://www.stellarinfo.com/images/v7/star.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 XDA - Developers
 
@@ -367,10 +367,6 @@ DATA SHEET
 
 ![About Product](https://www.stellarinfo.com/public/image/catalog/v7/wdr-icon-red.svg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 About Product
 
 **Stellar Data Recovery**
@@ -398,6 +394,10 @@ Documents
 ![Stellar Data Recovery](https://www.stellarinfo.com/image/boxshot/Stellar-Data-Recovery-Standard.png)
 
 TRY BEFORE YOU BUY
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Free Trial Download
 
@@ -437,6 +437,10 @@ USEFUL ARTICLES
 [_Learn More_](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
 FIND YOUR ANSWERS
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### FAQ
 
@@ -522,10 +526,6 @@ ARJ, CAB, 7Z, LZA, RPM, TAR, BZ2, HQX, RAR, SIT, SITX, ZIP
 
 DATA RECOVERY IN-LAB SERVICES
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Do you have complex data loss problems?
 
 ![Generic placeholder image](https://www.stellarinfo.com/images/v7/labservices.png)
@@ -570,10 +570,6 @@ Awards Received
  ALSO AVAILABLE AT
 
 ![ALSO AVAILABLE AT](https://www.stellarinfo.com/images/v7/Partners_logo_new.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  About
 
@@ -625,6 +621,10 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 * ![Notron](https://www.stellarinfo.com/images/v7/notron.png)
 * ![DMCA](https://www.stellarinfo.com/images/v7/dmca.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -640,24 +640,21 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-implementing-gradual-audio-diminishment-in-lumafusion/"><u>[New] 2024 Approved Implementing Gradual Audio Diminishment in Lumafusion</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-5-time-lapse-screen-recorder-for-2024/"><u>[New] Top 5 Time-Lapse Screen Recorder for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-weaving-narrative-threads-into-trailers-for-2024/"><u>[Updated] Weaving Narrative Threads Into Trailers for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/complete-data-revival-solution-reinstate-lost-information-across-formats/"><u>Complete Data Revival Solution - Reinstate Lost Information Across Formats</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-universal-file-retrieval/"><u>Comprehensive Data Rescue Tool - Universal File Retrieval</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/expert-level-partition-fixers-recover-inaccessible-or-missing-drives-easily/"><u>Expert-Level Partition Fixers: Recover Inaccessible or Missing Drives Easily</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/exploring-mcafees-capabilities-for-malware-detection-a-comparative-analysis-with-malwarefox-findings/"><u>Exploring McAfee's Capabilities for Malware Detection: A Comparative Analysis with MalwareFox Findings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-markets-elite-computers-in-2cuary-a-comparative-review/"><u>Exploring the Market's Elite Computers in 2Cuary: A Comparative Review</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-enter-safe-mode-and-uninstall-graphics-card-driver-in-window-8/"><u>How to Enter Safe Mode and Uninstall Graphics Card Driver in Window 8?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-motorola-g54-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Motorola G54 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/pulsardata-resurrect/"><u>PulsarData Resurrect</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/rescue-inaccessible-hard-drive-areas-next-gen-programs-for-retrieving-lost-data-from-faulty-partitions/"><u>Rescue Inaccessible Hard Drive Areas: Next-Gen Programs for Retrieving Lost Data From Faulty Partitions</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/rescue-your-data-top-software-for-restoring-erased-computer-sections/"><u>Rescue Your Data: Top Software for Restoring Erased Computer Sections</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/resurrecting-files-windows-edition/"><u>Resurrecting Files: Windows Edition</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/skyrims-silence-solved-tips-to-fix-your-games-audio-malfunctions/"><u>Skyrim's Silence Solved: Tips to Fix Your Game's Audio Malfunctions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/speedy-skimmer-of-windows-imagery/"><u>Speedy Skimmer of Windows Imagery</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600338083-stellar-data-recovery-windows/"><u>Stellar Data Recovery ソフトウェア - Windows上での無料使用で大切なデータを保護・復元</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/your-backups-guardian-instant-retrieval-solutions/"><u>Your Backup's Guardian: Instant Retrieval Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-pursuit-of-dreamscapes-vr-travel-unleashed/"><u>[Updated] In Pursuit of Dreamscapes VR Travel Unleashed</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-pro-iphone-tips-for-capturing-the-perfect-landscape-moments-for-2024/"><u>[Updated] Pro iPhone Tips for Capturing the Perfect Landscape Moments for 2024</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/empowering-online-presence-with-the-advanced-analytics-of-cookiebot-technology/"><u>Empowering Online Presence with the Advanced Analytics of Cookiebot Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-correcting-cod-wwii-error-code-4220-quickly/"><u>Expert Advice: Correcting COD WWII Error Code 4220 Quickly</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expertly-recovering-iphone-files-with-assurance/"><u>Expertly Recovering iPhone Files with Assurance</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/mobile-memory-master-iphone-data-restoration/"><u>Mobile Memory Master - iPhone Data Restoration</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/next-gen-data-salvation-programs-reinstate-accidentally-wiped-out-segments-of-your-hardware/"><u>Next-Gen Data Salvation Programs: Reinstate Accidentally Wiped Out Segments of Your Hardware</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/iples-of-crafting-compelling-youtube-introduction-vids/"><u>Principles of Crafting Compelling YouTube Introduction Vids</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reunite-your-memories-with-datafinder-ai/"><u>Reunite Your Memories with DataFinder AI</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/utionize-your-youtube-content-with-advanced-video-editing-in-sony-vegas/"><u>Revolutionize Your YouTube Content with Advanced Video Editing in Sony Vegas</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/secure-and-swift-file-recovery-for-iphones/"><u>Secure & Swift File Recovery for iPhones</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/ultimate-data-retrieval-program-comprehensive-software-suite-for-all-formats/"><u>Ultimate Data Retrieval Program: Comprehensive Software Suite for All Formats</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windows-stellar-data-recovery/"><u>Windows向けの有料なしデータ回復ソフト - Stellar Data Recovery(ステラデータリカバリー)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'Cannot Connect to the Server' On Lost Ark
-date: 2024-12-20T16:23:24.154Z
-updated: 2024-12-26T18:27:33.224Z
+date: 2025-01-02T17:20:52.455Z
+updated: 2025-01-05T18:18:31.569Z
 tags:
   - win11
   - win10
@@ -48,7 +48,7 @@ Here’s how you can restart your modem & router:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
@@ -58,6 +58,10 @@ Here’s how you can restart your modem & router:
 5. Launch Steam and check if the warning error is fixed. If yes, then great! If it still pops up, please head onto**Fix 3** , below.
 
  You can try out other ways to boost your network connection, such as moving your modem& router to a more central place in your home, use a[**WiFi Extender**](https://www.amazon.com/WiFi-6-Range-Extender-Booster/dp/B088H2FCHL/ref=sxin%5F21?asc%5Fcontentid=amzn1.osa.cb67d155-f9ef-4c53-b460-b150a3cccc6d.ATVPDKIKX0DER.en%5FUS&asc%5Fcontenttype=article&ascsubtag=amzn1.osa.cb67d155-f9ef-4c53-b460-b150a3cccc6d.ATVPDKIKX0DER.en%5FUS&creativeASIN=B088H2FCHL&cv%5Fct%5Fcx=wifi+extender&cv%5Fct%5Fid=amzn1.osa.cb67d155-f9ef-4c53-b460-b150a3cccc6d.ATVPDKIKX0DER.en%5FUS&cv%5Fct%5Fpg=search&cv%5Fct%5Fwe=asin&cv%5Fct%5Fwn=osp-single-source-pecos-desktop&dchild=1&keywords=wifi+extender&linkCode=oas&pd%5Frd%5Fi=B088H2FCHL&pd%5Frd%5Fr=8b06fc1b-3845-42cd-9f79-71ba04450fee&pd%5Frd%5Fw=DKebm&pd%5Frd%5Fwg=FUMuR&pf%5Frd%5Fp=9ca0c43d-5b2f-4d08-be2c-4bf20950d3e4&pf%5Frd%5Fr=3VVGWE27XNY8894YZHV6&qid=1620464270&sr=1-1-c26ac7f6-b43f-4741-a772-17cad7536576&tag=tgl0a3-20&tag=drivereasycom-20) , limit the number of devices connected to your network etc. You might also want to double check that the issue doesn’t lie with the router – if it does, you should contact your ISP for further advice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your network adapter driver
 
@@ -80,10 +84,6 @@ Here’s how you can restart your modem & router:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Flush DNS and renew your IP
 
  Generally, your computer automatically stores IP address and domain name system results so as to speed up subsequent requests to the same domains. But overtime, the cached information may have gone corrupt, outdated or otherwise incorrect, preventing you from connecting to the servers.
@@ -96,12 +96,12 @@ Here’s how you can restart your modem & router:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd.png)
 2. When prompted for permission, click **Yes**  to run Command Prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Type **ipconfig /flushdns** and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/3-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To renew your IP:
 
@@ -117,7 +117,7 @@ To renew your IP:
 5. Launch Steam, play the game again and see if the connection is smooth and without fail. If the**Steam is having trouble connecting to the Steam servers** error persists, don’t worry. Here are a couple more fixes for you to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Reset WinSock
@@ -135,10 +135,6 @@ Here’s how to go about it:
 
 4. Run Steam and check if the server connection error is solved. If it still occurs, please move on to**Fix 6** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Modify Steam properties
 
  According to some players, launching Steam with the TCP protocol, instead of the UDP protocol has helped them get rid of the server error. So it’s worth giving it a try and see if it solves your woe.
@@ -150,20 +146,20 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.png)
 3. Restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. On your desktop, right-click on**Steam** and click**Properties** .
 5. Click the**Shortcut** tab, then in**Target** field,**add a space to the end** and type**\-tcp** . Once finished, click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/tcp.png)
 6. Launch Steam and check if**Steam is having trouble connecting to the Steam servers** warning error has been fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Steam is having trouble connecting to the Steam servers** still happening? Please continue onto**Fix 7** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Allow Steam through Windows Firewall
 
@@ -176,7 +172,7 @@ Here are the steps:
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall.png)
@@ -186,12 +182,16 @@ Here are the steps:
 4. Once completed, click **OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Run the game in the Steam client and see if it can be connected to the server.
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### If all else fails…
 
@@ -219,19 +219,18 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/nveiling-secrets-sharing-restricted-youtube-content-via-email/"><u>[New] Unveiling Secrets Sharing Restricted YouTube Content via Email</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-unmatched-portable-experience-with-top-gba-simulators-android-for-2024/"><u>[Updated] Unmatched Portable Experience with Top GBA Simulators, Android for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prosperity-startups-the-13-least-experience-demanding-reddit-techniques/"><u>2024 Approved Prosperity Startups The 13 Least Experience-Demanding Reddit Techniques</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/advanced-data-reconstruction-application-versatile-tech-to-bring-back-all-your-digital-information/"><u>Advanced Data Reconstruction Application: Versatile Tech to Bring Back All Your Digital Information</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/android-data-recovery-software-to-recover-lost-photos-videos-contacts-etc/"><u>Android Data Recovery Software to Recover Lost Photos, Videos, Contacts Etc.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hasty-and-hassle-free-images-on-windows-11-for-2024/"><u>Hasty & Hassle-Free Images on Windows 11 for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-reno-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-realme-narzo-n55-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/idevice-information-hunter-effortless-restoration/"><u>IDevice Information Hunter: Effortless Restoration</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-free-pics-with-exceptional-resolution-your-ultimate-guide/"><u>In 2024, Free Pics with Exceptional Resolution Your Ultimate Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-y17s-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo Y17s</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/macmastery-regain-forgotten-documents-with-ease/"><u>MacMastery: Regain Forgotten Documents with Ease</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/mobile-memory-mender-restore-and-save/"><u>Mobile Memory Mender, Restore & Save</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600524349-revive-files-anytime-everywhere-no-cost/"><u>Revive Files Anytime, Everywhere - No Cost!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-to-radial-blur-effect-on-images/"><u>[New] Step-by-Step Guide to Radial Blur Effect on Images</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expertise-unlocked-in-depth-tutorial-for-apples-screen-recording-techniques/"><u>[Updated] Expertise Unlocked In-Depth Tutorial for Apple's Screen Recording Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-proven-methods-to-excellence-in-srt-file-design/"><u>[Updated] Proven Methods to Excellence in SRT File Design</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-cutting-corners-on-creative-work-lunapic-basics/"><u>2024 Approved Cutting Corners on Creative Work LunaPic Basics</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-from-monotonous-to-magnificent-font-integration-in-ae/"><u>2024 Approved From Monotonous to Magnificent Font Integration in AE</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/budget-friendly-apeman-c45n-review-delivering-quality-in-a-compact-cam/"><u>Budget-Friendly Apeman C45n Review: Delivering Quality in a Compact Cam</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/chinas-strategic-plan-elevating-state-run-supercomputing-power-to-300-exaflops-by-2025/"><u>China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/discover-the-finest-cell-phone-contracts-for-elders-our-picks-for-202n4/"><u>Discover the Finest Cell Phone Contracts for Elders - Our Picks for 202N4</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-5-simple-tricks-for-aspiring-photoshop-editors/"><u>In 2024, 5 Simple Tricks for Aspiring Photoshop Editors</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-tecno-phantom-v-flip-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Tecno Phantom V Flip Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-redmi-note-12-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Redmi Note 12 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/leading-10-sport-inspired-movies-that-will-keep-you-on-the-edge-of-your-seat/"><u>Leading 10 Sport-Inspired Movies That Will Keep You On The Edge Of Your Seat</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unveiling-the-benefits-of-garmin-venu-your-intelligent-partner-in-nonstop-activity-and-health-tracking/"><u>Unveiling the Benefits of Garmin Venu - Your Intelligent Partner in Nonstop Activity and Health Tracking</u></a></li>
 </ul></div>
 

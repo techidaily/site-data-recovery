@@ -1,7 +1,7 @@
 ---
 title: "Battle of Giants: AMD's EPYC CPU Doubles Up Against NVIDIA’s ARM-Powered Grace in Multiple Performance Benchmarks"
-date: 2024-12-24T07:37:43.028Z
-updated: 2024-12-27T06:38:13.064Z
+date: 2024-12-31T19:18:20.813Z
+updated: 2025-01-05T20:58:36.721Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,20 +60,21 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/arrayrescue-raid-0-5-and-6-reconstruction/"><u>ArrayRescue: RAID 0, 5 & 6 Reconstruction</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-motorola-edge-40-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Motorola Edge 40 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-human-insight-the-ai-content-gap/"><u>Beyond Human Insight: The AI Content Gap</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/constellation-copy-center-star-salvage-service/"><u>Constellation Copy Center - Star Salvage Service</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-rescue-express-unlock-lost-information-today/"><u>Data Rescue Express - Unlock Lost Information Today</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/experience-relief-secure-data-retrieval-without-delay/"><u>Experience Relief: Secure Data Retrieval Without Delay</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-sluggishness-in-windows-discord-app/"><u>Overcoming Sluggishness in Windows Discord App</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reclaim-your-digital-assets-now-with-efficiency-and-speed/"><u>Reclaim Your Digital Assets Now with Efficiency & Speed</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reconstruct-your-lost-files-for-zero/"><u>Reconstruct Your Lost Files for ZERO</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-modify-your-riot-username-and-tagline/"><u>Steps to Modify Your Riot Username and Tagline</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/ultimate-data-recovery-software-restore-every-kind-of-corrupted-or-deleted-content/"><u>Ultimate Data Recovery Software – Restore Every Kind of Corrupted or Deleted Content</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/shing-potential-views-best-keyword-resources-ranked-for-2024/"><u>Unleashing Potential Views Best Keyword Resources Ranked for 2024</u></a></li>
-<li><a href="https://techidaily.com/will-mov-files-play-on-xiaomi-redmi-note-13-proplus-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Xiaomi Redmi Note 13 Pro+ 5G ?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-pioneering-camera-spin-top-professionals-360cameras-of-2023/"><u>[New] In 2024, Pioneering Camera Spin Top Professionals’ 360°Cameras of 2023</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-venturing-into-video-production-top-5-mac-videographers/"><u>[New] Venturing Into Video Production? Top 5 Mac Videographers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-elite-10-sound-recording-essentials-on-spotify-platform/"><u>[Updated] Elite 10 Sound Recording Essentials on Spotify Platform</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-powerdirectors-complete-blueprint-for-success-for-2024/"><u>[Updated] PowerDirector's Complete Blueprint for Success for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-universal-data-restoration-software/"><u>Comprehensive Data Rescue Tool: Universal Data Restoration Software</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/datarecoverer-versatile-raid-revival-software/"><u>DataRecoverer: Versatile RAID Revival Software</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-software-recommendations-to-restore-accidentally-erased-disk-partitions/"><u>Expert Software Recommendations to Restore Accidentally Erased Disk Partitions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixes-for-the-c1900101-setup-complication-during-win10-install/"><u>Fixes for the C1900101 Setup Complication During Win10 Install</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/missing-memories-return-in-a-flash-with-our-recovery-service/"><u>Missing Memories Return in a Flash with Our Recovery Service</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/regain-access-to-missing-files-at-zero-cost/"><u>Regain Access to Missing Files at Zero Cost</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/resurrect-inaccessible-storage-areas-with-leading-edge-partition-restoration-applications/"><u>Resurrect Inaccessible Storage Areas with Leading-Edge Partition Restoration Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-turing-test-alternatives-and-advancements-to-measure-intelligence/"><u>The Turing Test : Alternatives and Advancements to Measure Intelligence</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tips-for-constructing-motivating-daily-routine-vids-for-2024/"><u>Tips for Constructing Motivating Daily Routine Vids for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600619111-windows-stellar-data-recovery/"><u>Windows版無料データ復元ソフト - Stellar Data Recovery</u></a></li>
 </ul></div>
 

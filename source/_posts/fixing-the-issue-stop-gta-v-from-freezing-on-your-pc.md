@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Stop GTA V From Freezing on Your PC"
-date: 2024-12-25T01:59:16.215Z
-updated: 2024-12-26T17:48:10.003Z
+date: 2024-12-31T20:38:07.659Z
+updated: 2025-01-05T20:40:25.606Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/key-art-vg-desktop1-1200x668.jpg)
 
  Call of duty: Vanguard is released, and as expected for most new titles, quite a few bugs and issues come with the launch. Many players have reported that COD Vanguard keeps freezing on their PCs and the game is almost unplayable. If you’re in the same boat, no worries! Here are some working fixes you can try:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 
 [8: Increase your virtual memory](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Call of Duty: Vanguard System Requirements
 
 | **System requirements**  | **Minimum**                                                     | **Recommended**                              | **Competitive**                                             | **Ultra 4K**                                     |
@@ -55,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 | **High-Rez asset cache** | Up to 32 GB                                                     | Up to 32 GB                                  | Up to 32 GB                                                 | Up to 64 GB                                      |
 | **Video memory**         | 2 GB                                                            | 4 GB                                         | 8 GB                                                        | 10 GB                                            |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Close background applications
 
  The first quick fix you can try is to shut down the programs running in the background. They may interfere with Vanguard and cause the game to freeze. Or, these applications may take up the resources that are required for Vanguard to run smoothly, thus triggering performance issues. You can kill the background processes via Task Manager:
@@ -67,11 +63,11 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 2. Under the**Processes** tab, right-click the processes that you want to shut down, then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
-If this doesn’t solve your problem, try the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If this doesn’t solve your problem, try the next fix.
 
 ## Fix 2: Update the graphics driver
 
@@ -93,14 +89,14 @@ If this doesn’t solve your problem, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If you’re still experiencing the freezing issue after you updated the graphics driver, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Scan and repair your game files
 
@@ -129,19 +125,15 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  If you’re still experiencing random freezes while playing Vanguard, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Make sure your system is up-to-date
 
@@ -155,18 +147,18 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the next fix.
 
@@ -180,6 +172,10 @@ If this doesn’t solve your problem, try the next fix.
 
 If the freezing issue persists, there’s one more fix you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 8: Increase your virtual memory
 
  According to the system requirements, you need to have at least 8 GB RAM to run Call of Duty: Vanguard. If your PC is running out of memory, the game performance may be impacted and you may experience random freezes. If that’s the case, you can check your virtual memory and then increase it if needed:
@@ -191,6 +187,10 @@ If the freezing issue persists, there’s one more fix you can try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
@@ -227,15 +227,19 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-enlightening-your-iphone-experience-with-new-camera-features-for-2024/"><u>[New] Enlightening Your iPhone Experience with New Camera Features for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ow-to-size-your-videos-youtubes-best-practices-unveiled-for-2024/"><u>[New] How to Size Your Videos YouTube's Best Practices Unveiled for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-mastery-through-art-the-ultimate-list-of-free-mac-drawing-apps/"><u>[New] In 2024, Mastery Through Art The Ultimate List of FREE Mac Drawing Apps</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600333666-windows/"><u>安全にWindows上でファイルを取り戻すための無料ソリューション「ステラデータリカバリー」</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/astralinfo-reclamation/"><u>AstralInfo Reclamation</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/backupbuddy-ai-androids-data-guardian/"><u>BackupBuddy AI: Android's Data Guardian</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-data-revival-suite-seamless-retrieval-for-diverse-file-formats/"><u>Comprehensive Data Revival Suite: Seamless Retrieval for Diverse File Formats</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-xs-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone XS? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-great-debate-continues-is-bandicam-or-camtasia-better-for-2024/"><u>The Great Debate Continues Is Bandicam or Camtasia Better for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/transformez-un-fichier-raw-en-format-avi-en-ligne-sans-frais-movavi/"><u>Transformez Un Fichier RAW en Format AVI En Ligne Sans Frais - Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-hidden-guide-watching-highly-engaged-comments-with-ease-on-youtube/"><u>2024 Approved The Hidden Guide Watching Highly Engaged Comments with Ease on YouTube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/aac-2024/"><u>使いやすさと音質が求められるAACエンコーダ - 2024年のお勧め機種!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/all-encompassing-data-rescue-application-regain-access-to-all-your-files/"><u>All-Encompassing Data Rescue Application – Regain Access to All Your Files</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/building-buzz-strategies-for-shaping-your-unique-youtubing-image/"><u>Building Buzz Strategies for Shaping Your Unique YouTubing Image</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/contact-and-video-rescue-toolkit-android-edition/"><u>Contact & Video Rescue Toolkit, Android Edition</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/contact-reclaim-androids-helper/"><u>Contact Reclaim: Android's Helper</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/get-your-free-full-license-with-the-official-macxdvd-pro-tools-update/"><u>Get Your FREE Full License with the Official MacXDVD Pro Tools Update!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-content-creation-conundrums-understanding-the-differences-between-igtv-and-youtube/"><u>In 2024, Content Creation Conundrums Understanding the Differences Between IGTV and YouTube</u></a></li>
+<li><a href="https://win-news.techidaily.com/maximizing-pc-efficiency-expert-tips-from-yl-computings-guide-on-system-optimization/"><u>Maximizing PC Efficiency: Expert Tips From YL Computing's Guide on System Optimization</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-14-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 14 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universedata-revival-center/"><u>UniverseData Revival Center</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/win-data-rediscovery-program/"><u>WIN Data Rediscovery Program</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-review-iphone-14-fulfills-all-essential-requirements-a-detailed-look/"><u>ZDNet Review: IPhone 14 Fulfills All Essential Requirements - A Detailed Look</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600202279-stellar-data-recovery-windows/"><u>スペシャルオファー！Stellar Data Recovery - 万が一Windowsで失われたデータを安全に取り戻せる無料プログラム</u></a></li>
 </ul></div>
 

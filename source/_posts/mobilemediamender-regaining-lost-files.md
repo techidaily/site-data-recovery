@@ -1,7 +1,7 @@
 ---
 title: "MobileMediaMender: Regaining Lost Files"
-date: 2024-12-19T22:10:31.775Z
-updated: 2024-12-26T20:55:15.007Z
+date: 2024-12-31T18:00:29.800Z
+updated: 2025-01-05T18:48:52.018Z
 categories:
   - repair-tools
 description: "This Article Describes MobileMediaMender: Regaining Lost Files"
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/222addd0c18b6ed2db852f3723fa6e74ecbfffe4b
  Stellar® Data Recovery for Android®
 
 # Android Data Recovery Software to Recover Lost Photos, Videos, Contacts etc
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Recover lost or deleted photos, videos, music, messages, contacts, WhatsApp Chat & media, etc from any Android® phone
 
@@ -33,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/222addd0c18b6ed2db852f3723fa6e74ecbfffe4b
 ![Stellar Data Recovery for Android](https://www.stellarinfo.com/public/image/catalog//banner/android_data_recovery.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * ![stellar logo](https://www.stellarinfo.com/images/v7/stellar_logo.svg)
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/222addd0c18b6ed2db852f3723fa6e74ecbfffe4b
 
  STELLAR DATA RECOVERY FOR ANDROID®
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Recover Deleted Android® Data from Various Data Loss Scenarios
 
  Stellar Data Recovery for Android® is the best tool to recover lost data (photos, audio, videos, etc.) from any Android® smartphone due to accidental deletion, OS crash, device damage, and more.
@@ -57,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/222addd0c18b6ed2db852f3723fa6e74ecbfffe4b
 ![Android data recovery](https://www.stellarinfo.com/public/image/catalog/v6/man-with-laptop.png)
 
 ![Cloud recovery](https://www.stellarinfo.com/public/image/catalog//screenshot/Android/devices/new/android1.png) ![ipad recovery](https://www.stellarinfo.com/public/image/catalog//screenshot/Android/devices/new/tab.png) ![itune recovery](https://www.stellarinfo.com/public/image/catalog//screenshot/Android/devices/new/android3.png) ![iphone recovery](https://www.stellarinfo.com/public/image/catalog//screenshot/Android/devices/new/android2.png) ![tab recovery](https://www.stellarinfo.com/public/image/catalog//screenshot/Android/devices/new/e-readers.png) ![Data recovery](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png) ![Data recovery](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png) ![Data recovery](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Data Recovery from all Android® Devices
 
@@ -85,10 +97,6 @@ More Awesome Features
 
 ![Recovers from Internal Phone Storage](https://www.stellarinfo.com/public/image/catalog//screenshot/Android/icon/Recovers-from-Internal-Phone-Storage.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Recovers from Internal Phone Storage
 
  Best Android® data recovery software that deep scans your phone and restores lost or deleted data directly from the internal memory, even without backup. You can easily scan, preview, and save the recovered Android® data on your computer.
@@ -101,11 +109,19 @@ More Awesome Features
 
 ![Recover Data from Empty Recently Deleted Folder](https://www.stellarinfo.com/public/image/catalog//screenshot/Android/icon/Recover-Data-from-Empty-Recently-Deleted-Folder.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Recover Data from Empty Recently Deleted Folder
 
  Stellar Data Recovery for Android® can recover deleted files even if they are permanently removed from the**Recently Deleted** folder. Make sure you stop using your Android® phone immediately after data loss to avoid overwriting. Now, launch the software to scan and recover deleted files.
 
 ![Recover Data from Broken/ Physically Damaged Phone](https://www.stellarinfo.com/public/image/catalog//screenshot/Android/icon/Recover-Data-from-Broken-Physically-Damaged-Phone.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Recover Data from Broken/ Physically Damaged Phone
 
@@ -144,7 +160,7 @@ Add More Power
 ![Recover WhatsApp Chat](https://www.stellarinfo.com/public/image/catalog//screenshot/Android/icon/recover-whatsApp-chat.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Recover WhatsApp Chat
@@ -153,15 +169,15 @@ Add More Power
 
 ![Recover WhatsApp Attachments](https://www.stellarinfo.com/public/image/catalog//screenshot/Android/icon/recover-whatsApp-attachments.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Recover WhatsApp Attachments
 
  WhatsApp, the most widely used application, sends billions of messages daily, including images, audio, and video. However, if you lost or deleted these attachments from your device, you can easily retrieve them using the Stellar Data Recovery for Android tool.
 
 Software Walkthrough
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Screenshots & Video
 
@@ -187,6 +203,10 @@ Software Walkthrough
 
 ![Preview & Save Data](https://www.stellarinfo.com/public/image/catalog/screenshot/Android/3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the scanning is completed, preview and select the recovered data & click Save to restore them at a desired location.
 
 **Step 1** : Select What to Recover
@@ -202,10 +222,6 @@ DATA SHEET
 ### Technical Specifications
 
 ![About Product](https://www.stellarinfo.com/public/image/catalog//screenshot/Android/icon/android-data-recovery-icon.svg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 About Product
 
@@ -231,17 +247,9 @@ Documents
 | [InstallationGuide Installation](https://www.stellarinfo.com/public/image/catalog/v6/InstallationGuide.svg) Installation](https://www.stellarinfo.com/pdf/installation-uninstallation/installation.php?product%5Fid=739) [knowledgebase Knowledge Base](https://www.stellarinfo.com/public/image/catalog/v6/UserManual.svg) Uninstallation](https://www.stellarinfo.com/pdf/installation-uninstallation/uninstallation.php?product%5Fid=739) [knowledgebase EULA](https://www.stellarinfo.com/public/image/catalog/v6/EULA.svg) EULA](https://www.stellarinfo.com/installation-uninstallation/eula%5Feng.pdf) | [![UserManual](https://www.stellarinfo.com/public/image/catalog/v6/UserManual.svg) User Manual](https://www.stellarinfo.com/help/stellar-data-recovery-for-android-2-windows-standard-en-about-stellar-data-recovery-for-android.html) [![knowledgebase](https://www.stellarinfo.com/public/image/catalog/v6/knowledgebase.svg) Knowledge Base](https://www.stellarinfo.com/support/kb/index.php/category/android-data-recovery) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Stellar Data Recovery for Android](https://www.stellarinfo.com/image/boxshot/data-recovery-for-android_new.png)
 
 TRY BEFORE YOU BUY
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Free Trial Download
 
@@ -257,6 +265,10 @@ TRY BEFORE YOU BUY
  \*Free download allows you to scan & preview photos, videos, files, & documents.
 
 USEFUL ARTICLES
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Product Related Articles
 
@@ -315,10 +327,6 @@ FIND YOUR ANSWERS
 
  WHY STELLAR® IS GLOBAL LEADER
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Why Choose Stellar?
 
 * 0  M+  
@@ -351,10 +359,6 @@ Awards Received
  ALSO AVAILABLE AT
 
 ![ALSO AVAILABLE AT](https://www.stellarinfo.com/images/v7/Partners_logo_new.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  About
 
@@ -406,10 +410,6 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 * ![Notron](https://www.stellarinfo.com/images/v7/notron.png)
 * ![DMCA](https://www.stellarinfo.com/images/v7/dmca.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -425,22 +425,19 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhance-engagement-mastering-template-based-video-description-writing/"><u>[New] In 2024, Enhance Engagement Mastering Template-Based Video Description Writing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-discovering-the-hottest-templates-for-social-media-vfx-for-2024/"><u>[Updated] Discovering the Hottest Templates for Social Media VFX for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastering-metaverse-marketing-techniques/"><u>2024 Approved Mastering Metaverse Marketing Techniques</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/budget-friendly-apeman-c45n-review-delivering-quality-in-a-compact-cam/"><u>Budget-Friendly Apeman C45n Review: Delivering Quality in a Compact Cam</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/el-branding-101-brainstorm-techniques-for-2024/"><u>Channel Branding 101 Brainstorm Techniques for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-hardware-guides-with-tom-your-go-to-tech-resource/"><u>Comprehensive Hardware Guides with Tom - Your Go-To Tech Resource</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/discover-which-prebuilt-desktop-for-gamers-matches-your-needs-best/"><u>Discover Which Prebuilt Desktop for Gamers Matches Your Needs Best</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/expert-insights-on-halo-bolts-portable-chargerjump-starter-performance-evaluation/"><u>Expert Insights on Halo Bolt's Portable Charger/Jump Starter Performance Evaluation</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/how-the-cyberpowerpc-gamer-xtreme-outperforms-a-review-of-a-cost-effective-yet-powerful-gaming-rig-with-plenty-of-upgrade-space/"><u>How the CyberPowerPC Gamer Xtreme Outperforms: A Review of a Cost-Effective Yet Powerful Gaming Rig with Plenty of Upgrade Space</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-quality-transformer-for-video-enthusiasts/"><u>In 2024, Premium Quality Transformer for Video Enthusiasts</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/inside-toms-computer-lab-a-journey-through-cutting-edge-hardware-insights/"><u>Inside Tom's Computer Lab: A Journey Through Cutting-Edge Hardware Insights</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/itel-p55-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/murderous-minds-unlocked-by-intelligent-ai/"><u>Murderous Minds Unlocked by Intelligent AI</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/ultimate-guide-to-the-xbox-series-x-unleashing-high-definition-gaming/"><u>Ultimate Guide to the Xbox Series X: Unleashing High Definition Gaming</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unbeatable-offer-on-the-alienware-aurora-r16-get-a-free-upgrade-to-rtx-4070-super-and-save-200/"><u>Unbeatable Offer on the Alienware Aurora R16 – Get a Free Upgrade to RTX 4070 Super & Save $200!</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/unlock-your-potential-dominant-tiktok-campaigns-and-techniques/"><u>Unlock Your Potential Dominant TikTok Campaigns and Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capturing-win10-games-a-comprehensive-breakdown/"><u>[New] 2024 Approved Capturing Win10 Games A Comprehensive Breakdown</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-ultimate-guide-to-iphoneipad-screenshot-tools-for-2024/"><u>[Updated] The Ultimate Guide to iPhone/iPad Screenshot Tools for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-leading-intro-editors-for-device-applications/"><u>2024 Approved Leading Intro Editors for Device Applications</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/advanced-storage-salvage-program/"><u>Advanced Storage Salvage Program</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/constellation-backup-repair/"><u>Constellation Backup Repair</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/conversione-gratuita-da-dvd-audio-a-mp3-su-mac-come-e-dove-fare-riffle/"><u>Conversione Gratuita Da DVD Audio a MP3 Su Mac: Come E Dove Fare Riffle</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-resurrection-software-for-deleted-mac-files/"><u>Data Resurrection Software for Deleted Mac Files</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/engineer-develops-python-script-to-manage-noisy-fans-and-heavy-apps-on-nzxt-kraken-aio/"><u>Engineer Develops Python Script to Manage Noisy Fans & Heavy Apps on NZXT Kraken AIO</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-12-pro-to-chromecast-drfone-by-drfone-ios/"><u>How to Cast Apple iPhone 12 Pro to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/kidizoom-cam-series-joyful-exploration/"><u>Kidizoom Cam Series: Joyful Exploration</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-overcome-the-darkness-comprehensive-guide-to-fixing-minecrafts-pitch-black-screens/"><u>Resolved: Overcome the Darkness - Comprehensive Guide to Fixing Minecraft's Pitch-Black Screens</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/revolutionary-tech-for-total-data-salvage-unlock-every-kind-of-lost-information/"><u>Revolutionary Tech for Total Data Salvage: Unlock Every Kind of Lost Information</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-comprehensive-guide-to-upgrading-your-lifestyle-with-the-power-of-chatgpt/"><u>The Comprehensive Guide to Upgrading Your Lifestyle with the Power of ChatGPT</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600583031-windows-stellar-data-recovery/"><u>Windows版無料データ復元ソフト - Stellar Data Recovery(ステラデータリカバリー)</u></a></li>
 </ul></div>
 

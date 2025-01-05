@@ -1,7 +1,7 @@
 ---
 title: Introducing the Gem12 Pro Mini PC - Ultra-Compact Performance Powerhouse, Equipped with Advanced Ryzen 7 CPU and Integrated Screen Technology
-date: 2024-12-23T22:40:48.229Z
-updated: 2024-12-26T22:12:29.634Z
+date: 2025-01-02T17:38:51.783Z
+updated: 2025-01-05T20:24:30.119Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,17 +89,24 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-how-to-record-online-tv-shows/"><u>[Updated] 2024 Approved How to Record Online TV Shows</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-choosing-and-utilizing-cc-license-types-for-2024/"><u>[Updated] The Art of Choosing and Utilizing CC License Types for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/windows-stellar-free-version/"><u>「Windows環境に最適化! Stellarデータ救出ソフトの使い方 - Free Version」</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-the-cloud-of-past-accomplishments-in-steam/"><u>Clearing the Cloud of Past Accomplishments in Steam</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-data-restoration-suite-universal-recovery-solutions-for-every-file-type/"><u>Comprehensive Data Restoration Suite: Universal Recovery Solutions for Every File Type</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/content-reinvention-with-chatgpts-innovations/"><u>Content Reinvention with ChatGPT's Innovations</u></a></li>
-<li><a href="https://fox-making.techidaily.com/einfache-anleitungen-zum-importieren-ihres-icloud-kalenders-in-gmail-and-google-calendar/"><u>Einfache Anleitungen Zum Importieren Ihres iCloud-Kalenders in Gmail & Google Calendar.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-camon-20-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Tecno Camon 20 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/onedrivepst-outlook/"><u>OneDriveへのPSTファイル移行: Outlookで安全なバックアップ手順</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/restore-files-using-windows-data-resurrector/"><u>Restore Files Using Windows Data Resurrector</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/save-whats-lost-with-windatamender/"><u>Save What's Lost with WinDataMender</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-to-restore-your-hp-wireless-keyboard-functionality/"><u>Step-by-Step Solutions to Restore Your HP Wireless Keyboard Functionality</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-screen-recorders-for-schedule-recording-and-how-to-for-2024/"><u>[New] Best Screen Recorders for Schedule Recording & How-To for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-complete-scrutiny-of-cutmatic-editor/"><u>[New] Complete Scrutiny of CutMatic Editor</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-to-use-itop-recorder-a-compelling-case/"><u>[New] In 2024, To Use ITop Recorder A Compelling Case?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-superior-zoom-sound-quality/"><u>[Updated] In 2024, The Ultimate Guide to Superior Zoom Sound Quality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-choices-no-fee-versatile-live-streaming-tools-for-every-device/"><u>[Updated] Leading Choices No-Fee, Versatile Live Streaming Tools for Every Device</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-disappearance-not-on-our-watch-quick-recovery-here/"><u>Data Disappearance? Not on Our Watch - Quick Recovery Here</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskdetective-uncovering-hidden-raid-files/"><u>DiskDetective: Uncovering Hidden RAID Files</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-computing-with-toms-technology-insights/"><u>Exploring the World of Computing with Tom's Technology Insights</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/free-the-ultimate-data-recovery-tool/"><u>FREE – The Ultimate Data Recovery Tool</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/galaxy-reclaimers-stellar-salvage-point/"><u>Galaxy Reclaimers - Stellar Salvage Point</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-infinix-note-30-vip-racing-edition-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Infinix Note 30 VIP Racing Edition Data? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-selection-of-androids-most-innovative-music-videography-tools/"><u>In 2024, The Ultimate Selection of Android's Most Innovative Music Videography Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-the-tp-link-archer-ax6000-a-superior-alternative-to-the-netgear-nighthawk-ax12-detailed-review-inside/"><u>Is the TP-Link Archer AX6000 a Superior Alternative to the NETGEAR Nighthawk AX12? Detailed Review Inside</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-make-memes-with-white-background-step-by-step/"><u>New 2024 Approved How to Make Memes with White Background Step by Step</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/permanent-file-saver-macs-deletion-undoing-software/"><u>Permanent File Saver: Mac's Deletion Undoing Software</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reconstruct-deleted-mac-archives-with-ease/"><u>Reconstruct Deleted Mac Archives with Ease</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/win-datarescue-the-ultimate-toolkit/"><u>WIN-DataRescue: The Ultimate Toolkit</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600349899-windows/"><u>Windows上で失われたファイルを簡単に取り戻せる - ステラデータリカバリソフトウェア(無料版)</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/your-files-deserve-better-swift-data-reinstatement-here/"><u>Your Files Deserve Better: Swift Data Reinstatement Here</u></a></li>
 </ul></div>
 

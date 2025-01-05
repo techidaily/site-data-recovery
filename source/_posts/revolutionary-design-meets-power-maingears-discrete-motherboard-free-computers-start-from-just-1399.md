@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Design Meets Power: Maingear's Discrete Motherboard-Free Computers Start From Just $1,399"
-date: 2024-12-24T02:49:39.642Z
-updated: 2024-12-26T16:43:51.164Z
+date: 2025-01-03T16:33:07.707Z
+updated: 2025-01-05T19:42:47.266Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,19 +56,19 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-chart-your-course-in-crypto-selecting-the-best-7-art-converters/"><u>[New] 2024 Approved Chart Your Course in Crypto - Selecting the Best 7 Art Converters</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-unveiling-youtube-analytics-a-beginners-guide/"><u>[New] 2024 Approved Unveiling YouTube Analytics A Beginner's Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-segmented-screen-success-is-splitcam-superior-for-2024/"><u>[Updated] Segmented Screen Success Is SplitCam Superior for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-tecno-pova-5-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Tecno Pova 5 Pro System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-guide-to-data-destruction-insightful-articles-and-best-practices-curated-by-stellar/"><u>Comprehensive Guide to Data Destruction: Insightful Articles & Best Practices Curated by Stellar</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-solutions-to-address-nwstoreexe-application-malfunctions/"><u>Comprehensive Solutions to Address nw_store.exe Application Malfunctions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-lowdown-on-minitool-movie-maker-review-tips-and-alternative-video-editors-for-2024/"><u>New The Lowdown on Minitool Movie Maker Review, Tips, and Alternative Video Editors for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reviving-your-last-connected-usb-device-for-windows-compatibility/"><u>Reviving Your Last Connected USB Device for Windows Compatibility</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-the-ultimate-audio-experience-for-gamers-discover-30-off-premium-speaker-systems-at-amazon-reviewed-by-zdnet/"><u>Score the Ultimate Audio Experience for Gamers – Discover 30% Off Premium Speaker Systems at Amazon, Reviewed by ZDNet!</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-resolve-iphones-error-14/"><u>Solving the Puzzle: A Step-by-Step Guide to Resolve iPhone's Error 14</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-4-photography-drone-picks-for-2n2-expert-reviews-and-ratings-gizmodo/"><u>Top 4 Photography Drone Picks for 2N2: Expert Reviews & Ratings | Gizmodo</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/troubleshooting-cannot-connect-to-the-server-on-lost-ark/"><u>Troubleshooting 'Cannot Connect to the Server' On Lost Ark</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/troubleshooting-phasmophobia-issues-latest-fixes-for-gamers/"><u>Troubleshooting Phasmophobia Issues - Latest Fixes for Gamers</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-hd-video-editing-made-easy-top-5-software-recommendations-for-2024/"><u>Updated HD Video Editing Made Easy Top 5 Software Recommendations for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-synchronized-group-challenges-in-anime-inspired-tiktok-videos-for-2024/"><u>[New] Synchronized Group Challenges in Anime-Inspired TikTok Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-transitional-beats-with-cross-sound-blending/"><u>[Updated] Crafting Transitional Beats with Cross-Sound Blending</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mold-personal-memes-that-resonate/"><u>2024 Approved Mold Personal Memes That Resonate</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600423390-stellar-data-recovery-windows/"><u>無料のStellar Data Recoveryソフトウェア: Windows用データを完全に復元できます</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-y36i-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo Y36i</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/confidently-retrieving-lost-iphone-files-now/"><u>Confidently Retrieving Lost iPhone Files Now</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-salvage-solution-for-windows-devices/"><u>Data Salvage Solution for Windows Devices</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskhaven-uncovering-raid-lost-files/"><u>DiskHaven: Uncovering RAID Lost Files</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-tecno-phantom-v-flip-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Tecno Phantom V Flip to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-android-guide-enhance-your-video/"><u>In 2024, Android Guide Enhance Your Video</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-how-to-create-metaverse-avatar-with-ease-an-ultimate-guide/"><u>In 2024, How to Create Metaverse Avatar with Ease An Ultimate Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-unbind-from-discord-on-all-platforms/"><u>In 2024, Unbind From Discord on All Platforms</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/photo-and-file-retrieval-for-mobile-devices/"><u>Photo and File Retrieval for Mobile Devices</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600261620-windowsstellar-data-recovery/"><u>Windows互換緊急リカバリープログラムStellar Data Recovery 無料版使用法講座</u></a></li>
 </ul></div>
 

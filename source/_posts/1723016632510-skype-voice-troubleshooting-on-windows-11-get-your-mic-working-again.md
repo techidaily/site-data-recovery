@@ -1,7 +1,7 @@
 ---
 title: Skype Voice Troubleshooting on Windows 11 - Get Your Mic Working Again!
-date: 2024-12-24T08:17:04.832Z
-updated: 2024-12-26T23:23:43.356Z
+date: 2025-01-01T17:59:24.755Z
+updated: 2025-01-05T20:04:14.696Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/2e909ca12d5d0ef3819e924e4b2acc53554680366
 
 ###
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
  If you’re running Skype on**Windows 10** , firstly please check if the Microphone is set to **On**  for Skype in the Privacy settings.
@@ -39,7 +43,7 @@ Follow these:
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
@@ -48,7 +52,7 @@ Follow these:
 ###
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Adjust the audio settings on Skype
@@ -56,6 +60,10 @@ Follow these:
 1. Login Skype with your own account.
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
@@ -72,17 +80,13 @@ Follow these:
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer and run Skype to see if your Microphone works.
 
 ###
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows audio service
 
@@ -90,10 +94,6 @@ Follow these:
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Log in Skype and check to see if your Microphone works.
 
@@ -114,22 +114,18 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-smooth-fades-in-a-second/"><u>[New] 2024 Approved Smooth Fades in a Second</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-dissecting-the-yuneec-typhoon-hs-aerial-capabilities-for-2024/"><u>[Updated] Dissecting the Yuneec Typhoon H's Aerial Capabilities for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-wildlife-wonders-at-fingertips-top-mobile-simulators-for-2024/"><u>[Updated] Wildlife Wonders at Fingertips Top Mobile Simulators for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/all-purpose-recovery-solution-software-fast-and-reliable-data-rescue-across-platforms/"><u>All-Purpose Recovery Solution Software – Fast and Reliable Data Rescue Across Platforms</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/cross-platform-backup-and-data-reconstruction/"><u>Cross-Platform Backup and Data Reconstruction</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/drivesavers-raid-suite-multiverse-support/"><u>DriveSavers RAID Suite: Multiverse Support</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/galaxyarchive-revival/"><u>GalaxyArchive Revival</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-capture-clarity-optimal-tripods-for-iphone-and-android/"><u>In 2024, Capture Clarity Optimal Tripods for iPhone & Android</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/maximize-your-inspiration-free-pinterest-video-downloaders/"><u>Maximize Your Inspiration Free Pinterest Video Downloaders</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/planetary-restoration-unit/"><u>Planetary Restoration Unit</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/revive-your-files-with-top-notch-partition-rescue-programs-for-accidentally-erased-drives/"><u>Revive Your Files with Top-Notch Partition Rescue Programs for Accidentally Erased Drives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smart-choices-for-ultra-compact-tablets-of-2nvbtznw85zandp197/"><u>Smart Choices for Ultra-Compact Tablets of 2#NvBTZnw85z&p=197</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/software-solutions-for-retrieving-lost-or-damaged-disk-partitions/"><u>Software Solutions for Retrieving Lost or Damaged Disk Partitions</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-data-recoverywindows/"><u>Stellar Data Recovery(ステラデータリカバリー)：Windowsユーザーのための優秀なフリーデータ回復ソリューション</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-activating-hyper-v-remote-management-features/"><u>Step-by-Step Guide: Activating Hyper-V Remote Management Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-hp-accelerometer-problems-on-windows-pcs-a-comprehensive-guide/"><u>Troubleshooting HP Accelerometer Problems on Windows PCs: A Comprehensive Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-tricks-for-speedy-vimeo-streams/"><u>[New] In 2024, Tricks for Speedy Vimeo Streams</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-swiftly-delete-autoplayed-podcast-suggestions-on-spotify/"><u>[Updated] 2024 Approved Swiftly Delete Autoplayed Podcast Suggestions on Spotify</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-top-tweet-talent-social-medias-10-gems/"><u>[Updated] 2024 Approved Top Tweet Talent Social Media’s 10 Gems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-selecting-premium-free-srt-translation-services/"><u>2024 Approved Mastering the Art of Selecting Premium Free SRT Translation Services</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-f34-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy F34 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-solutions-to-address-nwstoreexe-application-malfunctions/"><u>Comprehensive Solutions to Address nw_store.exe Application Malfunctions</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reviving-your-last-connected-usb-device-for-windows-compatibility/"><u>Reviving Your Last Connected USB Device for Windows Compatibility</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/troubleshooting-cannot-connect-to-the-server-on-lost-ark/"><u>Troubleshooting 'Cannot Connect to the Server' On Lost Ark</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/troubleshooting-phasmophobia-issues-latest-fixes-for-gamers/"><u>Troubleshooting Phasmophobia Issues - Latest Fixes for Gamers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/ultimate-aerial-imagery-crew-top-10-drones-compiled-for-2024/"><u>Ultimate Aerial Imagery Crew Top 10 Drones Compiled for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-enhance-video-sharpness-and-transform-your-footage-into-crisp-4k/"><u>Ultimate Guide: Enhance Video Sharpness and Transform Your Footage Into Crisp 4K</u></a></li>
+<li><a href="https://facebook.techidaily.com/unshackling-from-social-networking-disabling-or-deleting-your-page/"><u>Unshackling From Social Networking: Disabling or Deleting Your Page</u></a></li>
 </ul></div>
 
