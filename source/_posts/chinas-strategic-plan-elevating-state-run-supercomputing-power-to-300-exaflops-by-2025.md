@@ -1,7 +1,7 @@
 ---
 title: "China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025"
-date: 2024-12-29T16:14:43.486Z
-updated: 2025-01-05T17:48:54.544Z
+date: 2025-01-08T11:51:29.245Z
+updated: 2025-01-11T22:50:31.288Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,18 +68,22 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-complexities-of-3d-lut-filters-in-adobes-photosophatic-suite/"><u>[New] Navigating the Complexities of 3D LUT Filters in Adobe's PHOTOSOPHATIC Suite</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-antique-cinematography-in-the-digital-realm/"><u>[Updated] In 2024, Antique Cinematography in the Digital Realm</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/cross-platform-backup-and-data-reconstruction/"><u>Cross-Platform Backup and Data Reconstruction</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/galaxyarchive-revival/"><u>GalaxyArchive Revival</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hasty-operating-system-driver-update/"><u>Hasty Operating System Driver Update</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-avoid-ad-dollars-boost-your-view-count-for-free/"><u>In 2024, Avoid Ad Dollars – Boost Your View Count for Free</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-top-12-real-time-youtube-subscriber-trackers/"><u>In 2024, Top 12 Real-Time YouTube Subscriber Trackers</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/revive-your-files-with-top-notch-partition-rescue-programs-for-accidentally-erased-drives/"><u>Revive Your Files with Top-Notch Partition Rescue Programs for Accidentally Erased Drives</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/software-solutions-for-retrieving-lost-or-damaged-disk-partitions/"><u>Software Solutions for Retrieving Lost or Damaged Disk Partitions</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-data-recoverywindows/"><u>Stellar Data Recovery(ステラデータリカバリー)：Windowsユーザーのための優秀なフリーデータ回復ソリューション</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-8-methods-for-accessing-iis-manager/"><u>Top 8 Methods for Accessing IIS Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-terminal-reset-procedure-essentials/"><u>Win11 Terminal Reset Procedure Essentials</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-methods-for-time-loop-illusions/"><u>[New] Innovative Methods for Time Loop Illusions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-polishing-zoom-picture-quality-simple-solutions/"><u>2024 Approved Polishing Zoom Picture Quality Simple Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-itel-a60-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/breaking-into-the-brainshare-how-to-hype-up-your-fb-content/"><u>Breaking Into the Brainshare How to Hype Up Your FB Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-examination-gopro-hero4-silver-version-for-2024/"><u>Comprehensive Examination GoPro HERO4 Silver Version for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-recovery-technician-software-recovers-all-types-of-data/"><u>Data Recovery Technician Software – Recovers All Types of Data</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-revival-suite-by-windows-experts/"><u>Data Revival Suite by Windows Experts</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-data-retrieval-suite-securely-rewind-lost-information-across-formats/"><u>Expert Data Retrieval Suite - Securely Rewind Lost Information Across Formats</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photography-on-instagram-adding-images-made-simple/"><u>In 2024, Photography on Instagram Adding Images Made Simple</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-secretive-suggestions-for-enhanced-vlc-usage/"><u>In 2024, Secretive Suggestions for Enhanced VLC Usage</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unlocking-monetization-potential-the-modern-creators-manual-for-mobile/"><u>In 2024, Unlocking Monetization Potential The Modern Creator’s Manual for Mobile</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/lostdata-finder-androids-savior/"><u>LostData Finder: Android's Savior</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/masterdatarecovery-pro-seamless-recovery-software-for-all-formats-and-devices/"><u>MasterDataRecovery Pro: Seamless Recovery Software for All Formats and Devices</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/one-os-family-data-retrieval-device/"><u>One OS Family Data Retrieval Device</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600732140-windowsstellar-data-recovery/"><u>Windows用で最新の無料ダウンロード復旧プログラム「Stellar Data Recovery」</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600601140-windows/"><u>ステラデータリカバリー・無料版 - Windows互換データ再生成プログラム</u></a></li>
 </ul></div>
 
