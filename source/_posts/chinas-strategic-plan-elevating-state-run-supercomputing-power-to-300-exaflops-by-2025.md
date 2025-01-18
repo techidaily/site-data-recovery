@@ -1,7 +1,7 @@
 ---
 title: "China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025"
-date: 2025-01-08T11:51:29.245Z
-updated: 2025-01-11T22:50:31.288Z
+date: 2025-01-15T22:14:19.692Z
+updated: 2025-01-17T20:35:10.350Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,22 +68,24 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-methods-for-time-loop-illusions/"><u>[New] Innovative Methods for Time Loop Illusions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-polishing-zoom-picture-quality-simple-solutions/"><u>2024 Approved Polishing Zoom Picture Quality Simple Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-itel-a60-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/breaking-into-the-brainshare-how-to-hype-up-your-fb-content/"><u>Breaking Into the Brainshare How to Hype Up Your FB Content</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-examination-gopro-hero4-silver-version-for-2024/"><u>Comprehensive Examination GoPro HERO4 Silver Version for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-recovery-technician-software-recovers-all-types-of-data/"><u>Data Recovery Technician Software – Recovers All Types of Data</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-revival-suite-by-windows-experts/"><u>Data Revival Suite by Windows Experts</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/expert-data-retrieval-suite-securely-rewind-lost-information-across-formats/"><u>Expert Data Retrieval Suite - Securely Rewind Lost Information Across Formats</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo V29 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photography-on-instagram-adding-images-made-simple/"><u>In 2024, Photography on Instagram Adding Images Made Simple</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-secretive-suggestions-for-enhanced-vlc-usage/"><u>In 2024, Secretive Suggestions for Enhanced VLC Usage</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-unlocking-monetization-potential-the-modern-creators-manual-for-mobile/"><u>In 2024, Unlocking Monetization Potential The Modern Creator’s Manual for Mobile</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/lostdata-finder-androids-savior/"><u>LostData Finder: Android's Savior</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/masterdatarecovery-pro-seamless-recovery-software-for-all-formats-and-devices/"><u>MasterDataRecovery Pro: Seamless Recovery Software for All Formats and Devices</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/one-os-family-data-retrieval-device/"><u>One OS Family Data Retrieval Device</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600732140-windowsstellar-data-recovery/"><u>Windows用で最新の無料ダウンロード復旧プログラム「Stellar Data Recovery」</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600601140-windows/"><u>ステラデータリカバリー・無料版 - Windows互換データ再生成プログラム</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-epicurean-entertainment-the-very-best-of-tiktok-culinary-content-for-the-curious-palate/"><u>[New] In 2024, Epicurean Entertainment The Very Best of TikTok Culinary Content for the Curious Palate</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-universal-online-creation-the-top-10-easy-youtube-videos-for-beginners/"><u>[New] Universal Online Creation The Top 10 Easy YouTube Videos For Beginners</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-captivate-audiences-quickly-shortcuts-for-youtube-trailers-with-filmora/"><u>[Updated] Captivate Audiences Quickly Shortcuts for YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevating-your-contents-reach-without-breaching-laws-for-2024/"><u>[Updated] Elevating Your Content's Reach Without Breaching Laws for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-fostering-engagement-creating-budget-friendly-youtube-intros/"><u>[Updated] Fostering Engagement Creating Budget-Friendly YouTube Intros</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-is-investing-in-views-worth-the-potential-risks/"><u>2024 Approved Is Investing in Views Worth the Potential Risks?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-skys-dynamic-range-wonders-top-10-sites-guide/"><u>2024 Approved Sky's Dynamic Range Wonders - Top 10 Sites Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-spark-20-pro-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of Spark 20 Pro</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/break-through-losses-shield-your-files-for-free/"><u>Break Through Losses - Shield Your Files for FREE</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/complete-software-solution-by-certified-recovery-pros-safeguards-all-data-types/"><u>Complete Software Solution by Certified Recovery Pros – Safeguards All Data Types</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-partition-fix-utility-extract-files-from-inaccessible-and-missing-volumes/"><u>Comprehensive Partition Fix Utility: Extract Files From Inaccessible & Missing Volumes</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskrescuemax-maximizing-raid-file-accessibility/"><u>DiskRescueMax: Maximizing RAID File Accessibility</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/easydata-revival-software-multiplatform-compatibility/"><u>EasyData Revival Software - Multiplatform Compatibility</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/effortless-file-restoration-absolutely-free/"><u>Effortless File Restoration - Absolutely Free</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/file-salvage-with-windows-essential-tool/"><u>File Salvage with Windows Essential Tool</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/full-scale-digital-rescue-operations-advanced-recovery-software-for-any-data-type/"><u>Full-Scale Digital Rescue Operations: Advanced Recovery Software for Any Data Type</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-se-2020-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone SE (2020) When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/revive-your-deleted-drives-elite-partition-recovery-solutions-explored/"><u>Revive Your Deleted Drives: Elite Partition Recovery Solutions Explored</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-artistic-edge-premium-text-tools-for-adobe-after-effects-for-2024/"><u>The Artistic Edge Premium Text Tools for Adobe After Effects for 2024</u></a></li>
 </ul></div>
 

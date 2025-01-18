@@ -1,7 +1,7 @@
 ---
 title: "A Flashlight for the Modern Shutterbug: TT560 Review"
-date: 2025-01-08T06:05:10.824Z
-updated: 2025-01-12T09:08:03.545Z
+date: 2025-01-11T17:41:59.158Z
+updated: 2025-01-18T00:58:26.235Z
 categories:
   - BestProducts
 description: "This Article Describes A Flashlight for the Modern Shutterbug: TT560 Review"
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 4.9
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZMI PowerPack 20000
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/FttxoftMtHF3B2ZGmP2QubmOp3I=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
@@ -67,14 +63,10 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/jITowxAWHBUo5WF3Y-XI6lKQNQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-05-02d76c869b864ef0abddfe824cfbf53a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Small but powerful**
@@ -91,11 +83,11 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/vaINPELrwcWnOZDsX1ztKkCouww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-03-1530f666df824f6281040c2ae3285eb2-2e7956941b91403aa888795a7e5e2e33.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup Process: Easy does it**
 
@@ -113,6 +105,10 @@ Lifewire / Andrew Hayward
 
  Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: It’s a bargain**
 
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal. Granted, the maximum USB-C PD output of 45W won’t charge some super-powered laptops—but for compatible laptops, as well as smartphones, tablets, and other portable electronics, it’s very well priced.
@@ -120,7 +116,7 @@ Lifewire / Andrew Hayward
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **ZMI PowerPack 20000 vs Mophie Powerstation AC**
@@ -132,6 +128,10 @@ Lifewire / Andrew Hayward
  **A fantastic portable laptop battery charger for nearly everyone.**
 
  It’s honestly difficult to find anything to complain about with the ZMI PowerPack 20000\. It’s powerful and does a great job of charging laptops and phones, it has enough capacity to handle those tasks with ease, it’s compact and well-designed, and the price is fantastic. It’s half the size of the giant Anker power brick that I’ve brought on my last two international trips and can handle all of the same tasks. In other words,_this_ is the power brick I’m bringing on my next trip.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -159,18 +159,22 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-youtube-to-webm-tools-a-compreenasive-review-and-ranking/"><u>[New] 2024 Approved Best YouTube-to-WebM Tools A Compreenasive Review & Ranking</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-next-gen-spaceholders-unveiling-the-quintessential-cloud-providers/"><u>[New] Next-Gen Spaceholders Unveiling the Quintessential Cloud Providers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-selection-best-video-calling-tools-phonepc-for-2024/"><u>[Updated] Ultimate Selection Best Video Calling Tools Phone/PC for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/dataguardian-raid-redemption-tool/"><u>DataGuardian: RAID Redemption Tool</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/effortless-recovery-of-eliminated-files-on-mac/"><u>Effortless Recovery of Eliminated Files on Mac</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/galaxy-rescue-hub-secure-file-retrieval/"><u>Galaxy Rescue Hub - Secure File Retrieval</u></a></li>
-<li><a href="https://fox-info.techidaily.com/investigating-ffmpeg-for-intact-audio-preservation/"><u>Investigating FFmpeg for Intact Audio Preservation</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/raid-revival-suite-comprehensive-drive-rescue/"><u>RAID Revival Suite: Comprehensive Drive Rescue</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reliable-file-guardian-macs-restoration-mastery/"><u>Reliable File Guardian: Mac's Restoration Mastery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/smartwatch-face-off-can-the-samsung-galaxy-watch-ultra-outshine-the-apple-watch-ultra-tech-experts-review/"><u>Smartwatch Face-Off: Can the Samsung Galaxy Watch Ultra Outshine the Apple Watch Ultra? | Tech Experts' Review</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-eliminate-microsoft-store-error-on-win1111/"><u>Steps to Eliminate Microsoft Store Error on Win11/11</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unveil-your-phones-hidden-data-with-assurance/"><u>Unveil Your Phone's Hidden Data With Assurance</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/visual-virtuosity-adding-fonts-to-adobe-workflows/"><u>Visual Virtuosity Adding Fonts to Adobe Workflows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-cost-effective-video-capture-for-less-expensive-systems/"><u>[New] In 2024, Cost-Effective Video Capture for Less Expensive Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-stepwise-approach-to-impressive-collage-creation/"><u>[New] Stepwise Approach to Impressive Collage Creation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fb-link-downloader-bundle-access-to-8-free-online-solutions-for-2024/"><u>[Updated] FB Link Downloader Bundle Access to 8 Free, Online Solutions for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/advanced-data-reconstruction-application-versatile-tech-to-bring-back-all-your-digital-information/"><u>Advanced Data Reconstruction Application: Versatile Tech to Bring Back All Your Digital Information</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/android-data-recovery-software-to-recover-lost-photos-videos-contacts-etc/"><u>Android Data Recovery Software to Recover Lost Photos, Videos, Contacts Etc.</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/enhanced-file-system-revival-utility/"><u>Enhanced File System Revival Utility</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/idevice-data-detective-secure-and-efficient-recovery/"><u>IDevice Data Detective: Secure & Efficient Recovery</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/idevice-information-hunter-effortless-restoration/"><u>IDevice Information Hunter: Effortless Restoration</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-best-value-in-the-sky-top-budget-cloud-services/"><u>In 2024, Best Value in the Sky? Top Budget Cloud Services</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/macmastery-regain-forgotten-documents-with-ease/"><u>MacMastery: Regain Forgotten Documents with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-hdcp-mistakes-detailed-guide-on-diagnosis-and-correction/"><u>Mastering HDCP Mistakes: Detailed Guide on Diagnosis and Correction</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-10-free-quicktime-editors-to-edit-mov-files-with-ease/"><u>New In 2024, 10 Free QuickTime Editors to Edit MOV Files with Ease</u></a></li>
+<li><a href="https://discover-community.techidaily.com/overcoming-processor-overheat-challenges-expert-tips-by-yl-software-professionals/"><u>Overcoming Processor Overheat Challenges: Expert Tips by YL Software Professionals</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reclaim-your-lost-treasures-from-the-sands-of-time-mac-files/"><u>Reclaim Your Lost Treasures From the Sands of Time (Mac Files)</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reviving-records-without-spending-a-dime/"><u>Reviving Records Without Spending a Dime</u></a></li>
+<li><a href="https://extra-support.techidaily.com/smartest-screens-top-11-general-knowledge-channels-for-2024/"><u>Smartest Screens Top 11 General Knowledge Channels for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/unveiling-the-hidden-accessing-youtube-video-comments/"><u>Unveiling the Hidden Accessing YouTube Video Comments</u></a></li>
 </ul></div>
 
