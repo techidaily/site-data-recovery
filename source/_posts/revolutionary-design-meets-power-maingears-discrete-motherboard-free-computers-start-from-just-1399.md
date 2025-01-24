@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Design Meets Power: Maingear's Discrete Motherboard-Free Computers Start From Just $1,399"
-date: 2025-01-13T02:19:10.407Z
-updated: 2025-01-18T02:52:10.030Z
+date: 2025-01-21T02:09:14.012Z
+updated: 2025-01-24T11:25:35.012Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,24 +56,22 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-iphones-viewpoint-vista-selecting-superior-shots-for-images/"><u>[Updated] In 2024, IPhone's Viewpoint Vista Selecting Superior Shots for Images</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-cinematographer-secrets-for-exceptional-visuals/"><u>[Updated] Top Cinematographer Secrets for Exceptional Visuals</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/advanced-disk-mirroring-utility/"><u>Advanced Disk Mirroring Utility</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/advanced-technical-assessments-by-toms-electronics-specialist/"><u>Advanced Technical Assessments by Tom's Electronics Specialist</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/download-center-stellar-data-recovery/"><u>Download Center – Stellar Data Recovery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-memory-errors-from-windows-tools/"><u>Eliminating Memory Errors From Windows Tools</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/how-to-restore-unavailable-storage-sectors-with-advanced-recovery-software/"><u>How to Restore Unavailable Storage Sectors with Advanced Recovery Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nokia-130-music-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nokia 130 Music Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-x100-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo X100</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On OnePlus 11R? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-perfect-your-instagram-vids-with-ease/"><u>In 2024, Perfect Your Instagram Vids with Ease</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/introducing-the-gem12-pro-mini-pc-ultra-compact-performance-powerhouse-equipped-with-advanced-ryzen-7-cpu-and-integrated-screen-technology/"><u>Introducing the Gem12 Pro Mini PC - Ultra-Compact Performance Powerhouse, Equipped with Advanced Ryzen 7 CPU and Integrated Screen Technology</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/lossless-photo-recovery-on-android-systems/"><u>Lossless Photo Recovery on Android Systems</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/mediamagic-recovering-data-on-android/"><u>MediaMagic: Recovering Data on Android</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/navigating-the-world-of-computer-components-with-toms-hardware-solutions/"><u>Navigating the World of Computer Components with Tom's Hardware Solutions</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/professional-data-rescue-suite/"><u>Professional Data Rescue Suite</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-downloading-and-peer-connection-failures-in-utorrent-with-easy-fixes/"><u>Resolving Downloading & Peer Connection Failures in uTorrent with Easy Fixes</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-to-setting-up-a-restoration-point-on-windows-server-200/"><u>Step-by-Step Guide to Setting Up a Restoration Point on Windows Server 200</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-covertly-crafted-covers-for-iphones-and-androids/"><u>[New] Covertly Crafted Covers for iPhones & Androids</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-your-notes-opt-for-mematic/"><u>[New] Master Your Notes - Opt for Mematic</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-screen-recorder-rivalry-unveiling-the-strengths-of-bandicam-and-camtasia-for-2024/"><u>[New] Screen Recorder Rivalry Unveiling the Strengths of Bandicam & Camtasia for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/arrayrescue-raid-0-5-and-6-reconstruction/"><u>ArrayRescue: RAID 0, 5 & 6 Reconstruction</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/aviation-alert-southwest-pilots-expose-harsh-realities-for-passengers-tech-news/"><u>Aviation Alert: Southwest Pilots Expose Harsh Realities for Passengers | Tech News</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-restoration-suite-seamless-recovery-for-diverse-file-formats/"><u>Comprehensive Data Restoration Suite - Seamless Recovery for Diverse File Formats</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/cosmicinfo-reconstruction/"><u>CosmicInfo Reconstruction</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-rescue-express-unlock-lost-information-today/"><u>Data Rescue Express - Unlock Lost Information Today</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-oneplus-12r-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for OnePlus 12R</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/efficient-hardware-monitoring-kit/"><u>Efficient Hardware Monitoring Kit</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/experience-relief-secure-data-retrieval-without-delay/"><u>Experience Relief: Secure Data Retrieval Without Delay</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-oppo-k11x-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Oppo K11x</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-seo-puzzle-strategies-that-elevate-your-podcasts/"><u>In 2024, Unlocking the SEO Puzzle Strategies That Elevate Your Podcasts</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/instant-relief-for-lost-data-stellar-secure-solutions-await/"><u>Instant Relief for Lost Data - Stellar, Secure Solutions Await</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reclaim-your-digital-assets-now-with-efficiency-and-speed/"><u>Reclaim Your Digital Assets Now with Efficiency & Speed</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-x9a-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor X9a Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unveiling-the-hidden-treasure-of-royalty-free-graphics/"><u>Unveiling the Hidden Treasure of Royalty-Free Graphics</u></a></li>
 </ul></div>
 

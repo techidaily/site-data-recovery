@@ -1,7 +1,7 @@
 ---
 title: "Battle of Giants: AMD's EPYC CPU Doubles Up Against NVIDIA’s ARM-Powered Grace in Multiple Performance Benchmarks"
-date: 2025-01-14T19:29:46.283Z
-updated: 2025-01-17T19:34:21.852Z
+date: 2025-01-17T21:38:57.609Z
+updated: 2025-01-24T11:12:56.573Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,22 +60,18 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-leading-movie-teasers-highlighted/"><u>[Updated] In 2024, Leading Movie Teasers Highlighted</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600423390-stellar-data-recovery-windows/"><u>無料のStellar Data Recoveryソフトウェア: Windows用データを完全に復元できます</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/all-encompassing-tech-specialist-suite-for-data-restoration-works-with-diverse-file-formats/"><u>All-Encompassing Tech Specialist Suite for Data Restoration - Works with Diverse File Formats</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/confidently-retrieving-lost-iphone-files-now/"><u>Confidently Retrieving Lost iPhone Files Now</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-salvage-solution-for-windows-devices/"><u>Data Salvage Solution for Windows Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-free-qualcomm-atheros-ar3011-bluetooth-version-30-drivers-here/"><u>Get Your Free [Qualcomm Atheros] AR3011 Bluetooth Version 3.0 Drivers Here</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-and-restore-windows-10s-sound-settings-a-step-by-step-solution/"><u>How to Repair and Restore Windows 10'S Sound Settings - A Step-by-Step Solution</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-7-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone 7 Display? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-realme-narzo-n53-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Realme Narzo N53 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reuniteyourdata-android-media-recovery/"><u>ReuniteYourData: Android Media Recovery</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/revive-past-memories-swift-and-reliable-file-recovery/"><u>Revive Past Memories - Swift and Reliable File Recovery</u></a></li>
-<li><a href="https://win-dash.techidaily.com/synaptic-touchpad-driver-upgrade-made-simple-freshest-version-instructions/"><u>Synaptic Touchpad Driver Upgrade Made Simple - Freshest Version Instructions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-mobvoi-ticwatch-e2-value-for-money-or-just-cheaply-made/"><u>Unveiling Mobvoi TicWatch E2: Value for Money or Just Cheaply Made?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-innovations-a-comparative-look-at-apples-new-airpods-4-versus-earlier-generations/"><u>Unveiling the Innovations: A Comparative Look at Apple's New AirPods 4 Versus Earlier Generations</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/versatile-files-recovery-windows-mac-and-linux-assist/"><u>Versatile Files Recovery - Windows, Mac & Linux Assist</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/why-the-google-pixel-4a-5g-stands-out-a-balanced-blend-of-capability-and-value-for-android-enthusiasts/"><u>Why the Google Pixel 4a 5G Stands Out - A Balanced Blend of Capability and Value for Android Enthusiasts</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600261620-windowsstellar-data-recovery/"><u>Windows互換緊急リカバリープログラムStellar Data Recovery 無料版使用法講座</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-mac-screen-recorders-ranked-a-comprehensive-analysis/"><u>[Updated] 2024 Approved Top Mac Screen Recorders Ranked A Comprehensive Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-focusrite-scarlett-nv2i-2nd-gen-windows-drivers-available/"><u>Easy Setup: Focusrite Scarlett Nv2i 2Nd Gen Windows Drivers Available!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/easy-tips-and-tricks-for-effective-pc-backup-using-seagates-extermal-storage-solutions/"><u>Easy Tips & Tricks for Effective PC Backup Using Seagate's Extermal Storage Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-criteria-for-picking-the-perfect-energy-facility/"><u>Essential Criteria for Picking the Perfect Energy Facility</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/online-services-for-youtube-subtitles-download/"><u>Free Online Services for YouTube Subtitles Download</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-breaking-barriers-watching-live-events-on-your-roku-screen/"><u>In 2024, Breaking Barriers Watching Live Events on Your Roku Screen</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/nebulanet-recovery/"><u>NebulaNet Recovery</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/omnirecovery-software-windows-mac-and-linux-support/"><u>OmniRecovery Software – Windows, Mac & Linux Support</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/precisionstar-restoration/"><u>PrecisionStar Restoration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-players-in-immersive-vision-sets/"><u>Top Players in Immersive Vision Sets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformez-vos-videos-dts-en-fluxing-gratuit-avec-movavis-online-convertisseur-facile-et-rapide/"><u>Transformez Vos Vidéos DTS en Fluxing Gratuit Avec Movavi's Online Convertisseur - Facile Et Rapide !</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-data-recuperation-program-brings-back-all-your-valuable-files/"><u>Universal Data Recuperation Program – Brings Back All Your Valuable Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-files-rescue-suite-windowsmaclinux-edition/"><u>Universal Files Rescue Suite – Windows/Mac/Linux Edition</u></a></li>
 </ul></div>
 

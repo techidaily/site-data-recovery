@@ -1,7 +1,7 @@
 ---
 title: "Discover the Future of Music Programming: Musicians Can Now Own a MicroPython Tulip Computer for Under $60"
-date: 2025-01-13T04:39:22.076Z
-updated: 2025-01-18T02:08:01.643Z
+date: 2025-01-19T11:42:50.405Z
+updated: 2025-01-24T05:49:36.740Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,15 +76,24 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-castwatch-inspection/"><u>[New] CastWatch Inspection</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-creatives-making-marvel-virtual-worlds-vivid-for-2024/"><u>[New] Creatives Making Marvel Virtual Worlds Vivid for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx-for-2024/"><u>Evolutionary Tools Redefining the Art of Game Capture Beyond FBX for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-ultra-fast-capabilities-of-the-netgear-nighthawk-rax120-a-complete-review/"><u>Exploring the Ultra-Fast Capabilities of the Netgear Nighthawk RAX120: A Complete Review</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/exploring-toms-tech-insights-and-hardware-evaluations/"><u>Exploring Tom's Tech Insights and Hardware Evaluations</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/master-the-art-of-tech-with-toms-detailed-gadget-reviews-and-analysis/"><u>Master The Art Of Tech With Tom's Detailed Gadget Reviews and Analysis</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/scoop-the-finest-offers-on-pcs-and-laptops/"><u>Scoop the Finest Offers on PCs & Laptops</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transitioning-to-tech-evolution-apples-m1-vs-previous-gen-m3-pro-what-you-need-to-know-for-a-seamless-upgrade-zdnet/"><u>Transitioning to Tech Evolution: Apple's M1 Vs. Previous-Gen M3 Pro - What You Need to Know for a Seamless Upgrade | ZDNet</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unveiling-the-best-in-technology-toms-hardware-critiques/"><u>Unveiling the Best in Technology: Tom's Hardware Critiques</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-sony-xperia-10-v-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Sony Xperia 10 V? Here is How | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-exclusive-list-top-10-live-streaming-networks-ranked/"><u>[Updated] 2024 Approved Exclusive List Top 10 Live Streaming Networks Ranked</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-guide-to-embedding-on-screen-text-on-youtube-clips/"><u>[Updated] Guide to Embedding On-Screen Text on YouTube Clips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-premium-selection-top-15-cameras-for-action/"><u>[Updated] Premium Selection Top 15 Cameras for Action</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-transformation-software-spectrashift-series/"><u>2024 Approved Leading Transformation Software SpectraShift Series</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/arrayasylum-sanctuary-for-scrambled-raids/"><u>ArrayAsylum: Sanctuary for Scrambled RAIDs</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-guide-on-troubleshooting-and-preventing-resident-evil-ebeque-4-remake-crashes/"><u>Complete Guide on Troubleshooting and Preventing Resident Evil Ebeque 4 Remake Crashes</u></a></li>
+<li><a href="https://facebook.techidaily.com/convergence-of-realms-defining-the-metaverse-nexus/"><u>Convergence of Realms: Defining the Metaverse Nexus</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/efficient-cross-platform-recovery-software-proficient-in-retrieving-lost-or-corrupted-digital-files-across-all-systems/"><u>Efficient Cross-Platform Recovery Software - Proficient in Retrieving Lost or Corrupted Digital Files Across All Systems</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/efficient-partition-rescue-apps-retrieve-accidentally-deleted-sections-of-your-hard-drive/"><u>Efficient Partition Rescue Apps: Retrieve Accidentally Deleted Sections of Your Hard Drive</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/embrace-the-return-of-your-missing-mac-data/"><u>Embrace the Return of Your Missing Mac Data</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-photo-burst-how-to-take-burst-images/"><u>IPhone Photo Burst How to Take Burst Images</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-recall-understanding-why-it-isnt-the-ultimate-privacy-disaster-top-7-insights-to-ease-your-concerns-zdnet/"><u>Microsoft Recall: Understanding Why It Isn't the 'Ultimate Privacy Disaster' – Top 7 Insights to Ease Your Concerns | ZDNet</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/multi-format-expert-data-retrieval-application-designed-to-resurrect-any-lost-digital-files/"><u>Multi-Format Expert Data Retrieval Application – Designed to Resurrect Any Lost Digital Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/raidrevival-pro-elite-in-raid-data-salvage/"><u>RaidRevival Pro: Elite in RAID Data Salvage</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/retrieve-lost-files-today-our-immediate-reliable-solution/"><u>Retrieve Lost Files Today! Our Immediate, Reliable Solution</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reveldataxtract-expert-raid-recovery-services/"><u>RevelDataXtract: Expert RAID Recovery Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionary-qi2-charger-the-ultimate-power-solution-every-apple-user-must-experience-insights/"><u>Revolutionary Qi2 Charger: The Ultimate Power Solution Every Apple User Must Experience - Insights</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/swiftly-regain-your-vanished-mac-data/"><u>Swiftly Regain Your Vanished Mac Data</u></a></li>
 </ul></div>
 
