@@ -1,7 +1,7 @@
 ---
 title: "Bug-Free Gaming: How 'From the Ashes of Remnant' Now Stays Steady on Launch"
-date: 2025-01-21T23:16:47.381Z
-updated: 2025-01-24T10:39:07.655Z
+date: 2025-01-27T16:31:33.891Z
+updated: 2025-01-31T21:39:05.887Z
 tags:
   - win11
   - win10
@@ -41,10 +41,6 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2:**Disable your antivirus temporarily**
 
  The_Remnant_ crash is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -56,7 +52,7 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Run your game as an administrator
@@ -72,10 +68,6 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and_Remnant_ to test your issue.
 
@@ -116,7 +108,7 @@ If your problem persists, then move on to the next fix below.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5:**Install the latest game patch**
@@ -158,16 +150,24 @@ If your problem persists, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-585.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Paste**%LOCALAPPDATA%\\Remnant\\Saved\\Config\\WindowsNoEditor** on the address bar, then press the**Enter key** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-586.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click**Engine.ini** , select**Open With** , then click**Notepad** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-591.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Copy and paste the following text at the bottom.
 
@@ -177,6 +177,10 @@ If your problem persists, then move on to the next fix below.
  **bHasVoiceEnabled=False**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-609.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** On your keyboard, press the**Ctrl key** and**S** at the same time to save the changes. Then, close the Window.
 
@@ -198,6 +202,10 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-214.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-607.png)
@@ -211,6 +219,10 @@ If the game is still unplayable, read on and try the fix below.
  If this didn’t work for you, repeat steps above to**disable the compatibility mode** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall_Remnant_ and/or Steam
 
@@ -247,33 +259,17 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
@@ -284,7 +280,7 @@ If the game is still unplayable, read on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
@@ -296,6 +292,10 @@ If the game is still unplayable, read on and try the fix below.
 **9)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **10)**  Move the backup **steamapps folder** to your current directory location.
 
@@ -326,20 +326,16 @@ If the game is still unplayable, read on and try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-discover-comprehensive-free-graphics-websites-today-for-2024/"><u>[New] Discover Comprehensive Free Graphics Websites Today for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nlocking-profits-the-essential-3-step-guide-for-gauging-youtube-earnings/"><u>[New] Unlocking Profits The Essential 3-Step Guide for Gauging YouTube Earnings</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-broadcast-bliss-the-most-accurate-local-and-online-tv-services/"><u>[Updated] 2024 Approved Broadcast Bliss The Most Accurate Local and Online TV Services</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-perfecting-podcast-intros-a-guide-with-illustrations/"><u>[Updated] 2024 Approved Perfecting Podcast Intros A Guide with Illustrations</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-turn-your-passion-into-profits-youtube-on-facebook-monetization-steps/"><u>[Updated] 2024 Approved Turn Your Passion Into Profits YouTube on Facebook Monetization Steps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-photo-editing-inserting-dates-in-images/"><u>[Updated] Mastering Photo Editing Inserting Dates in Images</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/arrayally-master-raid-reconstruction-tool/"><u>ArrayAlly: Master RAID Reconstruction Tool</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/astro-data-depot-space-archive-assistance/"><u>Astro Data Depot - Space Archive Assistance</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/buy-now-stellar-data-recovery/"><u>Buy Now - Stellar Data Recovery</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/efficient-and-effective-your-key-to-instant-file-restoration/"><u>Efficient & Effective - Your Key to Instant File Restoration</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600547194-ensure-peace-of-mind-secure-data-reinstatement-today/"><u>Ensure Peace of Mind - Secure Data Reinstatement Today</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-poco-x6-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Poco X6 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reclaim-your-digital-world-with-lightning-fast-restoration/"><u>Reclaim Your Digital World with Lightning-Fast Restoration</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reliable-phone-data-resurrection-program/"><u>Reliable Phone Data Resurrection Program</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/seeking-freedom-with-videos-which-plays-better-vlc-or-mpc/"><u>Seeking Freedom with Videos Which Plays Better, VLC or MPC?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-high-flying-brain-games-top-11-knowledge-channels/"><u>[New] 2024 Approved High-Flying Brain Games Top 11 Knowledge Channels</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-your-first-twitter-profile/"><u>[Updated] 2024 Approved A Step-by-Step Guide to Your First Twitter Profile</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-staying-positive-in-the-face-of-internet-skeptics/"><u>[Updated] 2024 Approved Staying Positive in the Face of Internet Skeptics</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-quintessential-radio-narrative-craftsmanship/"><u>[Updated] Quintessential Radio Narrative Craftsmanship</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600568279-data-revival-made-simple-fast-secure-recovery-available/"><u>Data Revival Made Simple - Fast, Secure Recovery Available</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/drivedynamics-navigating-through-raid-chaos/"><u>DriveDynamics: Navigating Through RAID Chaos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/farm-fun-and-fellowship-the-ultimate-agritainment-guide/"><u>Farm Fun & Fellowship The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/interstellar-information-resurrect/"><u>Interstellar Information Resurrect</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-complete-ranking-of-top-8-smstext-messages-recovery-apps-for-ios-devices/"><u>The Complete Ranking of Top 8 SMS/Text Messages Recovery Apps for iOS Devices</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-effective-communicators-choice-german-vs-french/"><u>The Effective Communicator's Choice: German Vs French</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/winrecovery-your-key-to-regaining-lost-data/"><u>WinRecovery: Your Key to Regaining Lost Data</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "A Flashlight for the Modern Shutterbug: TT560 Review"
-date: 2025-01-20T11:57:08.026Z
-updated: 2025-01-24T09:10:36.089Z
+date: 2025-01-25T16:01:42.628Z
+updated: 2025-01-31T22:09:38.731Z
 categories:
   - BestProducts
 description: "This Article Describes A Flashlight for the Modern Shutterbug: TT560 Review"
@@ -37,12 +37,16 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 4.9
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZMI PowerPack 20000
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/FttxoftMtHF3B2ZGmP2QubmOp3I=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
@@ -67,14 +71,10 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/jITowxAWHBUo5WF3Y-XI6lKQNQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-05-02d76c869b864ef0abddfe824cfbf53a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Small but powerful**
@@ -91,15 +91,15 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/vaINPELrwcWnOZDsX1ztKkCouww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-03-1530f666df824f6281040c2ae3285eb2-2e7956941b91403aa888795a7e5e2e33.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
 
 ## **Setup Process: Easy does it**
 
  There’s not much to the setup process here. Using the included USB-C to USB-C cable, simply plug one end into the power bank and the other into an AC adapter that you have handy—like one for a laptop, tablet, or[smartphone](https://www.lifewire.com/best-smartphones-4043781) . Once the four lights on the side are fully illuminated, then the battery pack is fully charged. Simply plug in devices using their respective cables to charge them using the power within the ZMI PowerPack 20000.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Charging Speed and Battery: It keeps going**
 
@@ -119,6 +119,10 @@ Lifewire / Andrew Hayward
 
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **ZMI PowerPack 20000 vs Mophie Powerstation AC**
 
  ZMI’s PowerPack 20000 is about half the size and weight of the[Mophie Powerstation AC](https://www.lifewire.com/mophie-powerstation-ac-review-5071990) (see on[Amazon](https://www.amazon.com/dp/B078GYSBVR?linkCode=ogi&th=1&psc=1&tag=lifewire-onsite-prod-20&ascsubtag=5071991%7Cn210c12f6fa164d19b551ef300c5549c018%7C) ), which has a AC power port on one end, not to mention a larger 24,000mAh cell. Those are both stellar benefits, plus the fabric-lined exterior gives it a distinctive allure. That said, Mophie’s pack sells for $200, and we’d only recommend it if you must have the AC power outlet for charging a power-hungry laptop. If the ZMI PowerPack 20000 will meet your charging needs, however, it’s a much better bargain.
@@ -128,10 +132,6 @@ Lifewire / Andrew Hayward
  **A fantastic portable laptop battery charger for nearly everyone.**
 
  It’s honestly difficult to find anything to complain about with the ZMI PowerPack 20000\. It’s powerful and does a great job of charging laptops and phones, it has enough capacity to handle those tasks with ease, it’s compact and well-designed, and the price is fantastic. It’s half the size of the giant Anker power brick that I’ve brought on my last two international trips and can handle all of the same tasks. In other words,_this_ is the power brick I’m bringing on my next trip.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -159,14 +159,21 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-navigate-the-world-of-tags-for-superior-content-performance/"><u>[New] In 2024, Navigate the World of Tags for Superior Content Performance</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-innovative-tech-the-most-advanced-5-video-recorders/"><u>[Updated] 2024 Approved Innovative Tech The Most Advanced 5 Video Recorders</u></a></li>
-<li><a href="https://blog-min.techidaily.com/flac-or-320kbps-mp3-determining-the-superior-audio-format-and-conversion-methods/"><u>FLAC or 320Kbps MP3: Determining the Superior Audio Format & Conversion Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-gptzero-can-assist-you-in-differentiating-human-and-machine-written-text/"><u>How GPTZero Can Assist You in Differentiating Human and Machine Written Text</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/memorymender-pro-contacts-videos-photos/"><u>MemoryMender Pro: Contacts, Videos, Photos</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/mobilemediamender-regaining-lost-files/"><u>MobileMediaMender: Regaining Lost Files</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/partition-revival-services-bring-back-your-data-from-inaccessible-areas/"><u>Partition Revival Services - Bring Back Your Data From Inaccessible Areas</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-time-lapse-video-editing-software-free-and-paid/"><u>The Ultimate Guide to Time-Lapse Video Editing Software (Free & Paid)</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/your-passport-to-recovered-files-free/"><u>Your Passport to Recovered Files, Free!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-8-best-tablets-for-photo-editing-worth-a-try-filmora/"><u>[Updated] 8 Best Tablets for Photo Editing Worth a Try - Filmora</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-tiktok-linking-made-simple-and-irreversible/"><u>[Updated] TikTok Linking Made Simple and Irreversible</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600269020-windows/"><u>「ステラ・データリカバリ - Windows版無償の効果的なデータ回復プログラム」</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/break-through-losses-shield-your-files-for-free/"><u>Break Through Losses - Shield Your Files for FREE</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/comprehensive-guide-to-ifixit-professional-tech-gadgets-the-ultimate-resource-for-every-diy-enthusiast/"><u>Comprehensive Guide to iFixit Professional Tech Gadgets – The Ultimate Resource for Every DIY Enthusiast</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-partition-fix-utility-extract-files-from-inaccessible-and-missing-volumes/"><u>Comprehensive Partition Fix Utility: Extract Files From Inaccessible & Missing Volumes</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskrescuemax-maximizing-raid-file-accessibility/"><u>DiskRescueMax: Maximizing RAID File Accessibility</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/easydata-revival-software-multiplatform-compatibility/"><u>EasyData Revival Software - Multiplatform Compatibility</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/efficient-hdd-cloning-interface/"><u>Efficient HDD Cloning Interface</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fixing-half-muted-content-on-twitter-live-streams/"><u>Fixing Half-Muted Content on Twitter Live Streams</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-infinix-smart-8-plus-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Infinix Smart 8 Plus To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-14-plus-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone 14 Plus Stuck On Activation Lock?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leap-into-the-future-adopting-macos-11-big-sur/"><u>In 2024, Leap Into the Future Adopting macOS 11 Big Sur</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/revive-your-deleted-drives-elite-partition-recovery-solutions-explored/"><u>Revive Your Deleted Drives: Elite Partition Recovery Solutions Explored</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-t2-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo T2 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/why-invest-in-your-future-with-german/"><u>Why Invest in Your Future with German</u></a></li>
 </ul></div>
 

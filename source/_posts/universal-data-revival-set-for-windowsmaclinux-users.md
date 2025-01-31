@@ -1,7 +1,7 @@
 ---
 title: Universal Data Revival Set - For Windows/Mac/Linux Users
-date: 2025-01-20T23:19:01.054Z
-updated: 2025-01-24T02:19:41.651Z
+date: 2025-01-27T17:17:27.007Z
+updated: 2025-01-31T22:43:28.617Z
 categories:
   - repair-tools
 description: This Article Describes Universal Data Revival Set - For Windows/Mac/Linux Users
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 * Supports NTFS, APFS, Ext4 & more file systems.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [_Free Download100% Secure_](https://tools.techidaily.com/stellardata-recovery/buy-now/) [Buy Now](https://tools.techidaily.com/stellardata-recovery/buy-now/)
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
  \*Download the free trial version on your Desktop or Laptop to scan & preview your recoverable items.
 
 ![Video Wrapper](https://www.stellarinfo.com/public/image/catalog//v6/video/Recovered-inaccessible-RAID-data-with-ease-Web.jpg) Testimonial
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Recovered inaccessible  
  RAID data with  
@@ -54,6 +58,10 @@ Techradar.pro
 
 * ![stellar logo](https://www.stellarinfo.com/images/v7/stellar_logo.svg)
 * [features Features](https://www.stellarinfo.com/public/image/catalog/v6/features.svg) Features](#features)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [how it work How it Works?](https://www.stellarinfo.com/public/image/catalog/v6/how-it-work.svg) How it Works?](#howitwork)
 * [specification Specifications](https://www.stellarinfo.com/public/image/catalog/v6/specification.svg) Specifications](#specifications)
@@ -75,19 +83,11 @@ TOP USE CASES
 
 ![Need-to-Recover-Data-from-Inaccessible-RAID](https://www.stellarinfo.com/public/image/catalog/usecase/data-recovery-toolkit/Need-to-Recover-Data-from-Inaccessible-RAID.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A RAID may turn inaccessible due to controller failure, disk errors, disk failure, etc. leading to data loss. The toolkit can rebuild the RAID & scan the RAID volume to recover data. It can also create a virtual drive to allow data recovery, if it is not feasible to rebuild the RAID.
 
  Need to Recover Data from Synology NAS?
 
 ![Need-to-Recover-Data-from-a-Crashed-System](https://www.stellarinfo.com/images/v7/Recovers-Data-from-Synology-NAS-Server.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Recovering data from a Synology NAS RAID configuration can be a challenging and delicate process. Data loss can occur on a Synology NAS due to various reasons, such as controller failure, disk errors, and system failures. The Stellar Data Recovery Toolkit can efficiently and effectively recover data from a Synology drive formatted in BTRFS.
 
@@ -103,10 +103,6 @@ TOP USE CASES
 
 ![Recovers from RAID 0, RAID 5, & RAID 6](https://www.stellarinfo.com/public/image/catalog//featureicon/toolkit-for-data-recovery/Recover-Data-from-RAID-0-RAID-5-and-RAID-6-arrays.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Recovers from RAID 0, RAID 5, & RAID 6
 
  The toolkit can reconstruct an inaccessible RAID array by using parameters such as disk order, start sector of RAID, stripe/block size, etc., and then scan the RAID volume to recover the data. Further, it can provide the probable values for RAID construction, when the parameters are unknown, thus allowing data recovery.
@@ -119,29 +115,29 @@ TOP USE CASES
 
 ![Recovers from Virtual Machine](https://www.stellarinfo.com/public/image/catalog//featureicon/toolkit-for-data-recovery/Recovers-from-Virtual-Machine.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Recovers from Virtual Machine
 
  The toolkit also recovers data from a virtual machine by mounting the VM image and scanning it like a physical storage. It can scan the visible partitions of the virtual machine or can also search and find the missing partitions, and scan those to retrieve the data. The toolkit can recover data from VMDK, VDI, VHD and VHDX images.
 
 Other Important Features
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Know your product Better
 
 ![Supports Windows, macOS, and Linux Storage](https://www.stellarinfo.com/public/image/catalog//featureicon/toolkit-for-data-recovery/Supports-Windows-macOS-and-Linux-Storage.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Supports Windows, macOS, and Linux Storage
 
  The software can recover data from Windows storage media based on NTFS, FAT16, FAT32, exFAT file system. It also supports macOS storage, including APFS, HFS, HFS+ drives. And, the tool also restores the data from Linux storage having Ext4, Ext3, & Ext2 file systems.
 
 ![Retrieves Data from Crashed System](https://www.stellarinfo.com/public/image/catalog//featureicon/toolkit-for-data-recovery/Retrieves-Data-from-Crashed-System.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Retrieves Data from Crashed System
 
@@ -161,10 +157,6 @@ Other Important Features
 
 How to Use Stellar Toolkit for Data Recovery
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Screenshots & Video
 
  Product Screenshots
@@ -177,15 +169,15 @@ Product Video
 
 [video wrapper play Watch Video How to use Stellar Toolkit for Data Recovery](https://www.stellarinfo.com/images/v7/video-wrapper-Data-recovery-toolkit-24.png) ![play](https://www.stellarinfo.com/public/image/catalog/v6/play.png) Watch Video How to use Stellar Toolkit for Data Recovery ](#register-modalv)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 AWARDS & REVIEWS
 
 ### Most Tested. Most Awarded. For Over 30 Years, We've Been Recognized As Experts
 
 ![q1](https://www.stellarinfo.com/images/v7/q1.png) ![q1](https://www.stellarinfo.com/images/v7/q2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![CNET](https://www.stellarinfo.com/image/catalog/blacktheme/Data-Recovery-Technician/awards-icon/cnet.png) ![star](https://www.stellarinfo.com/images/v7/star.png)
 
@@ -213,15 +205,15 @@ KIT GURU
 
 ![Spiceworks](https://www.stellarinfo.com/image/catalog/blacktheme/Data-Recovery-Technician/awards-icon/spicework.png) ![star](https://www.stellarinfo.com/images/v7/star.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Spiceworks
 
  Safely recover data from RAID 6, RAID 5 and RAID 0 Arrays and support ExFAT, FAT and NTFS file System.
 
 ![CNET](https://www.stellarinfo.com/image/catalog/blacktheme/Data-Recovery-Technician/awards-icon/cnet.png) ![star](https://www.stellarinfo.com/images/v7/star.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 CNET
 
@@ -287,6 +279,10 @@ USEFUL ARTICLES
 
 ![Stellar Toolkit for Data Recovery](https://www.stellarinfo.com/image/catalog/stellar_boxs/Toolkit-for-Data-Recovery-cloud-24.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### A worry-free Windows data recovery experience
 
 * Unlimited Recovery
@@ -301,10 +297,6 @@ USEFUL ARTICLES
  \*Free download to scan and preview your lost or deleted data.
 
 FIND YOUR ANSWERS
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### FAQ
 
@@ -376,6 +368,10 @@ Awards Received
 * ![NIST](https://www.stellarinfo.com/images/v7/nist.png)
 * [HIPAA Verified](https://www.stellarinfo.com/images/v7/hipa.png) ](https://www.stellarinfo.com/company/Stellar-is-HIPAA-Certified.pdf)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Stellar Official Website
 
  Stellar Data Recovery Inc.  
@@ -437,6 +433,10 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 * ![Notron](https://www.stellarinfo.com/images/v7/notron.png)
 * ![DMCA](https://www.stellarinfo.com/images/v7/dmca.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -452,22 +452,19 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-frames-to-fabulous-the-ultimate-list-of-photo-plugins/"><u>[New] 2024 Approved Frames to Fabulous The Ultimate List of Photo Plugins</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-innovative-visionaries-choice-top-10-graphics-creation-apps/"><u>[Updated] Innovative Visionaries' Choice Top 10 Graphics Creation Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-beginners-guide-to-utilizing-look-up-tables-luts/"><u>2024 Approved The Complete Beginner’s Guide to Utilizing Look-Up Tables (LUTs)</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-universal-data-restoration-software/"><u>Comprehensive Data Rescue Tool: Universal Data Restoration Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/cutting-edge-strategies-for-instagram-video-cropping/"><u>Cutting-Edge Strategies for Instagram Video Cropping</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/datarecoverer-versatile-raid-revival-software/"><u>DataRecoverer: Versatile RAID Revival Software</u></a></li>
-<li><a href="https://fox-http.techidaily.com/decoding-shake-reduction-in-photoshop-does-it-matter/"><u>Decoding Shake Reduction in Photoshop Does It Matter?</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/efficient-partition-rescue-program-revive-deleted-and-unavailable-sectors/"><u>Efficient Partition Rescue Program: Revive Deleted & Unavailable Sectors</u></a></li>
-<li><a href="https://article-helps.techidaily.com/high-quality-hd-videos-at-a-tap-top-10-android-choices-for-2024/"><u>High-Quality Hd Videos at a Tap Top 10 Android Choices for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/raid-data-recovery-software-recovers-raid-data-from-raid-0-5-and-6/"><u>RAID Data Recovery Software – Recovers RAID Data From RAID 0, 5 & 6</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/raidreclamation-suite-reclaiming-raid-systems/"><u>RaidReclamation Suite: Reclaiming RAID Systems</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/regain-access-to-missing-files-at-zero-cost/"><u>Regain Access to Missing Files at Zero Cost</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/resurrect-inaccessible-storage-areas-with-leading-edge-partition-restoration-applications/"><u>Resurrect Inaccessible Storage Areas with Leading-Edge Partition Restoration Applications</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-quintessential-setup-key-applications-for-every-twitch-creator/"><u>The Quintessential Setup: Key Applications for Every Twitch Creator</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600619111-windows-stellar-data-recovery/"><u>Windows版無料データ復元ソフト - Stellar Data Recovery</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-pinnacle-of-photography-top-10-4k-mirrorless-cams/"><u>[New] 2024 Approved Pinnacle of Photography Top 10 4K Mirrorless Cams</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-building-better-montages-a-creative-guide-for-2024/"><u>[New] Building Better Montages A Creative Guide for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-step-by-step-guide-to-perfectly-pair-videos-and-stories-for-2024/"><u>[Updated] Step-by-Step Guide to Perfectly Pair Videos and Stories for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/10-premier-igtv-horizontal-video-editors-for-2024/"><u>10 Premier IGTV Horizontal Video Editors for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/battle-of-giants-amds-epyc-cpu-doubles-up-against-nvidias-arm-powered-grace-in-multiple-performance-benchmarks/"><u>Battle of Giants: AMD's EPYC CPU Doubles Up Against NVIDIA’s ARM-Powered Grace in Multiple Performance Benchmarks</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/detailed-breakdown-of-newest-technology-innovations-toms-hardware-experts/"><u>Detailed Breakdown of Newest Technology Innovations - Tom's Hardware Experts</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/exclusive-sale-alert-high-end-prebuilt-gaming-desktop-msi-aegis-r2-featuring-rtx-4070-super-plus-intel-i7-at-an-unbeatable-price-below-1600/"><u>Exclusive Sale Alert: High-End Prebuilt Gaming Desktop – MSI Aegis R2 Featuring RTX 4070 Super + Intel I7 at an Unbeatable Price Below $1,600</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/exploring-the-samsung-galaxy-tab-s6-in-depth-analysis-of-s-pen-features-and-dex-mode-capabilities/"><u>Exploring the Samsung Galaxy Tab S6: In-Depth Analysis of S Pen Features & Dex Mode Capabilities</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/high-definition-orange-themed-wallpaper-collection-professional-stock-photos-and-graphics-by-yl-computing/"><u>High-Definition Orange Themed Wallpaper Collection - Professional Stock Photos & Graphics by YL Computing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/hiring-guide-locating-excellent-film-capturers/"><u>Hiring Guide Locating Excellent Film Capturers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-audio-capture-mastery-in-windows-10/"><u>In 2024, Audio Capture Mastery in Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-your-drivers-with-device-manager-on-windows-11-by-drivereasy-guide/"><u>Reinstall your drivers with Device Manager on Windows 11</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/the-future-of-mini-computing-arrives-meet-the-minisforum-atomman-x7-ti-boasting-an-incredible-intel-core-185h-and-intuitive-ti-touch-screen-technology/"><u>The Future of Mini Computing Arrives: Meet the MinisForum AtomMan X7 Ti, Boasting an Incredible Intel Core 185H and Intuitive Ti-Touch Screen Technology</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/toms-tech-review-expert-insights-on-hardware-innovations/"><u>Tom's Tech Review: Expert Insights on Hardware Innovations</u></a></li>
 </ul></div>
 

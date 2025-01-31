@@ -1,7 +1,7 @@
 ---
 title: "China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025"
-date: 2025-01-21T18:51:30.290Z
-updated: 2025-01-23T18:24:42.895Z
+date: 2025-01-27T18:08:59.641Z
+updated: 2025-01-31T20:22:42.187Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,20 +68,24 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-essential-iphone-selfie-tools-ranked-8-for-2024/"><u>[New] Essential iPhone Selfie Tools Ranked #8 for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-maximizing-memories-techniques-for-gameplay-recording/"><u>[Updated] 2024 Approved Maximizing Memories Techniques for Gameplay Recording</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-chromatic-coherence-helper-for-2024/"><u>[Updated] Chromatic Coherence Helper for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600614247-windowsstellar-data-recovery/"><u>「Windowsシステムから失われたデータを復元するStellar Data Recoveryフリーソフト」</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-short-sketch-storyline-setup/"><u>2024 Approved Short Sketch Storyline Setup</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-14-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 14 Pro Max in Lost Mode</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/asteroid-arsenal-skys-backup-base/"><u>Asteroid Arsenal - Sky's Backup Base</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ring-video-trailers-on-youtube-via-filmora-tools-for-2024/"><u>Mastering Video Trailers on YouTube via Filmora Tools for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reinstate-lost-data-via-win-recoverer-pro/"><u>Reinstate Lost Data via WIN Recoverer Pro</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphones-standby-top-4-solutions/"><u>Revive Your iPhone's Standby: Top 4 Solutions</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600417752-stellar-data-recovery-windows/"><u>Stellar Data Recovery: Windows用の人気無料データ復元ツール</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/triple-os-file-finder-and-restoration-utility/"><u>Triple OS File Finder & Restoration Utility</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/windows-data-detective-restore-operations/"><u>Windows Data Detective - Restore Operations</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/windows-data-recovery-software-to-recover-lost-data/"><u>Windows Data Recovery Software to Recover Lost Data</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-advancing-photo-quality-on-snapchat-via-zoom/"><u>[New] Advancing Photo Quality on Snapchat via Zoom</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-pinnacle-creations-summary-studio-25-detailed-assessment-2023/"><u>[Updated] 2024 Approved Pinnacle Creations Summary Studio 25 Detailed Assessment, 2023</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-systematic-upgrade-procedures-for-macos-sierra-users/"><u>[Updated] 2024 Approved Systematic Upgrade Procedures for macOS Sierra Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-how-to-pick-a-preferred-screen-recorder-app/"><u>[Updated] How to Pick a Preferred Screen Recorder App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-innovative-approaches-to-choosing-a-dynamic-podcast-name/"><u>5 Innovative Approaches to Choosing a Dynamic Podcast Name</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-universal-data-restoration-software/"><u>Comprehensive Data Rescue Tool: Universal Data Restoration Software</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/datarecoverer-versatile-raid-revival-software/"><u>DataRecoverer: Versatile RAID Revival Software</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/efficient-partition-rescue-program-revive-deleted-and-unavailable-sectors/"><u>Efficient Partition Rescue Program: Revive Deleted & Unavailable Sectors</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ting-video-branding-the-art-and-science-of-youtube-image-designs-for-2024/"><u>Elevating Video Branding The Art and Science of Youtube Image Designs for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/file-rejuvenation-toolkit-for-windows-os/"><u>File Rejuvenation Toolkit for Windows OS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-listen-to-podcasts-on-your-iphone/"><u>How to Listen to Podcasts on Your iPhone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-master-mac-gifs-top-10-recording-tools/"><u>In 2024, Master Mac GIFs Top 10 Recording Tools</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/raid-data-recovery-software-recovers-raid-data-from-raid-0-5-and-6/"><u>RAID Data Recovery Software – Recovers RAID Data From RAID 0, 5 & 6</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/raidreclamation-suite-reclaiming-raid-systems/"><u>RaidReclamation Suite: Reclaiming RAID Systems</u></a></li>
+<li><a href="https://win-bits.techidaily.com/restoring-files-after-swift-formatting-top-5-effective-strategies-explored/"><u>Restoring Files After Swift Formatting: Top 5 Effective Strategies Explored</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/resurrect-inaccessible-storage-areas-with-leading-edge-partition-restoration-applications/"><u>Resurrect Inaccessible Storage Areas with Leading-Edge Partition Restoration Applications</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/secure-disk-extraction-suite/"><u>Secure Disk Extraction Suite</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600612670-stellar-data-recovery-windows/"><u>Stellar Data Recovery: Windowsでのデータ復旧ソフトウェア - 本日より無料利用可能</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-step-by-step-guide-how-to-translate-twitter-video-easily/"><u>Updated 2024 Approved Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
 </ul></div>
 

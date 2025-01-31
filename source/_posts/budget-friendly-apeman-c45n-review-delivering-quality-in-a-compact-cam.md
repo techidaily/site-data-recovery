@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Apeman C45n Review: Delivering Quality in a Compact Cam"
-date: 2025-01-21T00:03:56.944Z
-updated: 2025-01-24T02:58:19.077Z
+date: 2025-01-28T21:18:23.400Z
+updated: 2025-01-31T19:22:00.702Z
 categories:
   - BestProducts
 description: "This Article Describes Budget-Friendly Apeman C45n Review: Delivering Quality in a Compact Cam"
@@ -13,16 +13,12 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Xbox Series S
 
 ![Xbox Series S](https://www.lifewire.com/thmb/AIM68phvq5X0vRf1yv3G8I9S2ic=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hero_Square-377546108feb4adaa3226c0ee22e1238.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -49,16 +45,12 @@ Lifewire / Jeremy Laukkonen
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Xbox Series S
 
 ![Xbox Series S](https://www.lifewire.com/thmb/wlG_GrSmQPVex-VRt3ap4hsTP-s=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hero_Square-377546108feb4adaa3226c0ee22e1238.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -86,17 +78,29 @@ Lifewire / Jeremy Laukkonen
 
  This console is remarkably compact and has a surprisingly low price point. Gamers looking for a[4K UHD in HDR](https://www.lifewire.com/difference-between-hdr-and-4k-4176961) experience will need to pay a premium for the Series X, but the Xbox Series S offers an enticing alternative if you’re looking to save some money or haven’t yet made the jump to 4K.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Sleek and compact**
 
  The Xbox Series S is small, and it's almost impossible to oversell that point. I had seen pictures and videos of the console and the spec sheet, but I was still surprised at how compact this thing was when I unboxed it. It's smaller than the Xbox One S, and Microsoft bills it as "our smallest Xbox ever." That's especially noteworthy since Microsoft and Sony went exceptionally big with their flagship consoles, the Series X and PlayStation 5.
 
 ![Xbox Series S](https://www.lifewire.com/thmb/3-mUIkkRYilM5F2tvCYMPXtW1Ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-04d996bcdfbb489d84e8945e4c475713.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jeremy Laukkonen
 
  The overall form factor of the Series S is similar to the Xbox One S, but the Series S lacks an optical drive and includes a massive circular vent on one side. This striking design choice has drawn comparisons to a speaker and a washing machine. It also bears a passing resemblance to Microsoft’s[adaptive controller](https://www.lifewire.com/what-is-the-xbox-adaptive-controller-4707753) , which is boxy, white, and features two large black circular pads. This aesthetic might not be for everyone, but I like how it stands next to my television.
 
  Aside from the bold vent grill, the Series S doesn’t break any new ground regarding design choices. It has sturdy rubber feet on two sides, so you can lay it flat or stand it up on end, as has become more or less standard with home consoles. It feels pretty sturdy in both positions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup Process: Easier than ever before**
 
@@ -160,10 +164,6 @@ Lifewire / Jeremy Laukkonen
 
  So if you go with an external USB drive, you'll only be able to play Xbox One, Xbox 360, and original Xbox games stored on it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Internet Connectivity: Fast when wired, but Wi-Fi is a mixed bag**
 
  With all those massive games and the fact that the Series S is a digital-only console, you will spend a lot of time downloading. The Series S has built-in Wi-Fi and an Ethernet port, so you have options, but a wired connection is the way to go here.
@@ -201,10 +201,14 @@ Lifewire / Jeremy Laukkonen
 ![Xbox Series S](https://www.lifewire.com/thmb/MZdEnnFWPzhGzv_P5GO8byAY5qI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3-dd9458b294e74205acad2ff6fee33913.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Jaw-droppingly low**
 
@@ -240,10 +244,6 @@ Lifewire / Jeremy Laukkonen
 
 [Nintendo Switch Lite Review](https://www.lifewire.com/nintendo-switch-lite-review-4788015)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specs
 
 * Product Name  Xbox Series S
@@ -276,21 +276,18 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-step-into-the-limelight-creating-an-authentic-self-replica-on-tiktok-for-2024/"><u>[New] Step Into the Limelight Creating an Authentic Self-Replica on TikTok for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-video-anonymization-strategies-for-2024/"><u>[New] Video Anonymization Strategies for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-capturing-heights-in-focus-examining-the-mavic-pro/"><u>[Updated] Capturing Heights in Focus Examining the Mavic Pro</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-cold-climates-hot-wins-beijing-highlights/"><u>[Updated] Cold Climates, Hot Wins Beijing Highlights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-focus-sharpening-a-selective-approach-to-photos/"><u>2024 Approved Focus Sharpening A Selective Approach to Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hot-oculus-vr-games-that-everyones-playing/"><u>2024 Approved Hot Oculus VR Games That Everyone's Playing</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600190521-stellar-data-recovery-windows/"><u>迅速かつ信頼性が高いStellar Data Recovery - 無料でWindows環境における重要データを救う方法</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/multifaceted-data-revival-system-advanced-tech-for-total-file-recovery/"><u>Multifaceted Data Revival System: Advanced Tech for Total File Recovery</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/nebula-file-nexus-interstellar-recovery-portal/"><u>Nebula File Nexus - Interstellar Recovery Portal</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/raidrestore-solutions-diverse-raid-recovery/"><u>RaidRestore Solutions: Diverse RAID Recovery</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-data-recovery-windows/"><u>Stellar Data Recovery(ステラ・データリカバリ): Windows用無料プログラムで、簡単に安全なデータ修復が可能</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/step-by-step-guide-mp3-to-youtube-live-streaming-3-phases/"><u>Step-By-Step Guide MP3 to YouTube Live Streaming [3 Phases]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-addressing-serious-bugs-and-crashes-in-black-ops-4/"><u>Troubleshooting Steps: Addressing Serious Bugs and Crashes in Black Ops 4</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/versatile-data-revival-suite-specialized-software-expertise-for-all-forms-of-digital-information/"><u>Versatile Data Revival Suite: Specialized Software Expertise for All Forms of Digital Information</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600720250-your-passport-to-recovered-files-free/"><u>Your Passport to Recovered Files, Free</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-clandestine-fb-live-observer/"><u>[New] 2024 Approved Clandestine FB Live Observer</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-tracing-the-flow-of-money-in-consumer-opinions/"><u>[New] Tracing the Flow of Money in Consumer Opinions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-fuel-ambition-with-these-10-movie-masterpieces/"><u>[Updated] 2024 Approved Fuel Ambition with These 10 Movie Masterpieces</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-5-elite-webcams-offering-clear-visuals-and-inbuilt-mics/"><u>2024 Approved 5 Elite Webcams Offering Clear Visuals & Inbuilt Mics</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-rescue-efficient-software-solutions-for-reconstructing-lost-or-corrupt-disk-partitions/"><u>Data Rescue: Efficient Software Solutions for Reconstructing Lost or Corrupt Disk Partitions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-find-x7-ultra-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Oppo Find X7 Ultra Pattern Lock Screen</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-leap-towards-youtube-dominance-with-proven-innovative-techniques/"><u>In 2024, Leap Towards YouTube Dominance with Proven, Innovative Techniques</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/iphone-restoration-mastermind-unlock-data-peacefully/"><u>IPhone Restoration Mastermind: Unlock Data Peacefully</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/melodic-movies-the-art-of-making-musical-reels/"><u>Melodic Movies The Art of Making Musical Reels</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/step-by-step-processes-for-adjusting-video-size-on-both-windows-and-mac-systems/"><u>Step-by-Step Processes for Adjusting Video Size on Both Windows and Mac Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-6-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone 6 Plus</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unseen-records-rediscovered-mac-data-rescue-pro/"><u>Unseen Records Rediscovered: Mac Data Rescue Pro</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600578736-windows/"><u>ステラ・データレコヴァリー: Windowsで使用可能な無料のデータ回復ツール</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Power Shift: Lenovo's Adoption of MoDT Tech for Unleashing the Potential of Legion 7000K Gaming Towers in China"
-date: 2025-01-19T11:50:12.166Z
-updated: 2025-01-23T21:18:10.421Z
+date: 2025-01-25T16:21:02.795Z
+updated: 2025-01-31T18:01:43.751Z
 tags:
   - desktop
 categories:
@@ -16,6 +16,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
  By constructing your own PC from components, you will likely save hundreds of dollars over the cost of buying a prebuilt system. For example, right now, getting a desktop with specs similar to those in our best $1,000 PC build will cost you[$1,439 or more at Best Buy](<https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3FskuId%3D6553248%26publisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-1203878354640289519%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fcyberpowerpc-gamer-master-gaming-desktop-amd-ryzen-7-7700-32gb-memory-nvidia-geforce-rtx-4060-ti-2tb-ssd-white%252F6553248.p%253FskuId%253D6553248%26article%255Fname%3DBest%2520PC%2520Builds%2520for%2520Gaming%25202024%253A%2520From%2520%2524500%2520Budgets%2520to%2520%25244%252C000%252B%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fbest-picks%252Fbest-pc-builds-gaming>) .
 
  To help you assemble the best PC build for gaming or productivity that you can get, we've created recommended parts lists for every budget: from a super-cheap sub-$500 system to an affordable sub-$1,000 build to a $4,000+ dream machine for those with deep pockets.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Picking and Pricing the Best PC Builds
 
@@ -94,7 +98,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![14400 CPU vs competition](https://cdn.mos.cms.futurecdn.net/FVyBrR3Fkm8RXeguWat4ik-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -105,6 +109,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![1080p GPUs Ranked](https://cdn.mos.cms.futurecdn.net/ktyz8PAoeeySeFAwDS7RGh-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The card can also do some ray tracing as it averaged 41.7 fps on 1080p ultra with ray tracing enabled. Forget about playing in 2K with ray tracing as that only gave us 25.8 fps.
@@ -112,10 +120,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
  For our storage, we're going with the 1TB Silicon Power UD90\. This budget-oriented PCIe 4.0 SSD can't beat the top-of-the-line drives like the Samsung 990 Pro or[WD](https://www.tomshardware.com/tag/western-digital) Black SN850X, but it has really strong performance for the money, promising sequential reads and writes of 4,800 and 4,200 MBps.
 
 ![Crucial P5 Plus Tests](https://cdn.mos.cms.futurecdn.net/dVtKieHEMPgzXkpEJa7jcm-320-80.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -126,6 +130,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ## Best $1,000 PC Build for Gaming
 
 ![Phanteks XT Pro](https://cdn.mos.cms.futurecdn.net/AeCzMV4DUqQFiBnV2hPQuf-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Newegg)
 
@@ -151,10 +159,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![CPU 1080p performance for Ryzen 7 5700X3D](https://cdn.mos.cms.futurecdn.net/FubLpBjdNUCy6aXRouBReZ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Newegg)
 
  To support our Ryzen 7 57003XD, we're using a Gigabyte B550 UD AC motherboard. This board has built-in Wi-Fi 6 and it also has Q-Flash, which allows you to[update the BIOS](https://www.tomshardware.com/how-to/update-bios-on-a-pc) , before you install the CPU. This may be necessary as the 5700X3D just came out a few months ago.
@@ -167,22 +171,22 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![3DMark Storage for WD SN580](https://cdn.mos.cms.futurecdn.net/YduTXHRsvK8iHR2sEsSWHH-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  We're going with the[Phanteks XT Pro](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-3971734713525887260%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fblack-phanteks-xt-mid-tower%252Fp%252F11-854-132) as our case, because it has a quality, mesh design, room for up to a 360mm AIO up top and the ability to support back-connecting motherboards, should you get one in the future. For $20, you can get the[Phanteks XT Pro Ultra](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2132366878660750340%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fblack-phanteks-xt-mid-tower%252Fp%252FN82E16811854133) , which comes with four ARGB fans.
 
  Finally, we've stepped up to a 750-watt power supply and we're going with Corsair CX750M, which is 80+ Bronze certified and semi-modular. You can get a modular PSU or one that's 80+ Gold certified for a bit more, but that's money you don't need to spend at this price point.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best $1,500 PC Build for Gaming
 
 ![Lian Li Lancool 216](https://cdn.mos.cms.futurecdn.net/Km4g6hf6hy2XkxhB88oxBR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -227,17 +231,9 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  Our power supply is a 750-watt Corsair CX750M. This 80 Plus Gold certified PSU packs enough power to support our GPU with plenty of juice to spare. However, it's not fully modular, with some of the wires being built-in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best $2000 PC Build for Gaming
 
 ![Hyte Y40](https://cdn.mos.cms.futurecdn.net/4uhnTrJWRufEuBFQzenypi-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -289,6 +285,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Fractal Design North XL](https://cdn.mos.cms.futurecdn.net/gohZoiw9QykbPm5kgrhfbi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Swipe to scroll horizontally
@@ -314,7 +314,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![RTX 4090 Performance](https://cdn.mos.cms.futurecdn.net/mKv5emaUBYKBRQ8URPsxCY-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -335,15 +335,15 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Samsung 990 Pro 4TB Benchmarks](https://cdn.mos.cms.futurecdn.net/GArKvY8BSc22ZhDRwWyr2C-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We decided to go with a case that has a unique, premium look in the[Fractal Design North XL.](https://www.tomshardware.com/pc-components/pc-cases/fractal-design-north-xl-review) With its wood paneled front, this chassis looks more like a mid-century modern piece of furniture than a gaming PC, which is a nice subtle touch. However, it also has a tempered glass side panel which you can use to show off all of your RGB components (or you can buy it with a solid panel and no window). It also has fantastic thermal performance and plenty of room for more drives and fans. The XL model can accommodate up to an E-ATX motherboard, giving you plenty of room for future upgrades.
 
  With these high-end components, we don't want to skimp on the power supply, and having something that's fit for a future graphics card upgrade makes sense. We're going with a full 1000-watts of power and the Corsair HX1000\. This power supply is 80+ Platinum certified and fully modular.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Finding Discounts on the Best PC Components
 
@@ -364,24 +364,16 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-a-guide-to-crafting-engaging-videos-in-adobe-premiere-for-2024/"><u>[New] A Guide to Crafting Engaging Videos in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-fusing-genres-a-youtube-music-strategy/"><u>[New] Fusing Genres A YouTube Music Strategy</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-exhilarating-circuit-trials-selecting-the-top-5-titles/"><u>[Updated] 2024 Approved Exhilarating Circuit Trials Selecting the Top 5 Titles</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/budget-friendly-apeman-c45n-review-delivering-quality-in-a-compact-cam/"><u>Budget-Friendly Apeman C45n Review: Delivering Quality in a Compact Cam</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/chinas-strategic-plan-elevating-state-run-supercomputing-power-to-300-exaflops-by-2025/"><u>China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-hardware-guides-with-tom-your-go-to-tech-resource/"><u>Comprehensive Hardware Guides with Tom - Your Go-To Tech Resource</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/discover-the-finest-cell-phone-contracts-for-elders-our-picks-for-202n4/"><u>Discover the Finest Cell Phone Contracts for Elders - Our Picks for 202N4</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/discover-which-prebuilt-desktop-for-gamers-matches-your-needs-best/"><u>Discover Which Prebuilt Desktop for Gamers Matches Your Needs Best</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/expert-insights-on-halo-bolts-portable-chargerjump-starter-performance-evaluation/"><u>Expert Insights on Halo Bolt's Portable Charger/Jump Starter Performance Evaluation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/videos-to-vault-ajays-revenue-journey-on-youtube-for-2024/"><u>From Videos to Vault AJay’s Revenue Journey on YouTube for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/how-the-cyberpowerpc-gamer-xtreme-outperforms-a-review-of-a-cost-effective-yet-powerful-gaming-rig-with-plenty-of-upgrade-space/"><u>How the CyberPowerPC Gamer Xtreme Outperforms: A Review of a Cost-Effective Yet Powerful Gaming Rig with Plenty of Upgrade Space</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-the-ultimate-guide-for-effortless-youtube-shorts-design/"><u>In 2024, The Ultimate Guide for Effortless YouTube Shorts Design</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-viral-visualization-top-story-filter-guide/"><u>In 2024, Viral Visualization Top Story Filter Guide</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/restoring-your-lost-documents-a-step-by-step-guide-for-windows-11-users/"><u>Restoring Your Lost Documents: A Step-by-Step Guide for Windows 11 Users</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/revolutionizing-voice-capture-a-compreenas-guide-to-facetime-recording/"><u>Revolutionizing Voice Capture A Compreenas Guide to FaceTime Recording</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-discords-voice-chat-issues/"><u>Troubleshooting Guide: How to Fix Discord's Voice Chat Issues</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unbeatable-offer-on-the-alienware-aurora-r16-get-a-free-upgrade-to-rtx-4070-super-and-save-200/"><u>Unbeatable Offer on the Alienware Aurora R16 – Get a Free Upgrade to RTX 4070 Super & Save $200!</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unveiling-the-benefits-of-garmin-venu-your-intelligent-partner-in-nonstop-activity-and-health-tracking/"><u>Unveiling the Benefits of Garmin Venu - Your Intelligent Partner in Nonstop Activity and Health Tracking</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-honor-90-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-youtube-copyright-claims-and-how-to-deal-with-a-strike/"><u>[New] 2024 Approved YouTube Copyright Claims and How to Deal with a Strike?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-fix-the-green-screen-on-youtube-on-mac-for-2024/"><u>[New] How to Fix the Green Screen on YouTube on Mac for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mastering-snapchat-share-tweets-via-video/"><u>[New] Mastering Snapchat Share Tweets via Video</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-visual-storytelling-the-20-key-strategies-for-powerful-fb-video-marketing-for-2024/"><u>[Updated] Unlocking Visual Storytelling The 20 Key Strategies for Powerful FB Video Marketing for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600423390-stellar-data-recovery-windows/"><u>無料のStellar Data Recoveryソフトウェア: Windows用データを完全に復元できます</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-american-karaoke-entertainment-sing-and-dance-away-for-less-than-150/"><u>Affordable American Karaoke Entertainment: Sing and Dance Away for Less than $150!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-salvage-solution-for-windows-devices/"><u>Data Salvage Solution for Windows Devices</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskhaven-uncovering-raid-lost-files/"><u>DiskHaven: Uncovering RAID Lost Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/photo-and-file-retrieval-for-mobile-devices/"><u>Photo and File Retrieval for Mobile Devices</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/recoverraid-pro-restoring-raid-disks/"><u>RecoverRAID Pro: Restoring RAID Disks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>What is Geo-Blocking and How to Bypass it On Apple iPhone 13 mini? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Battle of Giants: AMD's EPYC CPU Doubles Up Against NVIDIA’s ARM-Powered Grace in Multiple Performance Benchmarks"
-date: 2025-01-17T21:38:57.609Z
-updated: 2025-01-24T11:12:56.573Z
+date: 2025-01-24T19:47:41.658Z
+updated: 2025-01-31T19:48:12.979Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,18 +60,20 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-mac-screen-recorders-ranked-a-comprehensive-analysis/"><u>[Updated] 2024 Approved Top Mac Screen Recorders Ranked A Comprehensive Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-setup-focusrite-scarlett-nv2i-2nd-gen-windows-drivers-available/"><u>Easy Setup: Focusrite Scarlett Nv2i 2Nd Gen Windows Drivers Available!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/easy-tips-and-tricks-for-effective-pc-backup-using-seagates-extermal-storage-solutions/"><u>Easy Tips & Tricks for Effective PC Backup Using Seagate's Extermal Storage Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-criteria-for-picking-the-perfect-energy-facility/"><u>Essential Criteria for Picking the Perfect Energy Facility</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/online-services-for-youtube-subtitles-download/"><u>Free Online Services for YouTube Subtitles Download</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-breaking-barriers-watching-live-events-on-your-roku-screen/"><u>In 2024, Breaking Barriers Watching Live Events on Your Roku Screen</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/nebulanet-recovery/"><u>NebulaNet Recovery</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/omnirecovery-software-windows-mac-and-linux-support/"><u>OmniRecovery Software – Windows, Mac & Linux Support</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/precisionstar-restoration/"><u>PrecisionStar Restoration</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-players-in-immersive-vision-sets/"><u>Top Players in Immersive Vision Sets</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/transformez-vos-videos-dts-en-fluxing-gratuit-avec-movavis-online-convertisseur-facile-et-rapide/"><u>Transformez Vos Vidéos DTS en Fluxing Gratuit Avec Movavi's Online Convertisseur - Facile Et Rapide !</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/universal-data-recuperation-program-brings-back-all-your-valuable-files/"><u>Universal Data Recuperation Program – Brings Back All Your Valuable Files</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/universal-files-rescue-suite-windowsmaclinux-edition/"><u>Universal Files Rescue Suite – Windows/Mac/Linux Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-decoding-the-audience-who-viewed-your-insta-post/"><u>[Updated] In 2024, Decoding the Audience Who Viewed Your Insta Post?</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/cracking-the-code-fixing-call-of-duty-warzone-screen-glitches/"><u>Cracking the Code: Fixing Call of Duty: Warzone Screen Glitches</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1723010914128-expert-tips-for-fixing-hitman-3-error-connectivity-trouble-no-more/"><u>Expert Tips for Fixing Hitman 3 Error: Connectivity Trouble No More!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/fixing-issues-why-is-my-destiny-2-microphone-not-detected/"><u>Fixing Issues: Why Is My Destiny 2 Microphone Not Detected?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share/Fake Location on WhatsApp for Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-integrating-text-overlays-into-social-media-streaming/"><u>In 2024, Integrating Text Overlays Into Social Media Streaming</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-audio-adjustment-on-youtube-devices/"><u>Mastering Audio Adjustment on YouTube Devices</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/roblox-audio-not-working-solve-the-mute-mystery-in-windows-11-and-10-environments/"><u>Roblox Audio Not Working? Solve the Mute Mystery in Windows 11 and 10 Environments</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1723016632510-skype-voice-troubleshooting-on-windows-11-get-your-mic-working-again/"><u>Skype Voice Troubleshooting on Windows 11 - Get Your Mic Working Again!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/solving-performance-issues-with-avatar-frontiers-of-pandora-how-to-stop-the-game-from-lagging/"><u>Solving Performance Issues with 'Avatar: Frontiers of Pandora': How to Stop the Game From Lagging</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-enabling-and-using-your-phones-guest-user-feature/"><u>Step-by-Step Guide: Enabling and Using Your Phone's Guest User Feature</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/troubleshoot-and-resolve-sound-problems-handling-failed-to-generate-sound/"><u>Troubleshoot and Resolve Sound Problems: Handling 'Failed to Generate Sound'</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-adjusting-file-deletion-warnings/"><u>Understanding & Adjusting File Deletion Warnings</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/unlock-the-potential-of-cryptocurrency-management-with-yl-softwares-address-balance-audit-tool-explained/"><u>Unlock the Potential of Cryptocurrency Management with YL Software’s Address Balance Audit Tool Explained</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone X? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Compact Computing Redefined: Meet the MinisForum AtomMan X7, Equipped with Intel Core I3-1850U & Responsive Touch Interface"
-date: 2025-01-19T21:28:00.618Z
-updated: 2025-01-24T03:20:05.428Z
+date: 2025-01-25T20:19:11.355Z
+updated: 2025-01-31T22:51:36.254Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,22 +89,24 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/o-global-with-music-transform-your-spotify-lists-into-youtube-videos-for-2024/"><u>[New] Go Global with Music Transform Your Spotify Lists Into YouTube Videos for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-minicam-snapshot-review-and-substitutes/"><u>[New] In 2024, MiniCam Snapshot Review and Substitutes</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-next-level-mac-cam-apps-avoiding-the-bandicamp-route/"><u>[Updated] 2024 Approved Next-Level Mac Cam Apps Avoiding the Bandicamp Route</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-detective-free-recovery-expertise/"><u>Data Detective – Free Recovery Expertise</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-sony-xperia-1-v-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Sony Xperia 1 V to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Passcode Screen?</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/itech-data-rescue-toolkit-retrieval-made-easy-and-reliable/"><u>ITech Data Rescue Toolkit: Retrieval Made Easy & Reliable</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/raidredeemer-adept-at-raid-data-restoration/"><u>RaidRedeemer: Adept at RAID Data Restoration</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/secure-recovery-system-undo-file-deletion-on-mac/"><u>Secure Recovery System: Undo File Deletion on Mac</u></a></li>
-<li><a href="https://win-superb.techidaily.com/simplified-steps-to-safely-wiping-your-hard-drive-on-any-version-of-windows/"><u>Simplified Steps to Safely Wiping Your Hard Drive on Any Version of Windows</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-info-renewal/"><u>Stellar Info Renewal</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/supernova-safehouse-intergalactic-file-finder/"><u>Supernova Safehouse - Intergalactic File Finder</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/windows-stellar/"><u>Windows 用の失われたファイルを復元する Stellar データリカバリ -無料版でも利用可能</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600270207-windowsstellar-data-recovery/"><u>Windows用無料のStellar Data Recoveryソフトでデータを安全に復元</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unleashing-creativity-how-to-start-live-on-tiktok-via-computer/"><u>[New] 2024 Approved Unleashing Creativity How to Start Live on TikTok Via Computer</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-crafting-an-epic-tiktok-farewell-sequence/"><u>[New] Crafting An Epic TikTok Farewell Sequence</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-craft-visionary-videos-from-start-to-finish-using-youtube-studio-editor/"><u>[New] In 2024, Craft Visionary Videos From Start to Finish Using YouTube Studio Editor</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-grasping-your-youtube-popularity-with-precision/"><u>[New] In 2024, Grasping Your YouTube Popularity with Precision</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-optimal-audio-options-for-online-speakers/"><u>[New] In 2024, Optimal Audio Options for Online Speakers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-gameglasses-glimpse-guide/"><u>[Updated] GameGlasses Glimpse Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-leveraging-snap-functions-boosting-virtual-interaction-during-meets-for-2024/"><u>[Updated] Leveraging Snap Functions Boosting Virtual Interaction During Meets for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600584289-windows-stellar-data-recovery/"><u>「無料で使える、高性能なWindows Stellar Data Recoveryデータ回復ツール」</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/complete-guide-to-restoring-unreachable-hard-drive-sections-using-cutting-edge-software-solutions/"><u>Complete Guide to Restoring Unreachable Hard Drive Sections Using Cutting-Edge Software Solutions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-guide-to-fixing-and-accessing-deleted-data-segments-with-specialized-applications/"><u>Comprehensive Guide to Fixing and Accessing Deleted Data Segments with Specialized Applications</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/dont-panic-over-lost-partitions-reliable-software-to-retrieve-deleted-disk-segments/"><u>Don't Panic Over Lost Partitions: Reliable Software to Retrieve Deleted Disk Segments</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/effortless-file-restoration-toolkit-complimentary/"><u>Effortless File Restoration Toolkit – Complimentary</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuit-mp4-versie-wmv-online-convertisseur-video-rapide-de-movavi/"><u>Gratuit MP4 Versie WMV Online - Convertisseur Vidéo Rapide De Movavi</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/multios-file-finder-toolkit-quick-data-restoration/"><u>MultiOS File Finder Toolkit – Quick Data Restoration</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/premier-platforms-to-rework-classic-ps3-titles/"><u>Premier Platforms to Rework Classic PS3 Titles</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unified-data-salvage-suite-windowsmaclinux-compatible/"><u>Unified Data Salvage Suite – Windows/Mac/Linux Compatible</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universedata-revival-center/"><u>UniverseData Revival Center</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unrivaled-file-resurrection-platform-expertly-engineered-for-retrieving-any-type-of-digital-information/"><u>Unrivaled File Resurrection Platform: Expertly Engineered for Retrieving Any Type of Digital Information</u></a></li>
 </ul></div>
 
