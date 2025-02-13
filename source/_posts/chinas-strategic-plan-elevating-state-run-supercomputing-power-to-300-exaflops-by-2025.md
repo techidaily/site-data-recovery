@@ -1,7 +1,7 @@
 ---
 title: "China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025"
-date: 2025-01-27T18:08:59.641Z
-updated: 2025-01-31T20:22:42.187Z
+date: 2025-02-09T07:05:25.875Z
+updated: 2025-02-13T05:37:08.964Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,24 +68,17 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-advancing-photo-quality-on-snapchat-via-zoom/"><u>[New] Advancing Photo Quality on Snapchat via Zoom</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-pinnacle-creations-summary-studio-25-detailed-assessment-2023/"><u>[Updated] 2024 Approved Pinnacle Creations Summary Studio 25 Detailed Assessment, 2023</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-systematic-upgrade-procedures-for-macos-sierra-users/"><u>[Updated] 2024 Approved Systematic Upgrade Procedures for macOS Sierra Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-how-to-pick-a-preferred-screen-recorder-app/"><u>[Updated] How to Pick a Preferred Screen Recorder App</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/5-innovative-approaches-to-choosing-a-dynamic-podcast-name/"><u>5 Innovative Approaches to Choosing a Dynamic Podcast Name</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-universal-data-restoration-software/"><u>Comprehensive Data Rescue Tool: Universal Data Restoration Software</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/datarecoverer-versatile-raid-revival-software/"><u>DataRecoverer: Versatile RAID Revival Software</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/efficient-partition-rescue-program-revive-deleted-and-unavailable-sectors/"><u>Efficient Partition Rescue Program: Revive Deleted & Unavailable Sectors</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ting-video-branding-the-art-and-science-of-youtube-image-designs-for-2024/"><u>Elevating Video Branding The Art and Science of Youtube Image Designs for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/file-rejuvenation-toolkit-for-windows-os/"><u>File Rejuvenation Toolkit for Windows OS</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-listen-to-podcasts-on-your-iphone/"><u>How to Listen to Podcasts on Your iPhone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-master-mac-gifs-top-10-recording-tools/"><u>In 2024, Master Mac GIFs Top 10 Recording Tools</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/raid-data-recovery-software-recovers-raid-data-from-raid-0-5-and-6/"><u>RAID Data Recovery Software – Recovers RAID Data From RAID 0, 5 & 6</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/raidreclamation-suite-reclaiming-raid-systems/"><u>RaidReclamation Suite: Reclaiming RAID Systems</u></a></li>
-<li><a href="https://win-bits.techidaily.com/restoring-files-after-swift-formatting-top-5-effective-strategies-explored/"><u>Restoring Files After Swift Formatting: Top 5 Effective Strategies Explored</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/resurrect-inaccessible-storage-areas-with-leading-edge-partition-restoration-applications/"><u>Resurrect Inaccessible Storage Areas with Leading-Edge Partition Restoration Applications</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/secure-disk-extraction-suite/"><u>Secure Disk Extraction Suite</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600612670-stellar-data-recovery-windows/"><u>Stellar Data Recovery: Windowsでのデータ復旧ソフトウェア - 本日より無料利用可能</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-step-by-step-guide-how-to-translate-twitter-video-easily/"><u>Updated 2024 Approved Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-quick-guide-downloading-and-setting-up-vrecord-for-2024/"><u>[New] Quick Guide Downloading & Setting Up VRecord for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-quick-fix-efficient-use-of-the-eraser-in-psx-for-2024/"><u>[Updated] The Quick Fix Efficient Use of the Eraser in PSX for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlock-youtube-potential-with-top-igtv-editors-for-2024/"><u>[Updated] Unlock YouTube Potential with Top IGTV Editors for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-paving-the-way-for-individuality-in-the-digital-age-your-youtube-journey/"><u>2024 Approved Paving the Way for Individuality in the Digital Age Your YouTube Journey</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/arrayasylum-sanctuary-for-scrambled-raids/"><u>ArrayAsylum: Sanctuary for Scrambled RAIDs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/chip-vonburg-ascends-as-new-leader-in-strategic-customer-success-at-abbyy/"><u>Chip vonBurg Ascends as New Leader in Strategic Customer Success at ABBYY</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/efficient-partition-rescue-apps-retrieve-accidentally-deleted-sections-of-your-hard-drive/"><u>Efficient Partition Rescue Apps: Retrieve Accidentally Deleted Sections of Your Hard Drive</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-bard-ai-enhancements-revealed-at-google-io-2023-the-top-7-innovations-you-cant-miss/"><u>Explore Bard AI Enhancements Revealed at Google I/O 2023 - The Top 7 Innovations You Can't Miss</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/multi-format-expert-data-retrieval-application-designed-to-resurrect-any-lost-digital-files/"><u>Multi-Format Expert Data Retrieval Application – Designed to Resurrect Any Lost Digital Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-ftdi-driver-conflicts-restoring-memory-checks-and-data-safety/"><u>Resolving FTDI Driver Conflicts: Restoring Memory Checks and Data Safety</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/simplifying-video-preservation-with-3-key-practices/"><u>Simplifying Video Preservation with 3 Key Practices</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/stellar-data-recovery-data-recovery-software-free-download/"><u>Stellar Data Recovery: Data Recovery Software Free Download</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Future of Music Programming: Musicians Can Now Own a MicroPython Tulip Computer for Under $60"
-date: 2025-01-29T17:35:49.222Z
-updated: 2025-01-31T18:13:14.774Z
+date: 2025-02-06T21:51:59.413Z
+updated: 2025-02-12T16:02:08.177Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,21 +76,24 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-proven-strategies-for-device-screening/"><u>[New] Proven Strategies for Device Screening</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-ultimate-guide-to-vlogging-with-12-best-flip-screen-cameras/"><u>[New] The Ultimate Guide to Vlogging with 12 Best Flip-Screen Cameras</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-easy-routines-for-documenting-instagram-stories/"><u>[Updated] In 2024, Easy Routines for Documenting Instagram Stories</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-breaking-down-the-elements-of-a-youtube-shorts-template/"><u>2024 Approved Breaking Down the Elements of a YouTube Shorts Template</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-skys-dynamic-range-masterpieces-website-roundup/"><u>2024 Approved Sky's Dynamic Range Masterpieces - Website Roundup</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/android-data-recovery-software-to-recover-lost-photos-videos-contacts-etc/"><u>Android Data Recovery Software to Recover Lost Photos, Videos, Contacts Etc.</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/idevice-information-hunter-effortless-restoration/"><u>IDevice Information Hunter: Effortless Restoration</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-tecno-spark-10-4g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Tecno Spark 10 4G Face Lock?</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/macmastery-regain-forgotten-documents-with-ease/"><u>MacMastery: Regain Forgotten Documents with Ease</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/mobile-memory-mender-restore-and-save/"><u>Mobile Memory Mender, Restore & Save</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/partition-recovery-software-restores-deleted-and-inaccessible-partition/"><u>Partition Recovery Software Restores Deleted and Inaccessible Partition</u></a></li>
-<li><a href="https://windows11.techidaily.com/pursue-peak-performance-customizing-graphics-settings-for-games/"><u>Pursue Peak Performance: Customizing Graphics Settings for Games</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600524349-revive-files-anytime-everywhere-no-cost/"><u>Revive Files Anytime, Everywhere - No Cost!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/speak-now-act-for-free-via-technology/"><u>Speak Now, Act for Free via Technology</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-rated-video-capture-devices-windows-mac-and-web-options/"><u>Top-Rated Video Capture Devices: Windows, Mac & Web Options</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600730174-windows-stellar-data-recovery/"><u>Windows 互換性のある無料データ回復ツール: Stellar Data Recovery</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/audio-transformation-for-tiktok-posts-explained-for-2024/"><u>Audio Transformation for TikTok Posts Explained for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600668019-bring-back-your-files-faster-than-ever-with-us/"><u>Bring Back Your Files Faster than Ever with Us</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/converting-photographic-moments-into-cinematic-vignettes/"><u>Converting Photographic Moments Into Cinematic Vignettes</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-rejuvenation-software-for-windows/"><u>Data Rejuvenation Software for Windows</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/digital-memory-reawakened-macs-deletion-undoer/"><u>Digital Memory Reawakened: Mac's Deletion Undoer</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/drivehealer-reconstructing-lost-raid-data/"><u>DriveHealer: Reconstructing Lost RAID Data</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-to-rectify-missing-windows-component/"><u>Essential Steps to Rectify Missing Windows Component</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/experience-the-virtual-reality-frontier-on-youtube/"><u>Experience the Virtual Reality Frontier on Youtube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/expert-audio-enhancement-toolkit-for-2024/"><u>Expert Audio Enhancement Toolkit for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-ensure-the-best-live-experience-with-top-networks/"><u>How to Ensure the Best Live Experience with Top Networks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-silent-symphonies-tranquil-audio-transitioning-tools/"><u>In 2024, Silent Symphonies Tranquil Audio Transitioning Tools</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-guide-to-vertical-video-editing-on-ios-and-android/"><u>New 2024 Approved The Ultimate Guide to Vertical Video Editing on iOS and Android</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nostalgia-and-value-why-its-worth-holding-onto-your-classic-gaming-consoles/"><u>Nostalgia and Value: Why It's Worth Holding Onto Your Classic Gaming Consoles</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/photorestore-master-android-version/"><u>PhotoRestore Master: Android Version</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/professional-data-recovery-software-recover-clone-and-monitor-hard-drive/"><u>Professional Data Recovery Software – Recover, Clone & Monitor Hard Drive</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reliable-partition-repair-tools-bring-back-lost-and-corrupted-drives/"><u>Reliable Partition Repair Tools: Bring Back Lost & Corrupted Drives</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-turtle-beach-recon-eby-fixing-a-non-functional-mic/"><u>Reviving Your Turtle Beach Recon Eby Fixing a Non-Functional Mic</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/win-recover-master-lost-data-retrieval/"><u>WIN-RECOVER: Master Lost Data Retrieval</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windowsstellar-data-recovery/"><u>Windows上で使えるStellar Data Recovery - 安心してフリーダウンロード可能なデータ修復ツール</u></a></li>
 </ul></div>
 

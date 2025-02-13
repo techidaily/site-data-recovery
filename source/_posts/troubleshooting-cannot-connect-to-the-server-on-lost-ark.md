@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'Cannot Connect to the Server' On Lost Ark
-date: 2025-01-30T22:37:27.436Z
-updated: 2025-01-31T22:54:14.687Z
+date: 2025-02-10T18:43:56.890Z
+updated: 2025-02-12T22:16:32.854Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ If there’s anything more frustrating than having no internet, it would be the 
 * [If all else fails…](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check Steam server status
@@ -52,7 +52,7 @@ Here’s how you can restart your modem & router:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
@@ -76,8 +76,16 @@ Here’s how you can restart your modem & router:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update network driver with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/03/de-update-network-driver.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Fire up Steam to see if it can connect properly this time. If yes, congrats – you’ve resolved the issue. If it’s still no joy, please try**Fix 4** , below.
@@ -109,16 +117,8 @@ To renew your IP:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2-3.png)
 4. Type **ipconfig /renew** and press **Enter**  on your keyboard.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/4-1.png)
 5. Launch Steam, play the game again and see if the connection is smooth and without fail. If the**Steam is having trouble connecting to the Steam servers** error persists, don’t worry. Here are a couple more fixes for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reset WinSock
 
@@ -130,15 +130,11 @@ Here’s how to go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd.png)
 2. In the Administrator Command Prompt window, enter**netsh winsock reset** , then press**Enter** ; then type**netsh winteep reset proxy** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/net.png)
 3. Click**Close** to exit the window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Run Steam and check if the server connection error is solved. If it still occurs, please move on to**Fix 6** , below.
@@ -154,20 +150,16 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.png)
 3. Restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. On your desktop, right-click on**Steam** and click**Properties** .
 5. Click the**Shortcut** tab, then in**Target** field,**add a space to the end** and type**\-tcp** . Once finished, click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/tcp.png)
 6. Launch Steam and check if**Steam is having trouble connecting to the Steam servers** warning error has been fixed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Steam is having trouble connecting to the Steam servers** still happening? Please continue onto**Fix 7** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Allow Steam through Windows Firewall
 
@@ -179,8 +171,16 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-1.png)
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall.png)
 3. Browse through the list of Allowed apps and features to see if Epic Gamers launcher is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app.png)
 4. Once completed, click **OK** .
@@ -190,7 +190,7 @@ Here are the steps:
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### If all else fails…
@@ -219,18 +219,18 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-all-about-youtubes-elite-access-a-complete-breakdown/"><u>[New] 2024 Approved All About YouTube's Elite Access - A Complete Breakdown</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-a-beginners-primer-on-essential-camera-movements-in-film-for-2024/"><u>[New] A Beginner's Primer on Essential Camera Movements in Film for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-accelerated-editing-seamless-laptoppc-videos-with-inshot/"><u>2024 Approved Accelerated Editing Seamless Laptop/PC Videos with Inshot</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/android-reunion-photos-and-contacts/"><u>Android Reunion: Photos and Contacts</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/effortless-ios-file-salvation-toolkit/"><u>Effortless iOS File Salvation Toolkit</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-dotm-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .dotm file document with Electronic Digital Signature - (Tutorial)</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/multi-platform-data-salvaging-application-advanced-all-type-data-restoration/"><u>Multi-Platform Data Salvaging Application: Advanced All-Type Data Restoration</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/no-more-lost-data-rapid-and-precise-retrieval-service/"><u>No More Lost Data: Rapid and Precise Retrieval Service</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/precision-ios-data-rescue-trust-filled-solutions/"><u>Precision iOS Data Rescue: Trust-Filled Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-tecno-spark-10-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Tecno Spark 10 5G</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-setting-up-your-nintendo-switch-on-the-big-screen/"><u>Ultimate Tutorial: Setting Up Your Nintendo Switch on the Big Screen</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/windows-easy-transfer-pas-plus-de-version-pour-windows-10/"><u>Windows Easy Transfer: Pas Plus De Version Pour Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-to-refined-tailoring-youtube-videos-with-premiere-pro/"><u>[New] 2024 Approved From Raw to Refined Tailoring YouTube Videos with Premiere Pro</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-innovating-virtual-reality-gaming-the-2023-update/"><u>[New] Innovating Virtual Reality Gaming - The 2023 Update</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2023-12-methods-to-posted-facebook-videos-not-showing-up-for-2024/"><u>[Updated] 2023 | 12 Methods to Posted Facebook Videos Not Showing Up for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-tecno-spark-20c-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Tecno Spark 20C? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/cosmicdatarestore-hub/"><u>CosmicDataRestore Hub</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/cosmicfile-recovery/"><u>CosmicFile Recovery</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expertly-compare-the-strengths-and-weaknesses-of-the-finest-photo-restoration-services-available-in-202aturday/"><u>Expertly Compare the Strengths & Weaknesses of The Finest Photo Restoration Services Available in 202Aturday</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-13-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 13 without Apple ID?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leverage-artificnial-intelligence-in-bing-essential-guide-for-android-users/"><u>Leverage Artificnial Intelligence in Bing - Essential Guide for Android Users</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/masterdatarecovery-pro-seamless-recovery-software-for-all-formats-and-devices/"><u>MasterDataRecovery Pro: Seamless Recovery Software for All Formats and Devices</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/one-os-family-data-retrieval-device/"><u>One OS Family Data Retrieval Device</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/recover-missing-drives-advanced-tech-to-bring-back-accidentally-erased-computer-sectors/"><u>Recover Missing Drives: Advanced Tech to Bring Back Accidentally Erased Computer Sectors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-solving-robocop-rogue-city-game-crashes-on-desktop/"><u>Troubleshooting Steps for Solving RoboCop: Rogue City Game Crashes on Desktop</u></a></li>
 </ul></div>
 

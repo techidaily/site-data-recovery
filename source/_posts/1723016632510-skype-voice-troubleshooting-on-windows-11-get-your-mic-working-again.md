@@ -1,7 +1,7 @@
 ---
 title: Skype Voice Troubleshooting on Windows 11 - Get Your Mic Working Again!
-date: 2025-01-29T22:27:35.085Z
-updated: 2025-01-31T21:20:51.288Z
+date: 2025-02-09T16:27:15.877Z
+updated: 2025-02-12T16:18:52.966Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/2e909ca12d5d0ef3819e924e4b2acc53554680366
 
  If your**Microphone stops working on Skype** , you would be very annoyed. But don’t worry, you won’t be stuck there. You can fix it with this guide. We’re going to walk you through how to troubleshoot the Skype Microphone not working problem step by step. Read on to find how…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for ‘Skype Microphone not working’
 
 1. [Make sure your Microphone is set to On for Skype users (Windows 10 users)](https://www.drivereasy.com/knowledge/fix-skype-microphone-not-working-on-windows-solved/#M1)
@@ -27,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/2e909ca12d5d0ef3819e924e4b2acc53554680366
 4. [Restart the Windows audio service](https://tools.techidaily.com/drivereasy/download/)
 
 ###
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
@@ -42,14 +42,14 @@ Follow these:
 2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
 ###
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the audio settings on Skype
 
@@ -60,11 +60,11 @@ Follow these:
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your sound card driver
 
@@ -77,7 +77,7 @@ Follow these:
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer and run Skype to see if your Microphone works.
@@ -85,7 +85,7 @@ Follow these:
 ###
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows audio service
@@ -114,19 +114,20 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-cyberlink-screen-recorder-review-for-2024/"><u>[New] Cyberlink Screen Recorder Review for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-compilation-of-excellent-video-capture-tools-for-windows-11-for-2024/"><u>[Updated] Compilation of Excellent Video Capture Tools for Windows 11 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-rgbs-role-in-modern-color-standards-compared-to-srgb/"><u>[Updated] Rgb's Role in Modern Color Standards Compared to Srgb</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-smooth-and-swift-designing-your-best-thumbnails/"><u>[Updated] Smooth & Swift Designing Your Best Thumbnails</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-xiaomi-14-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Xiaomi 14 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/efficient-cross-platform-recovery-software-proficient-in-retrieving-lost-or-corrupted-digital-files-across-all-systems/"><u>Efficient Cross-Platform Recovery Software - Proficient in Retrieving Lost or Corrupted Digital Files Across All Systems</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/embrace-the-return-of-your-missing-mac-data/"><u>Embrace the Return of Your Missing Mac Data</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f54-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Samsung Galaxy F54 5G Phone Without Password?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-hardware-drivers-in-windows-10-by-drivereasy-guide/"><u>How to use Device Manager to update hardware drivers in Windows 10</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/raidrevival-pro-elite-in-raid-data-salvage/"><u>RaidRevival Pro: Elite in RAID Data Salvage</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/retrieve-lost-files-today-our-immediate-reliable-solution/"><u>Retrieve Lost Files Today! Our Immediate, Reliable Solution</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reveldataxtract-expert-raid-recovery-services/"><u>RevelDataXtract: Expert RAID Recovery Services</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/swiftly-regain-your-vanished-mac-data/"><u>Swiftly Regain Your Vanished Mac Data</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-illuminate-your-gaming-recordings-avoid-black-screens-with-obs/"><u>2024 Approved Illuminate Your Gaming Recordings Avoid Black Screens with OBS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-gpts-drawbacks-eight-significant-pitfalls/"><u>Decoding GPT's Drawbacks: Eight Significant Pitfalls</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008919933-destiny-2s-beyond-light-pc-gameplay-issues-resolved-updated-fixes/"><u>Destiny 2'S Beyond Light PC Gameplay Issues Resolved - Updated Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/eliminate-junk-sms-a-quick-guide-for-iphone-users-expert-tips-3-steps/"><u>Eliminate Junk SMS: A Quick Guide for iPhone Users Expert Tips (3 Steps)</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-guide-to-data-resurrection-fixing-deleted-and-corrupted-disk-partitions/"><u>Expert Guide to Data Resurrection: Fixing Deleted and Corrupted Disk Partitions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/galactic-data-retrieval/"><u>Galactic Data Retrieval</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-a-surface-device-thats-plugged-in-but-fails-to-charge/"><u>How To Troubleshoot: A Surface Device That's Plugged In But Fails to Charge</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-11-pro-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 11 Pro Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-xs-max-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone XS Max From Your Apple ID</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/luminarydata-restoration/"><u>LuminaryData Restoration</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/meteorite-mentorium-cosmic-backup-hub/"><u>Meteorite Mentorium - Cosmic Backup Hub</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/no-more-lost-files-rapid-stellar-data-recovery-now/"><u>No More Lost Files! Rapid, Stellar Data Recovery Now</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/charge-your-videos-with-powerful-tagging-techniques/"><u>Supercharge Your Videos with Powerful Tagging Techniques</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-data-revival-set-for-windowsmaclinux-users/"><u>Universal Data Revival Set - For Windows/Mac/Linux Users</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unlock-files-no-cost-data-revival-tool/"><u>Unlock Files - No-Cost Data Revival Tool</u></a></li>
 </ul></div>
 

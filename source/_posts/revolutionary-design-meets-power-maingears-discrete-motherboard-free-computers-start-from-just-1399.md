@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Design Meets Power: Maingear's Discrete Motherboard-Free Computers Start From Just $1,399"
-date: 2025-01-24T21:33:32.629Z
-updated: 2025-01-31T20:03:16.893Z
+date: 2025-02-07T08:43:17.904Z
+updated: 2025-02-13T09:51:07.586Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,18 +56,14 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/roadcasting-brilliance-in-final-fragments-for-2024/"><u>[New] Broadcasting Brilliance in Final Fragments for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unveiling-the-hidden-recovering-exclusive-snap-content/"><u>[New] Unveiling the Hidden Recovering Exclusive Snap Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-say-no-to-youtube-ads-chrome-firefox-android-and-ios-tips/"><u>[Updated] 2024 Approved How to Say No to YouTube Ads Chrome, Firefox, Android & iOS Tips</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-enhance-video-narratives-with-text-addition-via-microsoft-photos-win-11/"><u>2024 Approved Enhance Video Narratives with Text Addition via Microsoft Photos (Win 11)</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600397383-stellar-data-recovery-windows/"><u>失われたファイルを安全に取り戻せる - Stellar Data Recovery (ステラ・データリカバリ) Windows版無料ソフトウェア</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-maximize-your-youtube-impact-with-perfect-aspect-ratios/"><u>In 2024, Maximize Your YouTube Impact with Perfect Aspect Ratios</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/intelligent-data-extraction-toolkit-cutting-edge-tech-support-for-retrieving-diverse-file-types/"><u>Intelligent Data Extraction Toolkit: Cutting-Edge Tech Support for Retrieving Diverse File Types</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/mac-file-revival-tool-secure-lost-data-recovery/"><u>Mac File Revival Tool: Secure Lost Data Recovery</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/precisionstar-restoration/"><u>PrecisionStar Restoration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-air-protection-gear-comprehensive-reviews-and-ratings-by-tech-experts/"><u>Top-Rated iPad Air Protection Gear : Comprehensive Reviews and Ratings by Tech Experts</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/ultimate-system-rescue-kit-data-retrieval-for-all-oses/"><u>Ultimate System Rescue Kit - Data Retrieval for All OSes</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/universal-data-recuperation-program-brings-back-all-your-valuable-files/"><u>Universal Data Recuperation Program – Brings Back All Your Valuable Files</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-mastering-mobile-media-the-art-of-filming-with-a-smartphone/"><u>[Updated] 2024 Approved Mastering Mobile Media The Art of Filming with a Smartphone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/coders-showdown-which-codec-will-dominate-video-quality-in-2024/"><u>Coders' Showdown Which Codec Will Dominate Video Quality, In 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/complete-software-solution-by-certified-recovery-pros-safeguards-all-data-types/"><u>Complete Software Solution by Certified Recovery Pros – Safeguards All Data Types</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/effortless-file-restoration-absolutely-free/"><u>Effortless File Restoration - Absolutely Free</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/file-salvage-with-windows-essential-tool/"><u>File Salvage with Windows Essential Tool</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/full-scale-digital-rescue-operations-advanced-recovery-software-for-any-data-type/"><u>Full-Scale Digital Rescue Operations: Advanced Recovery Software for Any Data Type</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/highlighted-visions-is-intensified-lighting-the-future-of-hd-in-hdr-for-2024/"><u>Highlighted Visions Is Intensified Lighting the Future of HD in HDR for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/insignia-ns-pcy5bma2-drivers-easy-download-and-installation-instructions-for-windows-11-10-and-7/"><u>Insignia NS-PCY5BMA2 Drivers: Easy Download & Installation Instructions for Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-update-of-synaptics-graphics-drivers-for-your-windows-pc/"><u>Seamless Update of Synaptics Graphics Drivers for Your Windows PC</u></a></li>
 </ul></div>
 

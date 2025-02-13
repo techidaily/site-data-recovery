@@ -1,7 +1,7 @@
 ---
 title: "Compact Computing Redefined: Meet the MinisForum AtomMan X7, Equipped with Intel Core I3-1850U & Responsive Touch Interface"
-date: 2025-01-25T20:19:11.355Z
-updated: 2025-01-31T22:51:36.254Z
+date: 2025-02-08T05:13:09.669Z
+updated: 2025-02-13T06:29:09.369Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,24 +89,20 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unleashing-creativity-how-to-start-live-on-tiktok-via-computer/"><u>[New] 2024 Approved Unleashing Creativity How to Start Live on TikTok Via Computer</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-crafting-an-epic-tiktok-farewell-sequence/"><u>[New] Crafting An Epic TikTok Farewell Sequence</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-craft-visionary-videos-from-start-to-finish-using-youtube-studio-editor/"><u>[New] In 2024, Craft Visionary Videos From Start to Finish Using YouTube Studio Editor</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-grasping-your-youtube-popularity-with-precision/"><u>[New] In 2024, Grasping Your YouTube Popularity with Precision</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-optimal-audio-options-for-online-speakers/"><u>[New] In 2024, Optimal Audio Options for Online Speakers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-gameglasses-glimpse-guide/"><u>[Updated] GameGlasses Glimpse Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-leveraging-snap-functions-boosting-virtual-interaction-during-meets-for-2024/"><u>[Updated] Leveraging Snap Functions Boosting Virtual Interaction During Meets for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600584289-windows-stellar-data-recovery/"><u>「無料で使える、高性能なWindows Stellar Data Recoveryデータ回復ツール」</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/complete-guide-to-restoring-unreachable-hard-drive-sections-using-cutting-edge-software-solutions/"><u>Complete Guide to Restoring Unreachable Hard Drive Sections Using Cutting-Edge Software Solutions</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-guide-to-fixing-and-accessing-deleted-data-segments-with-specialized-applications/"><u>Comprehensive Guide to Fixing and Accessing Deleted Data Segments with Specialized Applications</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/dont-panic-over-lost-partitions-reliable-software-to-retrieve-deleted-disk-segments/"><u>Don't Panic Over Lost Partitions: Reliable Software to Retrieve Deleted Disk Segments</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/effortless-file-restoration-toolkit-complimentary/"><u>Effortless File Restoration Toolkit – Complimentary</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuit-mp4-versie-wmv-online-convertisseur-video-rapide-de-movavi/"><u>Gratuit MP4 Versie WMV Online - Convertisseur Vidéo Rapide De Movavi</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/multios-file-finder-toolkit-quick-data-restoration/"><u>MultiOS File Finder Toolkit – Quick Data Restoration</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/premier-platforms-to-rework-classic-ps3-titles/"><u>Premier Platforms to Rework Classic PS3 Titles</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unified-data-salvage-suite-windowsmaclinux-compatible/"><u>Unified Data Salvage Suite – Windows/Mac/Linux Compatible</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/universedata-revival-center/"><u>UniverseData Revival Center</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unrivaled-file-resurrection-platform-expertly-engineered-for-retrieving-any-type-of-digital-information/"><u>Unrivaled File Resurrection Platform: Expertly Engineered for Retrieving Any Type of Digital Information</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/eginners-guide-to-choosing-lenses-and-cameras-for-youtube-vloggers-for-2024/"><u>[New] Beginner's Guide to Choosing Lenses and Cameras for YouTube Vloggers for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-football-manager-2019-crash/"><u>[Solved] How to Fix Football Manager 2019 Crash?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-charting-a-path-to-youtube-wealth-cpm-analysis/"><u>[Updated] 2024 Approved Charting a Path to YouTube Wealth CPM Analysis</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-battle-for-asgard-the-ragnarok-chronicles/"><u>[Updated] In 2024, Battle for Asgard The Ragnarök Chronicles</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-composers-path-to-infusing-music-in-online-videos-fb/"><u>[Updated] In 2024, The Composer's Path to Infusing Music in Online Videos (FB)</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600333666-windows/"><u>安全にWindows上でファイルを取り戻すための無料ソリューション「ステラデータリカバリー」</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/astralinfo-reclamation/"><u>AstralInfo Reclamation</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/comment-utiliser-la-fonction-sauvegarde-et-reprendre-pour-construire-un-nouveau-sysimage-sur-windows/"><u>Comment Utiliser La Fonction Sauvegarde Et Reprendre Pour Construire Un Nouveau Sysimage Sur Windows</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-revival-suite-seamless-retrieval-for-diverse-file-formats/"><u>Comprehensive Data Revival Suite: Seamless Retrieval for Diverse File Formats</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-salvage-solution-for-windows-devices/"><u>Data Salvage Solution for Windows Devices</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskhaven-uncovering-raid-lost-files/"><u>DiskHaven: Uncovering RAID Lost Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/inside-look-7-windows-activities-harboring-risks/"><u>Inside Look: 7 Windows Activities Harboring Risks</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/photo-and-file-retrieval-for-mobile-devices/"><u>Photo and File Retrieval for Mobile Devices</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/recoverraid-pro-restoring-raid-disks/"><u>RecoverRAID Pro: Restoring RAID Disks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-best-free-video-rotator-apps-for-iphone-2023-edition/"><u>Updated 2024 Approved Best Free Video Rotator Apps for iPhone 2023 Edition</u></a></li>
 </ul></div>
 

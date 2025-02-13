@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Stop GTA V From Freezing on Your PC"
-date: 2025-01-25T22:04:16.228Z
-updated: 2025-01-31T18:06:08.638Z
+date: 2025-02-09T16:49:38.760Z
+updated: 2025-02-13T01:12:02.305Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/key-art-vg-desktop1-1200x668.jpg)
 
  Call of duty: Vanguard is released, and as expected for most new titles, quite a few bugs and issues come with the launch. Many players have reported that COD Vanguard keeps freezing on their PCs and the game is almost unplayable. If you’re in the same boat, no worries! Here are some working fixes you can try:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 [7: Check your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 [8: Increase your virtual memory](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Call of Duty: Vanguard System Requirements
 
@@ -65,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 
 If this doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update the graphics driver
 
  One of the most common causes for game freezing issues is that your graphics driver is faulty or outdated. Same for Vanguard, you want to make sure that your graphics driver is up-to-date and functioning properly.
@@ -82,10 +86,6 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
@@ -95,7 +95,7 @@ If this doesn’t solve your problem, try the next fix.
  If you’re still experiencing the freezing issue after you updated the graphics driver, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Scan and repair your game files
@@ -107,10 +107,6 @@ If this doesn’t solve your problem, try the next fix.
 3. Wait for the scan to complete.
 
 If this doesn’t help, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Run the game executable as administrator
 
@@ -130,13 +126,13 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -154,21 +150,17 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
 If this doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Check your antivirus software
 
@@ -192,8 +184,16 @@ If the freezing issue persists, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 6. Use the below formulas to calculate the values you should set:  
@@ -227,22 +227,24 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-sustained-engagement-determining-the-ideal-frequency-for-your-youtube-channel/"><u>[New] Sustained Engagement Determining the Ideal Frequency for Your YouTube Channel</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-secrets-to-effective-virtual-meetings-with-zoom-win10/"><u>[Updated] Unveiling the Secrets to Effective Virtual Meetings with Zoom (Win10)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-nokia-g42-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Nokia G42 5G</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/complete-software-solution-by-certified-recovery-pros-safeguards-all-data-types/"><u>Complete Software Solution by Certified Recovery Pros – Safeguards All Data Types</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/cut-losses-save-gains-deleted-file-retrieval-for-mac/"><u>Cut Losses, Save Gains: Deleted File Retrieval for Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-these-exceptional-4-ai-story-crafting-tools-you-need/"><u>Discover These Exceptional 4 AI Story Crafting Tools You Need</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/effortless-file-restoration-absolutely-free/"><u>Effortless File Restoration - Absolutely Free</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/file-salvage-with-windows-essential-tool/"><u>File Salvage with Windows Essential Tool</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/full-scale-digital-rescue-operations-advanced-recovery-software-for-any-data-type/"><u>Full-Scale Digital Rescue Operations: Advanced Recovery Software for Any Data Type</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/high-performance-drive-cloning-service/"><u>High-Performance Drive Cloning Service</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy XCover 6 Pro Tactical Edition to Outlook | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-edge-40-pro-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Motorola Edge 40 Pro Device</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-lost-thx-audio-functionality-in-windows/"><u>Restoring Lost THX Audio Functionality in Windows</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/secrets-of-successful-youtube-video-repetition-unveiled-for-2024/"><u>Secrets of Successful YouTube Video Repetition Unveiled for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-windows/"><u>Stellarデータリカバリー - Windows用フリーデータ復元ソフトウェア</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/superior-backup-and-restoration-platform/"><u>Superior Backup and Restoration Platform</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-lava-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Lava FRP Bypass</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-engaging-viewers-and-vendors-a-guide-to-yt-sponsorships-for-2024/"><u>[New] Engaging Viewers and Vendors A Guide to YT Sponsorships for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-nextgen-tv-including-the-best-local-channels-online/"><u>[New] NextGen TV Including the Best Local Channels Online</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-setting-up-your-tiktok-broadcast-on-a-desktop-for-2024/"><u>[Updated] Setting Up Your TikTok Broadcast on a Desktop for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600367771-stellar-data-recovery-windows/"><u>完全復元! Stellar Data Recovery - 無料Windowsソフトで大切なデータを取り戻せる</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-detective-pro-your-financial-ally/"><u>Data Detective Pro – Your Financial Ally</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-top-10-premium-free-iosandroid-live-video-platforms/"><u>Explore Top 10 Premium-Free iOS/Android Live Video Platforms</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/file-rejuvenation-toolkit-for-windows-os/"><u>File Rejuvenation Toolkit for Windows OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-y27-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo Y27 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unlock-the-secrets-crafting-captivating-instagram-unboxing-videos/"><u>In 2024, Unlock the Secrets Crafting Captivating Instagram Unboxing Videos</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/lossless-restoration-software-android-edition/"><u>Lossless Restoration Software: Android Edition</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-step-by-step-eliminating-sound-from-modern-avi-format-avi-2023-for-2024/"><u>New Step-by-Step Eliminating Sound From Modern AVI Format (AVI 2023) for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/optimal-hard-drive-recovery-protocols/"><u>Optimal Hard Drive Recovery Protocols</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-intermittent-audio-with-these-tips-for-bluetooth-on-windows-1110/"><u>Overcome Intermittent Audio with These Tips for Bluetooth on Windows 11/10</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/pictureperfect-recovery-for-android/"><u>PicturePerfect Recovery for Android</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600612670-stellar-data-recovery-windows/"><u>Stellar Data Recovery: Windowsでのデータ復旧ソフトウェア - 本日より無料利用可能</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-effortless-streaming-of-various-file-extensions/"><u>Ultimate Guide: Effortless Streaming of Various File Extensions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unlock-final-cut-pros-full-potential-90-day-free-trial/"><u>Updated Unlock Final Cut Pros Full Potential 90-Day Free Trial</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windows-file-revival-toolkit/"><u>Windows File Revival Toolkit</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600663304-windowsstellar-data-recovery/"><u>Windows上で失われたデータを簡単に取り戻すStellar Data Recovery: 信頼性の高いフリーソフト</u></a></li>
 </ul></div>
 

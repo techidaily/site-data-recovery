@@ -1,7 +1,7 @@
 ---
 title: "Explore the Latest in Computing: Discover What's New at Tom's Hardware!"
-date: 2025-01-24T23:02:27.701Z
-updated: 2025-01-31T16:29:31.372Z
+date: 2025-02-06T18:17:23.651Z
+updated: 2025-02-13T07:38:50.403Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,22 +78,22 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-key-techniques-for-a-thorough-review-of-youtube-stats/"><u>[New] 2024 Approved Key Techniques for a Thorough Review of YouTube Stats</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/isionary-voices-triumph-online/"><u>[New] Visionary Voices Triumph Online</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/astral-data-redeemers/"><u>Astral Data Redeemers</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/complete-data-revival-solution-reinstate-lost-information-across-formats/"><u>Complete Data Revival Solution - Reinstate Lost Information Across Formats</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-universal-file-retrieval/"><u>Comprehensive Data Rescue Tool - Universal File Retrieval</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/cross-platform-file-restorer-win-mac-linux-edition/"><u>Cross-Platform File Restorer - Win, Mac, Linux Edition</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/effortless-documentation-speech-to-text-conversion-via-microsoft-word/"><u>Effortless Documentation Speech-to-Text Conversion via Microsoft Word</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/expert-level-partition-fixers-recover-inaccessible-or-missing-drives-easily/"><u>Expert-Level Partition Fixers: Recover Inaccessible or Missing Drives Easily</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-9-video-calling-apps-android-and-ios-review/"><u>In 2024, Essential 9 Video Calling Apps Android & iOS Review</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-infinix-zero-30-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Infinix Zero 30 5G FRP</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/maximize-memes-convert-tiktok-videos-to-gifs-for-2024/"><u>Maximize Memes Convert TikTok Videos to GIFs for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/rescue-inaccessible-hard-drive-areas-next-gen-programs-for-retrieving-lost-data-from-faulty-partitions/"><u>Rescue Inaccessible Hard Drive Areas: Next-Gen Programs for Retrieving Lost Data From Faulty Partitions</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/rescue-your-data-top-software-for-restoring-erased-computer-sections/"><u>Rescue Your Data: Top Software for Restoring Erased Computer Sections</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-picks-for-gaming-laptop-powerhouses-comparing-razer-acer-and-msi/"><u>Top Picks for Gaming Laptop Powerhouses - Comparing Razer, Acer & MSI</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/top-security-accessories-for-webcams-for-2024/"><u>Top Security Accessories for Webcams for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/your-backups-guardian-instant-retrieval-solutions/"><u>Your Backup's Guardian: Instant Retrieval Solutions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-epic-soundscape-trending-audio-for-cutting-edge-youtube-short-videos/"><u>[New] 2024 Approved Epic Soundscape Trending Audio for Cutting-Edge YouTube Short Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-expert-review-of-bandicams-efficacy-in-multimedia-projects/"><u>[New] Expert Review of Bandicam's Efficacy in Multimedia Projects</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-pinnacle-of-1980s-movie-magic-in-editing/"><u>2024 Approved Pinnacle of 1980S Movie Magic in Editing</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/bug-free-gaming-how-from-the-ashes-of-remnant-now-stays-steady-on-launch/"><u>Bug-Free Gaming: How 'From the Ashes of Remnant' Now Stays Steady on Launch</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1722997950531-cod-black-ops-cold-war-wont-boot-here-are-the-solutions-for-pc-players/"><u>COD: Black Ops Cold War Won't Boot? Here Are The Solutions for PC Players!</u></a></li>
+<li><a href="https://article-files.techidaily.com/crafting-masterpieces-top-meme-templates-for-2024/"><u>Crafting Masterpieces Top Meme Templates for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/destiny-2s-centipede-problem-solutions-for-a-smooth-gaming-experience/"><u>Destiny 2'S Centipede Problem: Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/does-interacting-with-chatgpt-pose-any-cybersecurity-dangers/"><u>Does Interacting with ChatGPT Pose Any Cybersecurity Dangers?</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-diagnose-and-repair-livekernelevent-117-mishaps-efficiently/"><u>Expert Tips to Diagnose and Repair 'LiveKernelEvent 117' Mishaps Efficiently</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/exploring-the-samsung-galaxy-tab-s6-in-depth-analysis-of-s-pen-features-and-dex-mode-capabilities/"><u>Exploring the Samsung Galaxy Tab S6: In-Depth Analysis of S Pen Features & Dex Mode Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/geautomatiseerd-online-wegrensconverteren-uit-webm-naar-wav-gratis-van-movavi/"><u>Geautomatiseerd Online Wegrensconverteren: Uit Webm Naar Wav - Gratis Van Movavi!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-a24-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-directory-of-pixel-tones-websites/"><u>In 2024, Comprehensive Directory of Pixel Tones Websites</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/is-it-possible-to-sync-files-from-local-machine-to-network-storage-using-windows-11s-task-scheduler/"><u>Is It Possible to Sync Files From Local Machine to Network Storage Using Windows 11'S Task Scheduler?</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/the-core-underlying-processes-in-predictive-ai/"><u>The Core Underlying Processes in Predictive AI</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/troubleshooting-guide-how-to-speed-up-the-2022-spotify-web-player-performance-issues/"><u>Troubleshooting Guide: How to Speed Up the 2022 Spotify Web Player Performance Issues</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/ultimate-guide-resolving-thaumaturge-game-crashes-on-your-pc/"><u>Ultimate Guide: Resolving Thaumaturge Game Crashes on Your PC</u></a></li>
 </ul></div>
 
