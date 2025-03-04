@@ -1,7 +1,7 @@
 ---
 title: "Destiny 2'S Centipede Problem: Solutions for a Smooth Gaming Experience"
-date: 2025-02-11T03:29:43.807Z
-updated: 2025-02-13T05:09:15.946Z
+date: 2025-02-25T02:18:54.035Z
+updated: 2025-03-04T04:37:32.478Z
 tags:
   - win11
   - win10
@@ -48,10 +48,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Re-add your friend
 
  I believe you’ve already tried restarting Minecraft maybe even restart your computer. There is one more thing you can try: re-add your friend.
@@ -74,16 +70,8 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-01-51.png)
 5. Back to the main menu and click the**Friends** tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-02-37.png)
 6. You should be able to join your friends’ world.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable Windows Firewall
 
@@ -99,15 +87,7 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the “javaw.exe” is checked. If not, click the Change settings button then check the “javaw.exe”. If you see more than one “javaw.exe” entries, check all of them. Ensure the Private box and the Publick box are checked too.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5c260821a6772.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the Minecraft.exe is checked, this fix doesn’t work for you. Move on to the next fix.
 
@@ -127,10 +107,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-714.png)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-715.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Run Minecraft and check whether you can connect to the world.
 
@@ -180,10 +156,6 @@ If this fix can’t help, you can move to the next.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bonus tips
 
 #### For iPad users
@@ -215,24 +187,18 @@ If this fix can’t help, you can move to the next.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unraveling-instagram-video-anomalies-today/"><u>[New] 2024 Approved Unraveling Instagram Video Anomalies Today</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-guide-to-professional-filmmaking-via-youtube/"><u>[New] Step-by-Step Guide to Professional Filmmaking via YouTube</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-stream-like-a-pro-optimizing-your-360-youtube-broadcasts/"><u>[Updated] 2024 Approved Stream Like a Pro Optimizing Your 360° Youtube Broadcasts</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600397383-stellar-data-recovery-windows/"><u>失われたファイルを安全に取り戻せる - Stellar Data Recovery (ステラ・データリカバリ) Windows版無料ソフトウェア</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/advanced-technicians-program-for-comprehensive-data-salvaging-effective-on-various-storage-mediums/"><u>Advanced Technician's Program for Comprehensive Data Salvaging – Effective on Various Storage Mediums</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/advanced-techniques-for-recovering-inaccessible-and-erased-disk-partitions/"><u>Advanced Techniques for Recovering Inaccessible and Erased Disk Partitions</u></a></li>
-<li><a href="https://win-forum.techidaily.com/beginners-guide-to-voiceover-gear-essential-tools-and-applications/"><u>Beginner's Guide to Voiceover Gear: Essential Tools and Applications</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-revival-made-simple-fast-secure-recovery-available/"><u>Data Revival Made Simple - Fast, Secure Recovery Available!</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/enhanced-file-system-revival-utility/"><u>Enhanced File System Revival Utility</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/enrich-image-narratives-how-to-employ-titles-and-captions-on-videos-via-windows-for-2024/"><u>Enrich Image Narratives How to Employ Titles and Captions on Videos via Windows for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Realme C53? | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/idevice-data-detective-secure-and-efficient-recovery/"><u>IDevice Data Detective: Secure & Efficient Recovery</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-comparing-cameras-obs-vs-twitch-studio-edition/"><u>In 2024, Comparing Cameras OBS vs Twitch Studio Edition</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f54-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F54 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy A05s? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-magic-in-haul-video-creation/"><u>In 2024, Unveiling the Magic in Haul Video Creation</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/intelligent-data-extraction-toolkit-cutting-edge-tech-support-for-retrieving-diverse-file-types/"><u>Intelligent Data Extraction Toolkit: Cutting-Edge Tech Support for Retrieving Diverse File Types</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reclaim-your-lost-treasures-from-the-sands-of-time-mac-files/"><u>Reclaim Your Lost Treasures From the Sands of Time (Mac Files)</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reviving-records-without-spending-a-dime/"><u>Reviving Records Without Spending a Dime</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-transform-your-brand-with-powerful-fb-video-messaging/"><u>[New] In 2024, Transform Your Brand with Powerful FB Video Messaging</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-the-barrier-acquiring-mass-tiktok-videos-easily/"><u>2024 Approved Breaking the Barrier Acquiring Mass TikTok Videos Easily</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/advanced-disk-mirroring-utility/"><u>Advanced Disk Mirroring Utility</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/download-center-stellar-data-recovery/"><u>Download Center – Stellar Data Recovery</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/effortless-file-retrieval-tool-zero-price/"><u>Effortless File Retrieval Tool - Zero Price</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-samsung-850-evo-drive-software-here/"><u>Get the Newest Samsung 850 EVO Drive Software Here!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/high-speed-disk-replication-software/"><u>High-Speed Disk Replication Software</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/how-to-restore-unavailable-storage-sectors-with-advanced-recovery-software/"><u>How to Restore Unavailable Storage Sectors with Advanced Recovery Software</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/key-factors-contributing-to-wii-us-remarkable-success-story/"><u>Key Factors Contributing to Wii U's Remarkable Success Story</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/phonedatarescue-for-android-regain-lost-media/"><u>PhoneDataRescue for Android: Regain Lost Media</u></a></li>
 </ul></div>
 

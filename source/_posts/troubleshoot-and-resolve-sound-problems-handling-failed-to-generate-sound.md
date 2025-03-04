@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot and Resolve Sound Problems: Handling 'Failed to Generate Sound'"
-date: 2025-02-09T22:58:43.406Z
-updated: 2025-02-12T16:03:30.876Z
+date: 2025-03-02T07:32:07.582Z
+updated: 2025-03-04T00:56:53.089Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 4. **[Modify Windows sound settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Troubleshoot the connection
 
  First things first. Before trying anything more complicated, you need to do some basic troubleshooting steps:
@@ -52,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 ### Option 1: Download and install the audio driver manually
 
  You should go to the manufacturer’s website of your sound card, find the latest version of the driver and install it in your computer. Ensure to download the latest correct driver that is compatible with your computer operating system. This requires time and computer skills.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically update the audio driver
 
@@ -89,23 +81,11 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 ![Run Windows audio troubleshooter 1](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-1.jpg)
 3. Wait for it to detect problems. This usually takes only a few seconds.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Run Windows audio troubleshooter 2](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-2.jpg)
 4. Select the audio device you’re using, then click **Next** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Run Windows audio troubleshooter 3](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-3.jpg)
 5. If the troubleshooter suggests that you turn off the audio enhancements for better sound quality. Click **Yes, Open Audio Enhancements** if you wish to do so. If you click no, it will skip to the scan results.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Run Windows audio troubleshooter 4](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-4.jpg)
 6. Follow the on-screen instructions to troubleshoot the audio playback issue.
@@ -126,16 +106,8 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 ![Enable audio device](https://images.drivereasy.com/wp-content/uploads/2021/04/Enable-audio-device.jpg)
 4. Select the speaker / headset you’re using and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![set default audio device](https://images.drivereasy.com/wp-content/uploads/2021/04/set-default-audio-device.jpg)
 5. Click **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Launch It Takes Two.
 7. On your desktop, **right-click** **the speaker icon** on the lower-right corner, and then select **Open Volume Mixer** .  
@@ -156,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files.  
 
 ![It Takes Two Verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/It-Takes-Two-Verify-integrity-of-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch It Takes Two after the verifying process is completed to see if this fix works.
 
@@ -186,20 +154,21 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-early-bird-winners-youtubes-quick-favorites-for-2024/"><u>[Updated] Early Bird Winners Youtube's Quick Favorites for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ace-twitter-interface-tools-the-comprehensive-guide-to-optimal-software/"><u>Ace Twitter Interface Tools: The Comprehensive Guide to Optimal Software</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/te-your-video-with-smart-end-screen-techniques/"><u>Elevate Your Video with Smart End Screen Techniques</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/elite-data-reconstruction-application-seamless-retrieval-of-diverse-file-formats/"><u>Elite Data Reconstruction Application: Seamless Retrieval of Diverse File Formats</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/enhance-your-online-presence-using-manycam-top-live-video-platforms-and-fake-webcams-unleashed/"><u>Enhance Your Online Presence Using ManyCam: Top Live Video Platforms and Fake Webcams Unleashed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-google-meets-camera-problem-a-comprehensive-guide/"><u>Fixing Google Meet's Camera Problem - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/harmonizing-images-essential-tutorials-for-color-mastery-for-2024/"><u>Harmonizing Images Essential Tutorials for Color Mastery for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-14-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 14 When You Forget the Passcode?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/impressive-insights-from-our-in-depth-review-of-amazon-luna/"><u>Impressive Insights From Our In-Depth Review of Amazon Luna</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/record-breaking-youtube-content-watch-counts-for-2024/"><u>Record Breaking YouTube Content Watch Counts for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reliable-phone-data-resurrection-program/"><u>Reliable Phone Data Resurrection Program</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/starrybackup-solutions/"><u>StarryBackup Solutions</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600598923-stellar-data-recovery-windows/"><u>Stellar Data Recovery: Windows版で失われたデータのみ魔法のように回復可能(無料)</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/universal-data-rescue-application-efficient-solution-for-retrieving-lost-or-corrupted-information-across-various-formats/"><u>Universal Data Rescue Application: Efficient Solution for Retrieving Lost or Corrupted Information Across Various Formats</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600422234-windows/"><u>ステラデータリカバリー・Windows版 - 安心できる無料データ救出ツール</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-advanced-techniques-flawless-insertion-of-vimeo-video-in-slides/"><u>[New] Advanced Techniques Flawless Insertion of Vimeo Video in Slides</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-win10s-best-screen-capture-and-recording-options/"><u>[Updated] 2024 Approved Win10's Best Screen Capture and Recording Options</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-art-of-streaming-saved-media-easy-igtv-downloads-on-pc-and-mac/"><u>[Updated] In 2024, The Art of Streaming Saved Media Easy IGTV Downloads on PC & Mac</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600566996-android-data-recovery-software-to-recover-lost-photos-videos-contacts-etc/"><u>Android Data Recovery Software to Recover Lost Photos, Videos, Contacts Etc</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/contactrecover-pro-androids-data-saver/"><u>ContactRecover Pro: Android's Data Saver</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/craft-magical-time-lapse-video-using-a-gopro-for-2024/"><u>Craft Magical Time Lapse Video Using a GoPro for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tream-100-cutting-edge-learning-yt/"><u>Edu-Stream 100 Cutting-Edge Learning YT</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expertly-recovering-iphone-files-with-assurance/"><u>Expertly Recovering iPhone Files with Assurance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-power-of-batched-video-extraction-from-tiktok/"><u>In 2024, Unlocking the Power of Batched Video Extraction From TikTok</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/iphone-backup-breaker-swift-and-sure-data-revival/"><u>IPhone Backup Breaker: Swift and Sure Data Revival</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/mobile-memory-master-iphone-data-restoration/"><u>Mobile Memory Master - iPhone Data Restoration</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/next-gen-data-salvation-programs-reinstate-accidentally-wiped-out-segments-of-your-hardware/"><u>Next-Gen Data Salvation Programs: Reinstate Accidentally Wiped Out Segments of Your Hardware</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/tipps-fur-einfach-zu-handhabende-systemwiederherstellungen-in-microsoft-server-2/"><u>Tipps Für Einfach Zu Handhabende Systemwiederherstellungen in Microsoft Server 2</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-zte-nubia-z60-ultra-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost ZTE Nubia Z60 Ultra Device</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/ultimate-data-retrieval-program-comprehensive-software-suite-for-all-formats/"><u>Ultimate Data Retrieval Program: Comprehensive Software Suite for All Formats</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-shortcut-making-reaction-videos-with-filmora-for-2024/"><u>Updated The Ultimate Shortcut Making Reaction Videos with Filmora for 2024</u></a></li>
 </ul></div>
 

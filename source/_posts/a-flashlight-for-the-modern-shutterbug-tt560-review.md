@@ -1,7 +1,7 @@
 ---
 title: "A Flashlight for the Modern Shutterbug: TT560 Review"
-date: 2025-02-07T01:11:03.673Z
-updated: 2025-02-13T05:36:11.774Z
+date: 2025-02-25T20:16:46.334Z
+updated: 2025-03-04T07:42:38.333Z
 categories:
   - BestProducts
 description: "This Article Describes A Flashlight for the Modern Shutterbug: TT560 Review"
@@ -63,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/jITowxAWHBUo5WF3Y-XI6lKQNQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-05-02d76c869b864ef0abddfe824cfbf53a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
 
 ## **Design: Small but powerful**
@@ -83,19 +79,11 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/vaINPELrwcWnOZDsX1ztKkCouww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-03-1530f666df824f6281040c2ae3285eb2-2e7956941b91403aa888795a7e5e2e33.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Andrew Hayward
 
 ## **Setup Process: Easy does it**
 
  There’s not much to the setup process here. Using the included USB-C to USB-C cable, simply plug one end into the power bank and the other into an AC adapter that you have handy—like one for a laptop, tablet, or[smartphone](https://www.lifewire.com/best-smartphones-4043781) . Once the four lights on the side are fully illuminated, then the battery pack is fully charged. Simply plug in devices using their respective cables to charge them using the power within the ZMI PowerPack 20000.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Charging Speed and Battery: It keeps going**
 
@@ -115,10 +103,6 @@ Lifewire / Andrew Hayward
 
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **ZMI PowerPack 20000 vs Mophie Powerstation AC**
 
  ZMI’s PowerPack 20000 is about half the size and weight of the[Mophie Powerstation AC](https://www.lifewire.com/mophie-powerstation-ac-review-5071990) (see on[Amazon](https://www.amazon.com/dp/B078GYSBVR?linkCode=ogi&th=1&psc=1&tag=lifewire-onsite-prod-20&ascsubtag=5071991%7Cn210c12f6fa164d19b551ef300c5549c018%7C) ), which has a AC power port on one end, not to mention a larger 24,000mAh cell. Those are both stellar benefits, plus the fabric-lined exterior gives it a distinctive allure. That said, Mophie’s pack sells for $200, and we’d only recommend it if you must have the AC power outlet for charging a power-hungry laptop. If the ZMI PowerPack 20000 will meet your charging needs, however, it’s a much better bargain.
@@ -128,10 +112,6 @@ Lifewire / Andrew Hayward
  **A fantastic portable laptop battery charger for nearly everyone.**
 
  It’s honestly difficult to find anything to complain about with the ZMI PowerPack 20000\. It’s powerful and does a great job of charging laptops and phones, it has enough capacity to handle those tasks with ease, it’s compact and well-designed, and the price is fantastic. It’s half the size of the giant Anker power brick that I’ve brought on my last two international trips and can handle all of the same tasks. In other words,_this_ is the power brick I’m bringing on my next trip.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -159,18 +139,22 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-in-depth-insight-into-final-cut-pro-editing/"><u>[New] In 2024, In-Depth Insight Into Final Cut Pro Editing</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-where-to-find/"><u>[New] Where to Find</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-universal-data-restoration-software/"><u>Comprehensive Data Rescue Tool: Universal Data Restoration Software</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/datarecoverer-versatile-raid-revival-software/"><u>DataRecoverer: Versatile RAID Revival Software</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/efficient-partition-rescue-program-revive-deleted-and-unavailable-sectors/"><u>Efficient Partition Rescue Program: Revive Deleted & Unavailable Sectors</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-maximize-impact-mastering-igtv-content-submission/"><u>In 2024, Maximize Impact Mastering IGTV Content Submission</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/raid-data-recovery-software-recovers-raid-data-from-raid-0-5-and-6/"><u>RAID Data Recovery Software – Recovers RAID Data From RAID 0, 5 & 6</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/raidreclamation-suite-reclaiming-raid-systems/"><u>RaidReclamation Suite: Reclaiming RAID Systems</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/secure-disk-extraction-suite/"><u>Secure Disk Extraction Suite</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/sharing-your-macos-position-securely-and-efficiently-a-comprehensive-guide/"><u>Sharing Your MacOS Position Securely & Efficiently: A Comprehensive Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-download-filmora-13-video-editor-free-no-watermark/"><u>Updated 2024 Approved Download Filmora 13 Video Editor Free No Watermark</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-storing-image-frames-from-videos-on-windows-11/"><u>[New] Storing Image Frames From Videos on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-prime-tech-for-quick-clear-video-reports/"><u>[Updated] 2024 Approved Prime Tech for Quick, Clear Video Reports</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-deciphering-digital-domination-a-deep-dive-into-directors-videos/"><u>[Updated] In 2024, Deciphering Digital Domination A Deep Dive Into Directors' Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-secure-your-shots-in-the-cloud-unlimited-free-space-plus-charged-premium-solutions-for-2024/"><u>[Updated] Secure Your Shots in the Cloud Unlimited Free Space + Charged Premium Solutions for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600269020-windows/"><u>「ステラ・データリカバリ - Windows版無償の効果的なデータ回復プログラム」</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-disappearance-not-on-our-watch-quick-recovery-here/"><u>Data Disappearance? Not on Our Watch - Quick Recovery Here</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskrescuemax-maximizing-raid-file-accessibility/"><u>DiskRescueMax: Maximizing RAID File Accessibility</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/easydata-revival-software-multiplatform-compatibility/"><u>EasyData Revival Software - Multiplatform Compatibility</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/efficient-hdd-cloning-interface/"><u>Efficient HDD Cloning Interface</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/galaxy-reclaimers-stellar-salvage-point/"><u>Galaxy Reclaimers - Stellar Salvage Point</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-elevate-video-quality-prime-4k-conversion-solutions/"><u>In 2024, Elevate Video Quality Prime 4K Conversion Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oneplus-12-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on OnePlus 12 Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-m14-4g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy M14 4G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/poco-x6-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco X6 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-7-plus-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 7 Plus Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/win-datarescue-the-ultimate-toolkit/"><u>WIN-DataRescue: The Ultimate Toolkit</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/your-files-deserve-better-swift-data-reinstatement-here/"><u>Your Files Deserve Better: Swift Data Reinstatement Here</u></a></li>
 </ul></div>
 

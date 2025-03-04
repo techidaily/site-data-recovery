@@ -1,7 +1,7 @@
 ---
 title: "Fixing Issues: Why Is My Destiny 2 Microphone Not Detected?"
-date: 2025-02-07T12:44:24.921Z
-updated: 2025-02-12T19:43:41.586Z
+date: 2025-02-26T01:58:12.900Z
+updated: 2025-03-03T20:27:07.907Z
 tags:
   - win11
   - win10
@@ -44,10 +44,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/setting-Privacy.jpg)
 2. Select**Microphone** on the left panel, then click the**Change** button to see if the toggle is**On** in the pop-up menu. If it isn’t, change the toggle to On.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
 
@@ -56,10 +52,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2 – Check the audio settings
 
@@ -78,10 +70,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
  If this fix doesn’t give you the luck, try the next below to update your audio drives.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3 – Update your audio driver
 
@@ -106,10 +94,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4 – Reinstall the Corsair headset and iCUE software
 
  When you have problems using your microphone, you can try reinstalling your Corsair headset and the iCUE software. This will enable your computer to reload data from your Corsair headset and resolve the conflict between your PC and the iCUE software. Here’s how it’s done:
@@ -118,20 +102,12 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
 
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 5. Select**iCUE** and then click**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 6. Click**Yes** in the confirmation box.
@@ -142,10 +118,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
  If this method doesn’t work, then try the one below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5 – Use a USB audio card
 
@@ -202,19 +174,22 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>[New] 2024 Approved How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-capture-emotion-not-just-photos-iphone-images-through-leading-lines/"><u>[New] In 2024, Capture Emotion, Not Just Photos IPhone Images Through Leading Lines</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-high-quality-live-streaming-with-logitech-camera/"><u>[Updated] 2024 Approved A Comprehensive Guide to High-Quality Live Streaming with Logitech Camera</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-photo-text-edits-online-and-app-guide/"><u>[Updated] In 2024, Mastering Photo Text Edits Online & App Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-perfect-online-shopping-picks-for-one-of-a-kind-box-packaging/"><u>[Updated] Perfect Online Shopping Picks for One-of-a-Kind Box Packaging</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-ultimate-gear-guide-for-streaming-sensations/"><u>[Updated] Ultimate Gear Guide for Streaming Sensations</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/advanced-data-restoration-program-professional-software-solutions-for-every-kind-of-file/"><u>Advanced Data Restoration Program: Professional Software Solutions for Every Kind of File</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/celestial-data-refresh/"><u>Celestial Data Refresh</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/cosmic-backup-depot-starlight-restore-service/"><u>Cosmic Backup Depot - Starlight Restore Service</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/diskdynamo-swiftly-retrieving-raid-data/"><u>DiskDynamo: Swiftly Retrieving RAID Data</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/file-reclamation-software-for-windows-users/"><u>File Reclamation Software for Windows Users</u></a></li>
-<li><a href="https://win-updates.techidaily.com/premium-picture-selection-aesthetic-phone-themes-in-high-res-from-yl-software-gallery/"><u>Premium Picture Selection: Aesthetic Phone Themes in High-Res From YL Software Gallery</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/restore-files-using-windows-data-resurrector/"><u>Restore Files Using Windows Data Resurrector</u></a></li>
-<li><a href="https://win-online.techidaily.com/uitleggen-van-wav-files-een-geinspireerde-bespreking-van-het-wav-onderdeel-in-nederlandstalig/"><u>Uitleggen Van WAV Files: Een Geïnspireerde Bespreking Van Het .wav Onderdeel in Nederlandstalig</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-restoration-suite-seamless-recovery-for-diverse-file-formats/"><u>Comprehensive Data Restoration Suite - Seamless Recovery for Diverse File Formats</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/cosmicinfo-reconstruction/"><u>CosmicInfo Reconstruction</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-rescue-express-unlock-lost-information-today/"><u>Data Rescue Express - Unlock Lost Information Today</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/efficient-hardware-monitoring-kit/"><u>Efficient Hardware Monitoring Kit</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210966361-9781088236666-fuerza-para-recomenzar/"><u>Fuerza para Recomenzar | Free Book</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-6-plus-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 6 Plus with iTunes | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/instant-relief-for-lost-data-stellar-secure-solutions-await/"><u>Instant Relief for Lost Data - Stellar, Secure Solutions Await</u></a></li>
+<li><a href="https://extra-information.techidaily.com/macos-11-big-sur-a-complete-hardware-overview/"><u>MacOS 11 Big Sur A Complete Hardware Overview</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/meme-mastery-iphone-edition-for-2024/"><u>Meme Mastery IPhone Edition for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-with-celebrity-flair-how-to-integrate-master-chief-and-boy-george-into-waze-routes/"><u>Navigating with Celebrity Flair: How to Integrate Master Chief and Boy George Into Waze Routes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reunite-your-memories-with-datafinder-ai/"><u>Reunite Your Memories with DataFinder AI</u></a></li>
+<li><a href="https://win11.techidaily.com/revamp-the-windows-terminal-bg-and-theme/"><u>Revamp the Windows Terminal Bg & Theme</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/secure-and-swift-file-recovery-for-iphones/"><u>Secure & Swift File Recovery for iPhones</u></a></li>
+<li><a href="https://blog-min.techidaily.com/streaming-dvd-videos-on-chrome-a-complete-guide/"><u>Streaming DVD Videos on Chrome - A Complete Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-intricate-yet-straightforward-guide-exploring-popular-youtube-reactions-for-2024/"><u>The Intricate Yet Straightforward Guide Exploring Popular YouTube Reactions for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windows-stellar-data-recovery/"><u>Windows向けの有料なしデータ回復ソフト - Stellar Data Recovery(ステラデータリカバリー)</u></a></li>
 </ul></div>
 

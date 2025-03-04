@@ -1,7 +1,7 @@
 ---
 title: Damn Small Linux Installation for Outdated Desktops and Netbooks - A Complete Guide
-date: 2025-02-06T23:05:16.384Z
-updated: 2025-02-12T22:23:23.419Z
+date: 2025-02-26T20:12:51.807Z
+updated: 2025-03-03T16:35:24.963Z
 tags:
   - desktop
 categories:
@@ -14,10 +14,6 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/X2FPx6DXvcnTE32wDJ3Lj6-320-80.jpg
 In an interesting turn of events, the first device boasting the highest-end version of Qualcomm's Snapdragon X Elite chipset isn't even a laptop. It's a Mini PC in the form of an official Dev Kit, which undercuts ([or at least matches](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1069194734322795598%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) ) the price of even the lower-end Snapdragon X Plus laptops, and it's set for a full launch on August 23rd, though it's also already available for pre-order on[Arrow.com](https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm) for just $899 USD.
 
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
 
@@ -39,10 +35,6 @@ In an interesting turn of events, the first device boasting the highest-end vers
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -67,17 +59,18 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-unleash-your-potential-with-outstanding-android-time-lapse-videos/"><u>[New] Unleash Your Potential with Outstanding Android Time-Lapse Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-capture-and-save-video-images-on-windows-11/"><u>[Updated] Capture and Save Video Images on Windows 11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-make-a-youtube-trailer-by-filmora/"><u>2024 Approved How to Make a YouTube Trailer by Filmora</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/break-through-losses-shield-your-files-for-free/"><u>Break Through Losses - Shield Your Files for FREE</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-partition-fix-utility-extract-files-from-inaccessible-and-missing-volumes/"><u>Comprehensive Partition Fix Utility: Extract Files From Inaccessible & Missing Volumes</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/diskrescuemax-maximizing-raid-file-accessibility/"><u>DiskRescueMax: Maximizing RAID File Accessibility</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/easydata-revival-software-multiplatform-compatibility/"><u>EasyData Revival Software - Multiplatform Compatibility</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-motorola-moto-e13-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Motorola Moto E13 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/perfecting-picture-clarity-efficiently-eradicating-backgrounds/"><u>Perfecting Picture Clarity Efficiently Eradicating Backgrounds</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/revive-your-deleted-drives-elite-partition-recovery-solutions-explored/"><u>Revive Your Deleted Drives: Elite Partition Recovery Solutions Explored</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seeking-honesty-openais-tool-for-gpt-output-verification/"><u>Seeking Honesty: OpenAI's Tool for GPT Output Verification</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-connectivity-in-naraka-bladepoint-to-enhance-gaming-experience/"><u>Troubleshooting Connectivity in Naraka Bladepoint to Enhance Gaming Experience</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-video-prowess-comparison-the-battle-between-cameras/"><u>[Updated] 2024 Approved Video Prowess Comparison The Battle Between Cameras</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-audience-appreciation-assessment-self-and-seekers-vs-rival-repertoires/"><u>[Updated] In 2024, Audience Appreciation Assessment Self and Seekers Vs. Rival Repertoires</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600651185-windowsstellar-data-recovery/"><u>無料で安全なWindows用データ回復ツール：Stellar Data Recoveryの使い方</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-your-ideal-apple-laptop-a-comprehensive-guide-to-picking-between-the-macbook-air-and-macbook-pro/"><u>Choosing Your Ideal Apple Laptop: A Comprehensive Guide to Picking Between the MacBook Air and MacBook Pro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-dos-and-donts-the-essential-night-photography-checklist/"><u>In 2024, Do's & Don'ts The Essential Night Photography Checklist</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-quietude-creators-guide-methods-to-extract-silence-from-mp4-mkv-avi-mov-wmv-videos/"><u>In 2024, Quietude Creators Guide Methods to Extract Silence From MP4, MKV, AVI, MOV, WMV Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-understanding-why-your-shorts-thumbnails-dont-show-up/"><u>In 2024, Understanding Why Your Shorts' Thumbnails Don't Show Up</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/orbit-oasis-cosmic-file-restoration-hub/"><u>Orbit Oasis - Cosmic File Restoration Hub</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/orbitaldata-revival-hub/"><u>OrbitalData Revival Hub</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/resolving-connection-issues-how-to-fix-your-scanners-inability-to-connect-with-a-pc-expert-advice-from-yl-computing/"><u>Resolving Connection Issues: How to Fix Your Scanner's Inability to Connect with a PC - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/ultimate-backup-solutions-for-mac-users-missing-files/"><u>Ultimate Backup Solutions for Mac Users' Missing Files</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-the-mystery-of-disappearing-facetime-photos-where-are-they/"><u>Unveiling the Mystery of Disappearing FaceTime Photos – Where Are They?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/zoom-like-a-pro-top-video-gear-for-slow-motion-effects/"><u>Zoom Like a Pro Top Video Gear for Slow Motion Effects</u></a></li>
 </ul></div>
 

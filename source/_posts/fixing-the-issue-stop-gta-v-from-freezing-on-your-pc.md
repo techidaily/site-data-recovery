@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Stop GTA V From Freezing on Your PC"
-date: 2025-02-09T16:49:38.760Z
-updated: 2025-02-13T01:12:02.305Z
+date: 2025-02-26T01:38:18.520Z
+updated: 2025-03-04T06:00:42.718Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 
 [8: Increase your virtual memory](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Call of Duty: Vanguard System Requirements
 
 | **System requirements**  | **Minimum**                                                     | **Recommended**                              | **Competitive**                                             | **Ultra 4K**                                     |
@@ -64,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
 If this doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update the graphics driver
 
@@ -93,10 +85,6 @@ If this doesn’t solve your problem, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If you’re still experiencing the freezing issue after you updated the graphics driver, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Scan and repair your game files
 
@@ -125,15 +113,7 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -152,10 +132,6 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
@@ -184,16 +160,8 @@ If the freezing issue persists, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 6. Use the below formulas to calculate the values you should set:  
@@ -227,24 +195,18 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-engaging-viewers-and-vendors-a-guide-to-yt-sponsorships-for-2024/"><u>[New] Engaging Viewers and Vendors A Guide to YT Sponsorships for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-nextgen-tv-including-the-best-local-channels-online/"><u>[New] NextGen TV Including the Best Local Channels Online</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-setting-up-your-tiktok-broadcast-on-a-desktop-for-2024/"><u>[Updated] Setting Up Your TikTok Broadcast on a Desktop for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600367771-stellar-data-recovery-windows/"><u>完全復元! Stellar Data Recovery - 無料Windowsソフトで大切なデータを取り戻せる</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-detective-pro-your-financial-ally/"><u>Data Detective Pro – Your Financial Ally</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/explore-top-10-premium-free-iosandroid-live-video-platforms/"><u>Explore Top 10 Premium-Free iOS/Android Live Video Platforms</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/file-rejuvenation-toolkit-for-windows-os/"><u>File Rejuvenation Toolkit for Windows OS</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-y27-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo Y27 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-unlock-the-secrets-crafting-captivating-instagram-unboxing-videos/"><u>In 2024, Unlock the Secrets Crafting Captivating Instagram Unboxing Videos</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/lossless-restoration-software-android-edition/"><u>Lossless Restoration Software: Android Edition</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-step-by-step-eliminating-sound-from-modern-avi-format-avi-2023-for-2024/"><u>New Step-by-Step Eliminating Sound From Modern AVI Format (AVI 2023) for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/optimal-hard-drive-recovery-protocols/"><u>Optimal Hard Drive Recovery Protocols</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-intermittent-audio-with-these-tips-for-bluetooth-on-windows-1110/"><u>Overcome Intermittent Audio with These Tips for Bluetooth on Windows 11/10</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/pictureperfect-recovery-for-android/"><u>PicturePerfect Recovery for Android</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600612670-stellar-data-recovery-windows/"><u>Stellar Data Recovery: Windowsでのデータ復旧ソフトウェア - 本日より無料利用可能</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ultimate-guide-effortless-streaming-of-various-file-extensions/"><u>Ultimate Guide: Effortless Streaming of Various File Extensions</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-unlock-final-cut-pros-full-potential-90-day-free-trial/"><u>Updated Unlock Final Cut Pros Full Potential 90-Day Free Trial</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/windows-file-revival-toolkit/"><u>Windows File Revival Toolkit</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600663304-windowsstellar-data-recovery/"><u>Windows上で失われたデータを簡単に取り戻すStellar Data Recovery: 信頼性の高いフリーソフト</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-seamless-igtv-and-fb-sharing-guide/"><u>[New] 2024 Approved Seamless IGTV and FB Sharing Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unleashing-true-potential-in-speech-interpretation-through-google/"><u>[New] In 2024, Unleashing True Potential in Speech Interpretation Through Google</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimizing-video-quality-youtube-to-mpeg-conversion-strategies/"><u>[New] Optimizing Video Quality YouTube to MPEG Conversion Strategies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-enhance-youtube-creations-with-soundtrack-perfection-guide/"><u>[Updated] In 2024, Enhance YouTube Creations with Soundtrack Perfection Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-velvet-vaults-2022-olympic-skaters/"><u>[Updated] In 2024, Velvet Vaults 2022 Olympic Skaters</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/break-through-losses-shield-your-files-for-free/"><u>Break Through Losses - Shield Your Files for FREE</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-partition-fix-utility-extract-files-from-inaccessible-and-missing-volumes/"><u>Comprehensive Partition Fix Utility: Extract Files From Inaccessible & Missing Volumes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/conquer-joining-on-tiktok-with-confidence-and-flair-for-2024/"><u>Conquer Joining on TikTok with Confidence and Flair for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decoding-advanced-image-editing-the-role-of-luts-in-cs6/"><u>Decoding Advanced Image Editing The Role of LUTs in CS6</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/full-scale-digital-rescue-operations-advanced-recovery-software-for-any-data-type/"><u>Full-Scale Digital Rescue Operations: Advanced Recovery Software for Any Data Type</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/revive-your-deleted-drives-elite-partition-recovery-solutions-explored/"><u>Revive Your Deleted Drives: Elite Partition Recovery Solutions Explored</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-prime-day-savings-on-apple-products/"><u>Top Prime Day Savings on Apple Products</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-rationale-behind-more-robust-ai-governance-insights-from-openais-executive-appeal/"><u>Unveiling the Rationale Behind More Robust AI Governance: Insights From OpenAI’s Executive Appeal</u></a></li>
 </ul></div>
 

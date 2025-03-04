@@ -1,7 +1,7 @@
 ---
 title: "Battle of Giants: AMD's EPYC CPU Doubles Up Against NVIDIA’s ARM-Powered Grace in Multiple Performance Benchmarks"
-date: 2025-02-06T20:29:10.870Z
-updated: 2025-02-12T21:36:00.833Z
+date: 2025-02-26T22:13:55.853Z
+updated: 2025-03-03T23:03:58.585Z
 tags:
   - desktop
 categories:
@@ -31,10 +31,6 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -60,21 +56,22 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-revamp-chromebooks-soundscape-with-our-picks-for-web-extensions-for-2024/"><u>[Updated] Revamp Chromebook's Soundscape with Our Picks for Web Extensions for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/all-purpose-recovery-solution-software-fast-and-reliable-data-rescue-across-platforms/"><u>All-Purpose Recovery Solution Software – Fast and Reliable Data Rescue Across Platforms</u></a></li>
-<li><a href="https://blog-min.techidaily.com/converti-file-flac-a-wmv-online-gratuito-con-movavi/"><u>Converti File FLAC a WMV Online Gratuito Con Movavi</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/drivesavers-raid-suite-multiverse-support/"><u>DriveSavers RAID Suite: Multiverse Support</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722966205202-effortless-installation-of-microsoft-ergokey-4000-get-your-drivers-downloaded-in-no-time/"><u>Effortless Installation of Microsoft ErgoKey 4000 - Get Your Drivers Downloaded in No Time!</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/galaxyarchive-revival/"><u>GalaxyArchive Revival</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-make-win11s-canvas-come-alive-the-guide-to-creating-intriguing-ai-images-via-paint-tool-sai/"><u>How to Make Win11's Canvas Come Alive: The Guide to Creating Intriguing AI Images via Paint Tool SAI</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-f14-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy F14 5G Lock Screen Password?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-perfecting-onestream-broadcasts-essential-strategies-explored/"><u>In 2024, Perfecting OneStream Broadcasts Essential Strategies Explored</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-spectrum-sync-master/"><u>In 2024, Spectrum Sync Master</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-look-at-the-upcoming-google-pixel-tablet-preview-of-features-and-release-plans-announced/"><u>Inside Look at the Upcoming Google Pixel Tablet - Preview of Features and Release Plans Announced</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/multi-platform-data-recovery-program-seamless-extraction-of-diverse-data-types-with-advanced-technology/"><u>Multi-Platform Data Recovery Program: Seamless Extraction of Diverse Data Types with Advanced Technology</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/planetary-restoration-unit/"><u>Planetary Restoration Unit</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-nubia-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Nubia</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-data-recoverywindows/"><u>Stellar Data Recovery(ステラデータリカバリー)：Windowsユーザーのための優秀なフリーデータ回復ソリューション</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600703033-unshackle-hidden-files-no-money-down/"><u>Unshackle Hidden Files, No Money Down</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-6-video-translators-to-translate-video/"><u>2024 Approved Best 6 Video Translators to Translate Video</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/bug-free-gaming-how-from-the-ashes-of-remnant-now-stays-steady-on-launch/"><u>Bug-Free Gaming: How 'From the Ashes of Remnant' Now Stays Steady on Launch</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1722997950531-cod-black-ops-cold-war-wont-boot-here-are-the-solutions-for-pc-players/"><u>COD: Black Ops Cold War Won't Boot? Here Are The Solutions for PC Players!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/destiny-2s-centipede-problem-solutions-for-a-smooth-gaming-experience/"><u>Destiny 2'S Centipede Problem: Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/discover-advanced-karaoke-control-with-pcdjs-new-feature-in-dex-software-version-31101/"><u>Discover Advanced Karaoke Control with PCDJ's New Feature in DEX Software (Version 3.11.0.1)</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/does-interacting-with-chatgpt-pose-any-cybersecurity-dangers/"><u>Does Interacting with ChatGPT Pose Any Cybersecurity Dangers?</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/fixing-the-issue-stop-gta-v-from-freezing-on-your-pc/"><u>Fixing the Issue: Stop GTA V From Freezing on Your PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-13-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 13</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-c53-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme C53 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/perfect-past-moments-on-fb-a-look-back-edition/"><u>Perfect Past Moments on FB A Look Back Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-way-to-keep-your-system-chilled-an-in-depth-look-at-the-havit-5-laptop-cooling-pad/"><u>The Best Way to Keep Your System Chilled: An In-Depth Look at the HAVIT #5 Laptop Cooling Pad</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/the-core-underlying-processes-in-predictive-ai/"><u>The Core Underlying Processes in Predictive AI</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-fix-your-unresponsive-facetime-connection-with-these-simple-6-steps/"><u>The Ultimate Guide: Fix Your Unresponsive FaceTime Connection with These Simple 6 Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-the-ideal-lenovo-laptop-deal-at-50-off-this-octobers-amazon-prime-day-insider-tips-from-tech-experts/"><u>Top Pick: The Ideal Lenovo Laptop Deal at 50% Off This October's Amazon Prime Day - Insider Tips From Tech Experts</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/troubleshooting-guide-how-to-speed-up-the-2022-spotify-web-player-performance-issues/"><u>Troubleshooting Guide: How to Speed Up the 2022 Spotify Web Player Performance Issues</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/ultimate-guide-resolving-thaumaturge-game-crashes-on-your-pc/"><u>Ultimate Guide: Resolving Thaumaturge Game Crashes on Your PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-digital-pen-driver-safe-and-free-windows-edition/"><u>Wacom Digital Pen Driver - Safe & FREE Windows Edition</u></a></li>
 </ul></div>
 

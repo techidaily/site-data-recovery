@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Phasmophobia Issues - Latest Fixes for Gamers
-date: 2025-02-10T09:26:40.744Z
-updated: 2025-02-12T17:54:18.130Z
+date: 2025-02-28T04:00:38.434Z
+updated: 2025-03-03T17:21:19.810Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ _Diablo 3_ constantly crashes on your computer? You’re not alone! Many players
 7. [**Delete the game cache files**](https://tools.techidaily.com/drivereasy/download/)
 8. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game and/or the Blizzard Battle.net app](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: **Update your graphics driver**
 
@@ -75,10 +71,6 @@ There are two ways you can get the latest correct graphics driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Restart your computer
 
  Some programs on your computer might conflict with_Diablo 3_ or the Blizzard Battle.net app, causing your game to crash frequently. Try performing a reboot on your PC to end unwanted programs completely, then relaunch your game.
@@ -107,10 +99,6 @@ If your game crashes again, go ahead with the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Repair your game files
 
  The_Diablo 3_ crashing is sometimes caused by damaged or missing game files. Try verifying the integrity of your game files to see if that fixes your issue. Here is how to do it:
@@ -128,10 +116,6 @@ If your game crashes again, go ahead with the fix below.
  Wait for the scans to be complete, then relaunch _Diablo 3_ to test your issue. If your game crashes again, read on and try the fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Install the latest patch
 
@@ -160,10 +144,6 @@ If your game crashes again, go ahead with the fix below.
 **3)**  Click the **Game Settings tab** \>**Reset in-Game Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-514.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Click **Reset** .
 
@@ -203,10 +183,6 @@ If your game crashes again, go ahead with the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 8: Run your game in compatibility mode
 
  Some Windows updates may not be compatible with_Diablo 3_ , keeping it from functioning properly. Try running your game in compatibility mode to see if it fixes your issue. Here is how to do it:
@@ -222,10 +198,6 @@ If your game crashes again, go ahead with the fix below.
 **3)**  Click the list box below to select **Windows 8** , then click **Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-511.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
@@ -250,17 +222,9 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-508.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click **Yes, Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-513.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Restart the Blizzard Battle.net app to download and install _Diablo 3_ .
 
@@ -279,10 +243,6 @@ If your game crashes again, go ahead with the fix below.
 **3)** Click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-444.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Right-click the**Battle.net app** , then click **Uninstall/Change** .
 
@@ -316,22 +276,22 @@ If your game crashes again, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-adventure-essentials-ultimate-guide-to-1-10-gopro-protectors/"><u>[Updated] Adventure Essentials - Ultimate Guide to #1-10 GoPro Protectors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-the-ultimate-guide-to-gaming-with-kinemaster-app/"><u>2024 Approved From Novice to Pro The Ultimate Guide to Gaming with KineMaster App</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600637293-stellar-data-recovery-windows/"><u>無料のStellar Data Recovery: Windows用データを完全に復元できる</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-recovery-technician-software-recovers-all-types-of-data/"><u>Data Recovery Technician Software – Recovers All Types of Data</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-revival-suite-by-windows-experts/"><u>Data Revival Suite by Windows Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-powertoys-configuration-replication/"><u>Effortless PowerToys Configuration Replication</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/expert-data-retrieval-suite-securely-rewind-lost-information-across-formats/"><u>Expert Data Retrieval Suite - Securely Rewind Lost Information Across Formats</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Poco X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/how-to-reconstruct-erased-drive-sections-with-advanced-partition-restoration-apps/"><u>How to Reconstruct Erased Drive Sections with Advanced Partition Restoration Apps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-comprehensive-strategies-for-overwatch-gaming-saves/"><u>In 2024, Comprehensive Strategies for Overwatch Gaming Saves</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/lostdata-finder-androids-savior/"><u>LostData Finder: Android's Savior</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-ultimate-vr-bargain-this-october-exclusive-offer-on-metas-premium-512gb-quest-headset/"><u>Snag the Ultimate VR Bargain This October - Exclusive Offer on Meta's Premium 512GB Quest Headset!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-role-of-b2b-relationships-in-informed-market-decisions-for-2024/"><u>The Role of B2B Relationships in Informed Market Decisions for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-6-migliori-programmi-di-intelligenza-artificiale-per-il-ridimensionamento-video/"><u>Top 6 Migliori Programmi Di Intelligenza Artificiale per Il Ridimensionamento Video</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600732140-windowsstellar-data-recovery/"><u>Windows用で最新の無料ダウンロード復旧プログラム「Stellar Data Recovery」</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600601140-windows/"><u>ステラデータリカバリー・無料版 - Windows互換データ再生成プログラム</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-image-integrity-keeping-quality-high-during-iphone-crops/"><u>[Updated] 2024 Approved Image Integrity Keeping Quality High During iPhone Crops</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-meme-magic-online/"><u>[Updated] 2024 Approved Meme Magic Online</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-ultimate-blueprint-for-captivating-and-professional-looking-live-video-thumbnails/"><u>[Updated] 2024 Approved The Ultimate Blueprint for Captivating and Professional-Looking Live Video Thumbnails</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/a-critique-of-dogmatism/"><u>A Critique of Dogmatism</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-15-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 15 Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-s24-ultra-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy S24 Ultra Easily?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leveraging-xbox-ones-zoom-features-effectively-for-2024/"><u>Leveraging Xbox One's Zoom Features Effectively for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/optimize-video-meetings-with-top-tier-10-free-recording-tools-for-2024/"><u>Optimize Video Meetings with Top-Tier 10 Free Recording Tools for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/precious-documents-rediscovered-gratis/"><u>Precious Documents Rediscovered - Gratis</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/raidrise-software-pioneering-data-resurrection/"><u>RaidRise Software: Pioneering Data Resurrection</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/rediscover-hidden-files-forgotten-memories-mac-edition/"><u>Rediscover Hidden Files, Forgotten Memories (Mac Edition)</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reliable-file-reconstruction-app/"><u>Reliable File Reconstruction App</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-steam-errors-getting-helldivers-2-up-and-running-again/"><u>Resolving Steam Errors: Getting Helldivers 2 Up and Running Again</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/starsaver-services/"><u>StarSaver Services</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600609120-stellar-windows/"><u>Stellar データリカバリー: Windows用で最適、無料データ復元ツール</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/total-information-salvage-toolkit-powerful-and-versatile-data-recovery-application/"><u>Total Information Salvage Toolkit: Powerful and Versatile Data Recovery Application</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/triple-os-file-finder-and-restoration-utility/"><u>Triple OS File Finder & Restoration Utility</u></a></li>
 </ul></div>
 

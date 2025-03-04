@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Thaumaturge Game Crashes on Your PC"
-date: 2025-02-05T17:38:25.835Z
-updated: 2025-02-12T22:58:48.739Z
+date: 2025-03-02T04:25:20.632Z
+updated: 2025-03-04T00:28:33.185Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 
 If you encounter Oculus Link black screen / not working when you’re launching a VR game or during the gameplay, you’re not alone. Many players reported the same issue and have been struggling to find solutions. So we’ve put together 6 simple & quick fixes here. Try them to get your Oculus Link working again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You may not try them all; just work your way down the list until you find the one that does the trick.
@@ -33,10 +29,6 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 6. **[Use the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
  Before you attempt the following fixes, please make sure your PC meets the[minimum requirements for Oculus Link](https://support.oculus.com/444256562873335) . Otherwise, you’ll need to upgrade the hardware component before you can use the app normally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1 – Repair system files
 
@@ -51,10 +43,6 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -82,10 +70,6 @@ There are mainly two ways you can update the driver:
 
  Relaunch Oculus Link to test. If the problem persists, have a look at more fixes below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 – Adjust the resolution
 
  If your Oculus Link keeps displaying a black screen, it’s possible that the high resolution is too demanding to your rig, and in this case, you should try lowering the settings.
@@ -96,10 +80,6 @@ There are mainly two ways you can update the driver:
 4. Lower the**Encode Resolution Width** or you can set the value according to[Oculus’s recommendations](https://forums.oculusvr.com/community/discussion/83561/oculus-link-resolution-with-v12) . (Quite a few users fix the issue by setting the Encode Resolution Width to 2784.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/resolution-settings.jpg)
 5. Restart your PC for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Reboot your Oculus headset and plug it back to the PC.
 
@@ -133,10 +113,6 @@ It’s suggested you opt out of the Beta mode and here’s how:
 
  Test if Oculus Link returns to the normal state. If not, continue to the next troubleshooting tips.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6 – Use the dedicated graphics card
 
  You’ll need to plug your Oculus headset into the dedicated graphics card or else the black screen occurs. If the connection is correct and you still have trouble using Oculus Link, follow the steps below to configure the NVIDIA settings.
@@ -147,10 +123,6 @@ It’s suggested you opt out of the Beta mode and here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4.jpg)
 3. Go to the**Program Settings** tab. Then, select your Oculus app from the drop-down list and choose**High-performance NVIDIA processor** below.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-5.jpg)
 
@@ -180,22 +152,22 @@ Restart Oculus Link and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-mastering-visual-identity-top-6-sources-for-youtube-icons-and-logos/"><u>[New] 2024 Approved Mastering Visual Identity Top 6 Sources for YouTube Icons & Logos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-comprehensive-blueprint-to-powerdirectors-full-potential/"><u>[New] 2024 Approved The Comprehensive Blueprint to PowerDirector's Full Potential</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-convert-spoken-words-into-written-content-using-ms-words-in-built-tools/"><u>[New] Convert Spoken Words Into Written Content Using MS Word's In-Built Tools</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-smart-office-design-a-key-to-unlocking-employee-efficiency/"><u>[New] In 2024, Smart Office Design A Key to Unlocking Employee Efficiency</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ey-online-archives-of-free-motion-graphics/"><u>[New] Key Online Archives of Free Motion Graphics</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-monthly-income-prospects-for-youtube-creators-for-2024/"><u>[Updated] Monthly Income Prospects for YouTube Creators for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comet-conveyance-corner-cosmic-data-rescue-hub/"><u>Comet Conveyance Corner - Cosmic Data Rescue Hub</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-solutions-for-addressing-full-disk-capacity-in-windows-10-systems/"><u>Comprehensive Solutions for Addressing Full-Disk Capacity in Windows 10 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ev-performance-under-duress-navigating-extremely-hot-and-cold-temperatures/"><u>EV Performance Under Duress: Navigating Extremely Hot and Cold Temperatures</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/iphone-data-salvage-ensure-safety-and-restore-files/"><u>IPhone Data Salvage: Ensure Safety and Restore Files</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/partition-recovery-software-restores-deleted-and-inaccessible-partition/"><u>Partition Recovery Software Restores Deleted and Inaccessible Partition</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/phonedatamender-for-missing-files/"><u>PhoneDataMender for Missing Files</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-msvcr100dll-file-absence-issues-step-by-step-guide/"><u>Resolving 'MSVCR100.dll' File Absence Issues - Step-by-Step Guide</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-data-recovery-lab-services/"><u>Stellar® Data Recovery Lab-Services</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/swift-recovery-software-for-your-iphones-memory/"><u>Swift Recovery Software for Your iPhone's Memory</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unseen-memories-reunited-mac-data-recovery-extraordinaire/"><u>Unseen Memories Reunited: Mac Data Recovery Extraordinaire</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600730174-windows-stellar-data-recovery/"><u>Windows 互換性のある無料データ回復ツール: Stellar Data Recovery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-no-complications-approach-switching-up-flipper-voices-in-windows-domain/"><u>[New] No-Complications Approach Switching Up Flipper Voices in Windows Domain</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-unveiling-aspect-ratios-your-pathway-to-youtube-excellence/"><u>2024 Approved Unveiling Aspect Ratios Your Pathway to YouTube Excellence</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782280-9781594775291-a-spirituality-named-compassion/"><u>A Spirituality Named Compassion | Free Book</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/discover-the-latest-in-pc-and-hardware-with-toms-technology-insights/"><u>Discover the Latest in PC & Hardware with Tom's Technology Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/efficient-launch-navigating-video-talks-in-instagram-for-2024/"><u>Efficient Launch Navigating Video Talks in Instagram for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/explore-the-latest-in-computing-discover-whats-new-at-toms-hardware/"><u>Explore the Latest in Computing: Discover What's New at Tom's Hardware!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/exploring-toms-tech-insights-and-hardware-evaluations/"><u>Exploring Tom's Tech Insights and Hardware Evaluations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-audience-take-movaviscreenvisions-new-release/"><u>In 2024, Audience Take MovaviScreenVision's New Release</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/kabellose-transferierung-von-daten-wie-startet-man-den-vorgang-auf-einer-samsung-solid-state-drive/"><u>Kabellose Transferierung Von Daten: Wie Startet Man Den Vorgang Auf Einer Samsung Solid State Drive?</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/scoop-the-finest-offers-on-pcs-and-laptops/"><u>Scoop the Finest Offers on PCs & Laptops</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/step-1-step-2-and-step-3-to-video-chatting-on-snapchat-now-for-2024/"><u>Step 1, Step 2, and Step 3 to Video Chatting on Snapchat Now for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/toms-computing-review-in-depth-analysis-of-tech-gear/"><u>Tom's Computing Review - In Depth Analysis of Tech Gear</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/toms-tech-review-expert-insights-on-latest-gadgets-and-pc-components/"><u>Tom's Tech Review: Expert Insights on Latest Gadgets and PC Components</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unveiling-the-best-in-technology-toms-hardware-critiques/"><u>Unveiling the Best in Technology: Tom's Hardware Critiques</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unveiling-the-latest-in-pc-gear-with-toms-hardware-expertise/"><u>Unveiling the Latest in PC Gear with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-tech-experts-are-praising-the-apple-ipad-pro-2018-as-the-ultimate-choice-in-11-inch-tablets/"><u>Why Tech Experts Are Praising the Apple iPad Pro (2018) as the Ultimate Choice in 11-Inch Tablets</u></a></li>
 </ul></div>
 

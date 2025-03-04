@@ -1,7 +1,7 @@
 ---
 title: "China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025"
-date: 2025-02-09T07:05:25.875Z
-updated: 2025-02-13T05:37:08.964Z
+date: 2025-02-25T08:06:42.477Z
+updated: 2025-03-04T06:45:36.123Z
 tags:
   - desktop
 categories:
@@ -41,10 +41,6 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -68,17 +64,22 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-quick-guide-downloading-and-setting-up-vrecord-for-2024/"><u>[New] Quick Guide Downloading & Setting Up VRecord for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-quick-fix-efficient-use-of-the-eraser-in-psx-for-2024/"><u>[Updated] The Quick Fix Efficient Use of the Eraser in PSX for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlock-youtube-potential-with-top-igtv-editors-for-2024/"><u>[Updated] Unlock YouTube Potential with Top IGTV Editors for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-paving-the-way-for-individuality-in-the-digital-age-your-youtube-journey/"><u>2024 Approved Paving the Way for Individuality in the Digital Age Your YouTube Journey</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/arrayasylum-sanctuary-for-scrambled-raids/"><u>ArrayAsylum: Sanctuary for Scrambled RAIDs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/chip-vonburg-ascends-as-new-leader-in-strategic-customer-success-at-abbyy/"><u>Chip vonBurg Ascends as New Leader in Strategic Customer Success at ABBYY</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/efficient-partition-rescue-apps-retrieve-accidentally-deleted-sections-of-your-hard-drive/"><u>Efficient Partition Rescue Apps: Retrieve Accidentally Deleted Sections of Your Hard Drive</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-bard-ai-enhancements-revealed-at-google-io-2023-the-top-7-innovations-you-cant-miss/"><u>Explore Bard AI Enhancements Revealed at Google I/O 2023 - The Top 7 Innovations You Can't Miss</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/multi-format-expert-data-retrieval-application-designed-to-resurrect-any-lost-digital-files/"><u>Multi-Format Expert Data Retrieval Application – Designed to Resurrect Any Lost Digital Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-ftdi-driver-conflicts-restoring-memory-checks-and-data-safety/"><u>Resolving FTDI Driver Conflicts: Restoring Memory Checks and Data Safety</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/simplifying-video-preservation-with-3-key-practices/"><u>Simplifying Video Preservation with 3 Key Practices</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-data-recovery-data-recovery-software-free-download/"><u>Stellar Data Recovery: Data Recovery Software Free Download</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-essential-steps-to-create-youtube-beginnings-and-ends-on-a-budget/"><u>[Updated] 2024 Approved Essential Steps to Create YouTube Beginnings & Ends on a Budget</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagrams-visual-spectacle-becoming-a-reel-wizard-for-2024/"><u>[Updated] Instagram's Visual Spectacle Becoming a Reel Wizard for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/android-data-recovery-software-to-recover-lost-photos-videos/"><u>Android Data Recovery Software to Recover Lost Photos, Videos ...</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/digital-photo-restorer-android-edition/"><u>Digital Photo Restorer: Android Edition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ngs-expansion-on-glamour-channels-for-2024/"><u>Earnings Expansion on Glamour Channels for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-software-recommendations-to-restore-accidentally-erased-disk-partitions/"><u>Expert Software Recommendations to Restore Accidentally Erased Disk Partitions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-dev-error-5573-in-warzone-pc-and-console/"><u>How to Fix Dev Error 5573 in Warzone – PC & Console</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-navigating-the-world-of-gopro-timelapses-efficiently/"><u>In 2024, Navigating the World of GoPro Timelapses Efficiently</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-y77t-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo Y77t Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/micro-business-video-advertising-insights/"><u>Micro-Business Video Advertising Insights</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/missing-memories-return-in-a-flash-with-our-recovery-service/"><u>Missing Memories Return in a Flash with Our Recovery Service</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/regain-access-to-missing-files-at-zero-cost/"><u>Regain Access to Missing Files at Zero Cost</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/retrieving-shadows-your-mac-data-restoration-companion/"><u>Retrieving Shadows: Your Mac Data Restoration Companion</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/syncos-files-rescue-windows-mac-linux-version/"><u>SyncOS Files Rescue - Windows, Mac, Linux Version</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600619111-windows-stellar-data-recovery/"><u>Windows版無料データ復元ソフト - Stellar Data Recovery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725284646833-winxdvd-dvd/"><u>WinXDVD官方網站 - 高效DVD編解碼工具、影片轉檔軟體及移動設備支援</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Future of Music Programming: Musicians Can Now Own a MicroPython Tulip Computer for Under $60"
-date: 2025-02-06T21:51:59.413Z
-updated: 2025-02-12T16:02:08.177Z
+date: 2025-02-27T02:31:35.466Z
+updated: 2025-03-04T09:15:34.890Z
 tags:
   - desktop
 categories:
@@ -49,10 +49,6 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -76,24 +72,22 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/audio-transformation-for-tiktok-posts-explained-for-2024/"><u>Audio Transformation for TikTok Posts Explained for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600668019-bring-back-your-files-faster-than-ever-with-us/"><u>Bring Back Your Files Faster than Ever with Us</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/converting-photographic-moments-into-cinematic-vignettes/"><u>Converting Photographic Moments Into Cinematic Vignettes</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-rejuvenation-software-for-windows/"><u>Data Rejuvenation Software for Windows</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/digital-memory-reawakened-macs-deletion-undoer/"><u>Digital Memory Reawakened: Mac's Deletion Undoer</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/drivehealer-reconstructing-lost-raid-data/"><u>DriveHealer: Reconstructing Lost RAID Data</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-to-rectify-missing-windows-component/"><u>Essential Steps to Rectify Missing Windows Component</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/experience-the-virtual-reality-frontier-on-youtube/"><u>Experience the Virtual Reality Frontier on Youtube</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/expert-audio-enhancement-toolkit-for-2024/"><u>Expert Audio Enhancement Toolkit for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-ensure-the-best-live-experience-with-top-networks/"><u>How to Ensure the Best Live Experience with Top Networks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-silent-symphonies-tranquil-audio-transitioning-tools/"><u>In 2024, Silent Symphonies Tranquil Audio Transitioning Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-guide-to-vertical-video-editing-on-ios-and-android/"><u>New 2024 Approved The Ultimate Guide to Vertical Video Editing on iOS and Android</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/nostalgia-and-value-why-its-worth-holding-onto-your-classic-gaming-consoles/"><u>Nostalgia and Value: Why It's Worth Holding Onto Your Classic Gaming Consoles</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/photorestore-master-android-version/"><u>PhotoRestore Master: Android Version</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/professional-data-recovery-software-recover-clone-and-monitor-hard-drive/"><u>Professional Data Recovery Software – Recover, Clone & Monitor Hard Drive</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reliable-partition-repair-tools-bring-back-lost-and-corrupted-drives/"><u>Reliable Partition Repair Tools: Bring Back Lost & Corrupted Drives</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-turtle-beach-recon-eby-fixing-a-non-functional-mic/"><u>Reviving Your Turtle Beach Recon Eby Fixing a Non-Functional Mic</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/win-recover-master-lost-data-retrieval/"><u>WIN-RECOVER: Master Lost Data Retrieval</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/windowsstellar-data-recovery/"><u>Windows上で使えるStellar Data Recovery - 安心してフリーダウンロード可能なデータ修復ツール</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-from-novice-to-experienced-6-strategies-for-quick-verification-on-instagram/"><u>[New] 2024 Approved From Novice to Experienced 6 Strategies for Quick Verification on Instagram</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/advanced-data-rescue-program-a-multiformat-retrieval-toolkit-by-professionals/"><u>Advanced Data Rescue Program: A Multiformat Retrieval Toolkit by Professionals</u></a></li>
+<li><a href="https://article-helps.techidaily.com/behind-the-scenes-with-viral-image-memes-and-stories-for-2024/"><u>Behind the Scenes with Viral Image Memes & Stories for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-rescued-time-is-money-optimize-recovery-rate/"><u>Data Rescued, Time Is Money! Optimize Recovery Rate</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-apple-iphone-se-2020-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From Apple iPhone SE (2020) - 4 Easy Ways</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/latest-enhancements-in-ocr-technology-insights-from-the-abbyy-experts/"><u>Latest Enhancements in OCR Technology: Insights From the ABBYY Experts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-stable-sound-expert-tips-on-resolving-discord-cut-outs-updated/"><u>Mastering Stable Sound: Expert Tips on Resolving Discord Cut-Outs - Updated</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/nebulanet-recovery/"><u>NebulaNet Recovery</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/next-gen-cross-format-data-retrieval-solution-state-of-the-art-software-for-restoring-all-kinds-of-lost-digital-information/"><u>Next-Gen Cross-Format Data Retrieval Solution: State-of-the-Art Software for Restoring All Kinds of Lost Digital Information</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/omnirecovery-software-windows-mac-and-linux-support/"><u>OmniRecovery Software – Windows, Mac & Linux Support</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/precisionstar-restoration/"><u>PrecisionStar Restoration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-process-transforming-multiple-wav-recordings-into-aac-on-your-pc/"><u>Step-by-Step Process: Transforming Multiple WAV Recordings Into AAC on Your PC</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-data-recuperation-program-brings-back-all-your-valuable-files/"><u>Universal Data Recuperation Program – Brings Back All Your Valuable Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-files-rescue-suite-windowsmaclinux-edition/"><u>Universal Files Rescue Suite – Windows/Mac/Linux Edition</u></a></li>
 </ul></div>
 
